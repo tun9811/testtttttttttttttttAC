@@ -487,7 +487,7 @@ Tabs.AutoFarm:AddToggle("Auto Farm", {
         StopTween(getgenv().Config["Auto Farm"])
     end
 })
-local pos = CFrame.new(0, 0, 3)
+local pos = CFrame.new(0, 0, 1)
 spawn(function()
     while wait() do
         if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "LongIn" then
