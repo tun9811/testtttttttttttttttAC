@@ -2624,7 +2624,7 @@ spawn(function()
                 for i, v in pairs(game.workspace.__Main.__Enemies.Client:GetChildren()) do
                     if v:IsA("Model") and v:FindFirstChild("HealthBar") then
                         if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 9999999 then
-                            if v.HealthBar.Enabled == true or v.HealthBar.Enabled == false then
+                            if v.HealthBar.Enabled == true then
                                 repeat
                                     wait()
                                     TP(v.HumanoidRootPart.CFrame * pos)
